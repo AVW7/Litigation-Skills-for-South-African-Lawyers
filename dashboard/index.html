@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Litigation Skills Digital Vault & Dashboard</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- CDN Dependencies -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+
+  <link rel="stylesheet" href="./src/style.css">
+</head>
+<body class="dark-theme">
+  <!-- Glowing Background Blobs -->
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+
+  <!-- App Wrapper -->
+  <div class="app-container">
+    
+    <!-- Sidebar -->
+    <aside class="app-sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <i data-lucide="scale"></i>
+          <span>Litigation Skills</span>
+        </div>
+        <button class="icon-btn close-sidebar-btn" id="closeSidebar" aria-label="Close Sidebar">
+          <i data-lucide="chevron-left"></i>
+        </button>
+      </div>
+
+      <div class="sidebar-search">
+        <button class="search-trigger" id="spotlightTrigger">
+          <i data-lucide="search"></i>
+          <span>Search (Cmd + K)</span>
+        </button>
+      </div>
+
+      <nav class="sidebar-nav">
+        <div class="nav-section">
+          <div class="nav-section-title">Navigation</div>
+          <a href="#" class="nav-link active" data-view="dashboard">
+            <i data-lucide="layout-dashboard"></i>
+            <span>Dashboard</span>
+          </a>
+        </div>
+
+        <div class="nav-section">
+          <div class="nav-section-title">Bases (Databases)</div>
+          <a href="#" class="nav-link" data-view="base" data-base="Pages.base">
+            <i data-lucide="database"></i>
+            <span>Pages Database</span>
+          </a>
+          <a href="#" class="nav-link" data-view="base" data-base="Chapters.base">
+            <i data-lucide="folder-kanban"></i>
+            <span>Chapters Index</span>
+          </a>
+          <a href="#" class="nav-link" data-view="base" data-base="Rules.base">
+            <i data-lucide="shield-alert"></i>
+            <span>Etiquette Rules</span>
+          </a>
+        </div>
+
+        <div class="nav-section">
+          <div class="nav-section-title">Chapters</div>
+          <div class="chapters-list-container" id="sidebarChaptersList">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="user-profile">
+          <div class="avatar"><i data-lucide="user"></i></div>
+          <div class="user-info">
+            <span class="user-name">SA Litigator</span>
+            <span class="user-role">Pupil Counsel</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="app-main">
+      
+      <!-- Top Navigation Bar -->
+      <header class="app-header">
+        <div class="header-left">
+          <button class="icon-btn toggle-sidebar-btn" id="openSidebar" aria-label="Open Sidebar">
+            <i data-lucide="menu"></i>
+          </button>
+          <div class="breadcrumbs" id="breadcrumbs">
+            <span class="breadcrumb-item">Dashboard</span>
+          </div>
+        </div>
+        <div class="header-right">
+          <button class="hud-btn" id="hudSearchBtn" title="Search Everything">
+            <i data-lucide="search"></i>
+          </button>
+          <button class="hud-btn" id="themeToggleBtn" title="Toggle Theme">
+            <i data-lucide="sun"></i>
+          </button>
+        </div>
+      </header>
+
+      <!-- Scrollable Inner Window -->
+      <div class="content-viewport" id="contentViewport">
+        
+        <!-- View: Dashboard Home -->
+        <section class="view-panel active" id="view-dashboard">
+          <div class="dashboard-hero">
+            <div class="hero-content">
+              <h1>Litigation Skills Vault</h1>
+              <p>An interactive, highly indexed digital system for South African trial lawyers. Restructured from Chris Marnewick SC's litigation manual.</p>
+              <div class="hero-actions">
+                <button class="btn btn-primary" id="startReadingBtn">
+                  <i data-lucide="book-open"></i> Start Reading
+                </button>
+                <button class="btn btn-secondary" id="rulesQuickBtn">
+                  <i data-lucide="scale"></i> Etiquette Rules
+                </button>
+              </div>
+            </div>
+            <div class="hero-stats">
+              <div class="stat-card">
+                <span class="stat-number">319</span>
+                <span class="stat-label">Indexed Pages</span>
+              </div>
+              <div class="stat-card">
+                <span class="stat-number">25</span>
+                <span class="stat-label">Chapters</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-grid">
+            
+            <!-- Widget: Rule of the Day -->
+            <div class="dash-card glass card-large" id="ruleOfDayCard">
+              <div class="card-header">
+                <h3><i data-lucide="sparkles"></i> Courtroom Protocol & Etiquette</h3>
+                <button class="icon-btn" id="nextRuleBtn" title="Next Protocol Rule">
+                  <i data-lucide="refresh-cw"></i>
+                </button>
+              </div>
+              <div class="card-body">
+                <div class="etiquette-display" id="etiquetteDisplay">
+                  <h4 class="etiquette-title">Modes of Address</h4>
+                  <div class="etiquette-category">Courtroom Protocol & Etiquette</div>
+                  <p class="etiquette-text">Loading rule...</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Widget: Chapters Quick Navigation -->
+            <div class="dash-card glass card-medium">
+              <div class="card-header">
+                <h3><i data-lucide="bookmark"></i> Core Trial Phases</h3>
+              </div>
+              <div class="card-body">
+                <div class="quick-nav-links">
+                  <a href="#" class="quick-nav-item" data-page="3">
+                    <span class="num">01</span>
+                    <span class="label">Client Interviewing</span>
+                  </a>
+                  <a href="#" class="quick-nav-item" data-page="47">
+                    <span class="num">05</span>
+                    <span class="label">Drafting Pleadings</span>
+                  </a>
+                  <a href="#" class="quick-nav-item" data-page="92">
+                    <span class="num">11</span>
+                    <span class="label">Advice on Evidence</span>
+                  </a>
+                  <a href="#" class="quick-nav-item" data-page="126">
+                    <span class="num">15</span>
+                    <span class="label">Courtroom Etiquette</span>
+                  </a>
+                  <a href="#" class="quick-nav-item" data-page="136">
+                    <span class="num">17</span>
+                    <span class="label">Examination-in-Chief</span>
+                  </a>
+                  <a href="#" class="quick-nav-item" data-page="145">
+                    <span class="num">18</span>
+                    <span class="label">Cross-Examination</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Widget: Databases & Indices -->
+            <div class="dash-card glass card-medium">
+              <div class="card-header">
+                <h3><i data-lucide="database"></i> Interactive Indexes</h3>
+              </div>
+              <div class="card-body">
+                <div class="base-links-grid">
+                  <button class="base-link-card" data-base="Pages.base">
+                    <div class="icon-wrap color-blue"><i data-lucide="database"></i></div>
+                    <span class="title">Pages Database</span>
+                    <span class="desc">Filter, search & list book pages</span>
+                  </button>
+                  <button class="base-link-card" data-base="Chapters.base">
+                    <div class="icon-wrap color-purple"><i data-lucide="folder-kanban"></i></div>
+                    <span class="title">Chapters Index</span>
+                    <span class="desc">Grouped table of contents</span>
+                  </button>
+                  <button class="base-link-card" data-base="Rules.base">
+                    <div class="icon-wrap color-red"><i data-lucide="shield-alert"></i></div>
+                    <span class="title">Etiquette rules</span>
+                    <span class="desc">Checklist cards for SA lawyers</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+        <!-- View: Note Reader -->
+        <section class="view-panel" id="view-note">
+          <div class="note-reader-layout">
+            <div class="note-content-pane glass">
+              <!-- Page navigation floating bar -->
+              <div class="note-top-bar">
+                <div class="page-indicators">
+                  <span class="badge badge-primary" id="pdfPageBadge">PDF Page --</span>
+                  <span class="badge badge-secondary" id="printedPageBadge">Printed Page --</span>
+                </div>
+                <div class="note-nav">
+                  <button class="btn btn-icon-only" id="prevPageBtn" title="Previous Page">
+                    <i data-lucide="chevron-left"></i>
+                  </button>
+                  <span class="note-nav-text" id="navPageText">Page -- of 319</span>
+                  <button class="btn btn-icon-only" id="nextPageBtn" title="Next Page">
+                    <i data-lucide="chevron-right"></i>
+                  </button>
+                </div>
+              </div>
+              
+              <!-- Markdown note output -->
+              <div class="markdown-body" id="noteMarkdownBody">
+                <!-- Rendered markdown goes here -->
+              </div>
+            </div>
+            
+            <!-- Note Metadata Side Panel -->
+            <div class="note-meta-pane glass">
+              <h3>Note Properties</h3>
+              <div class="meta-list">
+                <div class="meta-item">
+                  <span class="label">Chapter</span>
+                  <span class="value" id="metaChapter">--</span>
+                </div>
+                <div class="meta-item">
+                  <span class="label">Title</span>
+                  <span class="value" id="metaTitle">--</span>
+                </div>
+                <div class="meta-item">
+                  <span class="label">Tags</span>
+                  <div class="tags-container" id="metaTags">
+                    <!-- Dynamic -->
+                  </div>
+                </div>
+              </div>
+
+              <div class="note-outline">
+                <h3>On This Page</h3>
+                <div class="outline-list" id="noteOutlineList">
+                  <!-- Headings list -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- View: Base File Simulator -->
+        <section class="view-panel" id="view-base">
+          <div class="base-simulator-layout">
+            <div class="base-header glass">
+              <div class="base-title-area">
+                <div class="icon-wrap"><i data-lucide="database"></i></div>
+                <div>
+                  <h2 id="baseTitleName">Database.base</h2>
+                  <p id="baseDescription">Simulated Obsidian Base file</p>
+                </div>
+              </div>
+              <div class="base-toolbar">
+                <div class="search-input-wrap">
+                  <i data-lucide="search"></i>
+                  <input type="text" id="baseSearchInput" placeholder="Filter rows...">
+                </div>
+                <div class="filter-controls">
+                  <select id="baseGroupSelect">
+                    <option value="">No Grouping</option>
+                    <!-- Populate based on properties -->
+                  </select>
+                </div>
+                <div class="view-switcher" id="baseViewSwitcher">
+                  <!-- Dynamic view type buttons -->
+                </div>
+              </div>
+            </div>
+
+            <!-- Dynamic Viewport for Table or Cards -->
+            <div class="base-viewport" id="baseViewport">
+              <!-- Rendered base view -->
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- Command Palette / Spotlight Search Overlay -->
+  <div class="spotlight-overlay" id="spotlightOverlay">
+    <div class="spotlight-dialog glass">
+      <div class="spotlight-header">
+        <i data-lucide="search"></i>
+        <input type="text" id="spotlightInput" placeholder="Search pages, chapters, rules..." autocomplete="off">
+        <span class="kbd-tip">ESC to close</span>
+      </div>
+      <div class="spotlight-results" id="spotlightResults">
+        <!-- Results rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Vite main entry -->
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

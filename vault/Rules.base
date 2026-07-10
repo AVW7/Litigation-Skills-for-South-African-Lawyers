@@ -1,0 +1,15 @@
+filters: 'file.folder == "Rules"'
+properties:
+  file.name:
+    displayName: "Rule Title"
+  category:
+    displayName: "Rule Category"
+  source:
+    displayName: "Source"
+views:
+  - type: cards
+    name: "Rules Gallery"
+    order:
+      - file.name
+      - category
+      - source

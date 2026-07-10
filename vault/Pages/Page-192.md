@@ -1,0 +1,43 @@
+---
+title: "Page 192"
+pdfPage: 192
+printedPage: 321
+chapter: "Chapter 17: Examination-in-chief"
+tags:
+  - page
+  - litigation-skills
+  - chapter-17
+aliases:
+  - "Page 192"
+  - "PDF Page 192"
+---
+
+[[Page-191|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-193|Next Page →]]
+
+---
+
+|  parade. He was, he was number seven. When they had all finished speaking, I told the police it was number seven. Q. Did you know the man who was number seven in the parade? A. No, but he matched the description I had given the police, white, with brown hair, longish in the back, about 1.7 metres tall, about 75 kilograms and he was even wearing blue denims and a white T-shirt. | established too in order to prove the correctness of the identification. 2 Generally speaking, identification evidence could be direct evidence, circumstantial evidence or an admission or confession. In some cases all three types of evidence will be available.  |
+| --- | --- |
+|  Q. Do you see that person here today? A. Yes. Q. Could you please point him out? A. Yes, it's him over there, in that box, the accused. Q. Your Worship, may it be noted that the witness identified the accused? By the Court: Yes, carry on. | This identification process is essential for every criminal trial where the identity of the perpetrator of the crime is in issue. The evidence of criminal activity has to be linked to the accused appearing before the court. A Dock ID is therefore essential.  |
+|  Q. Mr Weir, I'd like to return to the injuries you suffered. What injuries did you suffer? A. . . . Q. You said earlier that you were taken to hospital. What treatment did you receive? A. . . . | 1 Signposting is used to indicate a change of direction. 2 The complainant's injuries and their consequences are relevant to sentence.  |
+|  Q. Thank you, Mr Weir, I have no further questions. Please remain where you are to answer any questions my learned friend or His Lordship may have. | When you say, "I have no further questions", your witness often leaves the witness box, no doubt relieved that the ordeal is over. Then they feel foolish when they are called back. So it may be helpful to them if you were to indicate what they are expected to do.  |
+
+[[[Page-192|page 321]]]
+
+The witness in this example gave evidence of a simple event, all too common you might say, without having to look at documents or other exhibits. The witness was also well educated, composed and prepared. You will not always have witnesses of this calibre. You may have cases with difficult witnesses, hostile witnesses, children, witnesses who can't remember essential details which are set out in their statements, witnesses who just can't remember, witnesses who have to refer to large numbers of documents or exhibits and expert witnesses whose evidence you can hardly follow yourself. The basic techniques for examination-in-chief are the same for all these scenarios, but you would obviously prepare to overcome the anticipated difficulties. You may also have to contend with an opponent who interferes with the flow of your examination-in-chief by making one objection after the other, sometimes to the form of the question and sometimes to the answer that is given. The special techniques for these difficulties are dealt with in chapter 20.
+
+All too often counsel lead their witnesses from a statement. They look at the statement and try to find the next question there. The statement of the witness, of course, does not present you with the questions you can ask in order to elicit the relevant evidence. The questions have to be worked out by you, as counsel, and they have to be good questions. They can only be good questions if they elicit all the material evidence sequentially and without asking leading questions. The examination-in-chief can be made a lot easier if you use a timeline that can act as a prompt for your questions.
+
+This can be done as follows, using the statement of Detective Inspector Alson Khuzwayo:
+
+[[[Page-192|page 322]]]
+
+**Table 17.2** Example of the use of a timeline in examination-in-chief
+
+|  Statement of the witness | Timeline | Examination-in-chief  |
+| --- | --- | --- |
+|  On the 30th November [year] at about 17:10 I was driving an unmarked police car along [street] in [suburb] towards [suburb]. I was on duty, having been to [suburb] to trace a suspect in another matter. As I drove past the Clermont Shoe Company's factory, I saw a gathering in the parking area in front of the building. I saw a man being assisted towards the building. | **30/11/[year]** **17:30** **[street]** **driving Clermont shoe gathering** **man assisted** | Q. Where were you at about 17:30 on 30/11/[year]? A. [street], [suburb]. Q. What were you doing? A. Driving past Clermont Shoe Co. Q. What happened when you were driving past Clermont Shoe Co? A. I saw a gathering in the parking area and a man being assisted towards the building. Q. Where did you go from there?  |
+
+---
+
+[[Page-191|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-193|Next Page →]]

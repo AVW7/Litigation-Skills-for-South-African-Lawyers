@@ -1,0 +1,23 @@
+- Identify, in summary form, the issues between the parties by reference to the pleadings.
+- Indicate the extent to which the issues have been reduced by any subsequent agreement, such as at the Rule 37 conference.
+- Indicate where the onus of proof lies on the relevant issues and what has been agreed between the parties in this regard. If there is any dispute about where the onus lies, tell the judge. (The parties were supposed to discuss this at the Rule 37 conference.)
+- Summarise the facts for the plaintiff (or the defendant, if the defendant is opening). During this part of the opening address, the facts which constitute the proof upon which the court will ultimately be asked to rule in the plaintiff's favour are given in chronological order. The facts should be stated simply, without adornment, so that they are allowed to speak for themselves. Argument and exaggeration are to be avoided. The tone is moderate, even understated. Arrangement and order are crucial. This is particularly so where the facts and documents of the case are numerous and a chronological arrangement is necessary for a proper understanding of the matter. The time to create this order in the mind of the judge is during the opening address, even if it means that the chronology has to be set out in a written schedule.
+- Identify the witnesses you will call and summarise the evidence each will give. Deal with the oral and documentary evidence very briefly.
+- Indicate to what extent, if any, the evidence of particular witnesses or the contents of relevant documents are common cause. If necessary, hand in bundles of documents that are to go in by consent. Explain any agreement with regard to the content of the documents.
+
+### 16.4 Examples of opening statements in a criminal case
+
+The opening address for the prosecution in a criminal case in the Magistrates' Court could be structured as follows:
+
+(Pretend you are the judge and answer the following question at the end of this exercise: 'Do I now have a fair idea what this case is about and how counsel intends to prove the case?')
+
+[Page 290]
+
+**Table 16.1** Opening statement for the prosecution (in terms of section 150 of Act 51 of 1977)
+
+|  What to do | Comment | How to do it  |
+| --- | --- | --- |
+|  State the charge. | 1 Give the section of the act concerned precisely, including the subsection. 2 Then give the common term for that offence, for example, 'driving under the influence' or 'unlawful borrowing'. | 'May it please Your Worship. The accused is charged with one count of theft. The State alleges that he stole a backpack worth R150.00 from Three Rings Sports on 12 December last year.'  |
+|  State where the onus of proof lies and what the standard of proof required is. | The onus is usually on the prosecution, and the standard is proof beyond reasonable doubt. | 'The onus of proving his guilt beyond reasonable doubt rests on the State.'  |
+|  State the elements (material facts) for the offence charged. | This requires the type of analysis done in preparation for trial. (See chapter 14.) | 'The elements of the offence are that 1 the accused 2 on 12 December last year 3 at Three Rings Sports in [name of town] 4 unlawfully 5 and with the intention to steal it 6 removed a backpack (from Three Rings Sports) 7 belonging to Three Rings Sports or in its lawful possession.'  |
+|  Briefly state the facts. | 1 Concentrate on what the accused did. The case is about the accused's actions. 2 Describe the sequence of events. Maintain a chronological sequence. 3 Ensure that the facts which undermine the anticipated defence are given. 4 Understate your case. | 'This is what happened: Three Rings Sports is a self-service store. The accused came into the store carrying a similar backpack to the one stolen. He walked over to the rack where backpacks were displayed. He put his own backpack down on the floor and selected a backpack after handling a number of the backpacks on the rack. He then slung the backpack he had selected over his shoulder and walked around inside the store, looking at other items. This went on for about 7 minutes. Then he walked past the till point at the door and out the store with the backpack still slung over his shoulder. He was stopped by a store detective. The price tag, marked R150.00, attached to the backpack's strap was concealed under the strap. The accused then said that he was sorry and that he had made a mistake. The accused's own backpack was opened in his  |

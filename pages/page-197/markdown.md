@@ -1,0 +1,27 @@
+examine to that effect. If the witness denies having been convicted, you may lead evidence to prove the prior conviction.
+
+- *Bad character demonstrated by prior bad acts:* It is not necessary for the witness to have been convicted of a crime for his or her past acts to be relevant to their credibility. For example, a witness who has rendered a false income tax return may be cross-examined on that subject.
+- *Prior inconsistent statements:* A prior inconsistent statement may have been made by the witness in a document which is available to you, for example, in a statement taken by the police, in a letter written to your client, and even in the pleadings or in an affidavit made in the course of interlocutory proceedings between the parties. An inconsistent statement may also have been made orally, out of court, or even in the witness box. You may cross-examine the witness of such inconsistencies. The technique for dealing with prior inconsistent statements is explained in paragraph 20.4.
+- *Discrepancies:* A common but not infallible indication that a witness is untruthful, is that the witness contradicts himself or herself, or contradicts another witness. The theory is that a witness who is telling the truth will be consistent in the version he or she gives, while an untruthful witness has to make up a story, remember it and repeat it accurately. This is not always so easy. So your cross-examination may be designed to elicit discrepancies or to expose and exploit discrepancies. Once a discrepancy has been exposed, you have to decide whether you are going to leave it there and raise it in argument later, or whether you are going to confront the witness with it. If you bank the answers for use in argument, an explanation may be elicited in re-examination. If, on the other hand, you choose to confront the witness directly with the discrepancy, the witness may give a perfectly acceptable explanation. Each case will have its own answer. When in doubt, leave the point for argument. You should be able to argue better than the witness can explain.
+- *Inherent improbability:* Sometimes the evidence given by a witness is free of internal discrepancies and does not contradict what other witnesses have said, but the version given is generally inconsistent with documents produced as exhibits or with the inherent probabilities of the case or even with the witness's own conduct. When cross-examining a witness in such a situation, you should try to elicit or highlight such an inconsistency without giving the witness an opportunity to explain or elaborate.
+- *Reputation:* The witness may have a reputation for dishonesty. If you intend to lead evidence to that effect, you have a duty to put it to the witness.
+
+### 18.2.4 Discrediting evidence given by another witness and discrediting another witness
+
+You could employ some subtle cross-examination to discredit evidence given by another opposition witness or to discredit a witness other than the one being cross-examined. The questions you would ask would tend to expose or suggest bias, an interest in the outcome, discrepancies involving the other witness, an inappropriate attitude to the oath or truth or a reputation for untruthfulness on the part of the other witness. You could also undermine the evidence of another witness by exposing or suggesting that he or she did not have a good opportunity to observe or was forgetful. Ask yourself how believable the evidence of another opposition witness is in the light of what this witness says.
+
+[Page 329]
+
+### 18.2.5 The duty to put your version
+
+One of the fundamental rules of trial is that you have to put as much of your case to individual opposing witnesses as they can reasonably be expected to be able to answer. There are three qualifications to this rule. The *first* is that you have to put to the witness only that part of your version on which the witness is able to comment. The *second* is that you only have to put that part of your own witnesses' version which conflicts with the evidence of the witness under cross-examination. The *third* is that you do not have to put any version to the witness if you are not going to call witnesses to dispute the version given by the witness.
+
+This is something prosecutors often forget.
+
+### 18.2.6 Parading your case
+
+When nothing else is to be gained from a witness, you may in some instances be able to make your own case look better by putting those parts of it with which the witness is likely to agree to an opposition witness. If you have a very strong case, you may make the tactical decision to parade your case to the first opposition witness to whom it can logically be put for comment. If the witness agrees with the salient points of your case, the other side may capitulate, and even if they do not, the details of your case will have been fixed in the mind of the judge at an early stage. You parade your case for impact and you should therefore ensure that the witness agrees with every fact you put to him or her; otherwise the impact may be negative, emphasising that the witness disagrees with your version rather than the opposite.
+
+### 18.3 Restrictions on cross-examination
+
+Questions may be allowed in cross-examination if they serve any of the purposes discussed earlier, subject to a number of provisos. Keep in mind that the court has an overriding discretion to disallow questions even if they are otherwise in order. A general distinction is drawn between cross-examination on the merits (testing the reliability of

@@ -1,0 +1,121 @@
+Scandalous, vexatious and irrelevant matter, 88, 90, 127, 149, 155-156
+
+Secondary evidence, 305
+
+Section 115 statement, 482
+
+Security for costs, 48
+
+Senior counsel, 280
+
+Sentences, 422-423
+
+Separation of issues, 151
+
+Sequestration application, 406-407
+
+Set-off, 127
+
+Settlement
+
+advice on evidence, 197-198
+
+Sex crime
+
+advice to complainant, 43
+
+evidence of prior sexual experience or conduct, 24-25
+
+Shoplifting
+
+closing argument, 386-387
+
+cross-examination, 336-337, 338
+
+opening address for prosecution, 289-293
+
+theory of the case, 263
+
+trial preparation exercise, 481-492
+
+Signposting, 139, 144, 173, 179, 311, 320, 420, 424, 471
+
+Similar fact evidence
+
+exceptions to rule, 374-375
+
+exclusionary rule, 305, 372
+
+Simple summons, 95
+
+Speaking in court
+
+basic principles, 430
+
+making submissions, 432-434
+
+place to speak from, 430
+
+protocol, 430-431
+
+voice, posture, speech, 431-432
+
+what works and what does not, 434
+
+Special leave to appeal, 453-455
+
+Special pleas, 138-140
+
+Specific performance, 264
+
+Spoliation application
+
+drafting substantive application, 169-170
+
+notice of motion, 171-175
+
+*text of affidavit*, 173-175
+
+*text of pleading*, 171-172
+
+notice of opposition, 176
+
+urgent application, 176-177, 408-409
+
+State
+
+service on, 93
+
+State Attorney
+
+written opinion, 40
+
+Statement of claim
+
+cause of action, 97
+
+compliance with special procedural requirements, 97-98
+
+counterclaim, 95, 108-112
+
+criminal case, 96, 123-124
+
+form and content, 96-98
+
+interpleader claim see Interpleader claim
+
+jurisdiction, 96-97
+
+liquidated claim, 95
+
+*locus standi*, 96
+
+material facts see Material facts
+
+nature and purpose, 82, 95
+
+particulars of claim see Particulars of claim
+
+parties, 96
+
+prayer, 98

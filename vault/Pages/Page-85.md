@@ -1,0 +1,45 @@
+---
+title: "7.3.6 Pleading an explanation or qualification"
+pdfPage: 85
+printedPage: 133
+chapter: "Chapter 7: Drafting pleas and special pleas"
+tags:
+  - page
+  - litigation-skills
+  - chapter-7
+aliases:
+  - "Page 85"
+  - "PDF Page 85"
+---
+
+[[Page-84|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-86|Next Page →]]
+
+---
+
+(iv) . . . etc
+
+There are many cases where one has to plead additional facts. If, for example, the defence is that the amount claimed had been repaid, in full or in part, then the payments relied upon will have to be pleaded specifically with reference to the date and amount of each payment. When an apportionment of damages is relied upon the facts supporting [[[Page-85|page 133]]] that defence should be pleaded fully. An estoppel, likewise, has a set of material facts to be alleged in the plea and proved by the defendant. In each case the material facts of the defence have to be identified and pleaded. At the trial those material facts have to be proved by the party who pleaded them.
+
+### 7.3.6 Pleading an explanation or qualification
+
+In some situations it is not enough to admit or deny an allegation as the defendant needs to add something pertinent to what is set out in the plaintiff's pleading for the answer to be informative. An explanation or qualification may be necessary for the denial to be meaningful, or, at least, not to be misleading. For example, when the plaintiff makes a claim in contract for payment of the purchase price of a car, the defendant may wish to rely on terms of the contract not yet pleaded by the plaintiff. If the defendant wants to allege that the car was latently defective to the extent that he or she was entitled to return it to the plaintiff, he or she will have to set out what the relevant additional terms are. That additional information would be regarded as an explanation or qualification of the admission that the parties had concluded a contract on the terms alleged by the plaintiff.
+
+**Table 7.7** Pleading an explanation or qualification
+
+|  Particulars of claim | Plea | Comment  |
+| --- | --- | --- |
+|  4 The material express or implied terms of the contract were that - 4.1 the plaintiff sold a [year] Mercedes Benz motorcar ('the car') to the defendant for R800 000.00 ('the price'); 4.2 The defendant was to pay the price to the plaintiff within ten days after delivery of the car. | 2 The defendant admits that the terms set out in paragraph 4 of the particulars of claim were part of the contract but alleges that the following additional terms were included: 2.1 The car was to be in running condition with a current road worthy certificate. 2.2 The car was to be without latent defects making it unfit for its intended use, namely to be used as daily transport by the plaintiff. | 1 Rule 22(3), which requires the defendant to state any explanation or qualification of any denial. 2 An allegation that there were additional terms to the contract does not raise a confession and avoidance situation. When additional terms are alleged the plaintiff has to prove that they did not form part of the contract (see *Topaz Kitchens (Pty) Ltd v Naboom Spa (Edms) Bpk 1976 (3) SA 470 (A)*). 3 Since the *exceptio redhibitoria* is here relied upon as a defence, the defendant will also have to plead the further requirements of that defence fully in the remainder of the plea.  |
+
+### 7.3.7 The prayer
+
+A plea has to have a prayer. If it does not have a prayer, the plea may be excepted to on the ground that it is vague and embarrassing. A plea without a prayer is also an irregular proceeding as contemplated by Rule 30.
+
+The prayer in a plea is subject to the same general principles as a plea in a statement of claim. It has to set out the relief the court will be asked to grant to enable the other party to determine exactly what relief asked for. In most cases the defendant will ask for [[[Page-85|page 134]]] judgment in his or her favour with costs. Judgment 'in favour of the defendant' will only be granted if the court is satisfied that the probabilities favour the defendant. If the court cannot decide which version is the more probable, it will grant 'absolution from the instance'. The difference between a judgment in the defendant's favour and an absolution from the instance is that the former means that the issue has been decided once and for all between the parties. If the plaintiff, having had judgment granted against him or her, were to commence fresh proceedings against the defendant on the same cause of action, that claim may be met by a special plea of *res judicata*. A judgment absolving the defendant from the instance does not have the same effect and the plaintiff may re-institute proceedings and rely on the same cause of action, provided that the claim has not become prescribed in the interim. Since the court will not grant judgment for the defendant unless the prayer specifies that, it is important to ask for 'judgment in the defendant's favour' instead of that 'the plaintiff's claims be dismissed'. The latter formula gives rise to an absolution judgment.
+
+When the defendant claims costs, care should be taken that all the special orders are justified by the facts pleaded. For example, if costs on the scale as between attorney and own client are claimed, some facts ought to be set out in the body of the plea to justify that request. Sometimes the reasons are already apparent from the plea, for example, where the defendant has pleaded fraud or similar conduct on the part of the plaintiff, but in most cases that will not be the case. If two advocates are employed by the defendant, the prayer should indicate whether the costs of two counsel will be claimed. The usual formula is to ask for the costs of suit, including the costs consequent upon the employment of two counsel.
+
+There is no need for a prayer for 'further', 'alternative' and/or 'other relief' in the prayer.
+
+---
+
+[[Page-84|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-86|Next Page →]]

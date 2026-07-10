@@ -1,0 +1,18 @@
+filters: 'file.folder == "Pages"'
+properties:
+  file.name:
+    displayName: "Note Name"
+  pdfPage:
+    displayName: "PDF Page"
+  printedPage:
+    displayName: "Printed Page"
+  chapter:
+    displayName: "Chapter"
+views:
+  - type: table
+    name: "Pages Table"
+    order:
+      - file.name
+      - pdfPage
+      - printedPage
+      - chapter

@@ -1,0 +1,41 @@
+---
+title: "Page 277"
+pdfPage: 277
+printedPage: 461
+chapter: "Chapter 25: Appeals"
+tags:
+  - page
+  - litigation-skills
+  - chapter-25
+aliases:
+  - "Page 277"
+  - "PDF Page 277"
+---
+
+[[Page-276|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-278|Next Page →]]
+
+---
+
+'argument'. 'Main' refers to the most important part of the argument. 'Heads' means 'points', not a dissertation. Lastly, 'argument' involves a process of reasoning which must be set out in the heads. A recital of the facts and quotations from authorities do not amount to argument.'
+
+[[[Page-277|page 461]]]
+
+**Table 25.5** Heads of argument
+
+|  What SCA Rule 10(3) requires | How to comply | Comment  |
+| --- | --- | --- |
+|  (a) (i) *The heads of argument shall be clear, succinct and without unnecessary elaboration.* (ii) *Each point should be numbered and stated as concisely as the nature of the case allows and must be followed by a reference to the record or an authority in support of the point.* | 1 The points supporting the argument should be arranged in a logical order. 2 Each point should be made separately in a short, clear sentence. 3 Points that do not contribute to make the argument persuasive should be eliminated. 4 Avoid explanations. They can be given during oral argument. | The key concepts are - *argument* - a point or series of points harnessed to prove or disprove a particular conclusion; *clear* - understandable, free from obscurity or ambiguity; and *succinct* - brief.  |
+|  (b) (i) *The heads of argument shall not contain lengthy quotations from the record or authorities.* (ii) *The heads of argument must state, in respect of each authority cited, the proposition of law that the authority states, and if more than one authority is cited for a proposition the reason for citing the additional authorities must be stated.* | 1 Paraphrase what is stated in the authority or record. 2 Use only short, telling quotations. | The idea is to lead the appeal judges to the important principles or passages. During oral argument counsel can elaborate and quote from the authorities and record more freely.  |
+|  (c) *References to authorities and the record shall not be general but to specific pages and paragraphs.* | 1 For authorities, use the standard method of citation (for example author, title, edition, publisher and year) and give the page and paragraph number. 2 For the record, give the volume, page and line reference, and in the case of evidence, the name of the witness or a description of the exhibit. | Appeal records are bound in separate volumes of about 100 pages each, and carry line numbers, with every tenth line numbered in the margin.  |
+
+[[[Page-277|page 462]]]
+
+|  What SCA Rule 10(3) requires | How to comply | Comment  |
+| --- | --- | --- |
+|  (d) (i) *The heads of argument of the appellant shall, if appropriate to the appeal, be accompanied by a chronology table, duly cross-referenced, without argument.* | 1 A chronological table is useful, if not essential, if the appeal turns on the facts. 2 The more complicated the facts and the evidence, the greater the need for a detailed chronological table. 3 Every fact or event in the table should be accompanied by a reference to the record. 4 Where the appeal turns on a point of law, a chronological table may still be illuminating. | Events are best understood if they are recounted in chronological order. It is essential for counsel's own understanding of the facts to have a chronology available. (It should have been done during the preparation for trial already.)  |
+|  (d) (ii) *If the respondent disputes the correctness of the chronology table in a material respect, the respondent's heads of argument shall be accompanied by the respondent's version of the chronology table.* | 1 The disputed facts in the appellant's chronology should be excised and any material facts omitted from it added to create the respondent's own table. | *Material* means important.  |
+|   | 1 There should be some order to the list. |   |
+
+---
+
+[[Page-276|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-278|Next Page →]]

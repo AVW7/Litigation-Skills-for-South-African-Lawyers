@@ -1,0 +1,44 @@
+---
+title: "10.5.4 An example of a status quo application: A Mareva injunction"
+pdfPage: 110
+printedPage: 183
+chapter: "Chapter 10: Drafting applications"
+tags:
+  - page
+  - litigation-skills
+  - chapter-10
+aliases:
+  - "Page 110"
+  - "PDF Page 110"
+---
+
+[[Page-109|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-111|Next Page →]]
+
+---
+
+|  6 | associated relief. The plaintiff has sued the defendant for damages arising from a motor collision on the grounds set out in her particulars of claim, which are in the bundle of pleadings in the court file. The action is defended and the defendant has delivered a plea and a counterclaim. The plaintiff, in turn, has delivered a plea to the counterclaim. The last day for the delivery of a replication to the plaintiff's plea to the counterclaim was 31^{st} July, [year] but no replication has been delivered. | 1 Signal what type of application this is to make it easier for the judge. 2 There is no need to give the full details, such as name, *locus standi*, gender, occupation and address of the plaintiff and defendant again. 3 It is necessary to set out the material facts we have identified earlier and starts that process in these paragraphs.  |
+| --- | --- | --- |
+|  7 | The pleadings were therefore closed on 1^{st} August, [year]. |   |
+|  8 | On 2^{nd} August, [year] I prepared a notice to discover in terms of Rule 35(1) for service on the defendant's attorneys of record, A, B & C PARTNERSHIP. A copy of the notice is attached marked 'A'. |   |
+|  9 | The notice was served on the defendant's attorneys of record on the same day by a clerk in the firm, who obtained a signed receipt from the defendant's attorneys. That receipt appears on annexure 'A'. | 1 Strictly speaking, there should be a separate affidavit for the clerk's evidence but attorneys have relied on this sort of hearsay evidence for years on the basis that the rules do not even require evidence. 2 If service of the notice should be disputed, an affidavit will be required.  |
+|  10 | The defendant was obliged to make discovery by the 20^{th} court day after service of the notice. That period expired on 30^{th} August, [year]. |   |
+|  11 | On 4^{th} September, [year] I wrote to the defendant's attorneys and demanded that the defendant make discovery by no later than 11^{th} September, [year]. A copy of my letter is attached marked 'B'. There has been no response to it. | The courts require the attorneys to sort out interlocutory matters themselves and not to rush to court prematurely. A demand should therefore be made and referred to in the affidavit.  |
+|  12 | The plaintiff is prejudiced by the defendant's failure to make discovery in that I am unable to brief counsel for an advice on the evidence as I do not know what documents the defendant has that are relevant, nor can the plaintiff otherwise prepare for the trial without the defendant's documents. | While prejudice may not be required, it is better to allege and prove prejudice.  |
+
+[[[Page-110|page 183]]]
+
+|  Par | Text of affidavit | Comment  |
+| --- | --- | --- |
+|  13 | In the premises and on behalf of the plaintiff I pray for orders that: (a) The defendant be ordered to comply with Rule 35(2) by making discovery within 7 days from the date of the court's order; (b) The plaintiff be given leave, in the event of the defendant failing to comply with the order in paragraph (a), to approach this court on the same papers, supplemented if necessary, for an order striking out the defendant's defence to the action, with costs; (c) The defendant be ordered to pay the costs of this application. |   |
+|   | Signature XANTHE YALLOP |   |
+|   | (Attestation clause) |   |
+
+[[[Page-110|page 184]]]
+
+#### 10.5.4 An example of a status quo application: A Mareva injunction
+
+This application, to freeze the defendant's assets pending the outcome of the proposed trial and the execution process, is far more involved. The facts and the law are likely to be quite difficult. Since the application is based on the allegation that the defendant may dispose of his or her assets so that any judgment the plaintiff may eventually obtain will be worthless, the application has to be prepared urgently. So the pressure is on the attorney or counsel who has to draft the papers. They may be quite inexperienced at the level of skill this application may, at first blush, require. However, these difficulties can be cured by sound research and a solid framework for the documents you have to draft. How to draft an application of that degree of difficulty is beyond the scope of this book. You could
+
+---
+
+[[Page-109|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-111|Next Page →]]

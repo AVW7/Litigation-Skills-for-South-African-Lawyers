@@ -1,0 +1,19 @@
+|  PROSECUTIONS, (PROVINCE) SECOND RESPONDENT | 5 The Attorney-General may be cited by name followed by NO, but it is customary in some divisions to cite him or her by reference to the office rather than the person.  |
+| --- | --- |
+|  NOTICE OF MOTION IN TERMS OF RULE 53  |   |
+|  To: The Registrar [address] And to: Lourens Buys NO First Respondent Magistrates' Court [physical address] And to: The Director of Public Prosecutions, KwaZulu-Natal Second Respondent [physical address] |   |
+
+[Page 441]
+
+|  Text of Notice of Motion | Comment  |
+| --- | --- |
+|  TAKE NOTICE THAT the applicant, on a date and at a time to be arranged with the Registrar, intends to apply to this Honourable Court for the following orders - | 1 It is customary for reviews of this nature to be set down by arrangement between the registrar and the parties. 2 Special arrangements usually have to be made because the review will ordinarily be heard by two judges.  |
+|  (a) that the proceedings before the first respondent under [place] case no. 789/[year] in which the first respondent convicted the applicant of theft and sentenced him to three years imprisonment, be reviewed and set aside; (b) that the conviction and sentence of the applicant in those proceedings be set aside; (c) that the matter be referred back to the Magistrates' Court for rehearing on the basis that section 112(1)(b) of the Criminal Procedure Act 51 of 1977 has to be complied with; (d) that the costs occasioned by any opposition to this application for review be paid by the respondent who opposes it; (e) that such other relief as seems appropriate to this Honourable Court be granted pursuant to the review. | 1 The relief should be specific to the facts of the case. The court and the affected parties should know precisely what is to be done if the review were to be successful. 2 It is unlikely that costs will be awarded against either respondent, but if they should unnecessarily oppose the review, they may be ordered to pay the costs caused by their opposition; but even that requires special circumstances to be present. 3 This is one of the few cases where I can see justification for a prayer for other or alternative relief.  |
+|  TAKE NOTICE FURTHER THAT: (i) The respondents are called upon to show cause before this Honourable Court, on the date and at the time so arranged, why the relief set out in paragraphs (a) to (e) above should not be granted. (ii) The first respondent is required to dispatch a copy of the record of the proceedings before him under case no. 789/[year], together with any reasons he desires to give, to the registrar of this Honourable Court within 15 (fifteen) days of service of this application upon him and to notify the applicant that he has done so. | See Rule 53(1).  |
+
+[Page 442]
+
+|  Text of Notice of Motion | Comment  |
+| --- | --- |
+|  TAKE NOTICE FURTHER THAT the applicant will rely on his affidavit annexed to this notice in support of the review. | All affidavits to be relied upon should be listed.  |
+|  TAKE NOTICE FURTHER THAT the any respondent who wishes to oppose this application for review is required to - 1. deliver notice to the applicant that he intends so to oppose within 15 days after receipt by him of the notice of motion; 2. in such notice to oppose appoint an address within 8 kilometres of the office of the registrar at which he will accept service of all process in such proceedings; 3. within 30 days after the expiry of the time referred to in Rule 53(4) deliver any affidavits he may desire in answer to the allegations made by the applicant. | See Rule 53(5).  |

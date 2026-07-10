@@ -1,0 +1,46 @@
+---
+title: "22.3 Preparation for a Motion Court appearance"
+pdfPage: 241
+printedPage: 399
+chapter: "Chapter 22: Motion Court"
+tags:
+  - page
+  - litigation-skills
+  - chapter-22
+aliases:
+  - "Page 241"
+  - "PDF Page 241"
+---
+
+[[Page-240|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-242|Next Page →]]
+
+---
+
+motion proceedings. These applications end up in the Motion Court, whether they are opposed or not. If they are not opposed, they are dealt with as default judgments. If they are opposed, they eventually reach the stage where they are ready for an opposed [[[Page-241|page 399]]] hearing. The date for the opposed hearing may be fixed at a time when the matter is on the Motion Court roll and the matter is then adjourned to the opposed roll for a particular day. In some cases the matter makes its first appearance on the opposed roll after the filing of a notice of set down. Whichever route the matter takes to reach the opposed roll, the court hearing the matter will be a Motion Court.
+
+### 22.3 Preparation for a Motion Court appearance
+
+As with all other aspects of advocacy, competent and confident Motion Court advocacy is the product of systematic preparation. In a Motion Court matter, more than any other matter, the devil is in the detail. Judges take an extremely technical approach to unopposed Motion Court matters, probably because of the inherent dangers in the situation where the defendant does not appear to question the claim or to raise technical defences.
+
+The general principles applicable to Motion Court matters are to be found in the High Court Rules, known as the Uniform Rules. The law, as found in statutes, decided cases and textbooks, also plays a role, as it does in all forms of litigation. You also have to comply with any relevant Practice Directives issued by the Judges President for their respective divisions.
+
+The cases heard in the Motion Court range in their level of difficulty from the relatively simple to the extremely complex. Since this book is not designed as a model for advanced advocacy skills, the examples that follow are typical cases that could be expected on the Motion Court list of any of the High Courts any day of the week. The emphasis is on the kind of cases in which the more junior advocates or attorneys would be engaged.
+
+The basic rules with regard to methods of service, time limits or what constitutes a proper summons or other founding document, are set out in the Rules and in decided cases and counsel has to be acquainted with them. Every Motion Court brief should be scrutinised very carefully to establish whether those requirements have been met. Counsel should also consider the consequences of non-compliance; not every error is fatal. Further, in every case the underlying cause of action also has to be considered against the branch of the law applicable, for example, the Divorce Act 70 of 1979 in a divorce matter and the Insolvency Act 24 of 1936 in a sequestration case.
+
+There have also been extensive reviews of and changes to the law relating to credit agreements and consumer protection over the last ten years. Even a simple ejectment of an overstaying tenant or a defaulting mortgagee has now become a major (and money-spinning) endeavour (in my view, as a result of an Supreme Court of Appeal decision that is obviously wrong). Many other procedures that were previously simple and uncomplicated are beset by numerous technicalities, with possible defects in the procedure ranging in seriousness from simple errors that may be condoned to constitutional shortcomings that may vitiate not only the procedure - summary judgment, for example - but the underlying contract or the right to enforce it in a particular way. Various divisions of the High Court, the Supreme Court of Appeal and even the Constitutional Court have given directives with regard to the content of a summons, an application for default judgment or an application for summary judgment. The law is developing as fast as the law reports are published. Dealing with such matters is not within the import of this chapter or this book. For guidance in that regard you will have to consult a specialist publication on motion court practice such as Joffe High Court Motion Procedure: A Practical Guide LexisNexis, a work on consumer protection law, the statutes concerned and the [[[Page-241|page 400]]] law reports. That said, I include the necessary cautions in the examples below where appropriate.
+
+The Constitution also plays a large part in what happens in the Motion Court. Many practices that were previously taken for granted are now unconstitutional.
+
+Consider, for example, these recent developments:
+
+- [ ] In Sebola v Standard Bank [2012] ZACC 11 (7 June 2012) the Constitutional Court held that it was sufficient for the purposes of section 129(1) of the National Credit Act 34 of 2005 to allege and prove that the requisite notice had been despatched to the defendant consumer by registered mail. Since postal items sometimes end up at the wrong post office, the court requires proof that the notice has been delivered to the correct post office. That proof is usually provided by attaching a "track-and-trace" report to the papers. But what does one do when the post office reports that the postal item (containing the notice) has been returned to the sender because it had not been claimed?
+- [ ] In Munien v BMW Financial Services 2010 (1) SA 549 (KZD) Wallis J (as he then was) held that 'provided the credit provider delivered the notice in the manner chosen by the consumer in the agreement and such manner was one specified in s 65(2)(a), it is irrelevant whether the notice in fact came to the attention of the consumer.' Rossouw v First National Bank 2010 (6) SA 439 (SCA) followed the same approach.
+- [ ] The question is whether Sebola has overruled the principles in Munien and Rossouw. In order to answer the question you will have to look for guidance in cases that came before the courts after Sebola. There you will find Nedbank Ltd v Analene Binneman Case No 7241/11 WCHC 21 June 2012 (Griesel J) where the judge held that Sebola did not overrule Munien and Rossouw.
+- [ ] However, in ABSA Bank Limited v Bhekani Ernest Mkhize Case No 4084/2012 (KZD) 6 July 2012 (Olsen AJ) the court held that the majority judgment in Sebola did not "sanction ignoring conclusive evidence that the section 129 notice did not reach either the consumer or the consumer's correct address ..."
+
+So what are you to do now? The question has not been authoritatively answered. You cannot let the matter rest there. You should anticipate further developments and continue to research the law on every occasion you receive
+
+---
+
+[[Page-240|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-242|Next Page →]]

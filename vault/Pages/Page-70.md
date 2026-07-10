@@ -1,0 +1,43 @@
+---
+title: "Page 70"
+pdfPage: 70
+printedPage: 107
+chapter: "Chapter 6: Drafting statements of claim"
+tags:
+  - page
+  - litigation-skills
+  - chapter-6
+aliases:
+  - "Page 70"
+  - "PDF Page 70"
+---
+
+[[Page-69|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-71|Next Page →]]
+
+---
+
+|  4 4.1 4.2 4.3 | *Material terms of the policy* The defendant insured the life of the deceased for R750 000.00 ("the sum assured"). The deceased was to pay premiums of R750.00 per month to the defendant from the date of the policy until the date of his death. The defendant was to pay the sum assured to the deceased or his nominee upon his death. | Only the terms that are directly relevant to the claims in the prayer have to be set out as material facts.  |
+| --- | --- | --- |
+|  5 | The deceased paid all the premiums which fell due under the policy to the defendant. | Performance has to be pleaded as a material fact.  |
+|  6 | On [date] the deceased ceded all his rights under the policy to the plaintiff. A copy of the written cession is attached, marked "B". | 1 On a strict interpretation you do not need to attach a copy of the cession because it is not a contract as contemplated by Rule 18(6). 2 But the existence of a written cession may prompt the defendant to capitulate. 3 These facts may be set out here to maintain the sequence of events although many would plead the cession as the last material fact. 4 You should refrain from using the archaic and tautologous "right", "title" and "interest".  |
+|  7 | The deceased died on [date]. A copy of the death certificate to that effect is attached, marked "C". | 1 The death certificate is evidence and should not be pleaded. 2 A death certificate is an official document that may provide *prima facie* proof of its contents (see the Births, Marriages and Deaths Registration Act 81 of 1963). 3 The defendant may perhaps be persuaded to settle when confronted by these documents.  |
+|  8 | In the premises the defendant is liable to pay the sum of R750 000.00 to the plaintiff. | The legal conclusion arising from the material facts has to be pleaded.  |
+|  9 | Notwithstanding a written demand delivered to the defendant with copies of the policy, cession and death certificate on [date], the defendant has failed to pay the sum claimed to the plaintiff. | 1 Pleading a demand is customary, but if you want interest from the time of demand you have to plead the precise date of the demand. 2 You should provide details of the demand to furnish the court and the defendant with the facts upon which the client relies for her interest claim.  |
+
+[[[Page-70|page 107]]]
+
+|  Par | Text of pleading | Comment  |
+| --- | --- | --- |
+|  (a) | Wherefore the plaintiff claims judgment against the defendant for: |   |
+|  (b) | Payment of the sum of R750 000 00. Interest on the sum of R750 000 00 at the rate prescribed by section 2 of Act 55 of 1975 from [date] to the date of payment. |   |
+|  (c) | Costs of suit. |   |
+|   | Dated at [place] this [date] |   |
+|   | *Signature* Counsel's name (printed) PLAINTIFF'S COUNSEL |   |
+|   | *Signature* Attorney's name (printed) X, Y & Z Partnership Plaintiff's Attorneys [street address] Care of Messrs M, N & O [address and details as per Rule 6(5)(b)] |   |
+|   | To: The Registrar [street address] And to: Messrs J, A & K Inc Defendant's Attorneys [address and details as per Rule 6(5)(d)] | Since there is already a firm of attorneys on record for the defendant, (they have delivered a notice of intention to defend), a copy of the declaration has to be served on them. The original goes to the registrar.  |
+
+[[[Page-70|page 108]]]
+
+---
+
+[[Page-69|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-71|Next Page →]]

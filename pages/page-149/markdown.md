@@ -1,0 +1,32 @@
+guilty to the charge, every material fact alleged in the charge sheet or indictment is placed in issue, unless the accused makes formal admissions under section 220 of the Criminal Procedure Act 51 of 1977. (The relationship between the legal elements for a claim or defence and the material facts is explained in chapter 5.)
+
+In a civil case and in arbitration proceedings where pleadings are exchanged, the issues can be identified from the opposing pleadings. The two sets have to be read together. You can ascertain what the issues are by determining whether a material fact set out in the claim has been admitted or denied. If a material fact alleged in the claim is denied (or not admitted), it has to be listed as an issue. If any additional material facts are raised in the plea (for example, contributory negligence), those are also listed as issues, unless they are admitted in a replication. Any further particulars supplied by either party have to be taken into account. The process of analysis to determine the issues can be done in tabular form, as follows:
+
+[Page 245]
+
+**Table 14.3** Identifying the issues
+
+|  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
+| --- | --- | --- |
+|  1 The plaintiff is Anne Smith, an unemployed widow, who resides at [street address]. | 1 The defendant admits paragraphs 1 and 2 of the particulars of claim ('the claim'). |   |
+|  2 The defendant is Joe Soap, an adult male, carpenter, who resides at [street address]. |  |   |
+|  3 The plaintiff was at all material times the owner of a [year] Honda motorcar with registration number NPN 2001 ('the plaintiff's car'). | 2 The defendant does not admit any of the allegations in paragraph 3 of the claim. | 1 Whether the plaintiff at all material times was the owner of motor car NPN 2001, a [year] model Honda.  |
+|  4.1 On [date] and at about 09:30 a collision occurred between the plaintiff's car and another car then being driven by the defendant ('the collision'). | 3 Save as qualified by paragraph 3 of the plea the defendant admits paragraph 4 of the claim. |   |
+|  4.2 The collision occurred at the intersection of X and Y Streets [name city or town], ('the intersection'). |  |   |
+|  5 The collision was caused by the defendant's negligence. *Particulars of defendant's negligence* |  |   |
+|  5.1 He entered the intersection against the red traffic light. | 4 The defendant denies each allegation in paragraph 5 of the claim. | 2 Whether the defendant drove negligently in any of the aspects stipulated.  |
+|  5.2 He drove at an excessive speed. |  |   |
+|  5.3 He failed to keep a proper lookout. |  |   |
+|  5.4 He failed to take adequate steps to avoid the collision when he could have done so. |  |   |
+
+[Page 246]
+
+|  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
+| --- | --- | --- |
+|  6 As a result of the collision and the defendant's negligence the plaintiff's car was damaged and the plaintiff has suffered damages in the sum of R339 000.00. *Particulars of plaintiff's loss:* |  |   |
+|  6.1 Value of plaintiff's car before the collision R440 000.00 | 5 The defendant admits that motorcar NPN 2001 was damaged in the collision but denies the remaining allegations in paragraphs 6 and 7 of the claim. | 3 If it is proved that the defendant drove negligently, as alleged, whether such negligence caused damage to the plaintiff's car.  |
+|  6.2 Value of plaintiff's car after the collision R110 000.00 |  | 4 Whether the amount of the damages is R339 000.00, made up as alleged. Note that there are a number of facts to prove in order to succeed on these issues. They follow as a matter of law if the facts are proved.  |
+|  6.3 SUBTOTAL R330 000.00 |  |   |
+|  6.4 Cost of hiring replacement car for 45 days @ R200.00 a day R9 000.00 |  |   |
+|  TOTAL R339 000.00 |  |   |
+|  7 In the premises the defendant is liable to pay the sum of R339 000.00 to the plaintiff. | 6 In the event of the plaintiff proving the allegations in paragraphs 3, 5 and 6 of the claim, the defendant pleads as follows: |   |

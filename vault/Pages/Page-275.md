@@ -1,0 +1,46 @@
+---
+title: "25.6 Preparing heads of argument"
+pdfPage: 275
+printedPage: 458
+chapter: "Chapter 25: Appeals"
+tags:
+  - page
+  - litigation-skills
+  - chapter-25
+aliases:
+  - "Page 275"
+  - "PDF Page 275"
+---
+
+[[Page-274|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-276|Next Page →]]
+
+---
+
+|  Text of notice of appeal | Comment  |
+| --- | --- |
+|  [COURT DESCRIPTION as prescribed] In the matter between: ANNE SMITH and JOE SOAP | Case no 5354/[year] PLAINTIFF/APPLICANT DEFENDANT/RESPONDENT  |
+|  NOTICE OF APPEAL | You could add 'IN TERMS OF RULE 49(3)' to the title bar of the document.  |
+|  To: The Registrar [address] And to: Pillay and Co Respondent's Attorneys [address and details as per Rule 6(5)(d)] |   |
+|  TAKE NOTICE that the appellant, having been granted leave to appeal on the ... day of ..., [year] by His Lordship Mr Justice [name of judge] hereby notes an appeal to the Full Court of the [name of division] against the whole of the judgment of His Lordship granted in this action on the 1st day of May, [year] and in which judgment was granted in favour of the respondent for payment of the sum of R1 000 000.00, interest and costs. | 1 Rule 49(3) requires the appellant to state whether the whole of the judgment is appealed against, and if not, what part of the judgment. 2 In criminal cases the notice has to state whether the appeal is against the conviction or sentence or both.  |
+
+[[[Page-275|page 458]]]
+
+|  Text of notice of appeal | Comment  |
+| --- | --- |
+|  TAKE FURTHER NOTICE that the appeal is directed against the following findings of fact: 1 His Lordship's finding that PETER JONES had been properly authorised to represent the appellant in concluding the contract sued upon. 2 His Lordship's findings that - 2.1 the appellant had represented to the respondent that PETER JONES was its authorised agent; 2.2 that the respondent had acted on the said representation to its prejudice; and 2.3 that the appellant was therefore estopped from denying the authority of PETER JONES. | Rule 49(3) requires the findings of fact or law appealed against to be stated in the notice.  |
+|  TAKE FURTHER NOTICE that the grounds upon which the appeal is founded, are as follows: (a) There was no reliable evidence to support His Lordship's first finding. (b) The first finding was against the probabilities. (c) The evidence of PETER JONES which ought to have been accepted by His Lordship, was unequivocally to the effect that he did not purport to act as representative or agent of the appellant in concluding the contract. (d) . . . etc. | 1 Rule 49(3) requires the grounds for the appeal to be stated in the notice. 2 It is preferable to organise them so that they accord with the findings of fact or law appealed against. The grounds of appeal against each finding can then be dealt with separately.  |
+|  DATED AT [place] this ... day of ..., [year]. |   |
+|  Signature Appellant's Attorney's name (printed) |   |
+|  Van der Merwe and Partners Appellant's Attorneys [address and details as per Rule 6(5)(b)] | **Note:** If this were an appeal to the Supreme Court of Appeal, a certified copy of the order granting leave should be attached in terms of SCA Rule 7(3). The rest of the notice would also have to be adapted where appropriate, particularly by stating what order should have been granted by the court *a quo*.  |
+
+[[[Page-275|page 459]]]
+
+## 25.6 Preparing heads of argument
+
+Preparing heads of argument for an appeal inevitably requires counsel to prepare for the appeal itself as the heads of argument are a summary of the argument to be presented to the appeal court. Preparing an argument is a rather personal process. Every lawyer has his or her own way of doing this. However, there are certain formal requirements for heads of argument that could influence the way counsel prepares the argument and consequently the heads.
+
+The importance of the heads of argument to the process of persuasion should not be underestimated. This is your first opportunity to bring the judges around to your client's side. The heads allow you to bring the issues and
+
+---
+
+[[Page-274|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-276|Next Page →]]

@@ -1,0 +1,36 @@
+---
+title: "Page 245"
+pdfPage: 245
+printedPage: 405
+chapter: "Chapter 22: Motion Court"
+tags:
+  - page
+  - litigation-skills
+  - chapter-22
+aliases:
+  - "Page 245"
+  - "PDF Page 245"
+---
+
+[[Page-244|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-246|Next Page →]]
+
+---
+
+|  1. 1 Original instructions. 2. 2 Summons and particulars of claim. 3. 3 Family Advocate's report. 4. 4 Return of service. 5. 5 Original and copy of marriage certificate. 6. 6 Original and copy of any written settlement agreement. 7. 7 Amended order prayed.**Note:** The last 2 items are required only if there has been an agreement between the parties. | 1. 1 Do the summons and particulars of claim comply with Rules 17 and 18? 2. 2 Has there been personal service in terms of the longstanding practice? 3. 3 Have the correct number of days been given to defend in terms of Rule 19 and section 27 of the Act, and have they elapsed? 4. 4 Has a proper cause of action been pleaded for each claim? 5. 5 Does the court have jurisdiction as contemplated by section 2 of Act 70 of 1979? | *'M' Lady, I appear for the plaintiff. The summons was served on the defendant personally on [date]. . . He/she is in default and I call the plaintiff.'* Then call the plaintiff and any further witnesses who may be required. The plaintiff should cover the following matters (assuming an ordinary case) in his/her evidence - - - the names of the parties; - - the particulars of the marriage, with the original certificate to be handed in; - - the basis for the court's jurisdiction (domicile or residence - section 2 of the Act);  |
+| --- | --- | --- |
+
+[[[Page-245|page 405]]]
+
+|  Documents in the brief | Preparation checklist | What to say  |
+| --- | --- | --- |
+|   | 1. 6 Do the details on the marriage certificate match those pleaded? (Is an amendment necessary?) 2. 7 Does the available evidence prove all the matters of which the court must be satisfied, particularly with regard to the welfare of the children? 3. 8 Have the Family Advocate's concerns been met? 4. 9 Are the orders asked for in the proper form? 5. 10 Is an amended order necessary? | - - the names, gender and birth dates of their minor children, if any; - - the irretrievably breakdown of the marriage and the reasons for the breakdown (section 4 of the Act); - - the basis (justification) for any guardianship, custody or access claims; - - the basis for any maintenance claims; - - the basis for any property claims; any agreement settling any of the claims, with any written agreement to be proved and handed in. **Note:** Some leniency is allowed with regard to leading questions, but counsel should take their cue from the court and from more experienced colleagues.  |
+
+**Table 22.8** Rule 43 application (opposed)
+
+|  Documents in the brief | Preparation checklist | What to say  |
+| --- | --- | --- |
+|  1. 1 Original instructions. 2. 2 Summons and particulars of claim. 3. 3 Notice in terms of Form 17 of the First Schedule and affidavit. 4. 4 Copy of opposing affidavit. | 1. 1 Does the notice comply with Form 17? 2. 2 Is the affidavit 'in the nature of a declaration?' 3. 3 What are the issues? 4. 4 What is my argument on each issue? 5. 5 What orders am I going to seek, having regard to the facts and my opponent's likely argument? | *'M' Lord, I appear for the applicant.'* Wait for the opponent to announce his or her appearance. *'This is an opposed Rule 43 application. We are ready to proceed.'* The judge will give an indication whether you may start, and if he does, present your argument as in any other opposed motion, but be brief as Rule 43 applications do not lend themselves to detailed argument on disputed issues.  |
+
+---
+
+[[Page-244|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-246|Next Page →]]
