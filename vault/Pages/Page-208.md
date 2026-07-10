@@ -2,7 +2,7 @@
 title: "**18.8.8 Cross-examining to Prior convictions**"
 pdfPage: 208
 printedPage: 344
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 208"
   - "PDF Page 208"
+topics:
+  - cross-examination
+  - evidence
+  - fraud
+  - protocol-and-ethics
+  - witnesses
 ---
 
 [[Page-207|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-209|Next Page →]]
@@ -52,14 +58,11 @@ See paragraph 20.4
 
 ### **18.8.11 Cross-examining to Reputation**
 
-You intend calling a witness who will say that the witness under cross-examination has a reputation for untruthfulness.
+You intend calling a witness who will say that the witness under [[Page-145|cross-examination]] has a reputation for untruthfulness.
 
 Q. You have lived in the X community all your life?
 
 A. Yes.
-
-[[[Page-208|page 344]]]
-
 Q. And the people of that community must know you well?
 
 A. I suppose so.

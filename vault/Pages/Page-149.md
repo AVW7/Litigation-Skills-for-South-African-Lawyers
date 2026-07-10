@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 149"
   - "PDF Page 149"
+topics:
+  - arbitration
+  - damages
+  - negligence
+  - pleadings
 ---
 
 [[Page-148|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-150|Next Page →]]
@@ -18,10 +23,7 @@ aliases:
 
 guilty to the charge, every material fact alleged in the charge sheet or indictment is placed in issue, unless the accused makes formal admissions under section 220 of the Criminal Procedure Act 51 of 1977. (The relationship between the legal elements for a claim or defence and the material facts is explained in chapter 5.)
 
-In a civil case and in arbitration proceedings where pleadings are exchanged, the issues can be identified from the opposing pleadings. The two sets have to be read together. You can ascertain what the issues are by determining whether a material fact set out in the claim has been admitted or denied. If a material fact alleged in the claim is denied (or not admitted), it has to be listed as an issue. If any additional material facts are raised in the plea (for example, contributory negligence), those are also listed as issues, unless they are admitted in a replication. Any further particulars supplied by either party have to be taken into account. The process of analysis to determine the issues can be done in tabular form, as follows:
-
-[[[Page-149|page 245]]]
-
+In a civil case and in [[Page-30|arbitration]] proceedings where pleadings are exchanged, the issues can be identified from the opposing pleadings. The two sets have to be read together. You can ascertain what the issues are by determining whether a material fact set out in the claim has been admitted or denied. If a material fact alleged in the claim is denied (or not admitted), it has to be listed as an issue. If any additional material facts are raised in the plea (for example, [[Page-66|contributory negligence]]), those are also listed as issues, unless they are admitted in a replication. Any further particulars supplied by either party have to be taken into account. The process of analysis to determine the issues can be done in tabular form, as follows:
 **Table 14.3** Identifying the issues
 
 |  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
@@ -36,9 +38,6 @@ In a civil case and in arbitration proceedings where pleadings are exchanged, th
 |  5.2 He drove at an excessive speed. |  |   |
 |  5.3 He failed to keep a proper lookout. |  |   |
 |  5.4 He failed to take adequate steps to avoid the collision when he could have done so. |  |   |
-
-[[[Page-149|page 246]]]
-
 |  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
 | --- | --- | --- |
 |  6 As a result of the collision and the defendant's negligence the plaintiff's car was damaged and the plaintiff has suffered damages in the sum of R339 000.00. *Particulars of plaintiff's loss:* |  |   |

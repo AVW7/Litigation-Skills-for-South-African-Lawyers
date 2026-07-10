@@ -2,7 +2,7 @@
 title: "Page 314"
 pdfPage: 314
 printedPage: 312
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,13 +10,29 @@ tags:
 aliases:
   - "Page 314"
   - "PDF Page 314"
+topics:
+  - affidavits
+  - argumentation
+  - closing-argument
+  - cross-examination
+  - evidence
+  - examination-in-chief
+  - expert-evidence
+  - fact-analysis
+  - motion-court
+  - opening-statement
+  - pleadings
+  - protocol-and-ethics
+  - re-examination
+  - sentencing
+  - witnesses
 ---
 
 [[Page-313|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-315|Next Page →]]
 
 ---
 
-Proof-making model of fact analysis, 11-15, 241-243
+Proof-making model of [[Page-115|fact analysis]], 11-15, 241-243
 
 Prosecutor
 
@@ -26,13 +42,13 @@ entry in investigation diary, 42
 memorandum or minute, 41-42
 oral advice to complainant, 42-43
 written opinion, 40
-advice on evidence, 205-207
+[[Page-92|advice on evidence]], 205-207
 alternative dispute resolution, 64-65
 assembling evidence, 223-224
 closing file, 476
 fact analysis, 72-73, 269, 270
 interviews see Interview by prosecution in criminal case
-plea and sentence agreement, 64-65
+[[Page-30|plea and sentence agreement]], 64-65
 relationship between defence counsel and, 280-281
 
 Protocol and ethics
@@ -42,17 +58,17 @@ affidavits, 188
 alternative dispute resolution, 65-66
 appeals, 473
 assembling evidence, 224
-closing argument, 394-395
-cross-examination, 344
-examination-in-chief, 323
+[[Page-174|closing argument]], 394-395
+[[Page-145|cross-examination]], 344
+[[Page-136|examination-in-chief]], 323
 exceptions, 160
-expert witness, 378
+[[Page-100|expert witness]], 378
 hostile witness, 378
 interviews, 28
 legal research, 238-239
-Motion Court, 412-414
+[[Page-179|Motion Court]], 412-414
 objections, 378
-opening statement, 300
+[[Page-131|opening statement]], 300
 pleading, 94
 pleas, 141
 preparation for trial, 207-208
@@ -86,7 +102,7 @@ Recounting
 
 cross-examination, 327, 342
 
-Re-examination
+[[Page-160|Re-examination]]
 
 checklist and assessment guide, 350-351
 clarifying evidence, 349

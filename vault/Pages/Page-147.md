@@ -10,6 +10,14 @@ tags:
 aliases:
   - "Page 147"
   - "PDF Page 147"
+topics:
+  - cause-of-action
+  - contract
+  - evidence
+  - fact-analysis
+  - onus
+  - persuasion
+  - theory-of-case
 ---
 
 [[Page-146|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-148|Next Page →]]
@@ -20,15 +28,12 @@ Stage 5 Identify the evidence to prove each of those facts
 
 Stage 6 Consider whether the evidence is admissible, reliable and sufficient
 
-Stage 7 Develop a theory of the case
+Stage 7 Develop a [[Page-115|theory of the case]]
 
 Stage 8 Develop a strategy for the trial.
-
-[[[Page-147|page 242]]]
-
 The basic steps at Stages 3 to 5 of the proof-making model are represented in the following figure:
 
-**Table 14.1** A schematic model for fact analysis
+**Table 14.1** A schematic model for [[Page-115|fact analysis]]
 
 ![img-0.jpeg](img-0.jpeg)
 
@@ -41,15 +46,12 @@ The legal elements are determined by the law and discovered by legal research. F
 Your trial strategy will be based on a careful fact analysis and a resourceful consideration of a persuasive theory of the case and suitable tactics to pursue that theory.
 
 Strictly speaking, only the first five stages involve fact analysis; the last two have to do with strategy and trial tactics. Each of these steps is essential for systematic trial preparation; and each complements the others. The complete process can be represented as follows:
-
-[[[Page-147|page 243]]]
-
 **Table 14.2** General scheme for trial preparation based on the Proof-making Model
 
 |  Stage | What counsel has to do | Skill involved  |
 | --- | --- | --- |
 |  1 | *Determine the area of law involved* | Legal research. Fact analysis.  |
-|  2 | *Determine the cause of action (criminal charge) or defence* | Legal research. Analysis of legal documents.  |
+|  2 | *Determine the [[Page-54|cause of action]] (criminal charge) or defence* | Legal research. Analysis of legal documents.  |
 |  3 | *Determine the material facts (the legal elements) in issue.* 1 In a civil case, compare the Particulars of Claim (the 'Claim') and the Plea. The issues are the allegations in the Claim which are denied (or not admitted) in the Plea. 2 In a criminal case the issues are all the material facts alleged in the Charge Sheet or Indictment put in issue by a plea of | Legal research. Analysis of legal documents.  |
 
 ---

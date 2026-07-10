@@ -10,6 +10,9 @@ tags:
 aliases:
   - "Page 78"
   - "PDF Page 78"
+topics:
+  - constitutional-law
+  - jurisdiction
 ---
 
 [[Page-77|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-79|Next Page →]]
@@ -30,7 +33,7 @@ Section 84 of the Act sets out the requirements for the charge.
 
 Subsections (2) and (3) warrant no further discussion. Subsection (1) lays down four separate requirements:
 
-First requirement: the charge must set forth the relevant offence. It is not enough to identify the offence by name. Its legal elements (facta probanda) must be covered; otherwise the accused may object to the charge in terms of section 85 of the Act on the ground that it does not set out an essential element of the relevant offence. The legal elements must be stated in such a way that the particular facts of the case are set out rather than a bland and unhelpful recitation of the legal elements of the offence.
+First requirement: the charge must set forth the relevant offence. It is not enough to identify the offence by name. Its legal elements ([[Page-47|facta probanda]]) must be covered; otherwise the accused may object to the charge in terms of section 85 of the Act on the ground that it does not set out an essential element of the relevant offence. The legal elements must be stated in such a way that the particular facts of the case are set out rather than a bland and unhelpful recitation of the legal elements of the offence.
 
 Second requirement: the charge must give particulars of the time and place where the offence is alleged to have been committed.
 
@@ -44,9 +47,6 @@ That the accused is guilty of the crime of MURDER:
 IN THAT upon or about [date] and at or near [place] in the district of [district] the accused unlawfully and intentionally killed [name of deceased].
 
 Note how the charge follows the same pattern and includes the legal elements for murder identified in paragraph 5.4.3. (The district in which the offence was committed is not a legal element of the offence but is customarily added to demonstrate that the court concerned has jurisdiction.)
-
-[[[Page-78|page 124]]]
-
 Murder is a relatively easy offence to plead because it has so few legal elements. Theft and robbery, for example, are far more complex. A form of charge for theft which is commonly in use reads as follows:
 
 THAT the accused is guilty of the crime of THEFT:

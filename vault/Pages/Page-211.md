@@ -2,7 +2,7 @@
 title: "19.3.2 Rehabilitating the witness whose credibility has been impeached"
 pdfPage: 211
 printedPage: 349
-chapter: "Chapter 19: ## Re-examination"
+chapter: "Chapter 19: Re-examination"
 tags:
   - page
   - litigation-skills
@@ -10,15 +10,22 @@ tags:
 aliases:
   - "Page 211"
   - "PDF Page 211"
+topics:
+  - credibility
+  - cross-examination
+  - evidence
+  - fraud
+  - re-examination
+  - witnesses
 ---
 
 [[Page-210|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-212|Next Page →]]
 
 ---
 
-**The facts:** The facts are set out in Table 18.5, where it is demonstrated how a question too many could undo the good results of prior cross-examination. Counsel should have refrained from asking the last question, which allowed the witness to give a convincing explanation. Assume that opposing counsel had refrained from asking that question. You now have the opportunity to elicit the same evidence.
+**The facts:** The facts are set out in Table 18.5, where it is demonstrated how a question too many could undo the good results of prior [[Page-145|cross-examination]]. Counsel should have refrained from asking the last question, which allowed the witness to give a convincing explanation. Assume that opposing counsel had refrained from asking that question. You now have the opportunity to elicit the same evidence.
 
-**The aim of the re-examination:** To elicit the explanation from the witness, whose evidence would otherwise be totally discredited.
+**The aim of the [[Page-160|re-examination]]:** To elicit the explanation from the witness, whose evidence would otherwise be totally discredited.
 
 Q. *You said in your evidence that the tow truck driver and his assistant disconnected the drive shaft there next to the sugarcane field. What makes you think they did that?*
 A. *When I came from the sugarcane, I saw them pack up their tools in the tool box, pick up the drive shaft from under our truck and put the tool box and drive shaft on their truck.*
@@ -45,9 +52,6 @@ Q. *How long ago was your last conviction?*
 A. *Twelve years.*
 Q. *How long were you in prison?*
 A. *Eighteen months.*
-
-[[[Page-211|page 349]]]
-
 Q. *What have you done with your life since then?*
 A. *I started studying while in prison and completed my matric just before my release. I got a job, with the help of the Prisons Department. I'm still working for the same company. I also got married and I have two children.*
 Q. *Have you been in trouble with the law since your release from prison twelve years ago?*

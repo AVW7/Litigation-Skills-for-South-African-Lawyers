@@ -2,7 +2,7 @@
 title: "Page 218"
 pdfPage: 218
 printedPage: 359
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,18 +10,21 @@ tags:
 aliases:
   - "Page 218"
   - "PDF Page 218"
+topics:
+  - argumentation
+  - cross-examination
+  - evidence
+  - re-examination
+  - witnesses
 ---
 
 [[Page-217|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-219|Next Page →]]
 
 ---
 
-witness. If such a prior inconsistent statement is admitted (or proved when the witness has denied making it), the court may (not must) find the witness to be unreliable. Whether the court believes the witness nevertheless will depend on the circumstances of the case, including any explanation the witness has given for the inconsistency. So the idea is not to ask for an explanation, if you are the cross-examiner. However, you will ask for an explanation (if you know there is a good one) in re-examination if it is your own witness who has contradicted himself.
+witness. If such a prior inconsistent statement is admitted (or proved when the witness has denied making it), the court may (not must) find the witness to be unreliable. Whether the court believes the witness nevertheless will depend on the circumstances of the case, including any explanation the witness has given for the inconsistency. So the idea is not to ask for an explanation, if you are the cross-examiner. However, you will ask for an explanation (if you know there is a good one) in [[Page-160|re-examination]] if it is your own witness who has contradicted himself.
 
-A prior inconsistent statement may have been made orally or in writing. In either case, the witness may be cross-examined on that statement and if the witness denies having made the statement concerned, evidence may be led in rebuttal to prove the statement. The opportunity typically arises in criminal cases but it is not limited to criminal cases, where the defence has copies of the statements of prosecution witnesses and a witness departs from his or her statement. The technique for the use of a prior inconsistent statement to discredit the witness requires a lot of concentration, a bit of guile and a degree of assertiveness. You have to know the case materials well enough to recognise that there is a discrepancy; you may even have elicited the discrepancy with intelligent cross-examination.
-
-[[[Page-218|page 359]]]
-
+A prior inconsistent statement may have been made orally or in writing. In either case, the witness may be cross-examined on that statement and if the witness denies having made the statement concerned, evidence may be led in rebuttal to prove the statement. The opportunity typically arises in criminal cases but it is not limited to criminal cases, where the defence has copies of the statements of prosecution witnesses and a witness departs from his or her statement. The technique for the use of a prior inconsistent statement to discredit the witness requires a lot of concentration, a bit of guile and a degree of assertiveness. You have to know the case materials well enough to recognise that there is a discrepancy; you may even have elicited the discrepancy with intelligent [[Page-145|cross-examination]].
 **Table 20.6** Using a prior inconsistent statement to discredit the witness
 
 |  What to do | How to do it  |
@@ -38,9 +41,6 @@ A prior inconsistent statement may have been made orally or in writing. In eithe
 If the witness denies having made the prior statement or having said what is recorded in it, you will be allowed to lead evidence in rebuttal. You should then call the person who took the statement (or heard the words being spoken if you are relying on an oral statement) to prove that the witness had made the prior statement and that it accurately reflects what he had said.
 
 Note that section 190(2) of the Criminal Procedure Act 51 of 1977 allows the parties to a criminal case to prove a prior inconsistent statement in respect of their own witnesses. It is not necessary to go the length of proving the witness to be hostile to the party calling him or her in such a case.
-
-[[[Page-218|page 360]]]
-
 ---
 
 [[Page-217|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-219|Next Page →]]

@@ -2,7 +2,7 @@
 title: "Page 216"
 pdfPage: 216
 printedPage: 356
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 216"
   - "PDF Page 216"
+topics:
+  - evidence
+  - examination-in-chief
+  - witnesses
 ---
 
 [[Page-215|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-217|Next Page →]]
@@ -17,12 +21,9 @@ aliases:
 ---
 
 before the item is shown to the witness in court.
+If the exhibit is a document, you should ensure that a good copy is available to your opponent as soon as the exhibit is handed to the witness so that your opponent can object immediately if necessary. The original of a document should be shown to your opponent and handed to the judge after it has been given a number. A copy should be available for the witness if further questions are to be asked on the document. Your opponent should be given a set of your documents in a bundle before the witness gives evidence. You do not want any distractions while you are conducting the [[Page-136|examination-in-chief]].
 
-[[[Page-216|page 356]]]
-
-If the exhibit is a document, you should ensure that a good copy is available to your opponent as soon as the exhibit is handed to the witness so that your opponent can object immediately if necessary. The original of a document should be shown to your opponent and handed to the judge after it has been given a number. A copy should be available for the witness if further questions are to be asked on the document. Your opponent should be given a set of your documents in a bundle before the witness gives evidence. You do not want any distractions while you are conducting the examination-in-chief.
-
-Demonstrative exhibits are dealt with slightly differently.
+[[Page-100|Demonstrative exhibit]]s are dealt with slightly differently.
 
 **Table 20.3** Proving a demonstrative exhibit, a medical report
 
@@ -43,9 +44,6 @@ Witnesses are frequently asked to point out features on an exhibit or to mark po
 | --- | --- |
 |  **Step 1:** Allow the witness to give the demonstration (or make the pointing out or mark the exhibit). | Q. *Please look at the police plan, Exhibit 'A'. Mr Usher, could you please show the witness Exhibit 'A'? (Pause while the witness studies the plan.) Do you understand what the plan depicts?* A. *Yes, I recognise the scene.*  |
 |   | Q. *Are you able to mark the point where the two cars collided with each other?* A. *Yes.* Q. *Please mark the point of impact as accurately as you can with an X.* A. *(The witness marks the plan.)*  |
-
-[[[Page-216|page 357]]]
-
 |  What to do | How to do it  |
 | --- | --- |
 |  **Step 2:** Show opposing counsel and the court what the witness has demonstrated, pointed out or marked. | Q. *Mr Usher, could you please take the exhibit to my learned friend and show him where the witness has put the mark?* (The plan is shown to counsel.) Q. *Could you also show Her Ladyship where the witness has marked the plan?* (The plan is shown to the Judge.)  |

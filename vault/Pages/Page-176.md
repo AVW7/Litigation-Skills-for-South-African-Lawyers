@@ -2,7 +2,7 @@
 title: "Page 176"
 pdfPage: 176
 printedPage: 294
-chapter: "Chapter 16: ## Opening statement"
+chapter: "Chapter 16: Opening statement"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,14 @@ tags:
 aliases:
   - "Page 176"
   - "PDF Page 176"
+topics:
+  - argumentation
+  - closing-argument
+  - cross-examination
+  - evidence
+  - onus
+  - opening-statement
+  - witnesses
 ---
 
 [[Page-175|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-177|Next Page →]]
@@ -17,10 +25,7 @@ aliases:
 ---
 
 The same principles apply broadly to the accused's opening address, except that, by the time the prosecution closes its case, defence counsel will have had to put the accused's version to witnesses when he or she cross-examined them, and there may even have been a detailed statement under section 115 of the Act. The defence case will therefore already have been made known. The accused's opening address is therefore likely to be short compared to that of the prosecutor, but that may not always be the case.
-
-[[[Page-176|page 294]]]
-
-**Table 16.2** Opening statement for the defence (in terms of section 151 of Act 51 of 1977)
+**Table 16.2** [[Page-131|Opening statement]] for the defence (in terms of section 151 of Act 51 of 1977)
 
 |  What to do | Comment | How to do it  |
 | --- | --- | --- |
@@ -28,9 +33,6 @@ The same principles apply broadly to the accused's opening address, except that,
 |  Explain what the defence is and isolate the issue(s). | 1 The defence has to relate to one or more of the elements of the charge. 2 Isolate the relevant one(s) and tell the court what they are. 3 Use plain language and ordinary terms. | 'Your Worship, this is a case of an unfortunate mistake rather than deliberate wrongdoing. The accused did not intend to steal the backpack; he simply mistook it for his own.'  |
 |  Acknowledge the onus and standard of proof. | 1 Mention where the onus lies. Remind the court that the prosecution has to prove its case beyond reasonable doubt. 2 Magistrates don't really need or like to be reminded of this. | 'As my learned friend has indicated, the onus is on the prosecution to prove the elements of the offence, including the mens rea element, beyond reasonable doubt.'  |
 |  Briefly state the facts. | 1 Concentrate on the defence version. Make sure you cover the defence. Understate. 2 Don't argue. Let the facts speak for themselves. 3 Keep it simple. 4 Try to make an impact with an important fact that cannot be denied. 5 Make sure that the bad facts are dealt with. A short explanation will suffice. | 'Your Worship, the accused suffers from colour-blindness. His particular type of colour-blindness makes it impossible for him to get a driver's licence because he cannot distinguish between brown and red. The accused went to the store to buy a new bag as his old backpack was torn. He had a newspaper in the backpack. He had kept it because it had job advertisements he intended to follow up. In fact, he wanted a new bag rather than a backpack as he thought a bag might be more in keeping with the position he was seeking. He found the rack with backpacks and handled some of them. He must have put his own backpack on the floor, but cannot recall that. He moved on to the bag counter and found nothing to his liking. He left the store thinking he had his own backpack over his shoulder. He never intended to steal the backpack. The rest the court knows already.'  |
-
-[[[Page-176|page 295]]]
-
 |  What to do | Comment | How to do it  |
 | --- | --- | --- |
 |  Name the witnesses to be called. | Try to give an indication of the occupation or standing of each witness. | 'I intend calling the accused and also his family doctor, Dr Ivan Stone.'  |

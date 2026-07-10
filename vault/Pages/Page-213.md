@@ -2,7 +2,7 @@
 title: "Chapter 20"
 pdfPage: 213
 printedPage: 353
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,16 @@ tags:
 aliases:
   - "Page 213"
   - "PDF Page 213"
+topics:
+  - courtroom-protocol
+  - cross-examination
+  - evidence
+  - examination-in-chief
+  - expert-evidence
+  - hearsay
+  - protocol-and-ethics
+  - re-examination
+  - witnesses
 ---
 
 [[Page-212|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-214|Next Page →]]
@@ -19,7 +29,7 @@ aliases:
 |   | Skill involved | Competent/Not yet competent  |
 | --- | --- | --- |
 |  1 | Re-examining only when necessary |   |
-|  2 | Using the three-step process of asking questions: - [ ] Remind the witness what he or she has said under cross-examination - [ ] Give the witness a moment to remember - [ ] Ask the question |   |
+|  2 | Using the three-step process of asking questions: - [ ] Remind the witness what he or she has said under [[Page-145|cross-examination]] - [ ] Give the witness a moment to remember - [ ] Ask the question |   |
 |  3 | Asking clear questions |   |
 |  4 | Asking non-leading questions |   |
 |  5 | Avoiding argumentative matter |   |
@@ -33,7 +43,7 @@ aliases:
 CONTENTS
 
 20.1 Introduction
-20.10.1 Exceptions to the hearsay rule
+20.10.1 Exceptions to the [[Page-92|hearsay]] rule
 20.10.2 Exceptions to the opinion rule
 20.10.3 Exceptions to the character rule
 20.10.4 Exceptions to the similar-fact rule
@@ -42,9 +52,9 @@ CONTENTS
 20.4 Prior inconsistent statements
 20.5 Refreshing memory
 20.6 Hostile witnesses
-20.7 Expert witnesses
+20.7 [[Page-100|Expert witness]]es
 20.7.1 Preparation
-20.7.2 Examination-in-chief of an expert witness
+20.7.2 [[Page-136|Examination-in-chief]] of an expert witness
 20.7.3 Cross-examination of an expert witness
 20.8 Objections
 20.9 Identification evidence (in criminal cases)
@@ -53,9 +63,6 @@ CONTENTS
 20.9.3 Defence counsel
 20.10 Common admissibility issues
 20.11 Protocol and ethics
-
-[[[Page-213|page 353]]]
-
 ### 20.1 Introduction
 
 Special techniques are necessary for certain incidents of the trial. Examination-in-chief and cross-examination skills

@@ -2,7 +2,7 @@
 title: "Page 318"
 pdfPage: 318
 printedPage: 316
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,23 @@ tags:
 aliases:
   - "Page 318"
   - "PDF Page 318"
+topics:
+  - applications
+  - argumentation
+  - closing-argument
+  - courtroom-etiquette
+  - credibility
+  - cross-examination
+  - evidence
+  - examination-in-chief
+  - motion-court
+  - negotiation
+  - opening-statement
+  - pleadings
+  - protocol-and-ethics
+  - re-examination
+  - urgent-applications
+  - witnesses
 ---
 
 [[Page-317|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-319|Next Page →]]
@@ -24,19 +41,19 @@ when used, 83, 95, 112, 117, 127
 Timelines, 212, 307, 315, 321-323
 
 Transcript of evidence
-advice on evidence, 198
+[[Page-92|advice on evidence]], 198
 
 Transnet
 citation, 93
 
 Trial
-closing argument see Closing argument
+[[Page-174|closing argument]] see Closing argument
 court etiquette and protocol see Court etiquette and protocol
-cross-examination see Cross-examination
-examination-in-chief see Examination-in-chief
-opening statement see Opening statement
+[[Page-145|cross-examination]] see Cross-examination
+[[Page-136|examination-in-chief]] see Examination-in-chief
+[[Page-131|opening statement]] see Opening statement
 preparation for see Preparation for trial
-re-examination see Re-examination
+[[Page-160|re-examination]] see Re-examination
 
 Trial folder, 76-78
 
@@ -69,7 +86,7 @@ Urgent application
 certificate of urgency, 176-177, 408
 comparison with other forms of application, 163
 duty of disclosure, 408
-Motion Court preparation, 407
+[[Page-179|Motion Court]] preparation, 407
 spoliation application (opposed), 408-409
 
 V
@@ -80,7 +97,7 @@ W
 
 Without prejudice discussion, 279
 
-Without prejudice negotiation, 59-60
+Without prejudice [[Page-30|negotiation]], 59-60
 
 Witness
 addressing, 281

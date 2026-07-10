@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 150"
   - "PDF Page 150"
+topics:
+  - damages
+  - evidence
+  - fact-analysis
+  - negligence
+  - onus
 ---
 
 [[Page-149|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-151|Next Page →]]
@@ -21,9 +27,6 @@ aliases:
 |  8 Notwithstanding demand, the defendant has failed to pay the sum claimed. | 7 The defendant admits paragraph 8 of the claim but denies being liable. |   |
 
 **Note:** Cosmetic changes have been made to the defendant's plea to comply with the style advocated in chapter 7.
-
-[[[Page-150|page 247]]]
-
 In a criminal case the issues are defined by the charge sheet or indictment, coupled with the accused's plea and section 115 statement. Counsel would first identify the material facts for the crime concerned. For example, an indictment on a charge of murder would introduce the following material facts (or elements):
 
 1 the accused
@@ -42,13 +45,13 @@ After the material facts in issue have been identified, their precise legal cont
 
 In the case of our hypothetical client, Mrs Smith, there are five separate legal concepts involved in her claim against Mr Joe Soap -
 
-- [ ] ownership of the car (vesting in the plaintiff);
-- [ ] driving a motor vehicle (the *actus reus*) (by the defendant);
-- [ ] negligence (by the defendant);
-- [ ] causation; and
-- [ ] loss (to the plaintiff).
+- ownership of the car (vesting in the plaintiff);
+- driving a motor vehicle (the *actus reus*) (by the defendant);
+- negligence (by the defendant);
+- causation; and
+- loss (to the plaintiff).
 
-These are the Stage 3 legal elements that have to be satisfied for her claim to succeed. We can now proceed with the fact analysis.
+These are the Stage 3 legal elements that have to be satisfied for her claim to succeed. We can now proceed with the [[Page-115|fact analysis]].
 
 ---
 

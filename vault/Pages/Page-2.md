@@ -10,6 +10,8 @@ tags:
 aliases:
   - "Page 2"
   - "PDF Page 2"
+topics:
+  - constitutional-law
 ---
 
 [[Page-1|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-3|Next Page →]]

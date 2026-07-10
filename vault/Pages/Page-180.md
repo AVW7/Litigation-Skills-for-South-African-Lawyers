@@ -10,6 +10,14 @@ tags:
 aliases:
   - "Page 180"
   - "PDF Page 180"
+topics:
+  - argumentation
+  - courtroom-protocol
+  - evidence
+  - examination-in-chief
+  - opening-statement
+  - protocol-and-ethics
+  - witnesses
 ---
 
 [[Page-179|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-181|Next Page →]]
@@ -21,7 +29,7 @@ aliases:
 |  - [ ] Ensuring that only one counsel is standing at any time. |   |
 |  - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
 
-**Table 16.5** Checklist for opening statement for defendant's counsel
+**Table 16.5** Checklist for [[Page-131|opening statement]] for defendant's counsel
 
 |   | Skill involved | Competent/ Not yet Competent  |
 | --- | --- | --- |
@@ -30,9 +38,6 @@ aliases:
 |  3 | Isolating the issues in respect of each defence. |   |
 |  4 | Reminding the court of the incidence and standard of proof, if necessary. |   |
 |  5 | Stating the facts of the defence case briefly, without overstating. |   |
-
-[[[Page-180|page 302]]]
-
 |   | Skill involved | Competent/ Not yet Competent  |
 | --- | --- | --- |
 |  6 | Avoiding argument or inadmissible material. |   |
@@ -42,7 +47,7 @@ aliases:
 |  10 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the witness. - [ ] Speaking at appropriate volume and pace. - [ ] Addressing the court with proper deference. - [ ] Ensuring that only one counsel is standing at any time. - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
 
 ## Chapter 17
-Examination-in-chief
+[[Page-136|Examination-in-chief]]
 
 # CONTENTS
 

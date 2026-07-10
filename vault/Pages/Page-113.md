@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 113"
   - "PDF Page 113"
+topics:
+  - affidavits
+  - applications
+  - damages
+  - evidence
+  - jurisdiction
 ---
 
 [[Page-112|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-114|Next Page →]]
@@ -40,9 +46,6 @@ Since the application will be made without notice to the defendant, the order wi
   - - the undertaking as to the defendant's possible damages;
   - - the undertaking as to any third party's possible damages;
   - - undertakings to the court with regard to the execution of the court's order.
-
-[[[Page-113|page 188]]]
-
 There are draft *Mareva* orders in the Civil Procedure Rules applying in England and Wales. The format for a *Mareva* order in English law is as follows:
 
 - 1 The order -

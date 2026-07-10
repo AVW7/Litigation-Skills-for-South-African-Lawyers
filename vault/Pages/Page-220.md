@@ -2,7 +2,7 @@
 title: "20.6 Hostile witnesses"
 pdfPage: 220
 printedPage: 362
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 220"
   - "PDF Page 220"
+topics:
+  - applications
+  - argumentation
+  - credibility
+  - cross-examination
+  - evidence
+  - witnesses
 ---
 
 [[Page-219|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-221|Next Page →]]
@@ -20,12 +27,9 @@ aliases:
 | --- | --- |
 |  **Step 7:** Give the witness a chance to find the relevant part. Then ask the witness about the relevant fact. | Q. *Please find the passage where the car's registration number is reflected and tell us what the number was.* A. *The number was ...*  |
 
-If a witness has refreshed his or her memory from a privileged document or statement, the whole of that document becomes available to the other side for cross-examination; in other words, the privilege is lost. The document itself does not become evidence. If the document is handed in as an exhibit, it becomes evidence not of the truth of its contents but for the purpose of confirming or undermining the credibility of the witness. It appears that a witness may refer only to part of a document and, if necessary, cover up the rest of it, in which event the privilege attaching to the rest of the document may be protected. (This question has not been finally resolved.)
+If a witness has refreshed his or her memory from a privileged document or statement, the whole of that document becomes available to the other side for [[Page-145|cross-examination]]; in other words, the privilege is lost. The document itself does not become evidence. If the document is handed in as an exhibit, it becomes evidence not of the truth of its contents but for the purpose of confirming or undermining the credibility of the witness. It appears that a witness may refer only to part of a document and, if necessary, cover up the rest of it, in which event the privilege attaching to the rest of the document may be protected. (This question has not been finally resolved.)
 
 These principles do not apply to documents used for refreshing the witness's memory before the witness starts giving evidence. The witness may refresh his or her memory from any document before entering the witness box, whether the witness prepared or executed the document or not, and such documents retain the privilege that might attach to them. Therefore, if you don't want the opposition to have access to a privileged document, you should perhaps ensure that your witness's memory is refreshed before he or she enters the witness box.
-
-[[[Page-220|page 362]]]
-
 Police officers (and similarly placed witnesses) are usually allowed to refresh their memory from their notebooks or diaries without having to exhaust their memory first. There are two reasons for this. The *first* is that they have so many cases that it would be unreasonable to expect them to give their evidence from memory alone. The *second* is that they are required to keep notes for the purpose of ensuring that their evidence is accurate. Usually there is no objection to them referring to their notes, nor should there be. District surgeons fall in the same category of witnesses. They perform hundreds of injury examinations (recorded on form J88), post mortem examinations (recorded on form Health 1) and sobriety examinations (recorded on a similar form). It would be unfair to expect them to give their evidence from memory. Such documents also fall under the provisions of Part VI of the Civil Proceedings Evidence Act 25 of 1965 and section 222 of the Criminal Procedure Act 51 of 1977. These provisions allow for the use of contemporaneous records at the trial. It is recognised that contemporaneous records that are created when the witness had no motive to be untruthful are more likely to be accurate than the witness's memory. When you intend to call such witness, you should prepare copies of the contemporaneous note or form for the court and for the other side.
 
 The court has a discretion whether to allow or disallow the application to refresh memory; it will generally only allow refreshing memory if the fact concerned is relevant to the issues in the case rather than the credibility of the witness.
@@ -34,7 +38,7 @@ The court has a discretion whether to allow or disallow the application to refre
 
 A party is not permitted to cross-examine their own witness unless the witness is declared hostile. A hostile witness is one who is unwilling to tell the truth for the benefit of the party who has called him or her. There must be more to it than the mere fact that the evidence given by the witness does not suit or please the party calling the witness. Even a prior inconsistent statement made by the witness may not be enough to persuade the court that the witness is hostile, although in practice that is often the decisive factor. Whether a witness is hostile to the party calling him or her, depends on factors such as the demeanour of the witness, the relationship between the witness and the parties or other witnesses in the case, the general circumstances of the case and any prior inconsistent statements made by the witness. The demeanour of witnesses may be the decisive factor; the demeanour of the witness in the witness box often mirrors what is in their hearts. It is often said that the witness must display a hostile *animus* towards the side calling him or her.
 
-If there are good grounds for the suspicion that your witness is hostile to your side, an application may be made to the court to declare the witness hostile. The court has to be persuaded by the party making the application, so you had better get your evidence and argument ready before you rise to make the application. You may consider making the application in the absence of the witness if you think the witness might gain an advantage over you (as cross-examiner) if he or she has heard your argument. The effect of the order is that you may then cross-examine the witness. To this end, all the techniques and principles discussed in chapter 18 are applicable. From a tactical point of view, an application to declare the witness hostile should only be made if there are reasonable prospects of gaining some advantage by cross-examining the witness. When the witness demonstrates his or her hostility, it will probably be too late to do anything to prevent the harm the witness has done, or is going to do. You are thus left having to discredit the witness completely. The nature of the cross-examination of a hostile witness is therefore often confrontational and without any pretence at being subtle. The aim is to undermine [[[Page-220|page 363]]] the credibility of the witness and the process is destructive. It can be emotionally draining too. You should not expect to achieve much more than showing that the witness is untruthful or biased.
+If there are good grounds for the suspicion that your witness is hostile to your side, an application may be made to the court to declare the witness hostile. The court has to be persuaded by the party making the application, so you had better get your evidence and argument ready before you rise to make the application. You may consider making the application in the absence of the witness if you think the witness might gain an advantage over you (as cross-examiner) if he or she has heard your argument. The effect of the order is that you may then cross-examine the witness. To this end, all the techniques and principles discussed in chapter 18 are applicable. From a tactical point of view, an application to declare the witness hostile should only be made if there are reasonable prospects of gaining some advantage by cross-examining the witness. When the witness demonstrates his or her hostility, it will probably be too late to do anything to prevent the harm the witness has done, or is going to do. You are thus left having to discredit the witness completely. The nature of the cross-examination of a hostile witness is therefore often confrontational and without any pretence at being subtle. The aim is to undermine *(see page 363)* the credibility of the witness and the process is destructive. It can be emotionally draining too. You should not expect to achieve much more than showing that the witness is untruthful or biased.
 
 Care should be taken in the preparation stage that potentially hostile witnesses are identified in advance. Avoid calling them if you can. If a witness won't even speak to you before the trial when you tell them the purpose of the interview and whom you represent, it may be that the witness feels some hostility towards your client. Such a witness can seldom help your case and has the potential to do it a lot of harm. However, there may be a case where you have to call the witness to prove something no other witness can prove for you. Then you should be
 

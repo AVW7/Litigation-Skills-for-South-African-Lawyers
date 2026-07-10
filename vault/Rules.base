@@ -4,12 +4,18 @@ properties:
     displayName: "Rule Title"
   category:
     displayName: "Rule Category"
-  source:
-    displayName: "Source"
+  tags:
+    displayName: "Tags"
 views:
   - type: cards
     name: "Rules Gallery"
     order:
       - file.name
       - category
-      - source
+      - tags
+  - type: table
+    name: "Rules Table"
+    order:
+      - file.name
+      - category
+      - tags

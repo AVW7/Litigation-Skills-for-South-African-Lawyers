@@ -2,7 +2,7 @@
 title: "**18.8.3 Cross-examining to Recounting**"
 pdfPage: 207
 printedPage: 343
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 207"
   - "PDF Page 207"
+topics:
+  - cross-examination
+  - evidence
+  - settlement
+  - witnesses
 ---
 
 [[Page-206|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-208|Next Page →]]
@@ -67,9 +72,6 @@ A. Yes.
 Q. And if the RAF were found liable in this action, your prospects of obtaining a favourable settlement would improve, would they not?
 
 A. . . .
-
-[[[Page-207|page 343]]]
-
 ### **18.8.6 Cross-examining to Prejudice**
 
 The witness has suffered at the hands of criminals before. Now she gives identification evidence in a housebreaking matter.

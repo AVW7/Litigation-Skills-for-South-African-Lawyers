@@ -2,7 +2,7 @@
 title: "20.9 Identification evidence (in criminal cases)"
 pdfPage: 224
 printedPage: 369
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,14 @@ tags:
 aliases:
   - "Page 224"
   - "PDF Page 224"
+topics:
+  - argumentation
+  - cross-examination
+  - evidence
+  - exceptions
+  - expert-evidence
+  - hearsay
+  - witnesses
 ---
 
 [[Page-223|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-225|Next Page →]]
@@ -18,17 +26,14 @@ aliases:
 
 |  The question is leading. | The question misstates the prior evidence. | This evidence is not the best evidence. | No foundation has been laid for this opinion.  |
 | --- | --- | --- | --- |
-|  The question is argumentative. | The question assumes a fact not yet in evidence. | This evidence is hearsay. | This exhibit is not admissible as evidence because the chain of custody has not been established.  |
+|  The question is argumentative. | The question assumes a fact not yet in evidence. | This evidence is [[Page-92|hearsay]]. | This exhibit is not admissible as evidence because the chain of custody has not been established.  |
 |  The question is confusing. | The question is hypothetical. | This evidence is not relevant to the issues (or credit). | It is not permissible for my learned friend to pursue this line of questioning because this version has not been put to my witnesses.  |
 |  The question is unintelligible. | My learned friend is cross-examining his own witness. | The prejudice the introduction of this evidence is likely to cause outweighs its probative value. | This evidence is not admissible because the records are computer records which have not been proved as required by the Electronic Communications and Transactions Act 25 of 2002.  |
 |  The question contains more than one proposition. This is a compound question. | The question calls for speculation on the part of the witness. | This evidence is inadmissible character evidence. | These documents are not admissible because the defendant has not discovered them in terms of Rule 35.  |
-|  There is no question here, only a statement. | The question calls for a conclusion the witness is not qualified to draw. | The witness is not an expert and an expert opinion is called for. | This evidence is in the nature of expert evidence. I object because the plaintiff has not served a notice and summary as required by Rule 36(9).  |
-
-[[[Page-224|page 369]]]
-
+|  There is no question here, only a statement. | The question calls for a conclusion the witness is not qualified to draw. | The witness is not an expert and an expert opinion is called for. | This evidence is in the nature of [[Page-100|expert evidence]]. I object because the plaintiff has not served a notice and summary as required by Rule 36(9).  |
 Some evidential issues relate to the weight of the evidence rather than its admissibility; in such a case there is no cause for an objection. On the contrary, objecting to such evidence may flatter its importance. It is perhaps wise to regard objections as interruptions of the proceedings to be avoided, if at all possible. Use your right to object sparingly; object only when you are certain that you are right and that there is something to gain.
 
-Responding to an objection requires a similar approach. If a question can legitimately be put in another way, do so, even if you think the question was a proper one. An argument over a single question is hardly worth the effort and can be very distracting. It is usually better to direct the attention to the evidence, even if it means asking the question in another way. Avoid questions that are likely to provoke an objection, if you can. But do not give up your right to put relevant evidence before the court simply because your opponent objects, or may object. Defend your position firmly but politely. Some objections can be dealt with by referring the court to an exception to the general rule or principle. In other cases you may have to lay the foundation for the evidence objected to.
+Responding to an objection requires a similar approach. If a question can legitimately be put in another way, do so, even if you think the question was a proper one. An argument over a single question is hardly worth the effort and can be very distracting. It is usually better to direct the attention to the evidence, even if it means asking the question in another way. Avoid questions that are likely to provoke an objection, if you can. But do not give up your right to put relevant evidence before the court simply because your opponent objects, or may object. Defend your position firmly but politely. Some objections can be dealt with by referring the court to an [[Page-75|exception]] to the general rule or principle. In other cases you may have to lay the foundation for the evidence objected to.
 
 ## 20.9 Identification evidence (in criminal cases)
 

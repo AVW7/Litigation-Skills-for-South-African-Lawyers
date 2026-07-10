@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 189"
   - "PDF Page 189"
+topics:
+  - evidence
+  - examination-in-chief
+  - witnesses
 ---
 
 [[Page-188|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-190|Next Page →]]
@@ -36,10 +40,7 @@ aliases:
 - injuries.
 
 After having briefed Mr Weir, you will probably call him as your first witness at the trial. The accused has pleaded not guilty and made no admissions and no statement under section 115 of the Criminal Procedure Act 1977 (explaining his plea).
-
-[[[Page-189|page 316]]]
-
-**Table 17.1** Example of examination-in-chief
+**Table 17.1** Example of [[Page-136|examination-in-chief]]
 
 |  Questions and answers | Comment  |
 | --- | --- |

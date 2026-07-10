@@ -2,7 +2,7 @@
 title: "2 Trial notebook: *S v Graham*"
 pdfPage: 293
 printedPage: 486
-chapter: "Chapter 25: Appeals"
+chapter: "Appendices"
 tags:
   - page
   - litigation-skills
@@ -10,14 +10,14 @@ tags:
 aliases:
   - "Page 293"
   - "PDF Page 293"
+topics:
+  - evidence
+  - fact-analysis
 ---
 
 [[Page-292|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-294|Next Page →]]
 
 ---
-
-[[[Page-293|page 486]]]
-
 ## 2 Trial notebook: *S v Graham*
 
 ### 2.1 Material fact(s) in issue
@@ -50,9 +50,6 @@ The accused has admitted taking the backpack, its ownership and its value (in th
 Unlawfulness cannot seriously be disputed and would have to be conceded at the trial. The accused clearly acted without consent and none of the other defences that would render his actions lawful is present at a *prima facie* level.
 
 The sole issue is therefore whether the accused acted with requisite *mens rea* for theft, in particular, whether the accused knew that he was acting unlawfully.
-
-[[[Page-293|page 487]]]
-
 ### 2.2 Fact analysis
 
 |  Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact  |

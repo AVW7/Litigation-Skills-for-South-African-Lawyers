@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 264"
   - "PDF Page 264"
+topics:
+  - appeals
+  - applications
+  - constitutional-law
+  - reviews
+  - urgent-applications
 ---
 
 [[Page-263|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-265|Next Page →]]
@@ -30,12 +36,9 @@ aliases:
 
 There are three main types of review under the common law. These were identified as such in the frequently cited case of *Johannesburg Consolidated Investments Co v Johannesburg Town Council* 1903 TS 111 as -
 
-- [ ] the process in terms of which the proceedings of lower courts are brought before the High Court in order to expose a grave irregularity or an illegality which may have occurred in the course of the proceedings;
-
-[[[Page-264|page 438]]]
-
-- [ ] the process in terms of which the exercise of a statutory duty by a public body is scrutinised in order to expose a disregard for the principles regulating that duty or a gross irregularity or an illegality in the performance of the duty; and
-- [ ] the process in terms of which the High Court may exercise the power granted by statute to review the proceedings of statutory bodies.
+- the process in terms of which the proceedings of lower courts are brought before the High Court in order to expose a grave irregularity or an illegality which may have occurred in the course of the proceedings;
+- the process in terms of which the exercise of a statutory duty by a public body is scrutinised in order to expose a disregard for the principles regulating that duty or a gross irregularity or an illegality in the performance of the duty; and
+- the process in terms of which the High Court may exercise the power granted by statute to review the proceedings of statutory bodies.
 
 These categories have now been overtaken by the Constitution of the Republic of South Africa, 108 of 1996 and the statute enacted pursuant to it. Every lawyer should be aware of the influence of the Constitution. Its provisions permeate every aspect of the law and affect administrative law perhaps more than other branches of the law. There can be no doubt that the provisions of section 33 of the Constitution encompass the grounds of review under section 24(1) of the Supreme Court Act 59 of 1959 ("the Act"). But the Constitution's reach into administrative matters is far deeper. Section 33 reads as follows:
 
@@ -53,9 +56,6 @@ The Promotion of Administrative Justice Act 3 of 2000 was enacted to give effect
 Having regard to the broad nature of the provisions of the Constitution and PAJA and the types of review identified in the *Johannesburg Consolidated Investments* case, there is a vast array of decisions that may be taken on review. Nevertheless, in each case the first inquiry will be whether the act or decision of the person or body concerned falls within the ambit of "administrative action" as contemplated by the Constitution and PAJA. You should not commence review proceedings before you have studied PAJA and carefully considered its implications for your review.
 
 Some reviews are brought by way of action, some by way of the procedure prescribed by Rule 53, some by way of application procedure prescribed by Rule 6 and some may be brought as a matter of urgency, with or without interlocutory orders preserving the *status quo* pending the outcome of the review. The skills necessary for the drafting of review papers by way of action and application procedures are covered in chapters 5 to 10. In this chapter, the focus will be on reviews under section 24 of the Act and the procedure under Rule 53.
-
-[[[Page-264|page 439]]]
-
 ---
 
 [[Page-263|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-265|Next Page →]]

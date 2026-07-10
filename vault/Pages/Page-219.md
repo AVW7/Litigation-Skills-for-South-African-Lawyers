@@ -2,7 +2,7 @@
 title: "20.5 Refreshing memory"
 pdfPage: 219
 printedPage: 361
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,9 @@ tags:
 aliases:
   - "Page 219"
   - "PDF Page 219"
+topics:
+  - evidence
+  - witnesses
 ---
 
 [[Page-218|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-220|Next Page →]]
@@ -24,13 +27,10 @@ Witnesses are not allowed to read their evidence from prepared statements. Yet, 
 
 There are some evidential requirements to be met before a witness will be allowed to refresh his or her memory from a document or statement:
 
-- [ ] First, the witness once had the fact or evidence to be adduced in evidence, in his or her memory. If the witness never "knew" the fact concerned, there is no memory to refresh.
-- [ ] Second, the witness cannot recall that memory. This inability could be long term, or it could be the result of the anxiety of having to give evidence. Either way, the witness first has to exhaust his or her memory before he or she will be allowed to refresh his or her memory.
-- [ ] Third, there is something which may help the witness to recall the relevant information or detail required. It stands to reason that there must be something from which the witness can refresh his or her memory. The accuracy of the note or recording has to be established.
-- [ ] Fourth, the note or statement or other recording must have been made reasonably contemporaneously, meaning during or shortly after the relevant observation or incident and when the witness still had an independent and accurate recollection of the fact concerned.
-
-[[[Page-219|page 361]]]
-
+- First, the witness once had the fact or evidence to be adduced in evidence, in his or her memory. If the witness never "knew" the fact concerned, there is no memory to refresh.
+- Second, the witness cannot recall that memory. This inability could be long term, or it could be the result of the anxiety of having to give evidence. Either way, the witness first has to exhaust his or her memory before he or she will be allowed to refresh his or her memory.
+- Third, there is something which may help the witness to recall the relevant information or detail required. It stands to reason that there must be something from which the witness can refresh his or her memory. The accuracy of the note or recording has to be established.
+- Fourth, the note or statement or other recording must have been made reasonably contemporaneously, meaning during or shortly after the relevant observation or incident and when the witness still had an independent and accurate recollection of the fact concerned.
 Table 20.7 Refreshing memory
 
 |  What to do | How to do it  |

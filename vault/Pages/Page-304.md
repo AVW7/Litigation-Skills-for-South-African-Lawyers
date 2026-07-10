@@ -2,7 +2,7 @@
 title: "E"
 pdfPage: 304
 printedPage: 302
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,20 @@ tags:
 aliases:
   - "Page 304"
   - "PDF Page 304"
+topics:
+  - applications
+  - circumstantial-evidence
+  - credibility
+  - cross-examination
+  - direct-evidence
+  - evidence
+  - examination-in-chief
+  - expert-evidence
+  - fact-analysis
+  - hearsay
+  - pleadings
+  - protocol-and-ethics
+  - witnesses
 ---
 
 [[Page-303|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-305|Next Page →]]
@@ -47,19 +61,19 @@ raised in replication, 144-146
 Evidence
 
 admissibility *see* Admissibility of evidence  
-advice on evidence *see* Advice on evidence  
+[[Page-92|advice on evidence]] *see* Advice on evidence  
 assembling *see* Assembling evidence  
 character evidence *see* Character evidence  
-circumstantial evidence, 10, 210  
+[[Page-100|circumstantial evidence]], 10, 210  
 contemporaneous records, 362  
 credibility evidence, 210  
 direct evidence, 10, 209-210  
 discrediting, 326-327, 328  
 exclusionary rules, 304-305, 372  
 exhibits *see* Exhibits  
-expert evidence *see* Expert witness  
-fact analysis and strategy, 257-260  
-hearsay evidence, 305, 372-373  
+[[Page-100|expert evidence]] *see* [[Page-100|Expert witness]]  
+[[Page-115|fact analysis]] and strategy, 257-260  
+[[Page-92|hearsay]] evidence, 305, 372-373  
 identification evidence, 369-371  
 improperly obtained, 305  
 indirect evidence, 210  
@@ -83,12 +97,12 @@ Evidential facts, 85
 
 Ex parte application, 163, 164
 
-Examination-in-chief
+[[Page-136|Examination-in-chief]]
 
 admissibility of evidence, 304-305  
 briefing witness, 309-311  
 checklist and assessment guide, 323-324  
-cross-examination compared, 341  
+[[Page-145|cross-examination]] compared, 341  
 demonstration exercise, 312-323  
 expert witness, 364  
 leading questions, 305, 308  

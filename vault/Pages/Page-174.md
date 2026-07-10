@@ -2,7 +2,7 @@
 title: "16.4 Examples of opening statements in a criminal case"
 pdfPage: 174
 printedPage: 290
-chapter: "Chapter 16: ## Opening statement"
+chapter: "Chapter 16: Opening statement"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 174"
   - "PDF Page 174"
+topics:
+  - argumentation
+  - evidence
+  - onus
+  - opening-statement
+  - pleadings
 ---
 
 [[Page-173|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-175|Next Page →]]
@@ -28,10 +34,7 @@ aliases:
 The opening address for the prosecution in a criminal case in the Magistrates' Court could be structured as follows:
 
 (Pretend you are the judge and answer the following question at the end of this exercise: 'Do I now have a fair idea what this case is about and how counsel intends to prove the case?')
-
-[[[Page-174|page 290]]]
-
-**Table 16.1** Opening statement for the prosecution (in terms of section 150 of Act 51 of 1977)
+**Table 16.1** [[Page-131|Opening statement]] for the prosecution (in terms of section 150 of Act 51 of 1977)
 
 |  What to do | Comment | How to do it  |
 | --- | --- | --- |

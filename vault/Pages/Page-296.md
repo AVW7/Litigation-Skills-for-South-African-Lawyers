@@ -2,7 +2,7 @@
 title: "Prosecution witnesses"
 pdfPage: 296
 printedPage: 491
-chapter: "Chapter 25: Appeals"
+chapter: "Appendices"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 296"
   - "PDF Page 296"
+topics:
+  - argumentation
+  - burden-of-proof
+  - closing-argument
+  - cross-examination
+  - evidence
+  - opening-statement
 ---
 
 [[Page-295|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-297|Next Page →]]
@@ -65,9 +72,6 @@ He wanted a new bag rather than a backpack, as he thought a bag might be more in
 He looked at some backpacks. He put his own on the floor and mistakenly slung the store's backpack over his shoulder when he went to look at some bags.
 
 When he found nothing to his liking, he left the store with the store's backpack still over his shoulder.
-
-[[[Page-296|page 491]]]
-
 It was only when he was stopped outside that he realised he had the store's backpack and not his own.
 
 He apologised for his mistake immediately but, unfortunately, it is the store's policy to prosecute in all cases.
@@ -86,7 +90,7 @@ The accused did not intend to take the store's backpack. He did not even realise
 
 The issue is *animus furandi*.
 
-The burden of proof is on the Prosecution. It has to prove that a mistake such as that explained by the accused and Dr Stone **did not occur**. The test is whether the accused's version can reasonably be true. (See *S v Luther en"n*
+The [[Page-92|burden of proof]] is on the Prosecution. It has to prove that a mistake such as that explained by the accused and Dr Stone **did not occur**. The test is whether the accused's version can reasonably be true. (See *S v Luther en"n*
 
 ---
 

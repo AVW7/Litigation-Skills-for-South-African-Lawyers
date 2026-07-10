@@ -2,7 +2,7 @@
 title: "Page 319"
 pdfPage: 319
 printedPage: 317
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,17 +10,23 @@ tags:
 aliases:
   - "Page 319"
   - "PDF Page 319"
+topics:
+  - cross-examination
+  - examination-in-chief
+  - expert-evidence
+  - re-examination
+  - witnesses
 ---
 
 [[Page-318|← Previous Page]] | [[Dashboard|Dashboard]] | End →
 
 ---
 
-cross-examination *see* Cross-examination  
+[[Page-145|cross-examination]] *see* Cross-examination  
 details, 70  
 discrediting, 327-328  
-examination-in-chief *see* Examination-in-chief  
-expert *see* Expert witness  
+[[Page-136|examination-in-chief]] *see* Examination-in-chief  
+expert *see* [[Page-100|Expert witness]]  
 hostile, 362-363, 378  
 interest in outcome of trial, 327, 342  
 interviewing in civil case, 20-21, 22  
@@ -35,7 +41,7 @@ prior bad acts, 328, 343
 prior convictions, 328, 330, 343, 348-349  
 prior inconsistent statements, 328, 343, 358-359  
 recounting, 327, 342  
-re-examination *see* Re-examination  
+[[Page-160|re-examination]] *see* Re-examination  
 reputation, 328, 343-344  
 statements, 70, 211-212, 482-485  
 timeline, 212, 307, 315, 321-323

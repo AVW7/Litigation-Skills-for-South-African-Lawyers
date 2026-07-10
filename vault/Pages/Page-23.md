@@ -10,6 +10,9 @@ tags:
 aliases:
   - "Page 23"
   - "PDF Page 23"
+topics:
+  - appeals
+  - protocol-and-ethics
 ---
 
 [[Page-22|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-24|Next Page →]]
@@ -39,9 +42,6 @@ aliases:
   - 2.7.3 Entry in investigation diary
   - 2.7.4 Oral advice to the complainant
 - 2.8 Protocol and ethics
-
-[[[Page-23|page 29]]]
-
 ### 2.1 Introduction
 
 Clients approach lawyers for advice and counselling so that they can make informed decisions about their future conduct. The client wants to know, 'What can I do?' and 'What should I do?' In the case of a prosecutor's office, the 'client' is the complainant even though in practice the litigation is usually driven by the police and the prosecution is conducted in the name of the state. The question, 'What can I do?' requires the lawyer to identify and evaluate the available options and the consequences of adopting each of them. It is the lawyer's duty to advise the client of the pros and cons of each option and which option, in the lawyer's view, is the best option. The question, 'What should I do?' on the other hand, requires the lawyer to help the client to make the right decision, having regard to those options and consequences. Counselling therefore goes beyond the mere giving of advice. It is the process by means of which the lawyer helps the client to decide what to do. Having received advice and counselling, the client has the responsibility of making the final decision.
@@ -49,9 +49,6 @@ Clients approach lawyers for advice and counselling so that they can make inform
 Advising and counselling are complementary, but different, skills. The lawyer acts as an objective investigator during the advice stage but takes on the role of a personal advisor during the counselling stage. Advising and counselling occur in virtually every branch of a lawyer's practice, from property transactions to litigation, from the collection of small debts to the conclusion of international shipping or licensing contracts. Whatever the nature of a lawyer's practice, advising and counselling will be part of it. Attorneys may advise and counsel differently from advocates as they have a more direct, and usually a more enduring, relationship with their clients. Advocates are also usually required to advise or counsel in a far more formal setting.
 
 Advising and counselling are also part of litigation. Indeed, advising and counselling continue through every stage of the litigation process. It can start at the first interview and can continue even after a final appeal has been decided. Nevertheless, the underlying processes and skills to be employed are the same for both branches of the profession and for all types of legal work, including the work of a prosecutor.
-
-[[[Page-23|page 30]]]
-
 ### 2.2 Advising and counselling generally
 
 #### 2.2.1 Advising the client

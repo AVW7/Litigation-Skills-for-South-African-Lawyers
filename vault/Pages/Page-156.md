@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 156"
   - "PDF Page 156"
+topics:
+  - admissions
+  - contract
+  - evidence
+  - negligence
+  - onus
 ---
 
 [[Page-155|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-157|Next Page →]]
@@ -29,9 +35,6 @@ One way of making an assessment whether the evidence is sufficient to establish 
 |  1 The Plaintiff was at all material times the owner of motor car NPN 2001, a [year] Honda. | 1.1 The plaintiff bought the car, a [year] Honda, from a dealer in motor cars. | Plaintiff: 'I went to the Honda dealership. I bought the car, a [year] model Honda, from them . . .' Exhibits: Contract, receipt. | Y Y Y | Y Y Y | Y Y Y  |
 |   | 1.2 The sale was for cash. | Plaintiff: 'I bought the car for cash.' Exhibits: Contract, receipt Admission at Rule 37 conference (paragraph 6 of minutes)*. | Y Y | Y Y | Y Y  |
 |   | 1.3 The purchase price was paid. | Plaintiff: 'I paid by cheque . . .' Exhibits: Receipt, cheque. | Y Y | Y Y | Y Y  |
-
-[[[Page-156|page 259]]]
-
 |  Material fact (Stage 3) | Propositions of fact (Stage 4) | The evidence for each proposition of fact (Stage 5) | A (6) | R (6) | S (6)  |
 | --- | --- | --- | --- | --- | --- |
 |   | 1.4 The dealer delivered the car to her with the intention of transferring ownership. | Plaintiff: 'The dealer then handed me the keys and the car's registration documents . . .' Exhibits: Registration documents. | Y Y | Y Y | Y Y  |

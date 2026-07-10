@@ -10,6 +10,16 @@ tags:
 aliases:
   - "Page 98"
   - "PDF Page 98"
+topics:
+  - affidavits
+  - applications
+  - credibility
+  - cross-examination
+  - discovery
+  - evidence
+  - expert-evidence
+  - pleadings
+  - protocol-and-ethics
 ---
 
 [[Page-97|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-99|Next Page →]]
@@ -18,7 +28,7 @@ aliases:
 
 is worth remembering that mistakes are easily made and often just as easily remedied.
 
-- [ ] When a mistake has been made, amend the offending pleading so that it complies with the rules. Defending an inadequate pleading through all the stages of an opposed motion is unlikely to endear counsel to the court or the client. It may also amount to unethical or unprofessional conduct.
+- When a mistake has been made, amend the offending pleading so that it complies with the rules. Defending an inadequate pleading through all the stages of an opposed motion is unlikely to endear counsel to the court or the client. It may also amount to unethical or unprofessional conduct.
 
 ## Chapter 10
 Drafting applications
@@ -41,12 +51,9 @@ Drafting applications
 10.5.4.3 The form of the notice of application
 10.6 Hearing of opposed applications
 10.7 Protocol and ethics
-
-[[[Page-98|page 161]]]
-
 ### 10.1 Introduction
 
-Applications differ from actions mainly in the way the evidence is presented to the court. In an action, which is initiated by the issue of a summons and then proceeds through the stages of pleading discussed in chapters 5 to 9, the evidence is presented to the court by way of oral evidence. In an application, which is initiated by the issue of a notice of motion (or a notice of application), the evidence is presented to the court in the form of affidavits. This feature, where the evidence is presented to the court in the form of written affidavits, is the most distinguishing aspect of the application procedure. It is also its major limitation; it is not suited to cases where there are disputes of fact between the parties that require that the evidence be given orally and tested by cross-examination.
+Applications differ from actions mainly in the way the evidence is presented to the court. In an action, which is initiated by the issue of a summons and then proceeds through the stages of pleading discussed in chapters 5 to 9, the evidence is presented to the court by way of oral evidence. In an application, which is initiated by the issue of a notice of motion (or a notice of application), the evidence is presented to the court in the form of affidavits. This feature, where the evidence is presented to the court in the form of written affidavits, is the most distinguishing aspect of the application procedure. It is also its major limitation; it is not suited to cases where there are disputes of fact between the parties that require that the evidence be given orally and tested by [[Page-145|cross-examination]].
 
 Table 10.1 Action procedure compared to application procedure
 

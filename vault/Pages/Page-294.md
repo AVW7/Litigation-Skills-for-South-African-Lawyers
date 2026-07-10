@@ -2,7 +2,7 @@
 title: "2.3 Fact analysis continued: Admissibility, reliability and sufficiency issues"
 pdfPage: 294
 printedPage: 488
-chapter: "Chapter 25: Appeals"
+chapter: "Appendices"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 294"
   - "PDF Page 294"
+topics:
+  - cross-examination
+  - evidence
+  - fact-analysis
 ---
 
 [[Page-293|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-295|Next Page →]]
@@ -24,9 +28,6 @@ aliases:
 |   | 3.A.7 He did not have enough money on him to pay for the backpack he had taken. | Delamere: 'The value of the backpack is R150.00.' Exhibit: Price tag (#3) Reddy: 'I searched . . . found R45.00 in his trousers pocket.' Exhibit: Prisoners' Property Register (#4)  |
 |   | 3.B.8 The two backpacks are very similar in weight and texture. | Graham: 'I had a really good look . . . and could not see any significant differences between them. I had not noticed any difference in weight or texture.' Exhibits: Both backpacks  |
 |   | 3.B.9 Both contained only paper. | Graham: 'The store's backpack was filled with crumpled paper.' 'In my backpack was the newspaper . . .' Exhibits: Both backpacks  |
-
-[[[Page-294|page 488]]]
-
 |  Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact  |
 | --- | --- | --- |
 |   | 3.B.10 The accused wanted a bag, not another backpack. | Graham: 'I wanted a new bag rather than a backpack . . .'  |

@@ -2,7 +2,7 @@
 title: "18.6.4 Undermining"
 pdfPage: 203
 printedPage: 337
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 203"
   - "PDF Page 203"
+topics:
+  - argumentation
+  - cross-examination
+  - evidence
+  - witnesses
 ---
 
 [[Page-202|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-204|Next Page →]]
@@ -29,9 +34,6 @@ A. Yes.
 Q. He then examined the store's backpack thoroughly, didn't he?
 
 A. Well, uhm.
-
-[[[Page-203|page 337]]]
-
 Q. What I mean is that he held it up, opened its various pouches and looked inside its separate compartments.
 
 A. Yes, he did.
@@ -88,16 +90,13 @@ What has been suggested here is that the accused had slung the backpack over his
 
 Undermining questions would, typically, be aimed at the aspects discussed earlier in this chapter, such as -
 
-- [ ] the opportunity, or lack of opportunity, to observe;
-- [ ] the accuracy of the recollection of the events by the witness;
-- [ ] the accuracy of the recounting of the events by the witness;
-- [ ] bias, prejudice, interest or corruption;
-- [ ] the presence of discrepancies and inconsistencies in the evidence of the witness, as apparent from prior inconsistent statements, the evidence of other witnesses, and any documentary evidence;
-
-[[[Page-203|page 338]]]
-
-- [ ] the general (or inherent) probabilities of the case; and
-- [ ] the character of the witness, as apparent from prior convictions, other prior bad acts or his or her reputation.
+- the opportunity, or lack of opportunity, to observe;
+- the accuracy of the recollection of the events by the witness;
+- the accuracy of the recounting of the events by the witness;
+- bias, prejudice, interest or corruption;
+- the presence of discrepancies and inconsistencies in the evidence of the witness, as apparent from prior inconsistent statements, the evidence of other witnesses, and any documentary evidence;
+- the general (or inherent) probabilities of the case; and
+- the character of the witness, as apparent from prior convictions, other prior bad acts or his or her reputation.
 
 Using confrontation, probing and suggestion, the cross-examiner would attempt to undermine the impact of the
 

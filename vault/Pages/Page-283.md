@@ -10,6 +10,14 @@ tags:
 aliases:
   - "Page 283"
   - "PDF Page 283"
+topics:
+  - appeals
+  - argumentation
+  - evidence
+  - persuasion
+  - pleadings
+  - sentencing
+  - witnesses
 ---
 
 [[Page-282|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-284|Next Page →]]
@@ -24,7 +32,7 @@ The dynamic between counsel arguing the appeal and the judges on the bench is di
 
 Speak to all the judges, especially the ones who appear to be against you. You do not need to persuade the ones who agree with you. The job at hand is to persuade the ones who disagree with you. It is not always possible to determine who is for you and who is against you, and some judges are very adept at keeping their true views disguised. On the other hand, some judges make their views quite plain and if they are against you, you may be in for a robust debate. If it appears that a particular judge is dead set against you, concentrate your efforts on persuading the others; a majority verdict is still a win.
 
-When it becomes plain that a particular judge does not know the facts, or misunderstands them, or has not read the papers, counsel has to make sure they give the court the facts. Extreme tact is required in this situation. "May I take a minute or two to recapitulate [[[Page-283|page 472]]] the facts which are important to the court's consideration of the issue raised by Justice X?" may be a way to inform the judges of the facts without openly exposing the lack of knowledge or understanding of the errant judge.
+When it becomes plain that a particular judge does not know the facts, or misunderstands them, or has not read the papers, counsel has to make sure they give the court the facts. Extreme tact is required in this situation. "May I take a minute or two to recapitulate *(see page 472)* the facts which are important to the court's consideration of the issue raised by Justice X?" may be a way to inform the judges of the facts without openly exposing the lack of knowledge or understanding of the errant judge.
 
 Face the unanswerable proposition. "I have no answer to that, Justice Y, but there are other points in this appeal." Do not argue hopeless points. Advance only good points. Keep your focus on the main point or the main thrust of the argument. One good point is all you need in an appeal. Get to that point quickly so that it does not lose its value or get buried under points of lesser value or impact. Don't get tempted into a petty argument about unimportant points; it takes the focus away from the points that really matter.
 
@@ -36,13 +44,13 @@ There are seven special qualities required for persuasive appellate advocacy, an
 
 ### 25.8.1 The seven special qualities of persuasion
 
-- - [ ] The power of recall: Counsel needs to be able to recall the evidence, what was written in the pleadings, where a particular document is to be found in the record, what a witness has said in answer to a question; the list of things counsel should have stored in memory, is endless. The value of the power of recall is that it allows for immediate answers to be given to questions from the bench and for a quick response to your opponent's argument.
-- - [ ] A sense of relevance: The great orator Quintilian (35-96 AD) said: "Festinat enim judex ad id quod potentissimum." The judge hurries to the strongest point. The ability to see that point and to cut a path directly to it is an invaluable gift.
-- - [ ] Tact: A deft touch is required, to turn the dissenter, to deflect a point or authority against your client, to persuade the doubtful with subtlety and logic, to know when to stop.
-- - [ ] Candour: Counsel's duty to the court requires contrary authorities to be brought to the notice of the court and bad facts to be dealt with. Distinguish the contrary authorities and explain the bad facts away, if you can.
-- - [ ] The ability to make it interesting: Advocacy is the art of persuasion and the Supreme Court of Appeal is as likely as any other court to be moved by it. Elegance and wit are the tools. You can make it interesting by weaving an elegant legal argument through an ordinary set of facts or by infusing some wit into the case. Wit should be used sparingly.
-- - [ ] The art of a telling reply: It is truly an art to find a reply which in one or two sentences or submissions can dispose of the opponent's strongest points. Even a reminder that opposing counsel has not answered the main point or points of your own argument could amount to a telling reply.
-- - [ ] The ability to make your points with brevity and compression: The Supreme Court of Appeal expects the
+- The power of recall: Counsel needs to be able to recall the evidence, what was written in the pleadings, where a particular document is to be found in the record, what a witness has said in answer to a question; the list of things counsel should have stored in memory, is endless. The value of the power of recall is that it allows for immediate answers to be given to questions from the bench and for a quick response to your opponent's argument.
+- A sense of relevance: The great orator Quintilian (35-96 AD) said: "Festinat enim judex ad id quod potentissimum." The judge hurries to the strongest point. The ability to see that point and to cut a path directly to it is an invaluable gift.
+- Tact: A deft touch is required, to turn the dissenter, to deflect a point or authority against your client, to persuade the doubtful with subtlety and logic, to know when to stop.
+- Candour: Counsel's duty to the court requires contrary authorities to be brought to the notice of the court and bad facts to be dealt with. Distinguish the contrary authorities and explain the bad facts away, if you can.
+- The ability to make it interesting: Advocacy is the art of persuasion and the Supreme Court of Appeal is as likely as any other court to be moved by it. Elegance and wit are the tools. You can make it interesting by weaving an elegant legal argument through an ordinary set of facts or by infusing some wit into the case. Wit should be used sparingly.
+- The art of a telling reply: It is truly an art to find a reply which in one or two sentences or submissions can dispose of the opponent's strongest points. Even a reminder that opposing counsel has not answered the main point or points of your own argument could amount to a telling reply.
+- The ability to make your points with brevity and compression: The Supreme Court of Appeal expects the
 
 ---
 

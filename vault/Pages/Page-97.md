@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 97"
   - "PDF Page 97"
+topics:
+  - argumentation
+  - evidence
+  - exceptions
+  - pleadings
+  - protocol-and-ethics
 ---
 
 [[Page-96|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-98|Next Page →]]
@@ -19,9 +25,6 @@ aliases:
 (3) . . .
 
 Wherefore the accused prays that the charge be quashed, alternatively, that the prosecution be ordered to make such amendments to the charge or to deliver such particulars as are necessary to remove the cause of the objection.
-
-[[[Page-97|page 159]]]
-
 ### 9.5.3 Responding to the objection to the charge
 
 The prosecutor faced with an objection to the charge will have to consider whether the charge as it stands satisfies the requirements of section 84 of the Act and if it does, will be entitled to set the matter down for argument and defend the charge as it stands. If the prosecutor on reflection should come to the conclusion that the objection is good, he or she will have to amend the charge in order to remove the cause of the objection. This is achieved by filing an amended charge (in the form of a summons, charge sheet or indictment).
@@ -35,7 +38,7 @@ When preparing a charge or considering whether an objection to it is good, the p
 Sections 89 to 104 deal with the requirements for a charge in respect of specific offences or types of offences. Their provisions - which should be studied together with the commentary in and cases referred to in a textbook such as Kruger *Hiemstra's Criminal Procedure* LexisNexis - may be summarised as follows:
 
 - Section 89 - previous convictions must not be mentioned in the charge except where they are an element of the offence.
-- Section 90 - the charge need not specify or negative an exception, exemption, proviso, excuse or qualification.
+- Section 90 - the charge need not specify or negative an [[Page-75|exception]], exemption, proviso, excuse or qualification.
 - Section 91 - the charge need not state the manner or means of an act.
 - Section 92 - certain omissions or imperfections will not invalidate the charge.
 - Section 93 - where the defence is an alibi, the prosecution may be held to the date and time alleged in the charge.
@@ -47,9 +50,6 @@ Sections 89 to 104 deal with the requirements for a charge in respect of specifi
 - Section 99 - the charge need not attach a copy of a document or described it or state its value; it is sufficient to refer to it by the name it is commonly known or by its purport (meaning or content).
 - Section 100 - on a charge of theft it is sufficient to allege a general deficiency in a stated amount.
 - Section 101 - contains special provisions with regard to charges relating to false evidence.
-
-[[[Page-97|page 160]]]
-
 - Section 102 - charges relating to insolvency need not set forth the debt, act of insolvency or determination by a court.
 - Section 103 - a charge alleging intent to defraud need not allege such intent in respect of a particular person or mention the owner of the property concerned or give details of the deceit.
 - Section 104 - a charge relating to objectionable matter need not set out the words concerned; the court may, however, order that particulars be delivered identifying the relevant passages.

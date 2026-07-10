@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 59"
   - "PDF Page 59"
+topics:
+  - evidence
+  - negligence
+  - pleadings
 ---
 
 [[Page-58|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-60|Next Page →]]
@@ -27,11 +31,11 @@ aliases:
 
 The same principles apply to any defence that amounts to a confession and avoidance. Estoppel is such a defence. The legal elements are that -
 
-- - [ ] the plaintiff made a representation of fact by words or conduct;
-- - [ ] the representation was false;
-- - [ ] the defendant believed it to be true and acted upon the correctness of the representation;
-- - [ ] the defendant so acted to his or her detriment or prejudice; and
-- - [ ] the representation was made negligently. (In some types of estoppel negligence may not be a requirement.)
+- the plaintiff made a representation of fact by words or conduct;
+- the representation was false;
+- the defendant believed it to be true and acted upon the correctness of the representation;
+- the defendant so acted to his or her detriment or prejudice; and
+- the representation was made negligently. (In some types of estoppel negligence may not be a requirement.)
 
 Imagine under how many different circumstances an estoppel can arise. (See the cases referred to in the Noter-up under the heading Estoppel.) They range from the obvious to the outrageous. We can only speculate on the wide range of evidence that could be available in some of the cases. Yet, the legal elements are the same for all of them.
 
@@ -41,9 +45,6 @@ In a criminal case the legal elements to be proved on a charge of murder could b
 
 1 the accused
 2 on [date]
-
-[[[Page-59|page 88]]]
-
 3 at [place]
 4 unlawfully
 5 and intentionally
@@ -56,7 +57,7 @@ Note that item 6 constitutes the actus reus of murder and may be broken down int
 
 There are several formal requirements with which all pleadings must comply, apart from the principles regulating their content:
 
-- - [ ] Every pleading must have the title of the action and the case number allocated by the Registrar on its first page (Rule 18(2)). The title contains the name of the court, the names of the parties with their descriptions and the name of the pleading. For example:
+- Every pleading must have the title of the action and the case number allocated by the Registrar on its first page (Rule 18(2)). The title contains the name of the court, the names of the parties with their descriptions and the name of the pleading. For example:
 
 |  [COURT DESCRIPTION as prescribed]  |   |
 | --- | --- |
@@ -66,7 +67,7 @@ There are several formal requirements with which all pleadings must comply, apar
 |  Joe Smith | Defendant  |
 |  PLAINTIFF'S DECLARATION  |   |
 
-- - [ ] The paragraphs of the pleading must be numbered. Each paragraph should deal with only one fact or allegation. If necessary, sub-paragraphs should be used to keep related facts or allegations together (Rule 18(3)).
+- The paragraphs of the pleading must be numbered. Each paragraph should deal with only one fact or allegation. If necessary, sub-paragraphs should be used to keep related facts or allegations together (Rule 18(3)).
 
 ---
 

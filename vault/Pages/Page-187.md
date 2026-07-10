@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 187"
   - "PDF Page 187"
+topics:
+  - damages
+  - examination-in-chief
+  - witnesses
 ---
 
 [[Page-186|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-188|Next Page →]]
@@ -18,14 +22,11 @@ aliases:
 
 the scene and to give an accurate description.
 
-- [ ] Don't ask questions with your nose buried in the brief or the witness's statement. Do not read questions from a prepared list. Use a timeline and the piggyback method instead and focus on the key points to be covered by the witness. Adopt a stance and attitude with your shoulders square, an open stance, leaning slightly forward, making eye contact and being generally relaxed.
+- Don't ask questions with your nose buried in the brief or the witness's statement. Do not read questions from a prepared list. Use a timeline and the piggyback method instead and focus on the key points to be covered by the witness. Adopt a stance and attitude with your shoulders square, an open stance, leaning slightly forward, making eye contact and being generally relaxed.
 
 ## 17.7 Demonstration exercise
 
-The technique and principles of examination-in-chief are demonstrated in the following exercise. The facts are apparent from the statements of two witnesses, the victim of a robbery and a police officer. Let's pretend we are prosecuting counsel in the criminal trial. (You can run the same exercise as counsel for the plaintiff in the civil action, claiming damages for assault.)
-
-[[[Page-187|page 313]]]
-
+The technique and principles of [[Page-136|examination-in-chief]] are demonstrated in the following exercise. The facts are apparent from the statements of two witnesses, the victim of a robbery and a police officer. Let's pretend we are prosecuting counsel in the criminal trial. (You can run the same exercise as counsel for the plaintiff in the civil action, claiming damages for assault.)
 The victim's statement reads as follows:
 
 ### Statement of James Donald Weir
@@ -41,9 +42,6 @@ I tried to run after him and screamed for help, but I collapsed in the car park.
 The day after I was released from hospital, I was called to the police station for a voice identification parade. Ten men were behind a screen. I could not see them. Each one was asked to read the words my attacker had spoken and which I have set out earlier in this statement. I was asked to indicate if I recognised the voice of my attacker. The Inspector in charge first told me that my attacker might not be on the parade and that I should listen to all the voices first and be careful that I am certain before I identified anyone. I listened to all the voices but as soon as I heard number seven I recognised the voice of my attacker. After listening to the rest of the voices, I told the Inspector that number seven was definitely the voice of my attacker. The police then brought number seven out from behind the screen. It was a young white man with long brown hair, about 1,70 metres tall and about 75 kilograms. He was wearing blue denim jeans and a whitish T-shirt and a denim jacket. I don't know his name.
 
 I identified my wallet with all its contents intact at the police station the same day and they were given back to me.
-
-[[[Page-187|page 314]]]
-
 The police officer's statement reads as follows:
 
 ### Statement of Alson Khuzwayo

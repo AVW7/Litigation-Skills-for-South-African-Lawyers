@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/rule-5.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rule-5"
+              "title": "Dashboard"
             }
           }
         ]
@@ -185,12 +185,32 @@
   },
   "active": "51203417fbc67ef7",
   "lastOpenFiles": [
-    "Rules/rule-4.md",
-    "Rules/rule-3.md",
-    "Rules/rule-2.md",
-    "Rules/rule-1.md",
-    "Chapters.base",
+    "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
     "Pages/Page-1.md",
-    "Litigation Skills/Welcome.md"
+    "Litigation Skills/Chapter 28 - Index.md",
+    "Litigation Skills/Chapter 27 - Appendices.md",
+    "Litigation Skills/Chapter 26 - Epilogue.md",
+    "Litigation Skills/Chapter 25 - Appeals.md",
+    "Litigation Skills/Chapter 24 - Reviews.md",
+    "Litigation Skills/Chapter 23 - Persuasive advocacy Substance and style.md",
+    "Litigation Skills/Chapter 22 - Motion Court.md",
+    "Litigation Skills/Chapter 21 - Closing argument.md",
+    "Litigation Skills/Chapter 20 - Special procedures.md",
+    "Litigation Skills/Chapter 19 - Re-examination.md",
+    "Litigation Skills/Chapter 18 - Cross-examination.md",
+    "Litigation Skills/Chapter 17 - Examination-in-chief.md",
+    "Litigation Skills/Chapter 16 - Opening statement.md",
+    "Litigation Skills/Chapter 15 - The protocol and etiquette of the courtroom.md",
+    "Litigation Skills/Chapter 14 - Preparation for trial Fact analysis and strategy.md",
+    "Litigation Skills/Chapter 13 - Preparation for trial Legal research.md",
+    "Litigation Skills/Chapter 12 - Preparing the case for trial Assembling the evidence.md",
+    "Litigation Skills/Chapter 11 - Preparing the case for trial Advice on evidence.md",
+    "Litigation Skills/Chapter 10 - Drafting applications.md",
+    "Litigation Skills/Chapter 09 - Drafting exceptions, applications to strike out and objections to a charge.md",
+    "Litigation Skills/Chapter 08 - Drafting replications and further pleadings.md",
+    "Litigation Skills/Chapter 07 - Drafting pleas and special pleas.md",
+    "Litigation Skills/Chapter 06 - Drafting statements of claim.md",
+    "Litigation Skills/Chapter 05 - Function, form and style of pleadings.md",
+    "Chapters.base"
   ]
 }

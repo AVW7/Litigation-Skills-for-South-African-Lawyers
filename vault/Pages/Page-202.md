@@ -2,7 +2,7 @@
 title: "18.6.3 Suggestion (insinuation)"
 pdfPage: 202
 printedPage: 336
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 202"
   - "PDF Page 202"
+topics:
+  - cross-examination
+  - evidence
+  - opening-statement
+  - witnesses
 ---
 
 [[Page-201|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-203|Next Page →]]
@@ -18,7 +23,7 @@ aliases:
 
 on the 12th August [year] at 04:00. His defence is an alibi and he has given notice that he intends to call his mother to support the alibi. He gave evidence-in-chief to the effect that he was asleep in his bed at home at the relevant time.
 
-**The aim of the cross-examination:** To probe into the details of the alibi in order to discredit it and to obtain material to undermine the alibi witness.
+**The aim of the [[Page-145|cross-examination]]:** To probe into the details of the alibi in order to discredit it and to obtain material to undermine the alibi witness.
 
 Prosecutor. *You first heard that the police were looking for you on 31st August [year]?*
 
@@ -59,9 +64,6 @@ A. *Okay.*
 Q. *What did you have for dinner?*
 
 A. *...*
-
-[[[Page-202|page 336]]]
-
 Q. *Did you have anything to drink?*
 
 A. *...*
@@ -82,14 +84,14 @@ Facts may be suggested to the witness in such a way that the events are put in a
 
 Suggestion would therefore be used where -
 
-- - [ ] there are only slight differences between the evidence and what you want to suggest is the truth; and
-- - [ ] you can make small, incremental gains by suggesting one fact at a time to the witness, preferably including (or repeating) two or more facts the witness has already given for every new fact suggested, so that the cumulative effect of all the evidence puts a different slant on the matter.
+- there are only slight differences between the evidence and what you want to suggest is the truth; and
+- you can make small, incremental gains by suggesting one fact at a time to the witness, preferably including (or repeating) two or more facts the witness has already given for every new fact suggested, so that the cumulative effect of all the evidence puts a different slant on the matter.
 
 Suggestive questions can be asked forcefully or gently. The stronger the underlying material (on which the suggestive questions are based), the firmer you can be in suggesting them as facts. However, where your material is sketchy or doubtful, you may have to be more diffident in your suggestions and lead the witness along gently. Subtlety, rather than aggression, may be the style to adopt in such a case.
 
 **Table 18.3** Suggestion as a technique in cross-examination
 
-**The facts:** The facts are given in chapter 15 in the opening addresses of the prosecutor and defence counsel. The store detective has given evidence to the effect set out in the prosecution's opening statement. The prosecution theory is that the accused "exchanged" his old backpack for a new one, and implemented a deliberate plan to steal by nonchalantly walking out the door without paying, and when confronted by the detective, apologised for his actions.
+**The facts:** The facts are given in chapter 15 in the opening addresses of the prosecutor and defence counsel. The store detective has given evidence to the effect set out in the prosecution's [[Page-131|opening statement]]. The prosecution theory is that the accused "exchanged" his old backpack for a new one, and implemented a deliberate plan to steal by nonchalantly walking out the door without paying, and when confronted by the detective, apologised for his actions.
 
 **The aim of the cross-examination:** To suggest additional facts which may put a
 

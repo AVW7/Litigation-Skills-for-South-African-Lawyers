@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 240"
   - "PDF Page 240"
+topics:
+  - applications
+  - discovery
+  - evidence
+  - motion-court
+  - protocol-and-ethics
+  - settlement
 ---
 
 [[Page-239|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-241|Next Page →]]
@@ -19,16 +26,13 @@ aliases:
 22.7 Protocol and ethics
 
 22.8 Checklist and assessment guide
-
-[[[Page-240|page 397]]]
-
 ## 22.1 Introduction
 
-Proceedings in the Motion Court (or Chamber Court, as it is sometimes called) differ from proceedings in other courts in many ways. The advocacy in Motion Court is non-adversarial in the sense that the proceedings are not opposed by the defendant or respondent and there is no appearance by counsel on behalf of the defendant. Counsel's duty to raise matters that are adverse to his or her case is higher than where the defendant is represented. Judges take a more active part in the debate and often take an adversarial stance to the applicant in order to test the validity of counsel's submissions. Cases are also dealt with in a hurry; there is usually a long list of cases for the day and the judge may even have been allocated a trial to hear as soon as the Motion Court finishes its work.
+Proceedings in the [[Page-179|Motion Court]] (or Chamber Court, as it is sometimes called) differ from proceedings in other courts in many ways. The advocacy in Motion Court is non-adversarial in the sense that the proceedings are not opposed by the defendant or respondent and there is no appearance by counsel on behalf of the defendant. Counsel's duty to raise matters that are adverse to his or her case is higher than where the defendant is represented. Judges take a more active part in the debate and often take an adversarial stance to the applicant in order to test the validity of counsel's submissions. Cases are also dealt with in a hurry; there is usually a long list of cases for the day and the judge may even have been allocated a trial to hear as soon as the Motion Court finishes its work.
 
 There is a hustle and bustle and excitement about the proceedings in the Motion Court that can be quite disconcerting for onlookers, especially if they are clients with current matters before the court. Counsel hold multiple briefs, people come and go as cases are called and are disposed of in quick succession, lawyers have whispered, last-minute discussions about settlements, postponements and the terms of consent orders. Every now and then the unexpected happens; a defendant turns up to argue the matter in person or asks for an adjournment to obtain legal advice. Things can, and do, go wrong in so many ways. The return of service is mislaid, the papers are defective, counsel does not have a complete set of papers; the list is endless. The best laid plans of mice and men . . . The presence of so many advocates, attorneys, candidate attorneys and law-office clerks means that any blunder is made in front of one's peers and is soon discussed in the common rooms of the Bar and the legal firms in town. The Motion Court is not a good place to make a fool of yourself.
 
-The Motion Court also deals with some opposed matters, ranging from opposed applications for postponements to substantive applications that are defended. So there remains an element of adversarial advocacy, but the overwhelming atmosphere is that of non-adversarial advocacy. The Motion Court is also distinguished from the Trial Court in that the procedures in the Motion Court are not designed to resolve disputes of fact by [[[Page-240|page 398]]] way of oral evidence. In this sense, the Motion Court is a 'paper court'. If evidence is required in a contested matter, that evidence is (usually) taken at a later date in a setting similar to a Trial Court.
+The Motion Court also deals with some opposed matters, ranging from opposed applications for postponements to substantive applications that are defended. So there remains an element of adversarial advocacy, but the overwhelming atmosphere is that of non-adversarial advocacy. The Motion Court is also distinguished from the Trial Court in that the procedures in the Motion Court are not designed to resolve disputes of fact by *(see page 398)* way of oral evidence. In this sense, the Motion Court is a 'paper court'. If evidence is required in a contested matter, that evidence is (usually) taken at a later date in a setting similar to a Trial Court.
 
 ## 22.2 Function of the Motion Court
 

@@ -2,7 +2,7 @@
 title: "Page 306"
 pdfPage: 306
 printedPage: 304
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 306"
   - "PDF Page 306"
+topics:
+  - argumentation
+  - evidence
+  - fact-analysis
+  - fraud
+  - hearsay
+  - witnesses
 ---
 
 [[Page-305|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-307|Next Page →]]
@@ -18,11 +25,11 @@ aliases:
 
 trial tactics, 265-267
 
-*Facta probanda* and *probantia* distinguished, 84
+*[[Page-47|Facta probanda]]* and *probantia* distinguished, 84
 
 Facts of case
 
-analysis see Fact analysis and strategy
+analysis see [[Page-115|Fact analysis]] and strategy
 establishing in chronological order, 7-10
 
 Fees
@@ -68,7 +75,7 @@ appeals, 459-465
 drafting, 392
 late filing/completion, 286
 
-Hearsay evidence
+[[Page-92|Hearsay]] evidence
 
 meaning, 372-373
 exceptions to rule, 372-373

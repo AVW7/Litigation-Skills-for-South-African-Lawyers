@@ -10,6 +10,17 @@ tags:
 aliases:
   - "Page 232"
   - "PDF Page 232"
+topics:
+  - appeals
+  - argumentation
+  - circumstantial-evidence
+  - closing-argument
+  - credibility
+  - damages
+  - evidence
+  - negligence
+  - onus
+  - theory-of-case
 ---
 
 [[Page-231|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-233|Next Page →]]
@@ -18,16 +29,13 @@ aliases:
 
 point of law arising from the facts. There can also be many different points to be argued separately within a far larger argument. Each case has to be approached with the particular facts and circumstances of that case alone in mind. You should try to build the argument around a logical structure or scheme, for example:
 
-**Table 21.1** Scheme for a closing argument
+**Table 21.1** Scheme for a [[Page-174|closing argument]]
 
 |  What to do | How to do it  |
 | --- | --- |
 |  **Step 1:** State the issues. | Isolate the issues or essential questions of law involved. Arrange them in logical order and structure the rest of the argument accordingly.  |
 |  **Step 2:** Deal with the onus and standard of proof. | Mention on whom the onus of proof lies in respect of each issue and state what the standard of proof is (*prima facie*, balance of probability, beyond reasonable doubt).  |
-|  **Step 3:** Marshal the evidence in support of your theory of the case. | State briefly what evidence there is in support of the theory of the case being pursued and deal with the associated questions of credibility, probability, probative value, circumstantial evidence and numeral preponderance. Deal with the inferences to be drawn from the facts. In short, arrange the evidence, facts, circumstances and points of argument so that they tell an interesting and convincing story.  |
-
-[[[Page-232|page 382]]]
-
+|  **Step 3:** Marshal the evidence in support of your [[Page-115|theory of the case]]. | State briefly what evidence there is in support of the theory of the case being pursued and deal with the associated questions of credibility, probability, probative value, [[Page-100|circumstantial evidence]] and numeral preponderance. Deal with the inferences to be drawn from the facts. In short, arrange the evidence, facts, circumstances and points of argument so that they tell an interesting and convincing story.  |
 |  What to do | How to do it  |
 | --- | --- |
 |  **Step 4:** Deal briefly with the opponent's case. | Discuss the opponent's case to show its weaknesses, lack of credibility, insufficiency of proof and other defects. If necessary, deal with the matter on a comparative basis to point out why your case should be preferred.  |
@@ -40,10 +48,7 @@ The structure of the argument is also dictated by factors such as the audience t
 
 #### 21.4.1 Dealing with the issues one at a time
 
-In most cases the issues can be isolated and dealt with separately. Related issues can be clustered together, but it is still important to keep them firmly in mind as separate from each other. How else could one justify a finding in one's favour on any *particular* issue? The argument should also progress from one issue to the next. However, there must be some cohesion or connection between the points and issues raised during the argument. For example, in a negligence case involving the driving of a car, the argument could deal first with proof of the identity of the driver and only then deal with the grounds of negligence and thereafter with any questions of contributory negligence. Dealing with contributory negligence first in that situation does not appeal to logic as contributory negligence would only be relevant if negligence on the part of the defendant has been established.
-
-[[[Page-232|page 383]]]
-
+In most cases the issues can be isolated and dealt with separately. Related issues can be clustered together, but it is still important to keep them firmly in mind as separate from each other. How else could one justify a finding in one's favour on any *particular* issue? The argument should also progress from one issue to the next. However, there must be some cohesion or connection between the points and issues raised during the argument. For example, in a negligence case involving the driving of a car, the argument could deal first with proof of the identity of the driver and only then deal with the grounds of negligence and thereafter with any questions of [[Page-66|contributory negligence]]. Dealing with contributory negligence first in that situation does not appeal to logic as contributory negligence would only be relevant if negligence on the part of the defendant has been established.
 **Table 21.2** Dealing with the issues in turn
 
 |  What to do | How to do it  |

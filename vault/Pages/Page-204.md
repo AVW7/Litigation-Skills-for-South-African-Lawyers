@@ -2,7 +2,7 @@
 title: "18.6.5 Special techniques"
 pdfPage: 204
 printedPage: 339
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,15 @@ tags:
 aliases:
   - "Page 204"
   - "PDF Page 204"
+topics:
+  - credibility
+  - cross-examination
+  - evidence
+  - expert-evidence
+  - fact-analysis
+  - opening-statement
+  - theory-of-case
+  - witnesses
 ---
 
 [[Page-203|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-205|Next Page →]]
@@ -20,9 +29,9 @@ evidence or the witness.
 
 **Table 18.4** Undermining the witness
 
-|  **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence opening statement.  |
+|  **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence [[Page-131|opening statement]].  |
 | --- |
-|  **The aim of the cross-examination:** To "parade" the prosecution case in order to undermine the defence case.  |
+|  **The aim of the [[Page-145|cross-examination]]:** To "parade" the prosecution case in order to undermine the defence case.  |
 |  Prosecutor. *So you put your own backpack on the floor?*  |
 |  A. Yes.  |
 |  Q. *And you then took a similar backpack from the rack?*  |
@@ -54,13 +63,13 @@ The prosecution's case is that the defendant's conduct is suspicious. The first 
 
 ### 18.6.5 Special techniques
 
-Cross-examining difficult witnesses can test the skills of an Edward Carson and the patience of a saint. Some witnesses lie. Others are obtuse and evasive. Some tell the [[[Page-204|page 339]]] truth and your cross-examination doesn't make a dent in their evidence or credibility. An expert may be too clever for your best efforts. (On the cross-examination of experts, see chapter 20.) The court may be unsympathetic to counsel saddled with the unenviable task of having to cross-examine the witnesses in an unpopular case, for example, to cross-examine the complainant in a rape case or a small child in almost any case. Your cross-examination in these (and similar) cases will have to be planned very carefully.
+Cross-examining difficult witnesses can test the skills of an Edward Carson and the patience of a saint. Some witnesses lie. Others are obtuse and evasive. Some tell the *(see page 339)* truth and your cross-examination doesn't make a dent in their evidence or credibility. An expert may be too clever for your best efforts. (On the cross-examination of experts, see chapter 20.) The court may be unsympathetic to counsel saddled with the unenviable task of having to cross-examine the witnesses in an unpopular case, for example, to cross-examine the complainant in a rape case or a small child in almost any case. Your cross-examination in these (and similar) cases will have to be planned very carefully.
 
 Perhaps a few pointers can help:
 
-- - [ ] Cross-examine only for gain or for duty. If there is nothing to gain and nothing to put to the witness, don't ask any questions. Ask yourself: "Did the witness hurt my theory of the case?" If not, say, "I have no questions, thank you", and sit down.
-- - [ ] A great deal of planning, patience and subtlety is usually required to expose an untruthful witness. The facts need to be investigated and analysed carefully in advance to find weaknesses in the evidence of the witness or angles for attack to diminish the credibility of the witness. A carefully constructed sequence of questions, based on sound underlying materials, will have to be implemented without any haste. You may have to use a clever mix of confrontation, probing and suggestion. Comparing what the witness has said in his or her statement (if available to you), or in evidence-in-chief or in a document or what another witness has said with their evidence is essential, as untruthful witnesses are seldom entirely consistent. Do a detailed fact analysis. Prepare themes for the cross-examination of the witness.
-- - [ ] If the witness doesn't answer or insists on giving a long explanation, not asked for by you, put the question
+- Cross-examine only for gain or for duty. If there is nothing to gain and nothing to put to the witness, don't ask any questions. Ask yourself: "Did the witness hurt my [[Page-115|theory of the case]]?" If not, say, "I have no questions, thank you", and sit down.
+- A great deal of planning, patience and subtlety is usually required to expose an untruthful witness. The facts need to be investigated and analysed carefully in advance to find weaknesses in the evidence of the witness or angles for attack to diminish the credibility of the witness. A carefully constructed sequence of questions, based on sound underlying materials, will have to be implemented without any haste. You may have to use a clever mix of confrontation, probing and suggestion. Comparing what the witness has said in his or her statement (if available to you), or in evidence-in-chief or in a document or what another witness has said with their evidence is essential, as untruthful witnesses are seldom entirely consistent. Do a detailed [[Page-115|fact analysis]]. Prepare themes for the cross-examination of the witness.
+- If the witness doesn't answer or insists on giving a long explanation, not asked for by you, put the question
 
 ---
 

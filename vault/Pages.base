@@ -8,11 +8,14 @@ properties:
     displayName: "Printed Page"
   chapter:
     displayName: "Chapter"
+  topics:
+    displayName: "Topics"
 views:
   - type: table
     name: "Pages Table"
     order:
-      - file.name
       - pdfPage
+      - file.name
       - printedPage
       - chapter
+      - topics

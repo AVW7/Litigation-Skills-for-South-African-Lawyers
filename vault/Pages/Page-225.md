@@ -2,7 +2,7 @@
 title: "20.9.2 Prosecuting counsel"
 pdfPage: 225
 printedPage: 370
-chapter: "Chapter 20: ## Special procedures"
+chapter: "Chapter 20: Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 225"
   - "PDF Page 225"
+topics:
+  - circumstantial-evidence
+  - evidence
+  - witnesses
 ---
 
 [[Page-224|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-226|Next Page →]]
@@ -22,14 +26,11 @@ with identification evidence.
 
 Seen from a prosecutor's perspective, the identity of the accused as the offender may be proved by one or more of the following:
 
-- [ ] Admissions or confessions made by the accused.
-- [ ] Primary observation by an "eye witness" at the scene (This includes voice identification.)
-
-[[[Page-225|page 370]]]
-
-- [ ] Subsequent identification by the eye witness (at a properly conducted parade).
-- [ ] Dock identification.
-- [ ] Circumstantial evidence.
+- Admissions or confessions made by the accused.
+- Primary observation by an "eye witness" at the scene (This includes voice identification.)
+- Subsequent identification by the eye witness (at a properly conducted parade).
+- Dock identification.
+- [[Page-100|Circumstantial evidence]].
 
 Admissions and circumstantial evidence will be led in the usual way, but a special procedure is necessary to lead the evidence of the primary identification, subsequent identification and the dock identification. The prosecutor can hardly expect to get away with: "So is the accused the man you saw stabbing the deceased?" That would be a grossly leading question. It would also undermine the worth of the prosecution witness.
 

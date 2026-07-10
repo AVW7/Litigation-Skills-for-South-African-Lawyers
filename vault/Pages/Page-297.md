@@ -2,7 +2,7 @@
 title: "2.3 Memorandum to instructing attorney"
 pdfPage: 297
 printedPage: 492
-chapter: "Chapter 25: Appeals"
+chapter: "Appendices"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 297"
   - "PDF Page 297"
+topics:
+  - applications
+  - circumstantial-evidence
+  - cross-examination
+  - evidence
+  - pleadings
+  - witnesses
 ---
 
 [[Page-296|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-298|Next Page →]]
@@ -49,9 +56,6 @@ He is not a dishonest person.
 The accused's conduct was not so unreasonable that the conclusion can be drawn that he must have known that he had the store's backpack. (See S v Sam supra.)
 
 The accused must therefore be acquitted.
-
-[[[Page-297|page 492]]]
-
 ## 2.3 Memorandum to instructing attorney
 
 The State v Justin Graham

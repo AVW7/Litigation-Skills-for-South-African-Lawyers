@@ -2,7 +2,7 @@
 title: "Appendix 2"
 pdfPage: 289
 printedPage: 481
-chapter: "Chapter 25: Appeals"
+chapter: "Appendices"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,8 @@ tags:
 aliases:
   - "Page 289"
   - "PDF Page 289"
+topics:
+  - bail
 ---
 
 [[Page-288|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-290|Next Page →]]
@@ -25,9 +27,6 @@ aliases:
 
 ## Appendix 2
 Trial preparation exercise
-
-[[[Page-289|page 481]]]
-
 ### 1 Brief to counsel
 
 #### 1.1 Instructions to counsel
@@ -36,11 +35,11 @@ Counsel is briefed to appear for the accused at his trial. We confirm that couns
 
 The accused has been charged with one count of theft by shoplifting. To enable counsel to prepare for the trial, we enclose the following documents:
 
-- - [ ] Details of the charge as set out in the annexure to form J15.
-- - [ ] A copy of the section 115 statement.
-- - [ ] Copies of the statements of the prosecution witnesses, Irene Delamere (A1) and Simon Reddy (A2).
-- - [ ] The statement of the accused (A3) (taken by counsel's instructing attorney).
-- - [ ] The report of Dr Ivan Stone (A4).
+- Details of the charge as set out in the annexure to form J15.
+- A copy of the section 115 statement.
+- Copies of the statements of the prosecution witnesses, Irene Delamere (A1) and Simon Reddy (A2).
+- The statement of the accused (A3) (taken by counsel's instructing attorney).
+- The report of Dr Ivan Stone (A4).
 
 The accused has already pleaded not guilty to the charge. We represented the accused at that hearing and handed in a statement in terms of section 115 of the Criminal Procedure Act 51 of 1977. Counsel will note that certain admissions were made under section 220 of the Act.
 

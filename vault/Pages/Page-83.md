@@ -10,6 +10,9 @@ tags:
 aliases:
   - "Page 83"
   - "PDF Page 83"
+topics:
+  - damages
+  - pleadings
 ---
 
 [[Page-82|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-84|Next Page →]]
@@ -32,9 +35,6 @@ There are different ways of pleading when some allegations in a paragraph are to
 A confession and avoidance is what could be termed a "yes, but" defence. It means effectively that the defendant admits the particular allegation but has an answer to it justifying his or her admitted conduct or providing a legal excuse for it.
 
 Examples of this type of defence are justification for an arrest and self-defence as an answer to a claim based on an assault. The pleadings would then read as follows, if the claim were to be for an unlawful arrest:
-
-[[[Page-83|page 131]]]
-
 **Table 7.4** Pleading a confession and avoidance
 
 |  Particulars of claim | Plea | Comment  |

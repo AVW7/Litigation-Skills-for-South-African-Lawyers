@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 99"
   - "PDF Page 99"
+topics:
+  - affidavits
+  - appeals
+  - applications
+  - evidence
+  - settlement
+  - urgent-applications
 ---
 
 [[Page-98|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-100|Next Page →]]
@@ -17,9 +24,6 @@ aliases:
 ---
 
 Interlocutory applications take their name from the Latin *loqui*, meaning to speak and *inter*, meaning in the course of.
-
-[[[Page-99|page 162]]]
-
 **Table 10.2** Examples of substantive and interlocutory applications
 
 |  Substantive application | Interlocutory application  |
@@ -34,9 +38,6 @@ Interlocutory applications take their name from the Latin *loqui*, meaning to sp
 This is a very small sample and in some of the examples of substantive applications it may well be wise to proceed by way of action in any event because of the likelihood that factual disputes may arise.
 
 The main differences between the various types of applications can be highlighted in a table as follows:
-
-[[[Page-99|page 163]]]
-
 **Table 10.3** Different forms of application
 
 |   | Substantive application | Interlocutory application | *Ex parte* application | Urgent application  |
@@ -47,9 +48,6 @@ The main differences between the various types of applications can be highlighte
 |  **Purpose** | To obtain final relief against the respondent. | To resolve procedural issues or to preserve the *status quo* in pending proceedings. | To obtain relief when there are no persons with any adverse interests in the orders claimed or to obtain orders which depend on secrecy for their efficacy, for example, *Mareva* and *Anton Piller* orders. | To obtain urgent relief in substantive, interlocutory or *ex parte* applications.  |
 |  **Date of hearing** | Set down in due course after *dies inducere* have expired (Rule 6(5)(b)). | Set down as the registrar or a judge directs (Rule 6(11)). | As for substantive or interlocutory applications, as the case requires. | Court may dispense with time limits.  |
 |  **When not appropriate?** | When disputes cannot be decided without oral evidence. | When there is no pending (or contemplated) main proceeding. | When there are persons with an interest in the orders sought who should receive notice. | When there is no urgency as contemplated by Rule 6(12)).  |
-
-[[[Page-99|page 164]]]
-
 It should be noted that lawyers use the term '*ex parte* application' somewhat loosely at times to refer also to substantive applications where there is no respondent against whom relief is claimed. The distinction is perhaps academic; what is important is that the applicant in any application where there is no respondent or where the application is brought without notice has the duty to bring adverse facts to the notice of the court.
 
 Applications are made by way of a notice of motion (or a notice of application) coupled with such affidavits as the case requires. The notice serves the purpose of a summons, giving formal notice to the respondent of the application and setting out the relief claimed, while the affidavits set out the evidence supporting the relief. Since *ex*

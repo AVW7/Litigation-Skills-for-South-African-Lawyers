@@ -10,6 +10,12 @@ tags:
 aliases:
   - "Page 73"
   - "PDF Page 73"
+topics:
+  - cause-of-action
+  - contract
+  - damages
+  - delict
+  - pleadings
 ---
 
 [[Page-72|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-74|Next Page →]]
@@ -20,18 +26,12 @@ The third-party notice and the pleadings arising from it create a separate lis (
 
 A third-party claim must -
 
-- [ ] state the complete cause of action of the party issuing it against the third party;
-- [ ] set out the question or issue to be determined;
-- [ ] contain a prayer for the relief claimed;
-- [ ] comply with the rules of pleading because the third-party claim is a pleading; and
-- [ ] attach a copy of all the pleadings filed to date of the service of the third-party notice.
-
-[[[Page-73|page 113]]]
-
+- state the complete [[Page-54|cause of action]] of the party issuing it against the third party;
+- set out the question or issue to be determined;
+- contain a prayer for the relief claimed;
+- comply with the rules of pleading because the third-party claim is a pleading; and
+- attach a copy of all the pleadings filed to date of the service of the third-party notice.
 What follows is a typical third-party claim in a partnership matter. It is based on the following assumed facts: The defendant has been sued for a partnership debt. The partnership (three partners) bought an expensive computer some years ago but the partnership has since been dissolved and the three partners have gone their separate ways. The seller of the computer has sued only our client, apparently because it believes that our client has sufficient funds to meet the claim. Our client thinks it is unfair that he alone should have to pay the whole debt. He feels that his erstwhile partners should pay their fair share of the debt. After doing the necessary legal research, we advised him that he has a right to claim a contribution from his erstwhile partners but only after he has paid the debt. He now wishes to claim such a contribution from the other two partners.
-
-[[[Page-73|page 114]]]
-
 Table 6.4 Third-party claim for a contribution
 
 |  Par | Text of pleading | Comment  |

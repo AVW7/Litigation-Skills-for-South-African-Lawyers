@@ -2,7 +2,7 @@
 title: "Page 303"
 pdfPage: 303
 printedPage: 301
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,19 @@ tags:
 aliases:
   - "Page 303"
   - "PDF Page 303"
+topics:
+  - affidavits
+  - applications
+  - cause-of-action
+  - damages
+  - direct-evidence
+  - discovery
+  - evidence
+  - expert-evidence
+  - motion-court
+  - pleadings
+  - theory-of-case
+  - witnesses
 ---
 
 [[Page-302|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-304|Next Page →]]
@@ -49,7 +62,7 @@ text of pleading, 105-107
 
 Defamation
 denial, 130
-theory of the case, 263
+[[Page-115|theory of the case]], 263
 
 Default judgment, 398, 402
 
@@ -60,11 +73,11 @@ drafting plea see Plea
 examples, 126
 
 Delictual claim
-cause of action, 97
+[[Page-54|cause of action]], 97
 claim for damages, 97
 material facts, 85
 
-Demonstrative exhibits see Exhibits
+[[Page-100|Demonstrative exhibit]]s see Exhibits
 
 Denial
 defence distinguished, 125-126
@@ -87,14 +100,14 @@ Discrepancies in testimony, 328
 
 Divorce
 adultery alleged, 97
-Motion Court preparation, 404-405
+[[Page-179|Motion Court]] preparation, 404-405
 Rule 43 application
 Motion Court preparation, 405
 when used, 178
 statement of claim, 97
 
 Documentary evidence
-advice on evidence, 195-196
+[[Page-92|advice on evidence]], 195-196
 analysis, 254-256
 
 ---

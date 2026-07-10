@@ -2,7 +2,7 @@
 title: "18.2.4 Discrediting evidence given by another witness and discrediting another witness"
 pdfPage: 197
 printedPage: 329
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,15 @@ tags:
 aliases:
   - "Page 197"
   - "PDF Page 197"
+topics:
+  - affidavits
+  - argumentation
+  - credibility
+  - cross-examination
+  - evidence
+  - pleadings
+  - re-examination
+  - witnesses
 ---
 
 [[Page-196|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-198|Next Page →]]
@@ -20,16 +29,13 @@ examine to that effect. If the witness denies having been convicted, you may lea
 
 - *Bad character demonstrated by prior bad acts:* It is not necessary for the witness to have been convicted of a crime for his or her past acts to be relevant to their credibility. For example, a witness who has rendered a false income tax return may be cross-examined on that subject.
 - *Prior inconsistent statements:* A prior inconsistent statement may have been made by the witness in a document which is available to you, for example, in a statement taken by the police, in a letter written to your client, and even in the pleadings or in an affidavit made in the course of interlocutory proceedings between the parties. An inconsistent statement may also have been made orally, out of court, or even in the witness box. You may cross-examine the witness of such inconsistencies. The technique for dealing with prior inconsistent statements is explained in paragraph 20.4.
-- *Discrepancies:* A common but not infallible indication that a witness is untruthful, is that the witness contradicts himself or herself, or contradicts another witness. The theory is that a witness who is telling the truth will be consistent in the version he or she gives, while an untruthful witness has to make up a story, remember it and repeat it accurately. This is not always so easy. So your cross-examination may be designed to elicit discrepancies or to expose and exploit discrepancies. Once a discrepancy has been exposed, you have to decide whether you are going to leave it there and raise it in argument later, or whether you are going to confront the witness with it. If you bank the answers for use in argument, an explanation may be elicited in re-examination. If, on the other hand, you choose to confront the witness directly with the discrepancy, the witness may give a perfectly acceptable explanation. Each case will have its own answer. When in doubt, leave the point for argument. You should be able to argue better than the witness can explain.
+- *Discrepancies:* A common but not infallible indication that a witness is untruthful, is that the witness contradicts himself or herself, or contradicts another witness. The theory is that a witness who is telling the truth will be consistent in the version he or she gives, while an untruthful witness has to make up a story, remember it and repeat it accurately. This is not always so easy. So your [[Page-145|cross-examination]] may be designed to elicit discrepancies or to expose and exploit discrepancies. Once a discrepancy has been exposed, you have to decide whether you are going to leave it there and raise it in argument later, or whether you are going to confront the witness with it. If you bank the answers for use in argument, an explanation may be elicited in [[Page-160|re-examination]]. If, on the other hand, you choose to confront the witness directly with the discrepancy, the witness may give a perfectly acceptable explanation. Each case will have its own answer. When in doubt, leave the point for argument. You should be able to argue better than the witness can explain.
 - *Inherent improbability:* Sometimes the evidence given by a witness is free of internal discrepancies and does not contradict what other witnesses have said, but the version given is generally inconsistent with documents produced as exhibits or with the inherent probabilities of the case or even with the witness's own conduct. When cross-examining a witness in such a situation, you should try to elicit or highlight such an inconsistency without giving the witness an opportunity to explain or elaborate.
 - *Reputation:* The witness may have a reputation for dishonesty. If you intend to lead evidence to that effect, you have a duty to put it to the witness.
 
 ### 18.2.4 Discrediting evidence given by another witness and discrediting another witness
 
 You could employ some subtle cross-examination to discredit evidence given by another opposition witness or to discredit a witness other than the one being cross-examined. The questions you would ask would tend to expose or suggest bias, an interest in the outcome, discrepancies involving the other witness, an inappropriate attitude to the oath or truth or a reputation for untruthfulness on the part of the other witness. You could also undermine the evidence of another witness by exposing or suggesting that he or she did not have a good opportunity to observe or was forgetful. Ask yourself how believable the evidence of another opposition witness is in the light of what this witness says.
-
-[[[Page-197|page 329]]]
-
 ### 18.2.5 The duty to put your version
 
 One of the fundamental rules of trial is that you have to put as much of your case to individual opposing witnesses as they can reasonably be expected to be able to answer. There are three qualifications to this rule. The *first* is that you have to put to the witness only that part of your version on which the witness is able to comment. The *second* is that you only have to put that part of your own witnesses' version which conflicts with the evidence of the witness under cross-examination. The *third* is that you do not have to put any version to the witness if you are not going to call witnesses to dispute the version given by the witness.

@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Page 54"
   - "PDF Page 54"
+topics:
+  - contract
+  - pleadings
+  - protocol-and-ethics
 ---
 
 [[Page-53|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-55|Next Page →]]
@@ -46,9 +50,6 @@ The best way to ensure that there is no room for misunderstanding is to have a b
 - 5.5 Form, format and style
 - 5.6 Examples of the citation of plaintiffs and defendants
 - 5.7 Protocol and ethics
-
-[[[Page-54|page 81]]]
-
 #### 5.1 Introduction
 
 Pleadings are written statements in which the parties to an action set out the material facts supporting their respective claims or defences. What a party prefers to call 'facts' in his or her pleading are not facts until they are proved to the satisfaction of the court or admitted by the other party. Until then they are merely 'allegations', or 'averments', as they are called in the rules. You may think of them as propositions of fact.

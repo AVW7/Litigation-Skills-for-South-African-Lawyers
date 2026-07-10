@@ -10,6 +10,19 @@ tags:
 aliases:
   - "Page 114"
   - "PDF Page 114"
+topics:
+  - affidavits
+  - applications
+  - argumentation
+  - burden-of-proof
+  - evidence
+  - expert-evidence
+  - hearsay
+  - motion-court
+  - persuasion
+  - pleadings
+  - protocol-and-ethics
+  - witnesses
 ---
 
 [[Page-113|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-115|Next Page →]]
@@ -20,19 +33,19 @@ draft order. At this point the drafting of the application does not look quite a
 
 ## 10.6 Hearing of opposed applications
 
-Opposed applications are heard in the Motion Court. There are different procedures in the different divisions of the High Court. In some divisions there is a Motion Court dedicated to opposed motions. In other divisions the opposed motions are heard daily at the end of the unopposed motions. The skills and techniques required for the preparation and argument of opposed motions, are dealt with in chapter 22 (Motion Court), chapter 23 (Persuasive advocacy: Substance and style), chapter 24 (Reviews), and chapter 25 (Appeals).
+Opposed applications are heard in the [[Page-179|Motion Court]]. There are different procedures in the different divisions of the High Court. In some divisions there is a Motion Court dedicated to opposed motions. In other divisions the opposed motions are heard daily at the end of the unopposed motions. The skills and techniques required for the preparation and argument of opposed motions, are dealt with in chapter 22 (Motion Court), chapter 23 ([[Page-186|Persuasive advocacy]]: Substance and style), chapter 24 (Reviews), and chapter 25 (Appeals).
 
 > [!warning] 10.7 Protocol and ethics
 
 Affidavits contain the evidence of the witnesses. It is important that the evidence is not tainted. It has to be obtained, preserved and conveyed accurately and without any contamination by the lawyer drafting the affidavit. There are a number of duties associated with these principles:
 
-- [ ] Draft with precision in mind.
-- [ ] Do not create or suggest facts. Let the witness tell his or her story.
-- [ ] Avoid hearsay, character evidence, irrelevant material and scandalous or vexatious matter.
-- [ ] Strictly observe the formalities of the oath.
+- Draft with precision in mind.
+- Do not create or suggest facts. Let the witness tell his or her story.
+- Avoid [[Page-92|hearsay]], character evidence, irrelevant material and scandalous or vexatious matter.
+- Strictly observe the formalities of the oath.
 
 # Chapter 11
-Preparing the case for trial: Advice on evidence
+Preparing the case for trial: [[Page-92|Advice on evidence]]
 
 CONTENTS
 
@@ -42,12 +55,12 @@ CONTENTS
 11.3.1 Introductory paragraph
 11.3.2 A discussion of the pleadings
 11.3.3 Summarising the issues
-11.3.4 A discussion of the burden of proof and the duty to begin
+11.3.4 A discussion of the [[Page-92|burden of proof]] and the duty to begin
 11.3.5 A discussion of the oral evidence available to the plaintiff (or defendant)
 11.3.6 A discussion of the documentary evidence available to the plaintiff (or defendant)
 11.3.7 The need for conferences and inspections
 11.3.8 The need for independent examination of persons or things by experts
-11.3.9 Expert witnesses and summaries of their opinions
+11.3.9 [[Page-100|Expert witness]]es and summaries of their opinions
 11.3.10 Plans, diagrams, photographs and models
 11.3.11 Rule 37 procedures
 11.3.12 A discussion of the prospects of success and the quantum of the claim
@@ -62,9 +75,6 @@ CONTENTS
 11.7.2 Advising on the evidence for prosecutors
 11.7.3 Advising on the evidence for defence counsel
 11.8 Protocol and ethics
-
-[[[Page-114|page 191]]]
-
 ---
 
 [[Page-113|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-115|Next Page →]]

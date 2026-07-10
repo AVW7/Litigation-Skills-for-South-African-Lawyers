@@ -10,13 +10,22 @@ tags:
 aliases:
   - "Page 243"
   - "PDF Page 243"
+topics:
+  - affidavits
+  - applications
+  - cause-of-action
+  - constitutional-law
+  - damages
+  - evidence
+  - expert-evidence
+  - witnesses
 ---
 
 [[Page-242|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-244|Next Page →]]
 
 ---
 
-|  1 Original instructions. 2 Summons. 3 Return of service. 4 Notice of set down. | 19 and section 27 of the Act, and have they elapsed? 4 Has a proper cause of action been pleaded? 5 Are the rate and date of interest justified? 6 Is any special order for costs justified by the facts pleaded? 7 Any Constitutional issues? Substantive law issues? | *with the interest in paragraph (b) to run from the date of service, being . . .* **Note:** Where the summons does not disclose the date from which the defendant has been *in mora*, interest from the date of service may be claimed since the service constitutes a demand.  |
+|  1 Original instructions. 2 Summons. 3 Return of service. 4 Notice of set down. | 19 and section 27 of the Act, and have they elapsed? 4 Has a proper [[Page-54|cause of action]] been pleaded? 5 Are the rate and date of interest justified? 6 Is any special order for costs justified by the facts pleaded? 7 Any Constitutional issues? Substantive law issues? | *with the interest in paragraph (b) to run from the date of service, being . . .* **Note:** Where the summons does not disclose the date from which the defendant has been *in mora*, interest from the date of service may be claimed since the service constitutes a demand.  |
 | --- | --- | --- |
 
 **Table 22.3** Default judgment (with evidence)
@@ -24,9 +33,6 @@ aliases:
 |  Documents in the brief | Preparation checklist | What to say  |
 | --- | --- | --- |
 |  1 Original instructions. 2 Summons. 3 Return of service. 4 Notice of set down. 5 Statements or affidavits by witnesses to prove damages. 6 The original and 2 copies of each documentary exhibit. (The original is for the judge and the copies are required for the witness and counsel.) | 1-6 As per Table 22.2. 7 Does the evidence prove the amount of the damages? 8 As far as the evidence is opinion evidence, is the witness an expert who can give admissible opinion evidence on this issue? 9 Any Constitutional issues? Substantive law issues? **Note:** In some cases proof by affidavit is accepted. | *'M' Lord, I appear for the plaintiff. Evidence is necessary to prove the damages and I ask that the matter stand down for that purpose until after matter number . . . on the list.'* When the matter is recalled later: *'M' Lord, this is the matter which stood down for evidence. There has been proper service on the defendant. I intend to call two witnesses. My first witness is . . .'* Then call the witnesses and lead their evidence. When the evidence has been completed, ask for judgment.  |
-
-[[[Page-243|page 403]]]
-
 **Table 22.4** Summary judgment (unopposed)
 
 |  Documents in the brief | Preparation checklist | What to say  |

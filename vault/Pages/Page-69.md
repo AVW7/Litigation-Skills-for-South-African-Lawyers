@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 69"
   - "PDF Page 69"
+topics:
+  - applications
+  - argumentation
+  - contract
+  - jurisdiction
+  - negligence
+  - pleadings
 ---
 
 [[Page-68|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-70|Next Page →]]
@@ -27,17 +34,14 @@ Mrs Smith wants to sue the insurance company as well for payment of the amount d
 
 They are (not necessarily in the order they should be set out in the declaration) -
 
-- [ ] a contract of insurance between the deceased and the defendant;
-- [ ] including a term that the deceased had to pay premiums;
-- [ ] and a term that the defendant had to pay the sum assured on the death of the deceased;
-- [ ] payment of the premiums;
-- [ ] the death of the deceased; and
-- [ ] the cession to our client.
+- a contract of insurance between the deceased and the defendant;
+- including a term that the deceased had to pay premiums;
+- and a term that the defendant had to pay the sum assured on the death of the deceased;
+- payment of the premiums;
+- the death of the deceased; and
+- the cession to our client.
 
 Rule 18(6) imposes an obligation on a plaintiff suing on a contract to state whether the contract was oral or written, and to state when, where and by whom, on behalf of the parties, it was concluded. We also have to attach a copy of the policy.
-
-[[[Page-69|page 105]]]
-
 Table 6.2 Declaration in a contractual claim (with a cession)
 
 |  Par | Text of pleading | Comment  |
@@ -46,9 +50,6 @@ Table 6.2 Declaration in a contractual claim (with a cession)
 |  1 | The plaintiff is Anne Smith, an unemployed widow who resides at [street address]. |   |
 |  2 | The defendant is ABC Insurance Limited, a company with limited liability, which is duly registered and incorporated according to law and has its registered office at [street address]. | 1 You will probably sue in the city where the defendant (a company) has its registered office. There may be a good argument that the contract was concluded in the same city as the policy was issued there. 2 Do not take chances with jurisdiction.  |
 |  3 | On or about [date] the defendant, represented by its policy manager, Joseph James, and John William Smith ("the deceased") concluded a written contract of life assurance ("the policy") at [city], alternatively, at [plaintiff's town or city]. A copy of the policy is attached, marked "A". | 1 You can plead on or about if you are uncertain precisely when the contract was concluded, for example, if the policy document does not have a date on it. 2 The "when", "where", "by whom" and whether it was "written" or "oral" are given as required by Rule 18(6). 3 Attach a copy of the whole policy if it is short enough. If it were a booklet you should only attach the parts relied upon. 4 The alternative can be pleaded if you are unsure whether the contract was concluded where the policy was issued or where the deceased received it.  |
-
-[[[Page-69|page 106]]]
-
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 

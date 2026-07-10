@@ -2,7 +2,7 @@
 title: "18.7 Examination-in-chief and cross-examination compared"
 pdfPage: 206
 printedPage: 342
-chapter: "Chapter 17: Examination-in-chief"
+chapter: "Chapter 18: Cross-examination"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 206"
   - "PDF Page 206"
+topics:
+  - cross-examination
+  - evidence
+  - examination-in-chief
+  - witnesses
 ---
 
 [[Page-205|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-207|Next Page →]]
@@ -55,9 +60,6 @@ A. *Yes.*
 Q. *Their faces must have been in the shadow?*
 
 A. *...*
-
-[[[Page-206|page 342]]]
-
 ### 18.8.2 Cross-examining to Memory
 
 The witness is called as an alibi witness.

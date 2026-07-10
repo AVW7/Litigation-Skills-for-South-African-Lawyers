@@ -2,7 +2,7 @@
 title: "T"
 pdfPage: 317
 printedPage: 315
-chapter: "Chapter 25: Appeals"
+chapter: "Index"
 tags:
   - page
   - litigation-skills
@@ -10,6 +10,13 @@ tags:
 aliases:
   - "Page 317"
   - "PDF Page 317"
+topics:
+  - appeals
+  - applications
+  - negligence
+  - protocol-and-ethics
+  - sentencing
+  - theory-of-case
 ---
 
 [[Page-316|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-318|Next Page →]]
@@ -66,13 +73,13 @@ doctrine of recent possession, 248-249
 legal elements, 124  
 shoplifting *see* Shoplifting
 
-Theory of the case  
+[[Page-115|Theory of the case]]  
 *meaning*, 10, 260  
 alternative theories, 262  
 assault against police officer, 264  
 criminal assault, 260, 263  
 defamation, 263  
-demonstrative exhibits, 75  
+[[Page-100|demonstrative exhibit]]s, 75  
 function, 260-261  
 further statements, 74  
 matrimonial claim for primary care of children, 264  

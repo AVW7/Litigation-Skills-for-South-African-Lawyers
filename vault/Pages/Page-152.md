@@ -10,6 +10,11 @@ tags:
 aliases:
   - "Page 152"
   - "PDF Page 152"
+topics:
+  - admissions
+  - contract
+  - evidence
+  - negligence
 ---
 
 [[Page-151|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-153|Next Page →]]
@@ -25,9 +30,6 @@ By following this process you can ensure that you get a clear view of the availa
 |  1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a [year] model Honda, from a dealer in motor cars. 1.2 The sale was for cash. 1.3 The purchase price was paid. 1.4 The car was delivered to her by the dealer with the intention of transferring ownership. 1.5 The car was received by her with the intention of acquiring ownership. 1.6 The plaintiff has been in undisturbed possession of the car ever since.  |
 
 You can work out what facts the evidence can prove by reading and re-reading the statements and documents with the aim of determining how they can help to prove the material fact in issue. This can be demonstrated by using another example from Mrs Smith's case. She says the following in her statement (Appendix 1):
-
-[[[Page-152|page 250]]]
-
 "As I approached the intersection with X Street, I saw the lights turn green in our favour. I intended to go through the intersection on to the freeway. I was doing about 50 kilometres per hour. The speed limit is 60.
 As I entered the intersection, I noticed a car coming at high speed into the intersection from my right. The light must have been red for it. Before I could react, it struck my car on its right hand side. My car spun around and collided with its left hand side against the light pole on the SW corner of the intersection."
 
