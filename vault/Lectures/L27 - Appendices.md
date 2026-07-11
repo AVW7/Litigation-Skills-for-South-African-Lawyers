@@ -1,27 +1,65 @@
 ---
-
 type: lecture
 lecture: L27
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - appendices
+  - precedents
+  - checklists
+aliases:
+  - "Appendices"
+  - "Precedents"
+  - "Checklists"
+  - "Forms"
 ---
+
 # L27 — Appendices
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Appendices**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter provides **appendices** — checklists, precedents, and forms for the litigation practitioner.
+
+> [!important] Purpose
+> Appendices serve as quick references for common tasks. Adapt precedents to your specific matter — never use blindly.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph checklists["Checklists"]
+        C1["Pre-trial checklist"]
+        C2["Trial notebook checklist"]
+        C3["Motion Court checklist"]
+        C4["Appeal checklist"]
+    end
+    
+    subgraph precedents["Precedents"]
+        P1["Statement of claim template"]
+        P2["Plea template"]
+        P3["Notice of motion template"]
+        P4["Affidavit template"]
+    end
+    
+    subgraph forms["Forms"]
+        F1["Rule 36(9) notice"]
+        F2["Rule 21 notice"]
+        F3["Certificate of urgency"]
+        F4["Draft order format"]
+    end
+    
+    checklists --> precedents --> forms
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Appendix contents — checklists, precedents, and forms.*
+
+> [!tip] How to Use
+> 1. Read the relevant checklist before starting a task
+> 2. Adapt the precedent to your facts
+> 3. Check court rules for current requirements
+> 4. Have your draft reviewed by a senior practitioner
+
+> [!tip] Connection
+> Supports all litigation stages: [[L06 - Drafting statements of claim|pleadings]], [[L10 - Drafting applications|applications]], [[L11 - Preparing the case for trial: Advice on evidence|trial preparation]], [[L25 - Appeals|appeals]].
 
 ---
 

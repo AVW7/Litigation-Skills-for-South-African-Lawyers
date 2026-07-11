@@ -1,25 +1,61 @@
 ---
 type: lecture
-lecture: L1
-tags: [lecture, litigation-skills]
+lecture: L01
+tags:
+  - lecture
+  - litigation-skills
+  - client-interview
+  - witnesses
+  - proof-making
+aliases:
+  - "Client Interview"
+  - "Witness Statements"
+  - "Proof-Making Model"
 ---
+
 # L01 — Interviewing clients and witnesses
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Interviewing clients and witnesses**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **client and witness interviewing** — the foundational skill of litigation. Key topics: the 7-stage interview structure, funnelling technique, witness safeguards, and the proof-making model that guides case development.
+
+> [!quote] Core Principle
+> *"The proof-making model is the analytical framework that transforms client instructions into a legally sufficient case."*
+
+## Visual Overview
+
+**Diagram:** 7-Stage Interview Process
+
+![[diagrams/interview-process-flow.html]]
+
+**Diagram:** The Proof-Making Model
+
+![[diagrams/proof-making-model.html]]
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph stages["The 7-Stage Interview"]
+        S1["1. Preparation"] --> S2["2. Introduction"]
+        S2 --> S3["3. Listening"]
+        S3 --> S4["4. Questioning"]
+        S4 --> S5["5. Summary"]
+        S5 --> S6["6. Advice"]
+        S6 --> S7["7. Close"]
+    end
+    
+    subgraph tools["Key Tools"]
+        T1["Open questions → Exploration"]
+        T2["Closed questions → Specifics"]
+        T3["Leading questions → Confirm"]
+        T4["Funnel: General → Specific"]
+    end
+    
+    stages --> tools
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The interview stages and questioning techniques.*
+
+> [!tip] Connection
+> The proof-making model introduced here (Stages 1-5) is expanded in [[L14 - Preparation for trial: Fact analysis and strategy]]. Interview notes feed into [[L02 - Advising and counselling clients|advice-giving]].
 
 ---
 

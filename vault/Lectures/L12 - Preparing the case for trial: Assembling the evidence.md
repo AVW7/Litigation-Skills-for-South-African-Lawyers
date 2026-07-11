@@ -1,27 +1,67 @@
 ---
-
 type: lecture
 lecture: L12
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - trial-preparation
+  - evidence
+  - trial-bundle
+  - documents
+aliases:
+  - "Evidence Assembly"
+  - "Trial Bundle"
+  - "Documentary Evidence"
+  - "Exhibits"
 ---
+
 # L12 — Preparing the case for trial: Assembling the evidence
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Preparing the case for trial: Assembling the evidence**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **evidence assembly** — organizing documents and exhibits for trial. Key topics: trial bundles, documentary evidence, captioning photographs, and trial notebooks.
+
+> [!important] Trial Bundle
+> A complete set of documents for the court, including: pleadings, discovery documents, witness statements, expert reports, and relevant correspondence.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph bundle["Trial Bundle Contents"]
+        B1["Pleadings (indexed)"]
+        B2["Discovery documents"]
+        B3["Witness statements"]
+        B4["Expert reports"]
+        B5["Correspondence"]
+        B6["Chronology"]
+    end
+    
+    subgraph exhibits["Exhibit Management"]
+        E1["Number each exhibit"]
+        E2["Caption photographs"]
+        E3["Mark original vs copy"]
+        E4["Chain of custody"]
+    end
+    
+    subgraph notebook["Trial Notebook"]
+        N1["Opening statement"]
+        N2["Witness sequence"]
+        N3["Examination questions"]
+        N4["Cross-exam points"]
+        N5["Closing argument"]
+    end
+    
+    bundle --> exhibits
+    exhibits --> notebook
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: From bundle to notebook — organizing for trial success.*
+
+> [!tip] Organization Tip
+> Page-number every document. Create an index. The judge should find any document in seconds.
+
+> [!tip] Connection
+> Follows [[L11 - Preparing the case for trial: Advice on evidence|evidence advice]]. Proceeds to [[L13 - Preparation for trial: Legal research|legal research]] and [[L14 - Preparation for trial: Fact analysis and strategy|strategy]].
 
 ---
 

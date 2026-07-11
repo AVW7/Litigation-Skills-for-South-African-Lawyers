@@ -1,27 +1,67 @@
 ---
-
 type: lecture
 lecture: L23
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - advocacy
+  - persuasion
+  - rhetoric
+  - style
+aliases:
+  - "Persuasive Advocacy"
+  - "Advocacy Style"
+  - "Rhetoric"
+  - "Substance and Style"
 ---
-# L23 — Persuasive advocacy
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Persuasive advocacy**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+# L23 — Persuasive advocacy: Substance and style
+
+> [!abstract] Chapter Overview
+> This chapter covers **persuasive advocacy** — the art of convincing the court. Key: preparation, clarity, credibility, and appropriate style.
+
+> [!important] Substance Over Style
+> Persuasion requires BOTH good arguments (substance) AND effective delivery (style). Either alone is insufficient.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph substance["Substance"]
+        S1["Know your case"]
+        S2["Know authorities"]
+        S3["Anticipate weaknesses"]
+        S4["Structure logically"]
+    end
+    
+    subgraph style["Style"]
+        T1["Clear and concise"]
+        T2["Appropriate tone"]
+        T3["Eye contact"]
+        T4["Measured pace"]
+    end
+    
+    subgraph pitfalls["Common Pitfalls"]
+        P1["Overstatement"]
+        P2["Aggression"]
+        P3["Bad objections"]
+        P4["Untenable submissions"]
+    end
+    
+    substance --> style
+    style --> pitfalls
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Persuasive advocacy — substance, style, and cautions.*
+
+> [!tip] Key Techniques
+> - Understate, don't exaggerate
+> - Watch the judge's reactions
+> - Object sparingly, only when good
+> - Make points you can substantiate
+
+> [!tip] Connection
+> Advocacy skills apply across [[L22 - Motion Court|Motion Court]], [[L21 - Closing argument|closing argument]], and [[L25 - Appeals|appeals]].
 
 ---
 

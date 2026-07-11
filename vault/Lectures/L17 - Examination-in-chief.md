@@ -1,27 +1,70 @@
 ---
-
 type: lecture
 lecture: L17
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - examination-in-chief
+  - direct-examination
+  - witness
+  - evidence
+aliases:
+  - "Examination-in-Chief"
+  - "Direct Examination"
+  - "Leading Questions"
+  - "Witness Examination"
 ---
+
 # L17 — Examination-in-chief
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Examination-in-chief**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **examination-in-chief** — questioning your own witness to elicit favourable evidence. Key rule: NO LEADING QUESTIONS on matters in dispute.
+
+> [!important] The Leading Question Rule
+> A leading question suggests the answer. On matters in dispute, you must ask open questions: who, what, when, where, why, how.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph good["Good Questions"]
+        G1["Open: 'What happened next?'"]
+        G2["General: 'Describe the scene'"]
+        G3["Who/what/when/where/why/how"]
+    end
+    
+    subgraph bad["Leading Questions (forbidden)"]
+        B1["'You saw the car, didn't you?'"]
+        B2["'The defendant was drunk?'"]
+        B3["'Isn't it true that...'"]
+    end
+    
+    subgraph exceptions["Exceptions"]
+        E1["Introductory/matters not in dispute"]
+        E2["Adverse/hostile witness declaration"]
+        E3["Refresh memory"]
+        E4["Credibility questions"]
+    end
+    
+    subgraph technique["Technique"]
+        T1["Short questions"]
+        T2["One fact per question"]
+        T3["Let witness tell story"]
+        T4["Guide with chronology"]
+    end
+    
+    good --> technique
+    bad -->|"forbidden"| CROSS["Possibly in cross-exam"]
+    exceptions -->|"permitted"| good
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Examination-in-chief rules and techniques.*
+
+> [!tip] Mnemonic: WHO WHAT WHEN WHERE WHY HOW
+> Use these openers to avoid leading questions.
+
+> [!tip] Connection
+> Follows [[L16 - Opening statement|opening statement]]. Before [[L18 - Cross-examination|cross-examination]]. May be followed by [[L19 - Re-examination|re-examination]].
 
 ---
 

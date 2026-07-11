@@ -1,27 +1,58 @@
 ---
-
 type: lecture
 lecture: L28
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - index
+  - reference
+  - navigation
+aliases:
+  - "Index"
+  - "Table of Contents"
+  - "Subject Index"
 ---
+
 # L28 — Index
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Index**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter provides a **comprehensive index** of topics covered in "Litigation Skills for South African Lawyers."
+
+> [!info] How to Use This Index
+> Look up topics alphabetically. Page references indicate where concepts are discussed in depth.
+
+## Index Categories
+
+| Category | Key Topics |
+|----------|------------|
+| **Pleadings** | Statement of claim, plea, replication, exceptions, striking out |
+| **Applications** | Notice of motion, founding affidavit, opposed/unopposed motions |
+| **Trial** | Opening statement, examination-in-chief, cross-examination, re-examination, closing argument |
+| **Evidence** | Expert witnesses, hearsay, documentary evidence, admissions |
+| **Post-Trial** | Costs, appeals, reviews, enforcement |
+| **Advocacy** | Persuasion, courtroom protocol, professional conduct |
+
+## Quick Reference
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    subgraph topics["Index Topics"]
+        direction LR
+        A-->B-->C-->D-->E-->F
+    end
+    
+    A["A: Advocacy, Applications, Appeals, Affidavits"]
+    B["B: Bias, Burden of proof"]
+    C["C: Case theory, Cross-exam, Costs, Courtroom"]
+    D["D: Damages, Discovery, Drafting"]
+    E["E: Evidence, Exceptions, Expert witnesses"]
+    F["F: Fact analysis, Further particulars"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Index structure for quick navigation.*
+
+> [!tip] Connection
+> Use this index to find topics across all lectures. See [[00-MASTER-INDEX|Master Index]] for lecture navigation.
 
 ---
 

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pleadings Structure - Facta Probanda vs Facta Probantia</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #888780;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .c-purple > rect { fill: #EEEDFE; stroke: #534AB7; stroke-width: 0.5; }
+  .c-purple > .th, .c-purple text.th { fill: #3C3489; }
+  .c-purple > .ts, .c-purple text.ts { fill: #534AB7; }
+  .c-coral > rect { fill: #FAECE7; stroke: #993C1D; stroke-width: 0.5; }
+  .c-coral > .th, .c-coral text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral text.ts { fill: #993C1D; }
+  .c-teal > rect { fill: #E1F5EE; stroke: #0F6E56; stroke-width: 0.5; }
+  .c-teal > .th, .c-teal text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal text.ts { fill: #0F6E56; }
+  .c-gray > rect { fill: #F1EFE8; stroke: #5F5E5A; stroke-width: 0.5; }
+  .c-gray > .th, .c-gray text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray text.ts { fill: #5F5E5A; }
+  @media (prefers-color-scheme: dark) {
+    .c-purple > rect { fill: #3C3489; stroke: #AFA9EC; }
+    .c-purple > .th { fill: #CECBF6; }
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; }
+    .c-teal > rect { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th { fill: #9FE1CB; }
+    .c-gray > rect { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th { fill: #D3D1C7; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Pleadings Structure</h1>
+  <p class="subtitle">The fundamental distinction between what is pleaded (facta probanda) and how it is proved (facta probantia)</p>
+<svg width="100%" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Header -->
+  <text class="th" x="340" y="30" text-anchor="middle" dominant-baseline="central" style="font-size: 16px; fill: var(--text-primary);">THE PLEADINGS PRINCIPLE</text>
+  
+  <!-- Main Divide -->
+  <g class="c-teal">
+    <rect x="40" y="60" width="280" height="280" rx="12" stroke-width="0.5"/>
+    <text class="th" x="180" y="90" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">PLEADINGS (The Pleading)</text>
+    <text class="th" x="180" y="120" text-anchor="middle" dominant-baseline="central">Facta Probanda</text>
+    <text class="ts" x="60" y="150" text-anchor="start" dominant-baseline="central">Material facts to be proved</text>
+    <text class="ts" x="60" y="180" text-anchor="start" dominant-baseline="central">✓ Include in statement of claim</text>
+    <text class="ts" x="60" y="210" text-anchor="start" dominant-baseline="central">✓ Establish cause of action</text>
+    <text class="ts" x="60" y="240" text-anchor="start" dominant-baseline="central">✓ Define legal elements</text>
+    <text class="ts" x="60" y="270" text-anchor="start" dominant-baseline="central">✓ Give reasonable particulars</text>
+    <text class="ts" x="60" y="300" text-anchor="start" dominant-baseline="central">✓ Enable opponent to plead</text>
+    <text class="ts" x="60" y="330" text-anchor="start" dominant-baseline="central">✓ End with prayer for relief</text>
+  </g>
+
+  <g class="c-coral">
+    <rect x="360" y="60" width="280" height="280" rx="12" stroke-width="0.5"/>
+    <text class="th" x="500" y="90" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">EVIDENCE (The Trial)</text>
+    <text class="th" x="500" y="120" text-anchor="middle" dominant-baseline="central">Facta Probantia</text>
+    <text class="ts" x="380" y="150" text-anchor="start" dominant-baseline="central">Evidence proving material facts</text>
+    <text class="ts" x="380" y="180" text-anchor="start" dominant-baseline="central">✗ Do NOT include in pleadings</text>
+    <text class="ts" x="380" y="210" text-anchor="start" dominant-baseline="central">✗ Oral testimony</text>
+    <text class="ts" x="380" y="240" text-anchor="start" dominant-baseline="central">✗ Documentary exhibits</text>
+    <text class="ts" x="380" y="270" text-anchor="start" dominant-baseline="central">✗ Expert reports</text>
+    <text class="ts" x="380" y="300" text-anchor="start" dominant-baseline="central">✗ Witness statements</text>
+    <text class="ts" x="380" y="330" text-anchor="start" dominant-baseline="central">✗ Alternative: Further particulars</text>
+  </g>
+
+  <!-- Relation arrow -->
+  <line x1="320" y1="200" x2="360" y2="200" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Example Section -->
+  <text class="th" x="340" y="380" text-anchor="middle" dominant-baseline="central" style="font-size: 14px; fill: var(--text-primary);">EXAMPLE: Delictual Claim for Damages</text>
+  
+  <!-- Example Left -->
+  <g class="c-purple">
+    <rect x="40" y="410" width="280" height="240" rx="12" stroke-width="0.5"/>
+    <text class="th" x="180" y="440" text-anchor="middle" dominant-baseline="central">PLEAD (Facta Probanda)</text>
+    <text class="ts" x="60" y="480" text-anchor="start" dominant-baseline="central">1. Duty of care existed</text>
+    <text class="ts" x="60" y="510" text-anchor="start" dominant-baseline="central">2. Breach of that duty</text>
+    <text class="ts" x="60" y="540" text-anchor="start" dominant-baseline="central">3. Causation (factual & legal)</text>
+    <text class="ts" x="60" y="570" text-anchor="start" dominant-baseline="central">4. Damages suffered</text>
+    <text class="ts" x="60" y="600" text-anchor="start" dominant-baseline="central">• Date: 1 January 2024</text>
+    <text class="ts" x="60" y="625" text-anchor="start" dominant-baseline="central">• Place: Intersection of X and Y</text>
+  </g>
+
+  <!-- Example Right -->
+  <g class="c-purple">
+    <rect x="360" y="410" width="280" height="240" rx="12" stroke-width="0.5"/>
+    <text class="th" x="500" y="440" text-anchor="middle" dominant-baseline="central">PROVE (Facta Probantia)</text>
+    <text class="ts" x="380" y="480" text-anchor="start" dominant-baseline="central">→ Traffic expert report</text>
+    <text class="ts" x="380" y="510" text-anchor="start" dominant-baseline="central">→ Eyewitness testimony</text>
+    <text class="ts" x="380" y="540" text-anchor="start" dominant-baseline="central">→ Medical records</text>
+    <text class="ts" x="380" y="570" text-anchor="start" dominant-baseline="central">→ Accident reconstruction</text>
+    <text class="ts" x="380" y="600" text-anchor="start" dominant-baseline="central">→ Police docket contents</text>
+    <text class="ts" x="380" y="625" text-anchor="start" dominant-baseline="central">→ Photographs of scene</text>
+  </g>
+
+</svg>
+</div>
+</body>
+</html>

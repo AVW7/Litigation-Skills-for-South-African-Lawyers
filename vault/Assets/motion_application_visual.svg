@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <defs>
+    <linearGradient id="appGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="respGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="urgentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goldBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#fbbf24"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="500" fill="#0c1220"/>
+  <circle cx="450" cy="250" r="200" fill="rgba(99,102,241,0.05)"/>
+  <circle cx="100" cy="50" r="80" fill="rgba(239,68,68,0.03)"/>
+  
+  <!-- Title -->
+  <text x="450" y="35" text-anchor="middle" fill="#f1f5f9" font-family="Outfit, sans-serif" font-size="22" font-weight="700">
+    Motion Court Application Process
+  </text>
+  <text x="450" y="55" text-anchor="middle" fill="#94a3b8" font-size="12">"The Motion Court is a paper court. But it is no paper tiger!"</text>
+  
+  <!-- Step 1: Notice of Motion + Founding Affidavit -->
+  <g transform="translate(70, 90)">
+    <rect width="160" height="120" rx="12" fill="rgba(30,39,64,0.9)" stroke="rgba(59,130,246,0.5)" stroke-width="2" filter="url(#cardShadow)"/>
+    <rect width="160" height="8" rx="0" fill="url(#appGrad)"/>
+    <text x="80" y="35" text-anchor="middle" fill="#60a5fa" font-size="13" font-weight="700">1. FOUNDING</text>
+    <text x="80" y="52" text-anchor="middle" fill="#93c5fd" font-size="10">Notice of Motion</text>
+    <text x="80" y="67" text-anchor="middle" fill="#93c5fd" font-size="10">+ Founding Affidavit</text>
+    <line x1="20" y1="80" x2="140" y2="80" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="80" y="95" text-anchor="middle" fill="#94a3b8" font-size="9">Sets out:</text>
+    <text x="80" y="107" text-anchor="middle" fill="#cbd5e1" font-size="9">Relief sought + Facts</text>
+    <text x="80" y="138" text-anchor="middle" fill="#fbbf24" font-size="11" font-weight="600">APPLICANT</text>
+  </g>
+  
+  <!-- Arrow 1-2 -->
+  <line x1="235" y1="150" x2="275" y2="150" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <!-- Step 2: Notice of Opposition -->
+  <g transform="translate(280, 90)">
+    <rect width="160" height="120" rx="12" fill="rgba(30,39,64,0.9)" stroke="rgba(16,185,129,0.5)" stroke-width="2" filter="url(#cardShadow)"/>
+    <rect width="160" height="8" rx="0" fill="url(#respGrad)"/>
+    <text x="80" y="35" text-anchor="middle" fill="#6ee7b7" font-size="13" font-weight="700">2. OPPOSITION</text>
+    <text x="80" y="52" text-anchor="middle" fill="#a7f3d0" font-size="10">Notice of</text>
+    <text x="80" y="67" text-anchor="middle" fill="#a7f3d0" font-size="10">Intention to Oppose</text>
+    <line x1="20" y1="80" x2="140" y2="80" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="80" y="95" text-anchor="middle" fill="#94a3b8" font-size="9">Within:</text>
+    <text x="80" y="107" text-anchor="middle" fill="#cbd5e1" font-size="9" font-weight="600">15 days</text>
+    <text x="80" y="138" text-anchor="middle" fill="#10b981" font-size="11" font-weight="600">RESPONDENT</text>
+  </g>
+  
+  <!-- Arrow 2-3 -->
+  <line x1="445" y1="150" x2="485" y2="150" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <!-- Step 3: Answering Affidavit -->
+  <g transform="translate(490, 90)">
+    <rect width="160" height="120" rx="12" fill="rgba(30,39,64,0.9)" stroke="rgba(16,185,129,0.5)" stroke-width="2" filter="url(#cardShadow)"/>
+    <rect width="160" height="8" rx="0" fill="url(#respGrad)"/>
+    <text x="80" y="35" text-anchor="middle" fill="#6ee7b7" font-size="13" font-weight="700">3. ANSWERING</text>
+    <text x="80" y="52" text-anchor="middle" fill="#a7f3d0" font-size="10">Answering</text>
+    <text x="80" y="67" text-anchor="middle" fill="#a7f3d0" font-size="10">Affidavit</text>
+    <line x1="20" y1="80" x2="140" y2="80" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="80" y="95" text-anchor="middle" fill="#94a3b8" font-size="9">Must answer:</text>
+    <text x="80" y="107" text-anchor="middle" fill="#cbd5e1" font-size="9">ALL allegations</text>
+    <text x="80" y="138" text-anchor="middle" fill="#10b981" font-size="11" font-weight="600">RESPONDENT</text>
+  </g>
+  
+  <!-- Arrow 3-4 -->
+  <line x1="655" y1="150" x2="695" y2="150" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <!-- Step 4: Replying Affidavit -->
+  <g transform="translate(700, 90)">
+    <rect width="160" height="120" rx="12" fill="rgba(30,39,64,0.9)" stroke="rgba(59,130,246,0.5)" stroke-width="2" filter="url(#cardShadow)"/>
+    <rect width="160" height="8" rx="0" fill="url(#appGrad)"/>
+    <text x="80" y="35" text-anchor="middle" fill="#60a5fa" font-size="13" font-weight="700">4. REPLYING</text>
+    <text x="80" y="52" text-anchor="middle" fill="#93c5fd" font-size="10">Replying</text>
+    <text x="80" y="67" text-anchor="middle" fill="#93c5fd" font-size="10">Affidavit</text>
+    <line x1="20" y1="80" x2="140" y2="80" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="80" y="95" text-anchor="middle" fill="#94a3b8" font-size="9">Limited to:</text>
+    <text x="80" y="107" text-anchor="middle" fill="#cbd5e1" font-size="9">New matters raised</text>
+    <text x="80" y="138" text-anchor="middle" fill="#fbbf24" font-size="11" font-weight="600">APPLICANT</text>
+  </g>
+  
+  <!-- Central pathway to HEARING -->
+  <path d="M 450 215 L 450 270" stroke="url(#goldBar)" stroke-width="4" stroke-dasharray="8 4"/>
+  
+  <!-- Step 5: Hearing -->
+  <g transform="translate(300, 280)">
+    <rect width="300" height="120" rx="16" fill="rgba(30,39,64,0.95)" stroke="rgba(139,92,246,0.6)" stroke-width="3" filter="url(#cardShadow)"/>
+    <rect width="300" height="10" rx="0" fill="linear-gradient(90deg, #6366f1, #a855f7)"/>
+    <text x="150" y="45" text-anchor="middle" fill="#c084fc" font-size="16" font-weight="700">5. HEARING & ARGUMENT</text>
+    <text x="150" y="65" text-anchor="middle" fill="#e9d5ff" font-size="11">Oral argument on affidavit evidence</text>
+    <line x1="30" y1="80" x2="270" y2="80" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="150" y="98" text-anchor="middle" fill="#94a3b8" font-size="10">↑ Each party argues from papers + case law precedents ↓</text>
+    <text x="150" y="115" text-anchor="middle" fill="#fbbf24" font-size="10" font-weight="600">JUDGE DELIVERS RULING</text>
+  </g>
+  
+  <!-- Urgent Application Callout -->
+  <g transform="translate(50, 420)">
+    <rect width="800" height="60" rx="10" fill="rgba(239,68,68,0.1)" stroke="rgba(239,68,68,0.4)" stroke-width="1"/>
+    <rect width="8" height="60" fill="url(#urgentGrad)"/>
+    <text x="40" y="25" fill="#fca5a5" font-size="14" font-weight="600">⚡ URGENT APPLICATIONS</text>
+    <text x="250" y="25" fill="#cbd5e1" font-size="12">Must set out circumstances rendering matter urgent explicitly</text>
+    <text x="40" y="45" fill="#94a3b8" font-size="11">Rule 6(12): "The affidavit in support of the application shall set forth explicitly the circumstances which the applicant avers render</text>
+    <text x="40" y="58" fill="#94a3b8" font-size="11">the matter urgent, and the reasons why the applicant cannot be afforded substantial redress at a hearing in due course."</text>
+  </g>
+</svg>

@@ -1,27 +1,55 @@
 ---
-
 type: lecture
-lecture: L6
-tags: [lecture, litigation-skills]
-
+lecture: L06
+tags:
+  - lecture
+  - litigation-skills
+  - pleadings
+  - statement-of-claim
+  - particulars-of-claim
+aliases:
+  - "Statement of Claim"
+  - "Particulars of Claim"
+  - "Drafting Pleadings"
 ---
+
 # L06 — Drafting statements of claim
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Drafting statements of claim**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **drafting statements of claim** — the foundational pleading that sets out the plaintiff's cause of action. Key principles: plead *material facts* (not evidence), be clear and concise, and ensure legal sufficiency.
+
+> [!important] Core Principle
+> *Facta probanda* (facts that must be proved) go in the pleading. *Facta probantia* (facts used to prove) do NOT go in the pleading — they are evidence.
+
+## Visual Overview
+
+**Diagram:** Pleadings Structure
+
+![[diagrams/pleadings-structure.html]]
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph components["Components of Statement of Claim"]
+        C1["1. Heading & Parties"] --> C2["2. Cause of Action"]
+        C2 --> C3["3. Material Facts"]
+        C3 --> C4["4. Damages/Relief Claimed"]
+        C4 --> C5["5. Prayer"]
+    end
+    
+    subgraph rules["Key Rules"]
+        R1["Material fact rule — only essentials"]
+        R2["No evidence rule — no witness names"]
+        R3["Concise rule — avoid over-pleading"]
+        R4["Consistency rule — no contradictions"]
+    end
+    
+    components --> rules
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The structure and rules for drafting a statement of claim.*
+
+> [!tip] Connection
+> After drafting the statement of claim, the defendant responds with [[L07 - Drafting pleas and special pleas|a plea]]. If the pleading is defective, see [[L09 - Drafting exceptions and striking out|exceptions]].
 
 ---
 

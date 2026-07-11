@@ -1,27 +1,63 @@
 ---
-
 type: lecture
 lecture: L13
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - trial-preparation
+  - legal-research
+  - case-law
+  - authorities
+aliases:
+  - "Legal Research"
+  - "Case Law"
+  - "Authorities"
+  - "Precedent"
 ---
+
 # L13 — Preparation for trial: Legal research
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Preparation for trial: Legal research**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **legal research** — finding, verifying, and organizing authorities for trial. Key sources: statutes, case law, textbooks, and practice directives.
+
+> [!quote] Core Principle
+> *"A case is only as good as the authorities supporting it."*
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph sources["Research Sources"]
+        S1["Primary: Statutes & Cases"]
+        S2["Secondary: Textbooks"]
+        S3["Practice: Directives"]
+        S4["Procedural: Rules of Court"]
+    end
+    
+    subgraph verification["Verification"]
+        V1["Is it still good law?"]
+        V2["Has it been overruled?"]
+        V3["Has it been distinguished?"]
+    end
+    
+    subgraph application["Application"]
+        A1["State proposition"]
+        A2["Cite authority"]
+        A3["Quote ratio"]
+        A4["Apply to facts"]
+    end
+    
+    sources --> verification
+    verification --> application
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The research workflow — from sources to courtroom application.*
+
+> [!danger] Currency Check
+> Always verify that a case has not been overruled or appealed. A bad citation damages credibility.
+
+> [!tip] Connection
+> Legal research supports every aspect of the case: [[L06 - Drafting statements of claim|pleadings]], [[L11 - Preparing the case for trial: Advice on evidence|evidence advice]], and [[L21 - Closing argument|closing argument]].
 
 ---
 

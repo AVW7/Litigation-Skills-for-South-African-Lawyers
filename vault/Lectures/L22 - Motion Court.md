@@ -1,18 +1,69 @@
 ---
-
 type: lecture
 lecture: L22
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - motion-court
+  - applications
+  - unopposed
+  - opposed
+aliases:
+  - "Motion Court"
+  - "Unopposed Motions"
+  - "Opposed Motions"
+  - "Roll Court"
 ---
+
 # L22 — Motion Court
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Motion Court**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **Motion Court practice** — where applications are heard. Key topics: unopposed motions, opposed motions, procedural requirements, and advocacy techniques.
+
+> [!important] Motion Court vs Trial Court
+> Motion Court decides applications on **paper** (affidavits). Trial Court decides on **oral evidence**. Different skills required.
+
+## Visual Overview
+
+```mermaid
+graph TB
+    subgraph unopposed["Unopposed Motions"]
+        U1["Check roll for hearing time"]
+        U2["Ensure papers are in order"]
+        U3["Request order from bench"]
+        U4["Obtain draft order signed"]
+    end
+    
+    subgraph opposed["Opposed Motions"]
+        O1["File heads of argument timeously"]
+        O2["Know your case cold"]
+        O3["Anticipate questions"]
+        O4["Address court confidently"]
+    end
+    
+    subgraph tips["Key Tips"]
+        T1["Be on time"]
+        T2["Have spare copies"]
+        T3["Know practice directive"]
+        T4["Be courteous to court"]
+    end
+    
+    unopposed --> opposed
+    opposed --> tips
+```
+
+*Figure: Motion Court procedure and tips.*
+
+> [!tip] Unopposed Motion Checklist
+> - Notice of motion in order
+> - Founding affidavit in order
+> - Supporting affidavits attached
+> - Certificate of urgency (if urgent)
+> - Draft order ready
+> - Cost endorsement prepared
+
+> [!tip] Connection
+> Motion Court hears applications drafted per [[L10 - Drafting applications|L10]]. Advocacy builds on [[L23 - Persuasive advocacy: Substance and style|persuasive skills]] and [[L21 - Closing argument|argument technique]].ful advocacy.
 
 ```mermaid
 graph LR

@@ -1,27 +1,60 @@
 ---
-
 type: lecture
 lecture: L26
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - epilogue
+  - conclusion
+  - professional-conduct
+aliases:
+  - "Epilogue"
+  - "Conclusion"
+  - "Final Thoughts"
 ---
+
 # L26 — Epilogue
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Epilogue**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter provides **closing reflections** on the litigation practitioner's role, skills, and professional responsibilities.
+
+> [!quote] The Litigator's Calling
+> *"The advocate's duty is to the court, to justice, and to the client — in that order."*
+
+## Visual Overview
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    subgraph core["Core Responsibilities"]
+        C1["Competence"]
+        C2["Integrity"]
+        C3["Courage"]
+        C4["Courtesy"]
+    end
+    
+    subgraph skills["Essential Skills"]
+        S1["Fact analysis"]
+        S2["Legal research"]
+        S3["Drafting"]
+        S4["Oral advocacy"]
+    end
+    
+    subgraph integrity["Professional Integrity"]
+        I1["Honesty with court"]
+        I2["Duty to client"]
+        I3["Collegiality"]
+    end
+    
+    core --> skills --> integrity
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The litigation practitioner's professional framework.*
+
+> [!tip] Key Takeaways
+> Develop skills through persistent practice and candid self-assessment. Never stop learning.
+
+> [!tip] Connection
+> Builds on all preceding lectures. The foundation for lifelong professional development.
 
 ---
 

@@ -1,27 +1,57 @@
 ---
-
 type: lecture
 lecture: L25
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - appeals
+  - appellate-advocacy
+  - leave-to-appeal
+aliases:
+  - "Appeals"
+  - "Appellate Advocacy"
+  - "Leave to Appeal"
 ---
+
 # L25 — Appeals
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Appeals**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **appeals** — the process of challenging a lower court's judgment before a higher court. Key topics include: leave to appeal, preparing the appeal record, heads of argument, and appellate advocacy techniques.
+
+> [!quote] Core Principle
+> *"An hour is a long time in the Court of Appeal."* — JL Glissan QC
+
+## Visual Overview
+
+**Diagram:** Appeals Workflow
+
+![[diagrams/appeals-workflow.html]]
+
+> [!tip] Connection
+> Compare with [[L24 - Reviews]] where the court reviews procedural irregularities, vs appeals which review the correctness of the judgment itself.
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph leave["Leave to Appeal"]
+        L1["Automatic right?"] -->|Yes| L2["Proceed to notice of appeal"]
+        L1 -->|No| L3["Apply for leave"]
+        L3 --> L4["Show reasonable prospects"]
+    end
+    
+    subgraph record["Appeal Process"]
+        L2 --> R1["Prepare appeal record"]
+        R1 --> R2["Draft heads of argument"]
+        R2 --> R3["Oral argument"]
+    end
+    
+    subgraph outcomes["Outcomes"]
+        R3 --> O1["Appeal upheld"]
+        R3 --> O2["Appeal dismissed"]
+        R3 --> O3["Remitted for retrial"]
+    end
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The appeals pathway from judgment to outcome.*
 
 ---
 

@@ -1,27 +1,55 @@
 ---
-
 type: lecture
-lecture: L5
-tags: [lecture, litigation-skills]
-
+lecture: L05
+tags:
+  - lecture
+  - litigation-skills
+  - pleadings
+  - facta-probanda
+  - facta-probantia
+aliases:
+  - "Pleadings"
+  - "Facta Probanda"
+  - "Material Facts"
+  - "Pleading Principles"
 ---
+
 # L05 — Function, form and style of pleadings
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Function, form and style of pleadings**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **pleadings fundamentals** — the principles that govern all drafting. Key distinction: *facta probanda* (facts to be proved — plead these) vs *facta probantia* (facts used as evidence — do NOT plead these).
+
+> [!important] The Material Fact Rule
+> Plead only **material facts** — those necessary to establish the cause of action or defence. Over-pleading creates embarrassment and vulnerability to exceptions.
+
+## Visual Overview
+
+**Diagram:** Pleadings Structure
+
+![[diagrams/pleadings-structure.html]]
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph concept["Core Concept"]
+        FP["FACTA PROBANDA<br/>(Facts that MUST be proved)"]
+        FT["FACTA PROBANTIA<br/>(Facts used TO prove)"]
+    end
+    
+    FP -->|"PUT IN PLEADING"| P["Particulars of Claim / Plea"]
+    FT -->|"LEAVE OUT"| E["Evidence at trial"]
+    
+    subgraph rules["Pleading Rules"]
+        R1["Material facts only"]
+        R2["No evidence or argument"]
+        R3["Clear and concise"]
+        R4["Consistent narrative"]
+    end
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The fundamental distinction in pleading — what goes in vs what stays out.*
+
+> [!tip] Connection
+> These principles apply to [[L06 - Drafting statements of claim|statements of claim]] and [[L07 - Drafting pleas and special pleas|pleas]]. Errors expose you to [[L09 - Drafting exceptions and striking out|exceptions]].
 
 ---
 

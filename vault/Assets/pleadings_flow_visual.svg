@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+  <defs>
+    <linearGradient id="plGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="defGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6ee7b7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="courtGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c084fc;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="400" fill="#0c1220"/>
+  
+  <!-- Title -->
+  <text x="450" y="35" text-anchor="middle" fill="#f1f5f9" font-family="Outfit, sans-serif" font-size="24" font-weight="700">
+    Exchange of Pleadings Flow
+  </text>
+  <text x="450" y="55" text-anchor="middle" fill="#94a3b8" font-size="12">South African Civil Procedure (Rule 18)</text>
+  
+  <!-- Step 1: Summons & Particulars of Claim -->
+  <g transform="translate(50, 100)">
+    <rect width="130" height="80" rx="10" fill="url(#plGrad)" filter="url(#shadow2)"/>
+    <text x="65" y="30" text-anchor="middle" fill="#fff" font-size="11" font-weight="600">1. SUMMONS</text>
+    <text x="65" y="45" text-anchor="middle" fill="#e0f2fe" font-size="9">&amp; Particulars</text>
+    <text x="65" y="58" text-anchor="middle" fill="#e0f2fe" font-size="9">of Claim</text>
+    <rect x="10" y="68" width="110" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+    <text x="65" y="95" text-anchor="middle" fill="#fbbf24" font-size="10" font-weight="600">PLAINTIFF</text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M185 140 L215 140" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrowGold)"/>
+  <defs>
+    <marker id="arrowGold" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#fbbf24"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 2: Notice of Intention to Defend -->
+  <g transform="translate(220, 100)">
+    <rect width="130" height="80" rx="10" fill="url(#defGrad)" filter="url(#shadow2)"/>
+    <text x="65" y="30" text-anchor="middle" fill="#fff" font-size="11" font-weight="600">2. NOTICE OF</text>
+    <text x="65" y="45" text-anchor="middle" fill="#d1fae5" font-size="9">Intention to</text>
+    <text x="65" y="58" text-anchor="middle" fill="#d1fae5" font-size="9">Defend</text>
+    <rect x="10" y="68" width="110" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+    <text x="65" y="95" text-anchor="middle" fill="#6ee7b7" font-size="10" font-weight="600">DEFENDANT</text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M355 140 L385 140" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrowGold)"/>
+  
+  <!-- Step 3: Plea & Counterclaim -->
+  <g transform="translate(390, 100)">
+    <rect width="130" height="80" rx="10" fill="url(#defGrad)" filter="url(#shadow2)"/>
+    <text x="65" y="30" text-anchor="middle" fill="#fff" font-size="11" font-weight="600">3. PLEA</text>
+    <text x="65" y="45" text-anchor="middle" fill="#d1fae5" font-size="9">&amp; Counterclaim</text>
+    <text x="65" y="58" text-anchor="middle" fill="#d1fae5" font-size="9">(if any)</text>
+    <rect x="10" y="68" width="110" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+    <text x="65" y="95" text-anchor="middle" fill="#6ee7b7" font-size="10" font-weight="600">DEFENDANT</text>
+  </g>
+  
+  <!-- Arrow 3 -->
+  <path d="M525 140 L555 140" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrowGold)"/>
+  
+  <!-- Step 4: Replication -->
+  <g transform="translate(560, 100)">
+    <rect width="130" height="80" rx="10" fill="url(#plGrad)" filter="url(#shadow2)"/>
+    <text x="65" y="30" text-anchor="middle" fill="#fff" font-size="11" font-weight="600">4. REPLICATION</text>
+    <text x="65" y="45" text-anchor="middle" fill="#e0f2fe" font-size="9">(Reply to</text>
+    <text x="65" y="58" text-anchor="middle" fill="#e0f2fe" font-size="9">Counterclaim)</text>
+    <rect x="10" y="68" width="110" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+    <text x="65" y="95" text-anchor="middle" fill="#fbbf24" font-size="10" font-weight="600">PLAINTIFF</text>
+  </g>
+  
+  <!-- Arrow 4 -->
+  <path d="M695 140 L725 140" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrowGold)"/>
+  
+  <!-- Step 5: Close of Pleadings -->
+  <g transform="translate(730, 100)">
+    <rect width="120" height="80" rx="10" fill="url(#courtGrad)" filter="url(#shadow2)"/>
+    <text x="60" y="30" text-anchor="middle" fill="#fff" font-size="11" font-weight="600">5. CLOSE OF</text>
+    <text x="60" y="45" text-anchor="middle" fill="#f3e8ff" font-size="9">PLEADINGS</text>
+    <text x="60" y="60" text-anchor="middle" fill="#f3e8ff" font-size="8" font-style="italic">(Litis Contestatio)</text>
+    <text x="60" y="95" text-anchor="middle" fill="#c084fc" font-size="10" font-weight="600">ISSUES JOINED</text>
+  </g>
+  
+  <!-- Timeline bar at bottom -->
+  <rect x="50" y="220" width="800" height="8" rx="4" fill="rgba(255,255,255,0.1)"/>
+  <rect x="50" y="220" width="160" height="8" rx="4" fill="url(#plGrad)" opacity="0.7"/>
+  
+  <!-- Time labels -->
+  <text x="115" y="250" text-anchor="middle" fill="#94a3b8" font-size="10">Within</text>
+  <text x="115" y="265" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="600">30 days</text>
+  
+  <text x="285" y="250" text-anchor="middle" fill="#94a3b8" font-size="10">Within</text>
+  <text x="285" y="265" text-anchor="middle" fill="#6ee7b7" font-size="11" font-weight="600">10 days</text>
+  
+  <text x="455" y="250" text-anchor="middle" fill="#94a3b8" font-size="10">Within</text>
+  <text x="455" y="265" text-anchor="middle" fill="#6ee7b7" font-size="11" font-weight="600">20 days</text>
+  
+  <text x="625" y="250" text-anchor="middle" fill="#94a3b8" font-size="10">Within</text>
+  <text x="625" y="265" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="600">10 days</text>
+  
+  <!-- Key Rule Box -->
+  <rect x="100" y="300" width="700" height="70" rx="12" fill="rgba(30,39,64,0.8)" stroke="rgba(245,158,11,0.3)" stroke-width="1"/>
+  <text x="450" y="325" text-anchor="middle" fill="#fbbf24" font-size="14" font-weight="600">Rules of Court — Uniform Rule 18</text>
+  <text x="450" y="345" text-anchor="middle" fill="#cbd5e1" font-size="12">Each pleading must respond to ALL allegations — admit, deny, or confess and avoid</text>
+  <text x="450" y="362" text-anchor="middle" fill="#94a3b8" font-size="11" font-style="italic">Any allegation not denied is deemed admitted (Rule 18(4))</text>
+</svg>

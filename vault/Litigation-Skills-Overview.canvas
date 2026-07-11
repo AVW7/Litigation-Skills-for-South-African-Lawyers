@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"group2","type":"group","x":-50,"y":150,"width":600,"height":500,"color":"5","label":"2. Courtroom Protocol & Etiquette"},
+		{"id":"group4","type":"group","x":-50,"y":700,"width":600,"height":500,"color":"4","label":"4. Trial Advocacy & Strategies"},
+		{"id":"group1","type":"group","x":-700,"y":150,"width":600,"height":400,"color":"1","label":"1. Professional Conduct & Ethics"},
+		{"id":"group3","type":"group","x":-700,"y":600,"width":600,"height":400,"color":"2","label":"3. Rules of Pleadings & Drafting"},
+		{"id":"root001","type":"text","text":"# South African Litigation Skills\n\nBased on Chris Marnewick SC's guide for practitioners","x":-150,"y":-100,"width":300,"height":120,"color":"6"},
+		{"id":"ethics-duty","type":"text","text":"**Duty to the Court**\nHigher than duty to client\n- Do not mislead\n- No false evidence\n- Disclose adverse authorities","x":-650,"y":200,"width":240,"height":100,"color":"1"},
+		{"id":"ethics-client","type":"text","text":"**Duty to the Client**\nFearless advocacy\n- Objective advice\n- Fearless representation\n- Full presentation of case","x":-380,"y":200,"width":240,"height":100,"color":"4"},
+		{"id":"ethics-prose","type":"text","text":"**Prosecutor's Duty**\nMust be fair\n- Do not withhold\nexonerating evidence","x":-515,"y":350,"width":220,"height":80,"color":"3"},
+		{"id":"pleading-facts","type":"text","text":"**Facta Probanda**\n(Material Facts to Prove)\nPlead ONLY these facts\nExclude evidence (facta probantia)","x":-650,"y":650,"width":260,"height":100,"color":"2"},
+		{"id":"pleading-prayer","type":"text","text":"**The Prayer**\nEvery pleading must\nconclude with clear\nrelief sought","x":-360,"y":650,"width":200,"height":100,"color":"2"},
+		{"id":"pleading-plea","type":"text","text":"**Drafting the Plea**\nAnswer line-by-line\nAdmit, deny, or confess and avoid","x":-650,"y":800,"width":240,"height":80,"color":"2"},
+		{"id":"pleading-motion","type":"text","text":"**Motion Court**\nPaper court - affidavits only\nSet out urgency explicitly","x":-380,"y":800,"width":220,"height":80,"color":"2"},
+		{"id":"protocol-address","type":"text","text":"**Modes of Address**\n- High Court: My Lord/Lady\n- Magistrates: Your Worship\n- Chambers: Judge (not My Lord)","x":0,"y":200,"width":260,"height":100,"color":"5"},
+		{"id":"protocol-appear","type":"text","text":"**Announcing Appearance**\nState representation clearly\nInclude name and initials\nMention instructing attorney","x":280,"y":200,"width":220,"height":100,"color":"5"},
+		{"id":"protocol-respect","type":"text","text":"**Respecting the Bench**\n- Robe in designated areas\n- Bow when entering/leaving\n- Never turn back on judge\n- Acknowledge: As the Court pleases","x":30,"y":350,"width":240,"height":120,"color":"5"},
+		{"id":"protocol-interact","type":"text","text":"**Interaction Rules**\n- Opponents: my learned friend\n- Witnesses: formal address\n- Play the ball, not the man\n- No ad hominem attacks","x":300,"y":350,"width":200,"height":120,"color":"5"},
+		{"id":"trial-chrono","type":"text","text":"**Chronology & Theory**\n- Arrange facts chronologically\n- Develop preliminary theory early\n- Refine as information accumulates","x":0,"y":750,"width":240,"height":100,"color":"4"},
+		{"id":"trial-opening","type":"text","text":"**Opening Statement**\nOutline what party\nintends to prove","x":280,"y":750,"width":200,"height":80,"color":"4"},
+		{"id":"trial-exam","type":"text","text":"**Examination-in-Chief**\n- Logical, chronological\n- No leading questions\n- Refresh memory only with court permission","x":0,"y":900,"width":240,"height":100,"color":"4"},
+		{"id":"trial-cross","type":"text","text":"**Cross-Examination**\n**DUTY: Put Your Version**\nMust put client's version\nto opposing witness\n- Test reliability\n- Examine credibility","x":280,"y":900,"width":240,"height":120,"color":"1"},
+		{"id":"trial-reexam","type":"text","text":"**Re-Examination**\nLimited to clarifying\ncross-examination\nNo new areas","x":20,"y":1050,"width":220,"height":80,"color":"4"},
+		{"id":"trial-closing","type":"text","text":"**Closing Argument**\nSummarize facts\nApply legal principles\nAddress the prayer","x":300,"y":1050,"width":200,"height":80,"color":"4"},
+		{"id":"citations","type":"text","text":"**Citations of Authorities**\n- Statutes: full name then short\n- Case law: standard law report references","x":-120,"y":1280,"width":260,"height":160,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"root001","fromSide":"left","toNode":"ethics-duty","toSide":"top"},
+		{"id":"e2","fromNode":"root001","fromSide":"right","toNode":"protocol-address","toSide":"top"},
+		{"id":"e3","fromNode":"root001","fromSide":"left","toNode":"pleading-facts","toSide":"top"},
+		{"id":"e4","fromNode":"root001","fromSide":"right","toNode":"trial-chrono","toSide":"top"},
+		{"id":"e5","fromNode":"root001","fromSide":"bottom","toNode":"citations","toSide":"top"}
+	]
+}

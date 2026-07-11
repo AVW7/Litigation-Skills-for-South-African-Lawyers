@@ -1,27 +1,68 @@
 ---
-
 type: lecture
 lecture: L19
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - re-examination
+  - witness
+  - evidence
+  - damage-control
+aliases:
+  - "Re-examination"
+  - "Redirect Examination"
+  - "Damage Control"
 ---
+
 # L19 — Re-examination
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Re-examination**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **re-examination** — the opportunity to rehabilitate a witness after cross-examination. Key rule: limited to matters arising from cross-examination.
+
+> [!important] The Restriction
+> Re-examination is NOT a second examination-in-chief. LIMITED to:
+> - Matters arising from cross-examination
+> - Clarifying confusion
+> - Explaining damaging admissions
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph when["When to Re-examine"]
+        W1["Cross-exam caused damage"]
+        W2["Witness made harmful admission"]
+        W3["Confusion needs clearing"]
+        W4["Explanation may mitigate"]
+    end
+    
+    subgraph how["How to Re-examine"]
+        H1["Remind witness what was said"]
+        H2["Pause — let them think"]
+        H3["Ask: 'Can you explain?'"]
+        H4["Don't lead on new matters"]
+    end
+    
+    subgraph danger["Dangers"]
+        D1["Don't re-open chief"]
+        D2["Don't ask leading questions"]
+        D3["Don't make it worse"]
+        D4["Know when to stop"]
+    end
+    
+    when --> how
+    how --> danger
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Re-examination — limited but powerful.*
+
+> [!tip] The Three-Step Process
+> 1. Remind witness what was said in cross-examination
+> 2. Give the witness a moment to remember
+> 3. Ask the clarifying question
+
+> [!tip] Connection
+> Follows [[L18 - Cross-examination|cross-examination]]. If needed, proceed to next witness or [[L21 - Closing argument|closing argument]]. Pre-exam structure in [[L17 - Examination-in-chief|examination-in-chief]].
 
 ---
 

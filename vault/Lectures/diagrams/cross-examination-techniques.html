@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cross-Examination Techniques - The Art of Impeachment</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #888780;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 900px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 11px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 13px; fill: var(--text-primary); font-weight: 600; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .c-coral > rect, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; stroke-width: 0.5; }
+  .c-coral > .th, .c-coral text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral text.ts { fill: #993C1D; }
+  .c-gray > rect { fill: #F1EFE8; stroke: #5F5E5A; stroke-width: 0.5; }
+  .c-gray > .th, .c-gray text.th { fill: #444441; }
+  .c-gray > .ts { fill: var(--text-secondary); }
+  .c-coral-dark > rect { fill: #993C1D; stroke: #712B13; stroke-width: 0.5; }
+  .c-coral-dark > .th, .c-coral-dark text.th { fill: #F5C4B3; }
+  .c-coral-dark > .ts, .c-coral-dark text.ts { fill: #FACFC3; }
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; }
+    .c-gray > rect { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th { fill: #D3D1C7; }
+    .c-coral-dark > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral-dark > .th { fill: #FACFC3; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Cross-Examination Techniques</h1>
+  <p class="subtitle">The art of impeachment—systematic approaches to testing and challenging witness evidence</p>
+<svg width="100%" viewBox="0 0 850 680" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Header -->
+  <text class="th" x="425" y="30" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">THE CROSS-EXAMINER'S TOOLKIT</text>
+  
+  <!-- Purpose -->
+  <g class="c-gray">
+    <rect x="40" y="50" width="770" height="60" rx="8" stroke-width="0.5"/>
+    <text class="th" x="60" y="70" text-anchor="start">PURPOSE: Test the witness's evidence, challenge credibility, put your version, establish admissions</text>
+    <text class="ts" x="60" y="90" text-anchor="start">DUTY: Must put your case to the witness (Nortje v. Attorney-General) — Failure to cross-examine may constitute acceptance of that evidence</text>
+  </g>
+
+  <!-- Technique 1 -->
+  <g class="c-coral">
+    <rect x="40" y="130" width="370" height="130" rx="8" stroke-width="0.5"/>
+    <text class="th" x="60" y="155" text-anchor="start" style="font-size: 15px;">1. CONFRONTATION</text>
+    <text class="ts" x="60" y="180" text-anchor="start">Force the witness to face difficult facts</text>
+    <text class="ts" x="70" y="200" text-anchor="start">"You were 80 metres away?"</text>
+    <text class="ts" x="70" y="220" text-anchor="start">"It was 8pm and dark?"</text>
+    <text class="ts" x="70" y="240" text-anchor="start">"You were not wearing glasses?"</text>
+  </g>
+
+  <!-- Technique 2 -->
+  <g class="c-coral">
+    <rect x="440" y="130" width="370" height="130" rx="8" stroke-width="0.5"/>
+    <text class="th" x="460" y="155" text-anchor="start" style="font-size: 15px;">2. PROBING</text>
+    <text class="ts" x="460" y="180" text-anchor="start">Extract admissions helpful to your case</text>
+    <text class="ts" x="470" y="200" text-anchor="start">"You agree the light was green for the pedestrian?"</text>
+    <text class="ts" x="470" y="220" text-anchor="start">"Your brake lights were functioning?"</text>
+    <text class="ts" x="470" y="240" text-anchor="start">"You saw the defendant before the collision?"</text>
+  </g>
+
+  <!-- Technique 3 -->
+  <g class="c-coral">
+    <rect x="40" y="280" width="370" height="130" rx="8" stroke-width="0.5"/>
+    <text class="th" x="60" y="305" text-anchor="start" style="font-size: 15px;">3. SUGGESTION</text>
+    <text class="ts" x="60" y="330" text-anchor="start">Put your version for the witness to respond</text>
+    <text class="ts" x="70" y="350" text-anchor="start">"I put it to you that the light was red"</text>
+    <text class="ts" x="70" y="370" text-anchor="start">"I suggest you never saw the vehicle"</text>
+    <text class="ts" x="70" y="390" text-anchor="start">"My instructions are that you were warned"</text>
+  </g>
+
+  <!-- Technique 4 -->
+  <g class="c-coral">
+    <rect x="440" y="280" width="370" height="130" rx="8" stroke-width=" 0.5"/>
+    <text class="th" x="460" y="305" text-anchor="start" style="font-size: 15px;">4. UNDERMINING</text>
+    <text class="ts" x="460" y="330" text-anchor="start">Damage credibility or reliability</text>
+    <text class="ts" x="470" y="350" text-anchor="start">Bias: "You are the plaintiff's brother?"</text>
+    <text class="ts" x="470" y="370" text-anchor="start">Prior inconsistency: "You told police X, now Y?"</text>
+    <text class="ts" x="470" y="390" text-anchor="start">Competence: "You were 100m away in fading light?"</text>
+  </g>
+
+  <!-- Key Principles Header -->
+  <text class="th" x="425" y="440" text-anchor="middle" dominant-baseline="central" style="font-size: 15px;">GOLDEN RULES</text>
+
+  <!-- Do -->
+  <g class="c-coral-dark">
+    <rect x="40" y="470" width="370" height="180" rx="8" stroke-width="0.5"/>
+    <text class="th" x="60" y="495" text-anchor="start">✓ DO</text>
+    <text class="ts" x="60" y="520" text-anchor="start" style="fill: #F5C4B3;">• Use leading questions (control the narrative)</text>
+    <text class="ts" x="60" y="545" text-anchor="start" style="fill: #F5C4B3;">• One fact per question</text>
+    <text class="ts" x="60" y="570" text-anchor="start" style="fill: #F5C4B3;">• Put your version clearly ("I put it to you...")</text>
+    <text class="ts" x="60" y="595" text-anchor="start" style="fill: #F5C4B3;">• Know the answer before asking</text>
+    <text class="ts" x="60" y="620" text-anchor="start" style="fill: #F5C4B3;">• Listen to the answer</text>
+    <text class="ts" x="60" y="645" text-anchor="start" style="fill: #F5C4B3;">• Impeach with prior statements</text>
+  </g>
+
+  <!-- Don't -->
+  <g class="c-coral-dark">
+    <rect x="440" y="470" width="370" height="180" rx="8" stroke-width="0.5"/>
+    <text class="th" x="460" y="495" text-anchor="start">✗ DON'T</text>
+    <text class="ts" x="460" y="520" text-anchor="start" style="fill: #F5C4B3;">• Ask "Why?" (gives witness freedom)</text>
+    <text class="ts" x="460" y="545" text-anchor="start" style="fill: #F5C4B3;">• Ask open questions (lose control)</text>
+    <text class="ts" x="460" y="570" text-anchor="start" style="fill: #F5C4B3;">• Ask questions you don't know answer to</text>
+    <text class="ts" x="460" y="595" text-anchor="start" style="fill: #F5C4B3;">• Argue with the witness</text>
+    <text class="ts" x="460" y="620" text-anchor="start" style="fill: #F5C4B3;">• Ask one question too many</text>
+    <text class="ts" x="460" y="645" text-anchor="start" style="fill: #F5C4B3;">• Fail to put your version (Nortje duty)</text>
+  </g>
+
+</svg>
+</div>
+</body>
+</html>

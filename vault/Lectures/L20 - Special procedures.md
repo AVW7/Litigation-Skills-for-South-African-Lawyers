@@ -1,27 +1,69 @@
 ---
-
 type: lecture
 lecture: L20
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - special-procedures
+  - expert-witnesses
+  - children
+  - hostile-witness
+aliases:
+  - "Special Procedures"
+  - "Expert Witnesses"
+  - "Child Witnesses"
+  - "Hostile Witness Declaration"
 ---
+
 # L20 — Special procedures
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Special procedures**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **special procedures** for particular witness types: expert witnesses, child witnesses, hostile witnesses, and single witnesses.
+
+> [!important] Expert Witnesses
+> Must declare that the opinion is given independently and objectively. Expert's duty is to the court, not the party calling them.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph experts["Expert Witnesses"]
+        E1["Must have relevant expertise"]
+        E2["Opinion must be within field"]
+        E3["Independent and objective duty"]
+        E4["Rule 36(9) notice required"]
+    end
+    
+    subgraph children["Child Witnesses"]
+        C1["Competent if understands duty to speak truth"]
+        C2["Informal questioning approach"]
+        C3["Supportive environment"]
+        C4["Confession/exception rules"]
+    end
+    
+    subgraph hostile["Hostile Witness"]
+        H1["Apply to court for declaration"]
+        H2["Show reasonable grounds"]
+        H3["Then may lead"]
+        H4["With circumspection"]
+    end
+    
+    subgraph single["Single Witness"]
+        S1["Corroboration warning"]
+        S2["Danger of false incrimination"]
+        S3["Credibility assessment crucial"]
+    end
+    
+    experts --> children --> hostile --> single
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Special procedures for different witness types.*
+
+> [!warning] Hostile Witness Declaration
+> Use sparingly. Imputes that the witness is dishonest. Only request when reasonable grounds exist.
+
+> [!tip] Connection
+> Expert witness procedure tied to [[L11 - Preparing the case for trial: Advice on evidence|Rule 36(9) notice]]. Within the framework of [[L17 - Examination-in-chief|examination rules]].
 
 ---
 

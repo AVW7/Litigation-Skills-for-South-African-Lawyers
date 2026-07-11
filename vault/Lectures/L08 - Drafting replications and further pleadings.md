@@ -1,27 +1,57 @@
 ---
-
 type: lecture
-lecture: L8
-tags: [lecture, litigation-skills]
-
+lecture: L08
+tags:
+  - lecture
+  - litigation-skills
+  - pleadings
+  - replication
+  - rejoinder
+  - litis-contestatio
+aliases:
+  - "Replication"
+  - "Rejoinder"
+  - "Close of Pleadings"
+  - "Litis Contestatio"
 ---
+
 # L08 — Drafting replications and further pleadings
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Drafting replications and further pleadings**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **replications and further pleadings** — the exchange of pleadings after the plea. Key topics: confession and avoidance, joining issue, close of pleadings (litis contestatio).
+
+> [!important] Key Point
+> A replication is delivered when the plea introduces new facts. The replication "confesses" the plea's allegations but "avoids" their legal effect.
+
+## Visual Overview
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    subgraph sequence["Pleading Sequence"]
+        direction LR
+        SOC["Statement of Claim"] --> P["Plea"]
+        P --> R["Replication"]
+        R --> RJ["Rejoinder"]
+        RJ --> SR["Surrejoinder"]
+        SR --> RB["Rebutter"]
+        RB --> SB["Surrebutter"]
+    end
+    
+    R -->|"15 days or close"| CLOSE["CLOSE OF PLEADINGS<br/>(Litis Contestatio)"]
+    
+    close["Note: Rare to go beyond replication"] --> sequence
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The pleading sequence — from claim to close of pleadings.*
+
+> [!tip] When to Replicate
+> Replicate only if:
+> - The plea raises new facts requiring a response
+> - You need to "confess and avoid"
+> - Otherwise, pleadings close automatically after 15 days
+
+> [!tip] Connection
+> Replications follow [[L07 - Drafting pleas and special pleas|pleas]]. Pleadings close before [[L11 - Preparing the case for trial: Advice on evidence|trial preparation]]. If pleadings are defective, see [[L09 - Drafting exceptions and striking out|exceptions]].
 
 ---
 

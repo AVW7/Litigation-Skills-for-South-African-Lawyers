@@ -3,5 +3,9 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "/",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "baseTheme": "obsidian",
+  "cssSnippets": [
+    "home-page"
+  ]
 }

@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>South African Litigation Skills — Interactive Study Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0c1220;
+      --bg-secondary: #141b2d;
+      --bg-card: rgba(30, 39, 64, 0.85);
+      --accent-gold: #f59e0b;
+      --accent-blue: #3b82f6;
+      --accent-purple: #8b5cf6;
+      --accent-green: #10b981;
+      --accent-red: #ef4444;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --border-subtle: rgba(255,255,255,0.08);
+    }
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    
+    /* Animated background */
+    .bg-gradient {
+      position: fixed;
+      inset: 0;
+      background: 
+        radial-gradient(ellipse at 20% 20%, rgba(59,130,246,0.08) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 80%, rgba(139,92,246,0.08) 0%, transparent 50%);
+      pointer-events: none;
+      z-index: 0;
+    }
+    
+    .container { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 2rem; }
+    
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      animation: fadeInDown 0.8s ease;
+    }
+    
+    h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 2.5rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent-gold), var(--accent-blue));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 0.5rem;
+    }
+    
+    .subtitle {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+    }
+    
+    /* Study Progress Stats */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 1.25rem;
+      text-align: center;
+      backdrop-filter: blur(10px);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .stat-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+    }
+    
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent-gold);
+    }
+    
+    .stat-label {
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      margin-top: 0.25rem;
+    }
+    
+    /* Phase Navigation */
+    .phases-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+    }
+    
+    .phase-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      padding: 1.5rem;
+      position: relative;
+      overflow: hidden;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      cursor: pointer;
+    }
+    
+    .phase-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background: linear-gradient(90deg, var(--accent-gold), var(--accent-blue));
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    
+    .phase-card:hover {
+      border-color: var(--text-secondary);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+    }
+    
+    .phase-card:hover::before {
+      opacity: 1;
+    }
+    
+    .phase-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    
+    .phase-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+    }
+    
+    .phase-1 .phase-icon { background: rgba(239, 68, 68, 0.15); color: #fca5a5; }
+    .phase-2 .phase-icon { background: rgba(245, 158, 11, 0.15); color: #fbbf24; }
+    .phase-3 .phase-icon { background: rgba(59, 130, 246, 0.15); color: #93c5fd; }
+    .phase-4 .phase-icon { background: rgba(16, 185, 129, 0.15); color: #6ee7b7; }
+    
+    .phase-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    
+    .phase-subtitle {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+    }
+    
+    .phase-chapters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1rem;
+    }
+    
+    .chapter-badge {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border-subtle);
+      border-radius: 20px;
+      padding: 0.35rem 0.85rem;
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      transition: all 0.2s ease;
+    }
+    
+    .chapter-badge:hover {
+      background: var(--accent-blue);
+      color: white;
+      border-color: var(--accent-blue);
+    }
+    
+    /* Visual Resources Grid */
+    .resources-section {
+      margin-top: 2rem;
+    }
+    
+    .section-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.3rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    
+    .resources-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.25rem;
+    }
+    
+    .resource-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+    
+    .resource-card:hover {
+      border-color: var(--accent-purple);
+      transform: translateY(-2px);
+    }
+    
+    .resource-preview {
+      height: 120px;
+      background: linear-gradient(135deg, rgba(59,130,246,0.2), rgba(139,92,246,0.2));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.5rem;
+    }
+    
+    .resource-content {
+      padding: 1rem;
+    }
+    
+    .resource-title {
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+    
+    .resource-desc {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+    
+    /* Animations */
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .animate-in {
+      animation: fadeInUp 0.6s ease forwards;
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-gradient"></div>
+  
+  <div class="container">
+    <header>
+      <h1>South African Litigation Skills</h1>
+      <p class="subtitle">Interactive Study Dashboard — Based on Chris Marnewick SC</p>
+    </header>
+    
+    <!-- Study Stats -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-value">28</div>
+        <div class="stat-label">Chapters</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">4</div>
+        <div class="stat-label">Phases</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">6</div>
+        <div class="stat-label">Core Subjects</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">∞</div>
+        <div class="stat-label">Practice Scenarios</div>
+      </div>
+    </div>
+    
+    <!-- Phase Navigation -->
+    <div class="phases-container">
+      <div class="phase-card phase-1" onclick="openPhase('ethics')">
+        <div class="phase-header">
+          <div class="phase-icon">⚖️</div>
+          <div>
+            <div class="phase-title">Professional Conduct & Ethics</div>
+            <div class="phase-subtitle">Chapters 1-3: Client relationships & alternatives</div>
+          </div>
+        </div>
+        <div class="phase-chapters">
+          <span class="chapter-badge">Ch 1: Interviewing</span>
+          <span class="chapter-badge">Ch 2: Advising</span>
+          <span class="chapter-badge">Ch 3: Alternatives</span>
+        </div>
+      </div>
+      
+      <div class="phase-card phase-2" onclick="openPhase('pleadings')">
+        <div class="phase-header">
+          <div class="phase-icon">📝</div>
+          <div>
+            <div class="phase-title">Pleadings & Drafting</div>
+            <div class="phase-subtitle">Chapters 4-10: Court documents & applications</div>
+          </div>
+        </div>
+        <div class="phase-chapters">
+          <span class="chapter-badge">Ch 4: Commencing Action</span>
+          <span class="chapter-badge">Ch 5-6: Statements of Claim</span>
+          <span class="chapter-badge">Ch 7-8: Pleas</span>
+          <span class="chapter-badge">Ch 9-10: Applications</span>
+        </div>
+      </div>
+      
+      <div class="phase-card phase-3" onclick="openPhase('preparation')">
+        <div class="phase-header">
+          <div class="phase-icon">🔍</div>
+          <div>
+            <div class="phase-title">Trial Preparation</div>
+            <div class="phase-subtitle">Chapters 11-15: Evidence & strategy</div>
+          </div>
+        </div>
+        <div class="phase-chapters">
+          <span class="chapter-badge">Ch 11: Evidence Advice</span>
+          <span class="chapter-badge">Ch 12: Assembling Evidence</span>
+          <span class="chapter-badge">Ch 13: Legal Research</span>
+          <span class="chapter-badge">Ch 14: Fact Analysis</span>
+          <span class="chapter-badge">Ch 15: Protocol</span>
+        </div>
+      </div>
+      
+      <div class="phase-card phase-4" onclick="openPhase('trial')">
+        <div class="phase-header">
+          <div class="phase-icon">🏛️</div>
+          <div>
+            <div class="phase-title">Trial & Advocacy</div>
+            <div class="phase-subtitle">Chapters 16-25: Courtroom skills</div>
+          </div>
+        </div>
+        <div class="phase-chapters">
+          <span class="chapter-badge">Ch 16: Opening</span>
+          <span class="chapter-badge">Ch 17-19: Examination</span>
+          <span class="chapter-badge">Ch 21: Closing</span>
+          <span class="chapter-badge">Ch 22: Motion Court</span>
+          <span class="chapter-badge">Ch 25: Appeals</span>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Visual Resources -->
+    <div class="resources-section">
+      <h2 class="section-title">📊 Visual Study Resources</h2>
+      <div class="resources-grid">
+        <div class="resource-card" onclick="openVisual('timeline')">
+          <div class="resource-preview">⏱️</div>
+          <div class="resource-content">
+            <div class="resource-title">Civil Trial Timeline</div>
+            <div class="resource-desc">Animated flow from summons to judgment</div>
+          </div>
+        </div>
+        <div class="resource-card" onclick="openVisual('pleadings-flow')">
+          <div class="resource-preview">🔄</div>
+          <div class="resource-content">
+            <div class="resource-title">Exchange of Pleadings</div>
+            <div class="resource-desc">Plaintiff and defendant document exchange</div>
+          </div>
+        </div>
+        <div class="resource-card" onclick="openVisual('motion-exchange')">
+          <div class="resource-preview">⚡</div>
+          <div class="resource-content">
+            <div class="resource-title">Motion Court Process</div>
+            <div class="resource-desc">Urgent application and affidavit sequence</div>
+          </div>
+        </div>
+        <div class="resource-card" onclick="openVisual('current-mindmap')">
+          <div class="resource-preview">🧠</div>
+          <div class="resource-content">
+            <div class="resource-title">Interactive Mind Maps</div>
+            <div class="resource-desc">Chapter-by-chapter concept visualization</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    // Interactions
+    function openPhase(phase) {
+      console.log('Opening phase:', phase);
+      // This would navigate to phase-specific content
+      alert('Opening ' + phase + ' study module...');
+    }
+    
+    function openVisual(type) {
+      console.log('Opening visual:', type);
+      // This would open the specific visualization
+      alert('Opening ' + type + ' visualization...');
+    }
+  </script>
+</body>
+</html>

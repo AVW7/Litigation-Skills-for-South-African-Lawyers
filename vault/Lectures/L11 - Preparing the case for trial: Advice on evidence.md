@@ -1,27 +1,63 @@
 ---
-
 type: lecture
 lecture: L11
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - trial-preparation
+  - evidence
+  - expert-witnesses
+  - rule-36
+aliases:
+  - "Evidence Advice"
+  - "Rule 36 Notice"
+  - "Expert Summaries"
+  - "Further Particulars"
 ---
+
 # L11 — Preparing the case for trial: Advice on evidence
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Preparing the case for trial: Advice on evidence**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **evidence advice** — planning what each witness will prove. Key topics: Rule 36(9) notices, expert summaries, further particulars, and witness preparation.
+
+> [!important] Rule 36(9) Notice
+> Must give notice of intention to call an expert witness. Opponent can demand a summary of expert evidence. Failure may result in exclusion.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph preparation["Evidence Preparation"]
+        P1["List all propositions<br/>to be proved"]
+        P2["Identify witnesses<br/>for each proposition"]
+        P3["Prepare questions<br/>for each witness"]
+        P4["Verify documents<br/>and exhibits"]
+    end
+    
+    subgraph experts["Expert Management"]
+        E1["Select expert"]
+        E2["Rule 36(9) notice"]
+        E3["Provide summary"]
+        E4["Prepare expert report"]
+    end
+    
+    subgraph particulars["Further Particulars"]
+        F1["Request clarification"]
+        F2["Rule 21 notice"]
+        F3["Limit to pleadings"]
+    end
+    
+    preparation --> experts
+    experts --> particulars
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The evidence preparation workflow.*
+
+> [!tip] Professional Tip
+> An "advice on evidence" reduces trial stress. Know what each witness will prove before you walk into court.
+
+> [!tip] Connection
+> Follows [[L08 - Drafting replications and further pleadings|close of pleadings]]. Proceeds to [[L12 - Preparing the case for trial: Assembling the evidence|evidence assembly]] and [[L14 - Preparation for trial: Fact analysis and strategy|strategy]].
 
 ---
 

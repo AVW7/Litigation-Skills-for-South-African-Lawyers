@@ -1,18 +1,65 @@
 ---
-
 type: lecture
 lecture: L24
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - reviews
+  - administrative-law
+  - high-court-review
+aliases:
+  - "Reviews"
+  - "High Court Review"
+  - "Administrative Review"
+  - "PAJA Review"
 ---
+
 # L24 — Reviews
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Reviews**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **reviews** — proceedings to set aside administrative decisions or lower court judgments. Key grounds: irregularity, lack of jurisdiction, procedural unfairness.
+
+> [!important] Review vs Appeal
+> **Review:** Attacks the PROCESS (irregularity in proceedings)
+> **Appeal:** Attacks the OUTCOME (wrong judgment)
+
+## Visual Overview
+
+```mermaid
+graph TB
+    subgraph grounds["Grounds for Review"]
+        G1["Lack of jurisdiction"]
+        G2["Gross irregularity"]
+        G3["BIAS or reasonable suspicion of bias"]
+        G4["Failure to give hearing (audi alteram partem)"]
+        G5["Procedural unfairness"]
+    end
+    
+    subgraph types["Types of Review"]
+        T1["Magistrate's Court decisions"]
+        T2["Administrative decisions (PAJA)"]
+        T3["Tribunal decisions"]
+        T4["Arbitration awards"]
+    end
+    
+    subgraph remedies["Remedies"]
+        R1["Set aside decision"]
+        R2["Remit for reconsideration"]
+        R3["Substitute own decision"]
+        R4["Cost order"]
+    end
+    
+    grounds --> types
+    types --> remedies
+```
+
+*Figure: Review grounds, types, and remedies.*
+
+> [!warning] Time Limits
+> PAJA reviews: 180 days from decision (or from when reasonably became aware). Court reviews: within reasonable time.
+
+> [!tip] Connection
+> Reviews differ from [[L25 - Appeals|appeals]] — review attacks process, appeal attacks outcome. Both require [[L13 - Preparation for trial: Legal research|legal research]] and strong written argument.ful advocacy.
 
 ```mermaid
 graph LR

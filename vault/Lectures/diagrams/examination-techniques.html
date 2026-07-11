@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Examination Techniques - Open, Closed, Leading Questions</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #888780;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 900px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 11px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 13px; fill: var(--text-primary); font-weight: 600; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .c-green > rect { fill: #EAF3DE; stroke: #3B6D11; stroke-width: 0.5; }
+  .c-green > .th, .c-green text.th { fill: #27500A; }
+  .c-green > .ts, .c-green text.ts { fill: #3B6D11; }
+  .c-blue > rect { fill: #E6F1FB; stroke: #185FA5; stroke-width: 0.5; }
+  .c-blue > .th, .c-blue text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue text.ts { fill: #185FA5; }
+  .c-coral > rect { fill: #FAECE7; stroke: #993C1D; stroke-width: 0.5; }
+  .c-coral > .th, .c-coral text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral text.ts { fill: #993C1D; }
+  .c-gray > rect { fill: #F1EFE8; stroke: #5F5E5A; stroke-width: 0.5; }
+  .c-gray > .th, .c-gray text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray text.ts { fill: #5F5E5A; }
+  .c-purple > rect { fill: #EEEDFE; stroke: #534AB7; stroke-width: 0.5; }
+  .c-purple > .th, .c-purple text.th { fill: #3C3489; }
+  .c-purple > .ts, .c-purple text.ts { fill: #534AB7; }
+  @media (prefers-color-scheme: dark) {
+    .c-green > rect { fill: #27500A; stroke: #97C459; }
+    .c-green > .th { fill: #C0DD97; }
+    .c-blue > rect { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th { fill: #B5D4F4; }
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; }
+    .c-gray > rect { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th { fill: #D3D1C7; }
+    .c-purple > rect { fill: #3C3489; stroke: #AFA9EC; }
+    .c-purple > .th { fill: #CECBF6; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Examination Techniques</h1>
+  <p class="subtitle">Understanding the three question types and when to use them in examination-in-chief vs cross-examination</p>
+<svg width="100%" viewBox="0 0 850 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Header -->
+  <text class="th" x="425" y="30" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">QUESTION TYPES IN COURT</text>
+  
+  <!-- Open Questions -->
+  <g class="c-green">
+    <rect x="40" y="60" width="240" height="200" rx="12" stroke-width="0.5"/>
+    <text class="th" x="160" y="90" text-anchor="middle" dominant-baseline="central" style="font-size: 15px;">OPEN QUESTIONS</text>
+    <text class="ts" x="160" y="115" text-anchor="middle" dominant-baseline="central">"Tell me what happened"</text>
+    <text class="ts" x="60" y="145" text-anchor="start" dominant-baseline="central">✓ No suggested answer</text>
+    <text class="ts" x="60" y="170" text-anchor="start" dominant-baseline="central">✓ Witness controls content</text>
+    <text class="ts" x="60" y="195" text-anchor="start" dominant-baseline="central">✓ Elicits general info</text>
+    <text class="ts" x="60" y="220" text-anchor="start" dominant-baseline="central">✓ Used in exam-in-chief</text>
+    <text class="ts" x="60" y="245" text-anchor="start" dominant-baseline="central">✓ "What happened next?"</text>
+  </g>
+
+  <!-- Closed Questions -->
+  <g class="c-blue">
+    <rect x="305" y="60" width="240" height="200" rx="12" stroke-width="0.5"/>
+    <text class="th" x="425" y="90" text-anchor="middle" dominant-baseline="central" style="font-size: 15px;">CLOSED QUESTIONS</text>
+    <text class="ts" x="425" y="115" text-anchor="middle" dominant-baseline="central">"What time was it?"</text>
+    <text class="ts" x="325" y="145" text-anchor="start" dominant-baseline="central">✓ Specific info required</text>
+    <text class="ts" x="325" y="170" text-anchor="start" dominant-baseline="central">✓ Uses who/what/when/where</text>
+    <text class="ts" x="325" y="195" text-anchor="start" dominant-baseline="central">✓ Does NOT suggest answer</text>
+    <text class="ts" x="325" y="220" text-anchor="start" dominant-baseline="central">✓ Used in exam-in-chief</text>
+    <text class="ts" x="325" y="245" text-anchor="start" dominant-baseline="central">✓ Piggy-back technique</text>
+  </g>
+
+  <!-- Leading Questions -->
+  <g class="c-coral">
+    <rect x="570" y="60" width="240" height="200" rx="12" stroke-width="0.5"/>
+    <text class="th" x="690" y="90" text-anchor="middle" dominant-baseline="central" style="font-size: 15px;">LEADING QUESTIONS</text>
+    <text class="ts" x="690" y="115" text-anchor="middle" dominant-baseline="central">"You saw the red light?"</text>
+    <text class="ts" x="590" y="145" text-anchor="start" dominant-baseline="central">✓ Suggests the answer</text>
+    <text class="ts" x="590" y="170" text-anchor="start" dominant-baseline="central">✓ Controls witness</text>
+    <text class="ts" x="590" y="195" text-anchor="start" dominant-baseline="central">✗ NOT allowed in exam-in-chief</text>
+    <text class="ts" x="590" y="220" text-anchor="start" dominant-baseline="central">✓ PRIMARY tool in cross-exam</text>
+    <text class="ts" x="590" y="245" text-anchor="start" dominant-baseline="central">✓ Put your version to witness</text>
+  </g>
+
+  <!-- Usage Context -->
+  <text class="th" x="425" y="300" text-anchor="middle" dominant-baseline="central" style="font-size: 14px;">WHEN TO USE EACH TYPE</text>
+
+  <!-- Examination-in-Chief Box -->
+  <g class="c-purple">
+    <rect x="40" y="330" width="370" height="320" rx="12" stroke-width="0.5"/>
+    <text class="th" x="225" y="360" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">EXAMINATION-IN-CHIEF</text>
+    <text class="ts" x="225" y="385" text-anchor="middle" dominant-baseline="central">Eliciting evidence from your own witness</text>
+    
+    <!-- Do -->
+    <text class="th" x="60" y="420" text-anchor="start" dominant-baseline="central" style="fill: #27500A;">✓ DO USE:</text>
+    <text class="ts" x="80" y="445" text-anchor="start" dominant-baseline="central">• Open questions to start topics</text>
+    <text class="ts" x="80" y="470" text-anchor="start" dominant-baseline="central">• "What happened on [date]?"</text>
+    <text class="ts" x="80" y="495" text-anchor="start" dominant-baseline="central">• Closed questions for specifics</text>
+    <text class="ts" x="80" y="520" text-anchor="start" dominant-baseline="central">• "What time did you arrive?"</text>
+    <text class="ts" x="80" y="545" text-anchor="start" dominant-baseline="central">• Funnelling technique</text>
+    
+    <!-- Don't -->
+    <text class="th" x="60" y="580" text-anchor="start" dominant-baseline="central" style="fill: #993C1D;">✗ DON'T USE:</text>
+    <text class="ts" x="80" y="605" text-anchor="start" dominant-baseline="central">• Leading questions</text>
+    <text class="ts" x="80" y="630" text-anchor="start" dominant-baseline="central">• "You saw the defendant, didn't you?"</text>
+  </g>
+
+  <!-- Cross-Examination Box -->
+  <g class="c-purple">
+    <rect x="440" y="330" width="370" height="320" rx="12" stroke-width="0.5"/>
+    <text class="th" x="625" y="360" text-anchor="middle" dominant-baseline="central" style="font-size: 16px;">CROSS-EXAMINATION</text>
+    <text class="ts" x="625" y="385" text-anchor="middle" dominant-baseline="central">Testing opponent's witness evidence</text>
+    
+    <!-- Do -->
+    <text class="th" x="460" y="420" text-anchor="start" dominant-baseline="central" style="fill: #27500A;">✓ DO USE:</text>
+    <text class="ts" x="480" y="445" text-anchor="start" dominant-baseline="central">• Leading questions (primary tool)</text>
+    <text class="ts" x="480" y="470" text-anchor="start" dominant-baseline="central">• "You saw the red light?"</text>
+    <text class="ts" x="480" y="495" text-anchor="start" dominant-baseline="central">• Confrontation technique</text>
+    <text class="ts" x="480" y="520" text-anchor="start" dominant-baseline="central">• One fact per question</text>
+    <text class="ts" x="480" y="545" text-anchor="start" dominant-baseline="central">• Put your version to witness</text>
+    
+    <!-- Avoid -->
+    <text class="th" x="460" y="580" text-anchor="start" dominant-baseline="central" style="fill: #993C1D;">✗ AVOID:</text>
+    <text class="ts" x="480" y="605" text-anchor="start" dominant-baseline="central">• Open questions (lose control)</text>
+    <text class="ts" x="480" y="630" text-anchor="start" dominant-baseline="central">• "Why did you do that?"</text>
+  </g>
+
+</svg>
+</div>
+</body>
+</html>

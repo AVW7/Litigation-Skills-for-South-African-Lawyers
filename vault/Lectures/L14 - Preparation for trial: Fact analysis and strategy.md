@@ -1,27 +1,79 @@
 ---
 
+---
 type: lecture
 lecture: L14
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - trial-preparation
+  - fact-analysis
+  - case-theory
+  - strategy
+aliases:
+  - "Fact Analysis"
+  - "Theory of the Case"
+  - "Trial Strategy"
 ---
-# L14 — Preparation for trial: Fact analysis and strategy
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Preparation for trial: Fact analysis and strategy**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+# L14 — Preparation for Trial: Fact Analysis and Strategy
+
+> [!abstract] Chapter Overview
+> This chapter is **critical**—it covers comprehensive **fact analysis** and **case strategy**: Developing the theory of the case, chronologies, building the trial notebook, and strategic planning for courtroom advocacy.
+
+> [!quote] Core Principle
+> *"Fact analysis is used to determine and test the legal, factual and logical sufficiency of the case. It can be defined as the process by means of which we harness the evidence to ensure that it is sufficient to support a claim or a defence."*
+
+## Visual Overview
+
+**Diagram:** Theory of the Case Development
+
+![[diagrams/theory-of-case.html]]
+
+> [!tip] Connection
+> The theory of the case (Stage 7) guides all trial advocacy — see [[L16 - Opening statement]], [[L17 - Examination-in-chief]], [[L18 - Cross-examination]], and [[L21 - Closing argument]]. Born from the proof-making model in [[L01 - Interviewing clients and witnesses]].
+
+**Diagram:** The 8-Stage Proof-Making Model
+
+![[diagrams/proof-making-model.html]]
+
+> [!tip] Connection
+> The proof-making model was introduced in [[L01 - Interviewing clients and witnesses]]. This chapter expands stages 6-8 with trial tactics.
+
+```mermaid
+graph TB
+    subgraph stages["The 8-Stage Proof-Making Model"]
+        S1["Stage 1: Identify area of law"] --> S2["Stage 2: Identify cause of action or defence"]
+        S2 --> S3["Stage 3: Identify legal elements"]
+        S3 --> S4["Stage 4: Identify propositions of fact"]
+        S4 --> S5["Stage 5: Identify evidence for each proposition"]
+        S5 --> S6["Stage 6: Admissibility, reliability, sufficiency"]
+        S6 --> S7["Stage 7: Develop theory of the case"]
+        S7 --> S8["Stage 8: Trial tactics and strategy"]
+    end
+    
+    subgraph legend["Output at each stage"]
+        L1["Stages 1-3: Legal research"]
+        L2["Stages 4-5: Fact analysis"]
+        L3["Stage 6: Evidence testing"]
+        L4["Stages 7-8: Strategy"]
+    end
+    
+    stages -.-> legend
+```
+
+*Figure: The 8-Stage Proof-Making Model — from legal research to trial tactics.*
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    A["Legal Element"] --> B["Propositions of Fact"]
+    B --> C["Evidence"]
+    C --> D{"Admissible? Reliable? Sufficient?"}
+    D -->|Yes| E["Fact Proved"]
+    D -->|No| F["Need more evidence or different approach"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The hierarchical relationship between elements, facts, and evidence.*
 
 ---
 

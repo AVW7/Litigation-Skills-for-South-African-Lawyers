@@ -1,27 +1,91 @@
 ---
 
+---
 type: lecture
 lecture: L18
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - trial-advocacy
+  - cross-examination
+  - impeachment
+  - advocacy
+aliases:
+  - "Cross-Examination"
+  - "Witness Impeachment"
+  - "Leading Questions"
 ---
-# L18 — Cross-examination
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **[[Cross-examination]]**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+# L18 — Cross-Examination
+
+> [!abstract] Chapter Overview
+> This chapter is the **cornerstone of adversarial advocacy**—covers **cross-examination techniques**: Confrontation, probing, suggestion, undermining, and the **duty to put your version** to the witness.
+
+> [!quote] Core Principle
+> *"Cross-examination is beyond any doubt the greatest legal engine ever invented for the discovery of truth."* — Wigmore
+
+## Visual Overview
+
+**Diagram:** Cross-Examination Technique Toolkit
+
+![[diagrams/cross-examination-techniques.html]]
+
+**Diagram:** Question Types Comparison
+
+![[diagrams/examination-techniques.html]]
+
+> [!tip] Connection
+> Compare with [[L17 - Examination-in-chief]] where leading questions are **prohibited**, vs cross-examination where they are the **primary tool**.
+
+```mermaid
+graph TB
+    subgraph aims["Aims of Cross-Examination"]
+        A1["Elicit favourable evidence"]
+        A2["Discredit evidence reliability"]
+        A3["Discredit witness credibility"]
+        A4["Put your version"]
+        A5["Parade your case"]
+    end
+    
+    subgraph techniques["Four Techniques"]
+        T1["CONFRONTATION<br/>Face facts directly"]
+        T2["PROBING<br/>Extract admissions"]
+        T3["SUGGESTION<br/>Put your spin"]
+        T4["UNDERMINING<br/>Damage credibility"]
+    end
+    
+    subgraph targets["Targets for Attack"]
+        R1["Observation ability"]
+        R2["Memory accuracy"]
+        R3["Recounting truthfulness"]
+        R4["Bias, interest, prejudice"]
+    end
+    
+    aims --> techniques
+    techniques --> targets
+```
+
+*Figure: The cross-examination framework — aims, techniques, and targets.*
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    subgraph constructive["Constructive Cross-Exam"]
+        C1["Elicit favourable facts"]
+        C2["Bank good answers"]
+        C3["Build your case"]
+    end
+    
+    subgraph destructive["Destructive Cross-Exam"]
+        D1["Attack evidence reliability"]
+        D2["Attack witness credibility"]
+        D3["Expose inconsistencies"]
+    end
+    
+    constructive -->|then if needed| destructive
+    destructive -->|finish with| PUT["Put your case<br/>to the witness"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The constructive-to-destructive sequence in cross-examination.*
 
 ---
 

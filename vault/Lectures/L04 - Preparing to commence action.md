@@ -1,27 +1,58 @@
 ---
-
 type: lecture
-lecture: L4
-tags: [lecture, litigation-skills]
-
+lecture: L04
+tags:
+  - lecture
+  - litigation-skills
+  - pre-action
+  - letter-of-demand
+  - prescription
+aliases:
+  - "Pre-Action Procedure"
+  - "Letter of Demand"
+  - "Commencing Action"
 ---
+
 # L04 — Preparing to commence action
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Preparing to commence action**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **pre-action preparation** — steps before issuing summons. Key topics: letters of demand, prescription considerations, limitation periods, and pre-trial case assembly.
+
+> [!important] Critical Point
+> A letter of demand **interrupts prescription**. It gives the debtor 14 days to pay (or respond) before legal proceedings can commence.
+
+## Visual Overview
+
+**Diagram:** Litigation Timeline
+
+![[diagrams/litigation-timeline.html]]
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph preaction["Pre-Action Steps"]
+        P1["1. Gather documents"] --> P2["2. Assess merits"]
+        P2 --> P3["3. Consider ADR"]
+        P3 --> P4["4. Letter of demand"]
+        P4 --> P5["5. Wait 14 days"]
+    end
+    
+    subgraph prescription["Prescription Alert"]
+        PS["Check: Has 3 years elapsed?"]
+        PS -->|"Yes"| PR["Prescription may have run"]
+        PS -->|"No"| OK["Safe to proceed"]
+    end
+    
+    preaction --> prescription
+    prescription --> P6["6. Issue summons"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Pre-action checklist with prescription awareness.*
+
+> [!danger] Prescription Warning
+> Most delictual claims prescribe in 3 years. A letter of demand interrupts prescription but must be followed by summons within specified periods (varies by jurisdiction).
+
+> [!tip] Connection
+> Follows ADR attempts ([[L03 - Alternatives to litigation]]). Proceeds to pleadings ([[L05 - Function, form and style of pleadings]], [[L06 - Drafting statements of claim]]).
 
 ---
 

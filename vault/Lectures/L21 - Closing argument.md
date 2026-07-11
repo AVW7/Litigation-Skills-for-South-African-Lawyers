@@ -1,27 +1,68 @@
 ---
-
 type: lecture
 lecture: L21
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - closing-argument
+  - trial-advocacy
+  - heads-of-argument
+aliases:
+  - "Closing Argument"
+  - "Final Argument"
+  - "Heads of Argument"
+  - "Summation"
 ---
+
 # L21 — Closing argument
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Closing argument**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **closing argument** — the final opportunity to persuade the court. Key: synthesise evidence, apply law to facts, and address weaknesses.
+
+> [!important] Argument vs Evidence
+> Closing argument is ARGUMENT (persuasion). Opening statement was PREVIEW (no argument). Now you CAN argue what the evidence proves.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph structure["Argument Structure"]
+        S1["State the proposition of law"]
+        S2["Cite authority"]
+        S3["Quote the ratio"]
+        S4["Apply to facts"]
+        S5["Conclude"]
+    end
+    
+    subgraph technique["Technique"]
+        T1["Strong opening"]
+        T2["Chronological narrative"]
+        T3["Deal with weaknesses"]
+        T4["Use witnesses' words"]
+        T5["Strong closing"]
+    end
+    
+    subgraph caution["Cautions"]
+        C1["Don't misstate evidence"]
+        C2["Don't raise new matters"]
+        C3["Don't attack witness character"]
+        C4["Don't argue inadmissible evidence"]
+    end
+    
+    structure --> technique
+    technique --> caution
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Closing argument structure and technique.*
+
+> [!tip] The 4-Step Legal Argument
+> 1. **Proposition:** State the legal principle
+> 2. **Authority:** Cite the case or statute
+> 3. **Ratio:** Quote the relevant part
+> 4. **Application:** Apply to your facts
+
+> [!tip] Connection
+> Culmination of the trial process. Building on [[L16 - Opening statement|opening]], [[L17 - Examination-in-chief|chief]], [[L18 - Cross-examination|cross]], and [[L19 - Re-examination|re-exam]]. Judgment may lead to [[L25 - Appeals|appeals]].
 
 ---
 

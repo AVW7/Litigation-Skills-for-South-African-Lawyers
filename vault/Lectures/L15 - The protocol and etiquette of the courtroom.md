@@ -1,27 +1,67 @@
 ---
-
 type: lecture
 lecture: L15
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - courtroom
+  - protocol
+  - etiquette
+  - robing
+aliases:
+  - "Courtroom Protocol"
+  - "Courtroom Etiquette"
+  - "Modes of Address"
+  - "Robing"
 ---
+
 # L15 — The protocol and etiquette of the courtroom
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **The protocol and etiquette of the courtroom**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **courtroom protocol and etiquette** — proper conduct, modes of address, and professional behaviour. Essential: know how to address the court, when to robe, and how to conduct yourself.
+
+> [!important] Modes of Address
+> - **High Court Judge:** "My Lord" / "My Lady" or "Your Lordship" / "Your Ladyship"
+> - **Magistrate:** "Your Worship"
+> - **Registrar:** "Mr/Madam Registrar"
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph dress["Court Dress"]
+        D1["High Court: Robe required"]
+        D2["Magistrate's Court: Professional attire"]
+        D3["Appellate courts: Full regalia"]
+    end
+    
+    subgraph conduct["Professional Conduct"]
+        C1["Stand when addressing/being addressed"]
+        C2["One counsel standing at a time"]
+        C3["Address from correct position"]
+        C4["No unnecessary interruptions"]
+    end
+    
+    subgraph protocol["Key Protocols"]
+        P1["Enter before judge sits"]
+        P2["Bow on entering/leaving"]
+        P3["Wait turn to speak"]
+        P4["Be courteous to opponent"]
+    end
+    
+    dress --> conduct
+    conduct --> protocol
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Courtroom protocol essentials.*
+
+> [!warning] Common Errors
+> - Addressing magistrate as "My Lord"
+> - Forgetting to bow on entry
+> - Moving around courtroom while speaking
+
+> [!tip] Connection
+> Protocol sets the stage for [[L16 - Opening statement|opening statement]]. Resume with courtesy after trial in [[L21 - Closing argument|closing argument]].
 
 ---
 

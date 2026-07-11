@@ -1,27 +1,56 @@
 ---
-
 type: lecture
-lecture: L7
-tags: [lecture, litigation-skills]
-
+lecture: L07
+tags:
+  - lecture
+  - litigation-skills
+  - pleadings
+  - plea
+  - special-plea
+  - defence
+aliases:
+  - "Plea"
+  - "Special Plea"
+  - "Defence"
+  - "Confession and Avoidance"
 ---
+
 # L07 — Drafting pleas and special pleas
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Drafting pleas and special pleas**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **pleas and special pleas** — the defendant's response to the statement of claim. Key topics: admitting, denying, or declining to admit; special pleas (prescription, jurisdiction, etc.); confession and avoidance.
+
+> [!important] The Three Options
+> Every allegation must be **admitted**, **denied**, or **declined to admit**. A denial is a positive assertion that the opposite is true — do not deny unless you have instructions.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph responses["Responding to Allegations"]
+        A["ADMIT<br/>(Accept as true)"]
+        D["DENY<br/>(Assert opposite)"]
+        N["DECLINE TO ADMIT<br/>(No knowledge)"]
+    end
+    
+    subgraph special["Special Pleas"]
+        S1["Prescription (3 years)"]
+        S2["Lack of jurisdiction"]
+        S3["Lack of locus standi"]
+        S4["Non-joinder/Mis-joinder"]
+    end
+    
+    responses -->|"then if applicable"| P["Plead over to merits"]
+    special -->|"if successful"| OUT["Dismissal without trial"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The plea decision tree — admission, denial, or special plea first.*
+
+> [!warning] Tactical Denials
+> A "tactical denial" (denying what you don't actually dispute) is as dishonest as a false denial. Decline to admit if you genuinely don't know.
+
+> [!tip] Connection
+> Pleas respond to [[L06 - Drafting statements of claim|statements of claim]]. If the plea raises new facts, the plaintiff may [[L08 - Drafting replications and further pleadings|replicate]].
 
 ---
 

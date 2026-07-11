@@ -1,27 +1,65 @@
 ---
-
 type: lecture
 lecture: L16
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - opening-statement
+  - trial-advocacy
+  - narrative
+aliases:
+  - "Opening Statement"
+  - "Opening Address"
+  - "Narrative Theory"
 ---
+
 # L16 — Opening statement
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Opening statement**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **opening statements** — the first opportunity to present your case theory to the court. Key: preview the evidence without arguing, create a compelling narrative, and establish credibility.
+
+> [!important] The Purpose
+> Opening statement is a **preview, not an argument**. Tell the court what evidence will be led — do not argue what it proves.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph content["What to Include"]
+        W1["Who the parties are"]
+        W2["What the case is about"]
+        W3["What evidence will be led"]
+        W4["What witnesses will testify"]
+        W5["What documents will be produced"]
+    end
+    
+    subgraph technique["Technique"]
+        T1["Strong opening line"]
+        T2["Chronological narrative"]
+        T3["Vivid but neutral language"]
+        T4["Anticipate weaknesses"]
+        T5["Strong closing line"]
+    end
+    
+    subgraph danger["What NOT to Do"]
+        D1["Don't argue"]
+        D2["Don't comment on credibility"]
+        D3["Don't overpromise"]
+        D4["Don't mention inadmissible evidence"]
+    end
+    
+    content --> technique
+    technique --> danger
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Opening statement framework — content, technique, and cautions.*
+
+> [!tip] Structure
+> **Plaintiff:** Facts → Legal claim → Evidence to prove → Remedy sought
+> **Defendant:** Acknowledged facts → Denied facts → Defence → Evidence to support
+
+> [!tip] Connection
+> Follows [[L15 - The protocol and etiquette of the courtroom|courtroom protocol]]. Precedes [[L17 - Examination-in-chief|examination-in-chief]]. Theory anchored in [[L14 - Preparation for trial: Fact analysis and strategy|case strategy]].
 
 ---
 

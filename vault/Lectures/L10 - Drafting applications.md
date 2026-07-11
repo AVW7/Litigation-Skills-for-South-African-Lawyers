@@ -1,27 +1,60 @@
 ---
-
 type: lecture
 lecture: L10
-tags: [lecture, litigation-skills]
-
+tags:
+  - lecture
+  - litigation-skills
+  - applications
+  - motion-court
+  - affidavit
+  - notice-of-motion
+aliases:
+  - "Applications"
+  - "Motion Court"
+  - "Notice of Motion"
+  - "Founding Affidavit"
 ---
+
 # L10 — Drafting applications
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Drafting applications**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **applications** — proceedings based on affidavits rather than oral evidence. Key components: notice of motion, founding affidavit, supporting affidavits, and certificate of urgency (for urgent applications).
+
+> [!important] Critical Components
+> Every application needs: (1) Notice of Motion, (2) Founding Affidavit, (3) Supporting Affidavits, (4) Notice of Opposing Affidavit (if opposed), (5) Answering Affidavit, (6) Replying Affidavit.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph unopposed["Unopposed Application"]
+        U1["Notice of Motion"] --> U2["Founding Affidavit"]
+        U2 --> U3["Supporting Affidavits"]
+        U3 --> U4["Draft Order"]
+    end
+    
+    subgraph opposed["Opposed Application"]
+        U3 --> O1["Notice of Opposition"]
+        O1 --> O2["Opposing Affidavit"]
+        O2 --> O3["Answering Affidavit"]
+        O3 --> O4["Replying Affidavit"]
+        O4 --> O5["Heads of Argument"]
+    end
+    
+    subgraph urgent["Urgent Application"]
+        C["Certificate of Urgency"]
+        U1
+        C --> U1
+    end
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Application workflow — unopposed vs opposed vs urgent.*
+
+> [!tip] Key Principle
+> The founding affidavit must contain **all facts** to support the relief sought. No new evidence at hearing (except exceptional circumstances).
+
+> [!tip] Connection
+> Applications are heard in [[L22 - Motion Court|Motion Court]]. Compare with trials ([[L15 - The protocol and etiquette of the courtroom|courtroom protocol]]).
 
 ---
 

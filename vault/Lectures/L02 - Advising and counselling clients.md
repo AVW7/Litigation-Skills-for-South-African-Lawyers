@@ -1,27 +1,55 @@
 ---
-
 type: lecture
-lecture: L2
-tags: [lecture, litigation-skills]
-
+lecture: L02
+tags:
+  - lecture
+  - litigation-skills
+  - legal-advice
+  - client-counselling
+  - professional-conduct
+aliases:
+  - "Legal Advice"
+  - "Client Counselling"
+  - "Letter of Advice"
 ---
+
 # L02 — Advising and counselling clients
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Advising and counselling clients**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **advising and counselling clients** — communicating legal opinions, assessments, and recommendations. Key topics: oral vs written advice, letters of advice, memoranda, and formal opinions.
+
+> [!important] Core Principle
+> The client makes the decisions. Your role is to advise on options, risks, and likely outcomes — not to make decisions for them.
+
+## Visual Overview
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph forms["Forms of Advice"]
+        F1["Oral Advice<br/>Quick, interactive"]
+        F2["Letter of Advice<br/>Formal record"]
+        F3["Memorandum<br/>Internal file note"]
+        F4["Written Opinion<br/>Complex matters"]
+    end
+    
+    subgraph elements["Essential Elements"]
+        E1["State the facts"]
+        E2["Identify legal issues"]
+        E3["Analyse options"]
+        E4["Make recommendations"]
+        E5["Address uncertainties"]
+    end
+    
+    forms --> elements
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: Forms of advice and their essential elements.*
+
+> [!warning] Ethical Duty
+> Communicate uncertainty honestly. Never overstate prospects or hide risks. A client properly advised makes informed decisions.
+
+> [!tip] Connection
+> Advice follows the interview ([[L01 - Interviewing clients and witnesses]]) and may lead to ADR ([[L03 - Alternatives to litigation]]) or litigation ([[L04 - Preparing to commence action]]).
 
 ---
 

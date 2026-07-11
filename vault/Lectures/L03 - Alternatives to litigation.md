@@ -1,27 +1,57 @@
 ---
-
 type: lecture
-lecture: L3
-tags: [lecture, litigation-skills]
-
+lecture: L03
+tags:
+  - lecture
+  - litigation-skills
+  - adr
+  - negotiation
+  - mediation
+  - arbitration
+aliases:
+  - "ADR"
+  - "Alternative Dispute Resolution"
+  - "Negotiation"
+  - "Mediation"
+  - "Arbitration"
 ---
+
 # L03 — Alternatives to litigation
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Alternatives to litigation**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **ADR (Alternative Dispute Resolution)** — methods to resolve disputes without trial. Key topics: negotiation, mediation, and arbitration as alternatives to litigation.
+
+> [!quote] Core Principle
+> *"Clash and conflict are present in every community. We have the rule of law, including procedures for resolving disputes — conciliation, mediation, arbitration, settlement, and judicial determination."* — Justice William O. Douglas
+
+## Visual Overview
+
+**Diagram:** ADR Methods Comparison
+
+![[diagrams/adr-comparison.html]]
 
 ```mermaid
 graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+    subgraph spectrum["ADR Spectrum"]
+        direction LR
+        N["Negotiation<br/>Party-led"] --> M["Mediation<br/>Facilitated"] --> A["Arbitration<br/>Adjudicated"]
+    end
+    
+    N -->|"Fastest, cheapest"| C1["Control: High"]
+    A -->|"Most formal"| C2["Control: Low"]
+    
+    spectrum --> L["Or → Litigation<br/>(Court trial)"]
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The ADR spectrum from party control to adjudication.*
+
+> [!tip] When to Use ADR
+> - **Negotiation**: First step, before formal proceedings
+> - **Mediation**: Positions entrenched, need neutral facilitator
+> - **Arbitration**: Want binding decision without court delays
+
+> [!tip] Connection
+> ADR often follows client advice ([[L02 - Advising and counselling clients]]). If ADR fails, commence litigation ([[L04 - Preparing to commence action]]).
 
 ---
 

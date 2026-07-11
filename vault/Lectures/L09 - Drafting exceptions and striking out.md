@@ -1,27 +1,50 @@
 ---
-
 type: lecture
-lecture: L9
-tags: [lecture, litigation-skills]
-
+lecture: L09
+tags:
+  - lecture
+  - litigation-skills
+  - exceptions
+  - pleadings
+  - rule-23
+aliases:
+  - "Exceptions"
+  - "Rule 23 Exceptions"
+  - "Striking Out"
 ---
+
 # L09 — Drafting exceptions and striking out
 
-> One-paragraph overview of the litigation skills and principles taught in this chapter.
->
-> [!abstract] The arc of this chapter
-> **Where we left off:** We explored the previous phase of litigation or litigation foundations.
->
-> This chapter covers **Drafting exceptions and striking out**. We look at the problem of how to execute this task, the rules that govern it, and the strategies for successful advocacy.
+> [!abstract] Chapter Overview
+> This chapter covers **exceptions and striking out** — procedural mechanisms to attack defective pleadings before trial. An exception challenges the legal sufficiency or clarity of a pleading without leading evidence.
+
+> [!tip] Connection
+> Exceptions are taken **before** pleading over. Once you've pleaded over, you've waived the right to except (except in limited circumstances).
+
+## Visual Overview
+
+**Diagram:** Rule 23 Exceptions Workflow
+
+![[diagrams/rule-23-exceptions.html]]
 
 ```mermaid
-graph LR
-    A["Factual/Legal Problem"] --> B["Procedural Rules / Principles"]
-    B --> C["Advocacy & Drafting Strategy"]
-    C --> D["Successful Courtroom Execution"]
+graph TB
+    subgraph decision["Decision Point"]
+        D1["Read opponent's pleading"] --> D2{"Defective?"}
+        D2 -->|No| D3["Plead over normally"]
+        D2 -->|Yes - Law| D4["Exception: No cause of action"]
+        D2 -->|Yes - Fact| D5["Exception: Vague & embarrassing"]
+    end
+    
+    subgraph outcome["Outcomes"]
+        D4 --> O1["Set aside / amend"]
+        D5 --> O2["Set aside / clarify"]
+        O1 --> O3["Proceed to next stage"]
+        O2 --> O3
+    end
 ```
 
-*Figure: The problem-to-execution chain in this chapter.*
+*Figure: The exception decision tree — when to except vs plead over.*
 
 ---
 
