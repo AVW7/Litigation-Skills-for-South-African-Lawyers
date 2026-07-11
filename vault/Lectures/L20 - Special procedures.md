@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -87,6 +88,7 @@ are incomplete unless the questioner is proficient in dealing with -
 The nature and importance of exhibits as evidence is discussed in chapters 4 and 12. Exhibits are relied on because they form part of the evidence (real and documentary exhibits) or help the witness to explain or the court to understand the evidence ([[Page-100|demonstrative exhibit]]s). Real and documentary exhibits have been described as "links in the chain of proof". It stands to reason that exhibits have to be admissible as evidence before they can be introduced. You would introduce an exhibit when it helps your side to prove or disprove a fact in issue. Whether the exhibit is introduced or relied upon during [[Page-136|examination-in-chief]] or [[Page-145|cross-examination]] depends on the circumstances of the case. Either way, you need to prepare for the moment during the trial when you have to refer a witness to the exhibit concerned. If it is your own witness, you will have briefed the witness on the procedure you intend to use when questioning the witness about the exhibit.
 
 Exhibits cannot speak for themselves. In the absence of an admission by the opposing party, every exhibit has to be proved by cogent evidence given by a credible witness. Some examples may make the principles clear.
+
 - An object like a knife, used in an assault, should be introduced or produced by a witness who can give first hand evidence to identify it as the weapon used, for example:
 - "This is the knife I saw the accused use when he stabbed the deceased."
 - Documentary exhibits have to be proved by the persons who executed them or received them, or who can otherwise authenticate them. Their evidence could be as follows:
@@ -508,7 +510,7 @@ Was there any material discrepancy between the description given to the police b
 
 For defence counsel each of the items on the Turnbull-checklist is a potential theme for [[Page-145|cross-examination]].
 
-## 20.1 Introduction
+## 20.10 Common Admissibility Issues: Introduction
 
 Evidential questions arise regularly during the [[Page-136|examination-in-chief]] and cross-examination of witnesses. The evidential questions that may arise can be anticipated during the preparation for trial so that you are ready to deal with them. However, not every point and not every answer given by a witness can be accurately predicted. For
 
@@ -562,7 +564,7 @@ The traditional reason for not admitting opinion evidence is that it is for the 
 - the opinion of a lay person on a matter well within ordinary human experience, usually relating to the identity, emotional or physical state or character of a person; and
 - evidence of reputation.
 
-## 20.1 Introduction
+## 20.10.3 Exceptions to the Character Rule: Introduction
 
 Character evidence is evidence about the nature and qualities of a person, as opposed to evidence of that person's actual conduct during the events under consideration. Character evidence is usually introduced to show a propensity to behave in a particular way, whether it is to commit crimes or simply to tell lies. Thus the boy who cried "Wolf!" was not believed because he had lied previously even though there really was a wolf on that occasion. As this fable demonstrates, it is illogical and even dangerous to try and determine the facts by giving undue weight to the character of the witnesses or participants. So character evidence is generally excluded except that -
 
@@ -572,7 +574,7 @@ Character evidence is evidence about the nature and qualities of a person, as op
 - in defamation cases the character of the plaintiff may be relevant to the quantum of damages to be awarded; and
 - in seduction cases the character of the plaintiff may be relevant to the question whether she was a virgin at the time and evidence on that score may be admitted to disprove the evidence (or to displace the presumption) of virginity. (It is doubtful whether seduction cases will survive the gender equality principles of the Constitution and you may never have a seduction case.)
 
-## 20.1 Introduction
+## 20.10.4 Exceptions to the Similar-Fact Rule: Introduction
 
 Similar-fact evidence is evidence of other events or acts which tend to prove that the event or act under scrutiny occurred in a similar way, or, put another way, it is evidence which shows a propensity to behave in a certain way. It is mostly used to rule out innocent explanations for suspicious events. This can perhaps be explained best with reference to Smith's case. Smith's wife (by a bigamous marriage - he was still married to another woman) drowned in her bath. Smith, when charged with her murder, contended that she had suffered an epileptic fit and then drowned. However, a number of Smith's previous wives had also died in their baths under similar circumstances shortly after marrying Smith. Each wife had property that fell to Smith upon her death. None had any prior history of epilepsy. Don't these circumstances suggest that the last Mrs Smith's death was not an accident? The similarities between the three cases were so striking that one had to conclude that there was something sinister in all of them.
 

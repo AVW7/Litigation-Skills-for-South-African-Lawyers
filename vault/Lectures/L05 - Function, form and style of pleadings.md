@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -43,7 +44,7 @@ The best way to ensure that there is no room for misunderstanding is to have a b
 
 ## Chapter 5: Function, form and style of pleadings
 
-#### CONTENTS
+### CONTENTS
 
 - 5.1 Introduction
 - 5.2 Structure of a set of pleadings

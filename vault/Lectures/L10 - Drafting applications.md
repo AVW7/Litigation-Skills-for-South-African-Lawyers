@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -259,6 +260,7 @@ The material facts to be alleged and proved are -
 | 4 | The respondent carries on business as dealers in used cars. | |
 | 5 | This is an application for a spoliation order and ancillary relief. | Signposting is used to identify the type of application to make it easier for the judge to follow the evidence. |
 | 6 | On [date] I bought a used [year] model BMW 528i with registration number XYZ 2001 ("the car") from the respondent for R225 000 00. The transaction was based on a standard hire-purchase agreement which both the respondent's manager, a Mr Ian Jones, and I signed. I attach a copy of the agreement, marked "A". | 1 It is necessary to set out the material facts we have identified earlier and I start that process in these paragraphs. |
+
 | Par | Text of affidavit | Comment |
 | --- | --- | --- |
 | 7 | In terms of the agreement I was to pay an initial deposit of R50 000.00 and thirty-six monthly instalments thereafter. Ownership of the car was reserved to the respondent until the final instalment is paid. | 2 Documentary exhibits have to be identified and numbered. (They can be numbered according to the initials of the witness, for example, "SB1".) |

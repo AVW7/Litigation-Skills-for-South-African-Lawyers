@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -127,7 +128,7 @@ Witnesses should also be informed if there is a possibility that they may be req
 
 Arrange transport for the witness as he or she is actually doing you a favour, and offer to do the same for the trial. It may even be necessary to arrange accommodation and some subsistence allowance for witnesses who live some distance away. In short, ensure that your witnesses are willing to give evidence and do not turn up grudgingly, merely because they have to.
 
-## 4.3 Preserving the evidence
+## 4.3 Preserving the evidence: Documentary and real exhibits
 
 Real exhibits are things (from the Latin res) which tend to prove or disprove a fact. For the sake of convenience, and because the rules deal with them differently, we draw a distinction between documentary exhibits (and similar records) on the one hand and other real exhibits on the other hand. They will be referred to as documents (or documentary exhibits) and things (or real exhibits) respectively. The discovery process relates only to documents but you should note that there is an extended definition of what we would normally understand to be a document.
 

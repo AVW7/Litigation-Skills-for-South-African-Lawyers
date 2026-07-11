@@ -23,7 +23,6 @@ graph LR
 
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough

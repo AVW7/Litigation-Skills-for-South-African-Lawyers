@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -41,7 +42,7 @@ Affidavits contain the evidence of the witnesses. It is important that the evide
 - Avoid [[Page-92|hearsay]], character evidence, irrelevant material and scandalous or vexatious matter.
 - Strictly observe the formalities of the oath.
 
-# Chapter 11
+## Chapter 11
 
 Preparing the case for trial: [[Page-92|Advice on evidence]]
 
@@ -253,11 +254,7 @@ There are other rules that may apply to the case:
 - Rule 39(16): Is a running transcript of the evidence necessary? If so, the other side needs to be approached for their consent and for an agreement to share the initial expense on the basis that the costs of obtaining the transcript will be costs in the cause, meaning that the loser ultimately pays the full amount.
 - Rule 39(22): Can (or should) the case be transferred to the Magistrates' Court?
 - Rule 41: Are the plaintiff's prospects of success so poor that he or she needs to be advised to withdraw the action?
-- Rules 45 and 46: Will there be assets to execute against if the case is won? If not, the wisdom of proceeding
-
----
-
-should be reconsidered. Will it help to make an interlocutory application for a freezing order (Mareva injunction)?
+- Rules 45 and 46: Will there be assets to execute against if the case is won? If not, the wisdom of proceeding should be reconsidered. Will it help to make an interlocutory application for a freezing order (Mareva injunction)?
 - Rules 60 and 63: Do any of the documents relied on need to be translated or authenticated?
 - Rule 61: Will an interpreter be necessary for any of the witnesses? If so, advise on the arrangements to be made to acquire the services of a reliable interpreter. If it appears that the other side also needs an interpreter, advise that they should be approached for the purpose of reaching an agreement that an interpreter be employed. Advise that the parties should share the initial expense on the basis that the costs of employing the interpreter will be costs in the cause.
 - Are there any practice directives (issued by the Judge-President of the division concerned) which need to be complied with? If so, advise on the steps that are necessary to ensure compliance with them.

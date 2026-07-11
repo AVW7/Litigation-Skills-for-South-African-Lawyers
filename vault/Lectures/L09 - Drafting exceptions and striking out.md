@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -110,6 +111,7 @@ An exception can be taken, for example, where -
 ---
 
 action pleaded;
+
 - the [[Page-54|cause of action]] is incomplete in the sense that an essential allegation has been omitted; or
 - it is clear that an essential party lacks [[Page-41|locus standi]].
 

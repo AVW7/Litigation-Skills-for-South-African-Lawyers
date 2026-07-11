@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -367,7 +368,7 @@ One way of making an assessment whether the evidence is sufficient to establish 
 
 **Note:** A = Admissible? R = Reliable? S = Sufficient? Y = Yes. N = No.
 
-* It has been assumed for the purposes of the exercise that the defendant was prepared to make such an admission at the Rule 37 conference.
+- It has been assumed for the purposes of the exercise that the defendant was prepared to make such an admission at the Rule 37 conference.
 
 Admissibility problems, contradictions, weaknesses in the evidence, availability problems, references to the evidence of other witnesses and any other noteworthy matters may be dealt with by way of footnotes instead of columns. It is necessary to consider the admissibility and reliability of each item of evidence separately, but you only need to make a note when there is a potential problem. If there had been additional witnesses for these propositions, they would have been identified as the relevant sources and their evidence inserted at Stage 5. Potential objections to the evidence have to be considered and dealt with. When an objection is made during the trial, you will be ready to deal with it if you have done your analysis properly.
 
@@ -546,6 +547,7 @@ C. Counsel's analysis of the opponent's case.
 C. A formal proof checklist (an analysis which sets out the elements to be proved, the evidence in support of each and the source of that evidence).
 D. The [[Page-131|opening statement]].
 E. A witness section which includes -
+
 1. a list of witnesses (for both sides);
 2. a summary explaining where each witness fits into the greater scheme of the case;
 3. an outline or timeline for the evidence of each of your own witnesses;

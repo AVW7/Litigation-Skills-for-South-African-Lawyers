@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -35,7 +36,7 @@ Hiemstra's Criminal Procedure LexisNexis.
 - The same applies to overstated claims.
 - Make sure that the proposed court has jurisdiction. It is very embarrassing to lose a case simply because you have taken it to the wrong court.
 
-# Chapter 7
+## Chapter 7
 
 Drafting pleas and [[Page-66|special pleas]]
 

@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -52,9 +53,9 @@ NYC = Not yet competent (meaning that the performer has not yet reached the desi
 
 [[Page-179|Motion Court]]
 
-*The Motion Court is a paper court. But it is no paper tiger!*
-
-**Anonymous advocate**
+> *The Motion Court is a paper court. But it is no paper tiger!*
+>
+> — Anonymous advocate
 
 ### CONTENTS
 
@@ -254,7 +255,7 @@ Because urgent applications are often made in the absence of the respondent, the
 
 Some [[Page-179|Motion Court]] matters are likely to be opposed from the outset. A summary judgment application, for example, is likely to be opposed as the defendant will already have indicated an intention to defend the action by delivering a notice of intention to defend. Even if there has been no advance indication of opposition, virtually any Motion Court matter could be opposed at the last moment. Many an advocate has risen to ask for a judgment or order thinking that there would be no opposition only to hear a voice saying:
 
-*'M' Lord, I appear for the defendant. The defendant wishes to oppose the provisional sentence proceedings. I have been instructed to apply for an adjournment to enable the defendant to deliver an opposing affidavit. The defendant tenders the costs occasioned by the adjournment.'*
+> *'M' Lord, I appear for the defendant. The defendant wishes to oppose the provisional sentence proceedings. I have been instructed to apply for an adjournment to enable the defendant to deliver an opposing affidavit. The defendant tenders the costs occasioned by the adjournment.'*
 
 Counsel then has the dilemma of having to make a decision on his or her feet. Should I consent to the adjournment? Do I have a mandate for that? Is this a case where I should insist that the defendant should make a formal application for condonation or should I accept the reasons given by defendant's counsel for the failure to comply with the rules?
 

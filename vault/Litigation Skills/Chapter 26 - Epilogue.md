@@ -17,7 +17,7 @@ topics:
 
 [[Chapter 25 - Appeals|← Previous Chapter]] | [[Dashboard|Dashboard]] | [[Chapter 00 - Appendices|Next Chapter →]]
 
-# Chapter 26 - Epilogue
+## Chapter 26 - Epilogue
 
 > [!info] Chapter Overview
 > This chapter covers PDF pages 285 to 285 of *Litigation Skills for South African Lawyers*.
@@ -27,7 +27,7 @@ topics:
 
 | Page (PDF) | Page (Printed) | Title / Key Content |
 | --- | --- | --- |
-| [[Page-285|Page 285]] | 475 | Epilogue |
+| [[Page-285\|Page 285]] | 475 | Epilogue |
 
 ---
 

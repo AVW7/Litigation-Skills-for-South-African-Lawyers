@@ -41,27 +41,41 @@ def process_chunk(chunk_idx, files):
         except Exception:
             pass
 
-    # Provide only the list of file paths (do not inline contents to avoid OS limits)
+    # Read content of all files in this chunk to provide as context
     file_list_str = ""
+    file_contents_str = "\n--- FILE CONTENTS ---\n"
     for f in files:
-        file_list_str += f"- {f}\n"
+        file_path = Path(f)
+        if file_path.exists():
+            file_list_str += f"- {f}\n"
+            if file_path.suffix.lower() in ('.png', '.jpg', '.jpeg', '.gif', '.webp', '.bmp', '.tiff'):
+                file_contents_str += f"\nFile: {f} (IMAGE - use view_file or similar if needed)\n"
+            else:
+                try:
+                    content = file_path.read_text(encoding='utf-8', errors='replace')
+                    file_contents_str += f"\nFile: {f}\n```\n{content}\n```\n"
+                except Exception as e:
+                    file_contents_str += f"\nFile: {f} (Error reading: {e})\n"
+        else:
+            file_list_str += f"- {f} (MISSING)\n"
+            file_contents_str += f"\nFile: {f} (MISSING)\n"
 
     # Format the prompt
     prompt = prompt_template
     prompt = prompt.replace("CHUNK_NUM", str(chunk_num))
     prompt = prompt.replace("TOTAL_CHUNKS", str(total_chunks))
-    prompt = prompt.replace("FILE_LIST", file_list_str)
+    prompt = prompt.replace("FILE_LIST", file_list_str + file_contents_str)
     prompt = prompt.replace("DEEP_MODE", "False")
     prompt = prompt.replace("CHUNK_PATH", chunk_path)
     
     print(f"[{chunk_name}/{total_chunks}] Starting extraction for {len(files)} files...")
     
-    # Run hermes CLI in one-shot mode
-    cmd = ["hermes", "-z", prompt]
+    # Run the custom single_extract script via the internal python virtual environment, passing prompt via stdin
+    cmd = ["/Users/ajadvanwyk/.hermes/hermes-agent/venv/bin/python3", "scripts/single_extract.py"]
     
     start_time = time.time()
     try:
-        proc = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        proc = subprocess.run(cmd, input=prompt, capture_output=True, text=True, check=True)
         stdout = proc.stdout
         elapsed = time.time() - start_time
         

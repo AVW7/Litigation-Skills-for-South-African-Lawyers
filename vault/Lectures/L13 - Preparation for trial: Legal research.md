@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -134,7 +135,7 @@ The purpose of legal research is to find the applicable law (and to find it quic
 - making a permanent note or record of the research; and
 - applying (or using) the research material.
 
-#### 13.3.1 Completing the fact investigation and preliminary legal analysis
+### 13.3.1 Completing the fact investigation and preliminary legal analysis
 
 It is essential that the fact investigation be completed as far as possible before you head for the library. Your search for the legal principles could be rather unfocused and unproductive if a proper assessment of the problem has not been made. (What exactly is the problem? What are the available options?) When the facts have been assembled, you need to classify the problem. (What general field or branch of the law is involved here? What does the client want to achieve?) Often the problem is obvious, for example when the client has been arrested on a charge of murder. But even then the facts need to be investigated fully before the in-depth legal research can be undertaken.
 
@@ -148,7 +149,7 @@ Once you have made a preliminary classification of the case to determine the spe
 
 appeal before the Supreme Court of Appeal or Constitutional Court.
 
-## 13.3 Methodology in legal research
+## 13.3.4 Recording results of the research
 
 In some cases you will have a good idea where to start because the case is simple or because you have prior experience of a similar case. In other cases you have no idea where to start. Every lawyer will have his or her own preferences and style. I prefer books to the internet. I also prefer an approach that investigates the historical development of the relevant legal principle and then investigates how that point developed in other jurisdictions; this is called the historical-comparative approach. My selection of sources and my classification of them probably reflect my affinity to this approach. It seems to me, if I need any justification for my approach, that the Supreme Court of Appeal and the Constitutional Court also prefer this style of legal problem solving.
 
@@ -203,7 +204,7 @@ South Africa. They are:
 
 There are similar sources for almost every legal system you might want to compare. For historical reasons, a legal system based on Roman law is often directly comparable. French, German and Dutch law fall in this category and could be useful as comparative sources.
 
-## 13.3 Methodology in legal research
+## 13.3.5 Making a permanent record
 
 Victor Tunkel (Legal Research Law-Finding and Problem-Solving Blackstone Press Limited (1992) chapter 7) suggests the following scheme for recording the results of your research:
 
@@ -219,7 +220,7 @@ Victor Tunkel (Legal Research Law-Finding and Problem-Solving Blackstone Press L
 - Organise the material in a logical order.
 - File and keep the research materials. You may only need them much later and they could also be useful in another case many years later.
 
-## 13.3 Methodology in legal research
+## 13.3.6 Applying the research results
 
 If necessary, dictate or type a note setting out the main points of the research. File and keep these notes. The products of the research are often recorded in an opinion or written memorandum or even heads of argument. Copies of those documents should be kept in the file for research materials. An index should be kept. If you can keep this system religiously, you will succeed where many others have failed! There can be no valid excuse for not keeping a proper index these days; you can update the index on your computer each time an opinion, memorandum or argument is typed.
 
@@ -254,11 +255,11 @@ All this new technology has made it necessary for law students to be taught how 
 
 The following sources are available on the internet and in some cases on CD ROM:
 
-- At www.lawreports.co.za you can find the published and unpublished judgments of the High Courts, the Supreme Court of Appeal, the Constitutional Court, the Labour Court and the Labour Appeal Court as well as some judgments of the courts of neighbouring countries. The material is updated daily. Access is by subscription.
+- At <www.lawreports.co.za> you can find the published and unpublished judgments of the High Courts, the Supreme Court of Appeal, the Constitutional Court, the Labour Court and the Labour Appeal Court as well as some judgments of the courts of neighbouring countries. The material is updated daily. Access is by subscription.
 
 ---
 
-- At www.legalnet.co.za you can find the All South African Reports, the South African Law Reports, with their respective Indices and Noter-ups, the Butterworths Procedural Timetable and Prescription Periods and the Government Gazettes (from 1994). This material is updated weekly. Access is by subscription.
+- At <www.legalnet.co.za> you can find the All South African Reports, the South African Law Reports, with their respective Indices and Noter-ups, the Butterworths Procedural Timetable and Prescription Periods and the Government Gazettes (from 1994). This material is updated weekly. Access is by subscription.
 - The Butterworths Index and Noter-up to the All South African Reports and the South African Law Reports is also available online. These include references to the Rules of Court, Statutes and Words and Phrases considered by the courts, lists of reported cases, a Noter-up section listing cases considered in other cases, an alphabetically arranged subject index with case references, arranged by topic.
 - LAWSA is available online) from LexisNexis.
 - The Statutes are available in fresh sets each year and also online.

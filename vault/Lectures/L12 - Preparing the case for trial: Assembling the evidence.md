@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -280,6 +281,7 @@ If the case is about a collision, say, an elderly pensioner living in a rural ar
 ---
 
 the client. Could and should he have seen the bus?
+
 - Take another photograph from the point where the client started crossing the road. Could and should he have seen the bus when he started crossing?
 - Take a set of five photographs at 30 metre intervals from the point of impact. They should show the scene as seen by the bus driver at 150, 120, 90, 60 and 30 metres respectively from the point of impact. When could and should the bus driver have noticed your elderly client shuffling across the road?
 - Make a note of any special features. Is there a blind rise or any object affecting visibility? Are there any road markings or traffic signs? Take appropriate photographs to capture these features.

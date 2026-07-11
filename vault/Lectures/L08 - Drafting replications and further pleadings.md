@@ -20,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 ---
@@ -71,13 +72,13 @@ However, there are cases where a replication is essential. If there is an answer
 
 Explanations or qualifications could be raised in the replication as follows:
 
-* 1. *Ad* paragraph 6 of the Plea:
+- 1. *Ad* paragraph 6 of the Plea:
 
 The plaintiff admits that the defendant paid the purchase price to X, but denies that X was authorised to receive payment on the plaintiff's behalf.
 
 WHEREFORE the plaintiff joins issue. (This is the customary prayer to a replication.)
 
-* This is an instance where the *ad paragraph* style of signposting is useful.
+- This is an instance where the *ad paragraph* style of signposting is useful.
 
 Estoppel is a defence which is often raised in a replication. Let us assume that the plea in a claim for the purchase price of goods denies that a contract was concluded between the parties on the basis that the person alleged to have represented the defendant lacked the authority to represent the defendant. The plaintiff may wish to respond to that defence by pleading that the defendant is estopped from denying the authority of that person. The estoppel will then have to be raised in the replication. This could be done as follows:
 **Table 8.1** Replication
