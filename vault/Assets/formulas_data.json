@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Negligence Test",
+    "filename": "f- Negligence Test.md",
+    "latex": "\\text{Liability for Negligence} = \\text{Foreseeability of Harm} \\land \\text{Preventability of Harm} \\land \\text{Failure to Take Reasonable Steps}",
+    "belongs_to": ["[[Negligence]]", "[[Delict]]"],
+    "symbols": [
+      {"symbol": "\\text{Foreseeability}", "meaning": "Whether a diligens paterfamilias (reasonable person) would foresee the reasonable possibility of conduct causing harm.", "role": "Requirement 1"},
+      {"symbol": "\\text{Preventability}", "meaning": "Whether a reasonable person would take reasonable steps to guard against such harm.", "role": "Requirement 2"},
+      {"symbol": "\\text{Failure to Prevent}", "meaning": "Whether the defendant failed to take such steps.", "role": "Requirement 3"}
+    ],
+    "computes": "Negligence in the South African law of delict, establishing the fault element for damages claims.",
+    "why_form": "> [!tip] Judicial Origin\n> Established in *Kruger v Coetzee* 1966 (2) SA 428 (A). It splits negligence into three distinct, cumulative elements that must be proved by the plaintiff on a balance of probabilities.\n\n> [!example] Worked Legal Application\n> **Facts:** Defendant drives through a red traffic light at an intersection and collides with Plaintiff.\n> 1. **Foreseeability:** A reasonable driver would foresee that driving through a red light could cause a collision and harm to others.\n> 2. **Preventability:** A reasonable driver would prevent this by stopping at the red light.\n> 3. **Failure:** The defendant failed to stop.\n> **Conclusion:** The defendant was negligent.",
+    "source": "Chapter 02 (Page 26), Kruger v Coetzee"
+  },
+  {
+    "name": "Mandament van Spolie Requirements",
+    "filename": "f- Spolie Requirements.md",
+    "latex": "\\text{Spoliation Remedy} = \\text{Peaceful and Undisturbed Possession} \\land \\text{Unlawful Deprivation}",
+    "belongs_to": ["[[Interdicts]]", "[[Possession]]"],
+    "symbols": [
+      {"symbol": "\\text{Possession}", "meaning": "The applicant was in peaceful and undisturbed possession of the property (factual possession, not necessarily legal right).", "role": "Requirement 1"},
+      {"symbol": "\\text{Deprivation}", "meaning": "The respondent deprived the applicant of possession unlawfully (without consent or legal process).", "role": "Requirement 2"}
+    ],
+    "computes": "Entitlement to a mandament van spolie (restoration order), which is a possessory remedy aimed at restoring the status quo ante.",
+    "why_form": "> [!tip] Legal Rationale\n> The mandament van spolie is a robust remedy designed to prevent self-help. The court does not look at the merits of who has the legal right to possess, only whether factual possession was unlawfully disrupted.\n\n> [!example] Worked Legal Application\n> **Facts:** Landlord locks Tenant out of a flat without a court order because rent is in arrears.\n> 1. **Possession:** Tenant lived in the flat and had keys (factual possession).\n> 2. **Deprivation:** Landlord changed the locks without consent or court order.\n> **Conclusion:** Tenant is entitled to a mandament van spolie restoring possession immediately.",
+    "source": "Chapter 04 (Page 49), Yeko v Qana 1973 (4) SA 735 (A)"
+  },
+  {
+    "name": "Urgent Application Test",
+    "filename": "f- Urgent Application Test.md",
+    "latex": "\\text{Urgency relief} = \\text{Explicit Urgency Circumstances} \\land \\text{Absence of Substantial Redress in Due Course}",
+    "belongs_to": ["[[Urgent Application]]", "[[Affidavit]]"],
+    "symbols": [
+      {"symbol": "\\text{Circumstances}", "meaning": "Explicit details showing why the matter is urgent and cannot wait.", "role": "Rule 6(12)(b) Requirement 1"},
+      {"symbol": "\\text{Redress}", "meaning": "Explicit reasons why the applicant will not obtain substantial redress at a hearing in due course.", "role": "Rule 6(12)(b) Requirement 2"}
+    ],
+    "computes": "Whether a matter qualifies to be heard as an urgent application in the Motion Court, bypassing standard time frames.",
+    "why_form": "> [!tip] Rationale\n> High Court Rule 6(12) requires both elements to be set out under oath in the founding affidavit. A failure to prove either will result in the matter being struck from the roll with costs.\n\n> [!example] Worked Legal Application\n> **Facts:** Applicant seeks an interdict to stop a developer from demolishing a heritage building tomorrow.\n> 1. **Circumstances:** Demolition is scheduled for tomorrow at 08:00; heritage authority has not intervened.\n> 2. **No Redress:** If heard in the normal course (months away), the building will already be destroyed, making any subsequent order useless.\n> **Conclusion:** Urgency established.",
+    "source": "Chapter 10 (Page 99), Rule 6(12)"
+  },
+  {
+    "name": "Pleadings Drafting Rules",
+    "filename": "f- Pleadings Drafting Rules.md",
+    "latex": "\\text{Valid Pleading} = \\text{Clear Statement} \\land \\text{Facta Probanda Only} \\land \\text{Plausible Cause/Defence} \\land \\text{Clear Prayer}",
+    "belongs_to": ["[[Pleadings]]", "[[Cause of Action]]"],
+    "symbols": [
+      {"symbol": "\\text{Clear Statement}", "meaning": "Pleadings must be clear, concise, and contain sufficient detail to enable the other side to reply.", "role": "Rule 18(4)"},
+      {"symbol": "\\text{Facta Probanda}", "meaning": "Plead only the material facts to be proved, not the evidence (facta probantia) by which they are proved.", "role": "Substantive pleading rule"},
+      {"symbol": "\\text{Prayer}", "meaning": "A statement of claim must conclude with a prayer specifying the exact relief sought.", "role": "Mandatory conclusion"}
+    ],
+    "computes": "The technical and substantive validity of a pleading, shielding it from exceptions (vague and embarrassing or failing to disclose a cause of action).",
+    "why_form": "> [!tip] Pleading Rules Rationale\n> Designed to define the issues in dispute clearly, prevent surprise at trial, and keep litigation structured. Non-compliance makes the pleading excipient under Rule 23.\n\n> [!example] Worked Legal Application\n> **Correct Pleading (Facta Probanda):** 'On 10 June 2026, at West Street, the defendant negligently collided with the plaintiff's vehicle.'\n> **Incorrect Pleading (Facta Probantia):** 'The plaintiff will call Mr X who will testify that he saw the defendant looking at his phone before the collision.' (This is evidence, not a material fact).",
+    "source": "Chapter 05 (Page 54), Uniform Rule 18"
+  },
+  {
+    "name": "High Court Modes of Address",
+    "filename": "f- High Court Modes of Address.md",
+    "latex": "\\text{Judicial Address} = \\text{\"My Lord\"} \\lor \\text{\"My Lady\"} \\lor \\text{\"Your Lordship\"} \\lor \\text{\"Her Ladyship\"}",
+    "belongs_to": ["[[Courtroom Protocol]]", "[[Protocol and Ethics]]"],
+    "symbols": [
+      {"symbol": "\\text{\"My Lord\"}", "meaning": "Address to a male judge directly in court.", "role": "Direct Address"},
+      {"symbol": "\\text{\"My Lady\"}", "meaning": "Address to a female judge directly in court.", "role": "Direct Address"},
+      {"symbol": "\\text{\"Your Lordship\"}", "meaning": "Third-person reference to a male judge.", "role": "Indirect Address"},
+      {"symbol": "\\text{\"Her Ladyship\"}", "meaning": "Third-person reference to a female judge.", "role": "Indirect Address"}
+    ],
+    "computes": "Correct and respectful verbal address to a High Court, Supreme Court of Appeal, or Constitutional Court Judge.",
+    "why_form": "> [!important] Court Protocol Rule\n> Never address a judge in the second person as 'you' or 'yourself'. For example: 'Could you look at Exhibit A?' is incorrect. The correct form is: 'May I ask Your Lordship to look at Exhibit A?'\n\n> [!example] Dialogue Example\n> **Counsel:** 'As Your Lordship pleases. I appear for the applicant, My Lord. If I may direct Your Lordship's attention to page 5 of the bundle...'",
+    "source": "Chapter 15 (Page 163), Court Protocol Guide"
+  }
+]

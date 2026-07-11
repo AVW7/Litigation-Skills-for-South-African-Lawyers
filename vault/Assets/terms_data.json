@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Facta Probanda",
+    "tags": ["term", "pleadings"],
+    "aliases": ["material facts", "facta-probanda"],
+    "definition": "The material facts which a party must allege and prove in order to establish a cause of action or a defense. They represent the essential legal ingredients of a claim or defense.",
+    "simple_words": "The list of key facts you must prove to win your case, like showing that a contract exists, was breached, and caused you loss.",
+    "analogy": "The recipe ingredients. You must list all of them to make the cake, but you do not need to show the cooking process yet.",
+    "why_need": "To define the issues in dispute clearly so that the opposing party knows exactly what case they have to meet. It keeps the pleadings clean and free of unnecessary evidence. Excluding facta probanda makes a pleading excipient (vague and embarrassing).",
+    "formulas": ["![[f- Pleadings Drafting Rules]]"],
+    "visual": "```mermaid\ngraph LR\n    CauseOfAction[\"Cause of Action\"] --> FP1[\"Facta Probanda 1 (Contract)\"]\n    CauseOfAction --> FP2[\"Facta Probanda 2 (Breach)\"]\n    CauseOfAction --> FP3[\"Facta Probanda 3 (Damages)\"]\n```\n*Figure 1: Facta Probanda as structural pillars of a Cause of Action.*",
+    "related": "[[Facta Probantia]] · [[Cause of Action]] · [[Pleadings]] · [[f- Pleadings Drafting Rules]]",
+    "source": "Chapter 05 (Page 54)"
+  },
+  {
+    "name": "Facta Probantia",
+    "tags": ["term", "pleadings"],
+    "aliases": ["evidence", "facta-probantia"],
+    "definition": "The evidence or secondary facts by which the material facts (facta probanda) are proved in court. They include witness statements, documents, and physical exhibits.",
+    "simple_words": "The actual evidence (like a witness's testimony or a signed email) that you use in court to prove your key facts.",
+    "analogy": "The photos or video showing you mixing the ingredients. It proves you used them, but you don't list the photos in the recipe.",
+    "why_need": "Pleadings must contain only facta probanda and *never* facta probantia. Including evidence in pleadings makes them excipient and clutters the record before the trial even begins.",
+    "formulas": [],
+    "visual": "```mermaid\ngraph TD\n    FP[\"Facta Probanda: Defendant was negligent\"]\n    Evidence1[\"Witness: I saw him drive through red light\"] --> FP\n    Evidence2[\"CCTV Footage of collision\"] --> FP\n    Evidence3[\"Brake mark measurements\"] --> FP\n    style FP fill:#2c3e50,stroke:#34495e,stroke-width:2px,color:#fff\n```\n*Figure 2: Facta Probantia (evidence) proving the Facta Probanda.*",
+    "related": "[[Facta Probanda]] · [[Pleadings]] · [[Evidence]]",
+    "source": "Chapter 05 (Page 54)"
+  },
+  {
+    "name": "Cause of Action",
+    "tags": ["term", "pleadings"],
+    "aliases": ["cause-of-action", "right of action"],
+    "definition": "A factual situation or set of facts (facta probanda) that gives a person a right to sue another in court and obtain legal relief.",
+    "simple_words": "A legally recognized reason to sue someone. If you don't have a valid cause of action, your case will be thrown out.",
+    "analogy": "A ticket that allows you to enter a ride. Without the ticket, you cannot get on.",
+    "why_need": "Every statement of claim or summons must disclose a valid cause of action. If it fails to do so, the defendant can file an exception under Rule 23, ending the litigation prematurely.",
+    "formulas": ["![[f- Pleadings Drafting Rules]]"],
+    "visual": "```mermaid\ngraph LR\n    Facts[\"Factual Event (e.g. Collision)\"] --> LegalCat[\"Fits Legal Category (Delict)\"]\n    LegalCat --> COA[\"Cause of Action Disclosed\"]\n```\n*Figure 3: Deriving a Cause of Action from facts matching legal categories.*",
+    "related": "[[Facta Probanda]] · [[Pleadings]] · [[Exception]] · [[f- Pleadings Drafting Rules]]",
+    "source": "Chapter 06 (Page 63)"
+  },
+  {
+    "name": "Locus Standi",
+    "tags": ["term", "litigation-foundations"],
+    "aliases": ["standing", "legal standing"],
+    "definition": "The legal capacity or right of a party to bring an action or appear before a court in a particular matter. It requires the party to have a direct and substantial interest in the outcome of the litigation.",
+    "simple_words": "Your right to be heard in court on a specific issue. You cannot sue on behalf of someone else unless you have standing.",
+    "analogy": "Having 'skin in the game'. If you aren't affected by a dispute, you can't join the fight.",
+    "why_need": "To prevent busybodies from clogging the courts with litigation in which they have no personal interest. Standing is a threshold issue and must be pleaded and proved.",
+    "formulas": [],
+    "visual": "```mermaid\ngraph TD\n    Interest[\"Direct & Substantial Interest in Outcome\"] --> LS[\"Locus Standi Established\"]\n    NoInterest[\"Indirect or Academic Interest Only\"] --> NoLS[\"No Standing (Excipient)\"]\n```\n*Figure 4: Standing threshold test.*",
+    "related": "[[Cause of Action]] · [[Pleadings]] · [[Urgent Application]]",
+    "source": "Chapter 04 (Page 46)"
+  },
+  {
+    "name": "Cross-examination",
+    "tags": ["term", "trial-advocacy"],
+    "aliases": ["cross examination", "cross-exam"],
+    "definition": "The questioning of a witness called by the opposing party during a trial. Its purposes are to test the credibility and reliability of the witness, and to elicit facts favorable to the cross-examiner's case.",
+    "simple_words": "Questioning the other side's witness to show their story is unreliable, inconsistent, or supports your version instead.",
+    "analogy": "Stress-testing a bridge. You apply weight to find the weak spots.",
+    "why_need": "It is the primary tool for exposing falsehoods and errors in testimony. Under South African trial rules, counsel has a strict **duty to put their version** to the witness on disputed facts during cross-examination.",
+    "formulas": [],
+    "visual": "```mermaid\ngraph TD\n    A[\"Cross-Examiner's Duty\"] --> B[\"Test Credibility / Memory\"]\n    A --> C[\"Elicit Favorable Facts\"]\n    A --> D[\"Put Client's Version on Disputed Points\"]\n```\n*Figure 5: The three pillars of cross-examination.*",
+    "related": "[[Examination-in-chief]] · [[Re-examination]] · [[Witnesses]] · [[Theory of the Case]]",
+    "source": "Chapter 18 (Page 194)"
+  }
+]

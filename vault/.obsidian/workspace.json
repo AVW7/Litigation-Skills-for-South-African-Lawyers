@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Lectures/L00 - Introduction & Prefaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "L00 - Introduction & Prefaces"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "51203417fbc67ef7",
   "lastOpenFiles": [
+    "Indexes/All Formulas.md",
+    "Assets/templates.md",
+    "Assets/scripts.md",
+    "Assets/README-template.md",
+    "Assets/anim_trial_timeline.gif",
+    "Assets/anim_motion_exchange.gif",
+    "Assets/anim_burden_proof.gif",
+    "Dashboard.md",
     "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
     "Pages/Page-1.md",
     "Litigation Skills/Chapter 28 - Index.md",
@@ -206,11 +214,6 @@
     "Litigation Skills/Chapter 12 - Preparing the case for trial Assembling the evidence.md",
     "Litigation Skills/Chapter 11 - Preparing the case for trial Advice on evidence.md",
     "Litigation Skills/Chapter 10 - Drafting applications.md",
-    "Litigation Skills/Chapter 09 - Drafting exceptions, applications to strike out and objections to a charge.md",
-    "Litigation Skills/Chapter 08 - Drafting replications and further pleadings.md",
-    "Litigation Skills/Chapter 07 - Drafting pleas and special pleas.md",
-    "Litigation Skills/Chapter 06 - Drafting statements of claim.md",
-    "Litigation Skills/Chapter 05 - Function, form and style of pleadings.md",
     "Chapters.base"
   ]
 }
