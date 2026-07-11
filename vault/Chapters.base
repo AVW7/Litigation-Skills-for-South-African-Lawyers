@@ -1,12 +1,12 @@
-filters: 'file.name.contains("Page-") && (chapter != "")'
+filters: file.name.contains("Page-") && (chapter != "")
 properties:
   chapter:
-    displayName: "Chapter Name"
+    displayName: Chapter Name
   pdfPage:
-    displayName: "Starting Page"
+    displayName: Starting Page
 views:
   - type: list
-    name: "Chapters View"
+    name: Chapters View
     groupBy:
       property: chapter
       direction: ASC

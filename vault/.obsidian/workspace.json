@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/L00 - Introduction & Prefaces.md",
+                "file": "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L00 - Introduction & Prefaces"
+              "title": "Chapter 01 - Interviewing clients and witnesses"
             }
           }
         ]
@@ -200,42 +200,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9fe01a6c1988b33",
+  "active": "51203417fbc67ef7",
   "lastOpenFiles": [
+    "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
+    "Rules.base",
+    "README.md",
+    "Pages.base",
+    "Dashboard.md",
+    "Chapters.base",
+    "Formulas/f- Negligence Test.md",
+    "Lectures/L01 - Interviewing clients and witnesses.md",
+    "Pages/Page-136.md",
+    "Lectures/L00 - Introduction & Prefaces.md",
     "Assets/urgent_small2.jpg",
     "Assets/urgent_small.jpg",
     "Assets/urgent_frame_30.jpg",
     "Assets/urgent_frame_15.jpg",
     "Assets/urgent_frame_0.jpg",
     "Assets/anim_cause_of_action.jpg",
-    "Lectures/L01 - Interviewing clients and witnesses.md",
     "graphify-out",
-    "Lectures/L00 - Introduction & Prefaces.md",
     "Formulas/f- Pleadings Drafting Rules.md",
-    "Formulas/f- Negligence Test.md",
     "Formulas/f- High Court Modes of Address.md",
     "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
-    "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
     "Assets/MindElixir.js",
     "Assets/mind-elixir.css",
     "Excalidraw/Drawing 2026-07-11 13.22.44.excalidraw.md",
     "Excalidraw",
     "Assets/chapter_01_mindmap.html",
-    "Dashboard.md",
     "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
     "Terms/Cause of Action.md",
     "Indexes/All Lectures.md",
     "Home.md",
-    "Chapters.base",
     "Rules/rule-1.md",
     "Assets/anim_urgent_application.gif",
     "Assets/anim_pleadings.gif",
     "Assets/anim_onus_of_proof.gif",
     "Assets/anim_locus_standi.gif",
-    "Assets/anim_facta_probantia.gif",
-    "Rules.base",
-    "README.md",
-    "Pages.base",
     "Indexes/All Formulas.md",
     "Assets/templates.md",
     "Assets/scripts.md",
@@ -244,7 +244,6 @@
     "Litigation Skills/Chapter 28 - Index.md",
     "Litigation Skills/Chapter 27 - Appendices.md",
     "Litigation Skills/Chapter 26 - Epilogue.md",
-    "Litigation Skills/Chapter 25 - Appeals.md",
-    "Litigation Skills/Chapter 24 - Reviews.md"
+    "Litigation Skills/Chapter 25 - Appeals.md"
   ]
 }
