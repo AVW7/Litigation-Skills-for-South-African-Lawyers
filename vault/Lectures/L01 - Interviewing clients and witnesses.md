@@ -18,75 +18,75 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
 ## Chapter Content Walkthrough
 
-|  3 | Advising a client | 2 | 30  |
+| 3 | Advising a client | 2 | 30 |
 | --- | --- | --- | --- |
-|  4 | Letter of advice | 2 | 34  |
-|  5 | Advice per memorandum | 2 | 35  |
-|  6 | Written opinion | 2 | 36  |
-|  7 | [[Page-30|Arbitration]] | 3 | 46  |
-|  8 | [[Page-30|Mediation]] | 3 | 49  |
-|  9 | [[Page-30|Negotiation]] | 3 | 53  |
-|  10 | Comparative table for alternative dispute resolution methods | 3 | 63  |
-|  11 | Letter of demand | 4 | 68  |
-|  12 | Letter of repudiation | 4 | 69  |
-|  13 | Trial folder | 4 | 76  |
-|  14 | A set of pleadings | 5 | 82  |
-|  15 | Comparative table: Exceptions and applications to strike out | 9 | 157  |
-|  16 | Comparative table: Action and application procedure | 10 | 161  |
-|  17 | Comparative table: Different forms of application | 10 | 162  |
-|  18 | Notice of application | 10 | 163  |
-|  19 | Founding affidavit | 10 | 165  |
-|  20 | Answering and replying affidavits | 10 | 166  |
-|  21 | Advising on the evidence for prosecutors | 11 | 205  |
-|  22 | Advising on the evidence for defence counsel | 11 | 207  |
-|  23 | Scheme for organising documentary evidence | 12 | 214  |
-|  24 | Captions for photographs | 12 | 217  |
-|  25 | [[Page-131|Opening statement]] | 16 | 290  |
-|  26 | [[Page-136|Examination-in-chief]] | 17 | 305  |
-|  27 | [[Page-145|Cross-examination]] | 18 | 331  |
-|  28 | [[Page-174|Closing argument]] | 21 | 381  |
-|  29 | *Curator ad litem's* report | 22 | 411  |
-|  30 | [[Page-186|Persuasive advocacy]]: What works and what doesn't | 23 | 434  |
+| 4 | Letter of advice | 2 | 34 |
+| 5 | Advice per memorandum | 2 | 35 |
+| 6 | Written opinion | 2 | 36 |
+| 7 | [[Page-30\|Arbitration]] | 3 | 46 |
+| 8 | [[Page-30\|Mediation]] | 3 | 49 |
+| 9 | [[Page-30\|Negotiation]] | 3 | 53 |
+| 10 | Comparative table for alternative dispute resolution methods | 3 | 63 |
+| 11 | Letter of demand | 4 | 68 |
+| 12 | Letter of repudiation | 4 | 69 |
+| 13 | Trial folder | 4 | 76 |
+| 14 | A set of pleadings | 5 | 82 |
+| 15 | Comparative table: Exceptions and applications to strike out | 9 | 157 |
+| 16 | Comparative table: Action and application procedure | 10 | 161 |
+| 17 | Comparative table: Different forms of application | 10 | 162 |
+| 18 | Notice of application | 10 | 163 |
+| 19 | Founding affidavit | 10 | 165 |
+| 20 | Answering and replying affidavits | 10 | 166 |
+| 21 | Advising on the evidence for prosecutors | 11 | 205 |
+| 22 | Advising on the evidence for defence counsel | 11 | 207 |
+| 23 | Scheme for organising documentary evidence | 12 | 214 |
+| 24 | Captions for photographs | 12 | 217 |
+| 25 | [[Page-131\|Opening statement]] | 16 | 290 |
+| 26 | [[Page-136\|Examination-in-chief]] | 17 | 305 |
+| 27 | [[Page-145\|Cross-examination]] | 18 | 331 |
+| 28 | [[Page-174\|Closing argument]] | 21 | 381 |
+| 29 | *Curator ad litem's* report | 22 | 411 |
+| 30 | [[Page-186\|Persuasive advocacy]]: What works and what doesn't | 23 | 434 |
 
 ## Interviewing clients and witnesses
 
-[A]ll practitioners . . . act on instructions. In order to obtain instructions a practitioner must be able to conduct an interview. Having conducted an interview, the practitioner will know how to give advice, how to conduct negotiations, write letters, draft documents and present argument in court. These are skills that are required in legal practice.
-
-**RJ Scragg, Sydney, 1996**
+> [A]ll practitioners . . . act on instructions. In order to obtain instructions a practitioner must be able to conduct an interview. Having conducted an interview, the practitioner will know how to give advice, how to conduct negotiations, write letters, draft documents and present argument in court. These are skills that are required in legal practice.
+>
+> — *RJ Scragg, Sydney, 1996*
 
 ### CONTENTS
 
-|  1.1 | Introduction  |
+| 1.1 | Introduction |
 | --- | --- |
-|  1.2 | The structure of an interview with a new client  |
-|  1.2.1 | Stage 1: Meeting the client and exchanging pleasantries  |
-|  1.2.2 | Stage 2: Initial problem and goal identification  |
-|  1.2.3 | Stage 3: Dealing with preliminary matters  |
-|  1.2.4 | Stage 4: Establishing the facts in chronological order  |
-|  1.2.5 | Stage 5: Initial [[Page-115|fact analysis]] and developing a preliminary [[Page-115|theory of the case]]  |
-|  1.2.6 | Stage 6: Giving preliminary advice  |
-|  1.2.7 | Stage 7: Concluding the interview  |
-|  1.2.8 | After the interview  |
-|  1.3 | Interviewing witnesses  |
-|  1.4 | Consultations and conferences with counsel  |
-|  1.5 | Interviewing in criminal practice  |
-|  1.5.1 | Introduction  |
-|  1.5.2 | Interviewing for prosecutors  |
-|  1.5.2.1 | General  |
-|  1.5.2.2 | Complainant  |
-|  1.5.2.3 | Other witnesses (police, supporting witnesses, [[Page-100|expert witness]]es)  |
-|  1.5.2.4 | Sex crimes  |
-|  1.5.2.5 | Minors  |
-|  1.5.3 | Interviewing for defence lawyers  |
-|  1.5.3.1 | General  |
-|  1.5.3.2 | Accused  |
+| 1.2 | The structure of an interview with a new client |
+| 1.2.1 | Stage 1: Meeting the client and exchanging pleasantries |
+| 1.2.2 | Stage 2: Initial problem and goal identification |
+| 1.2.3 | Stage 3: Dealing with preliminary matters |
+| 1.2.4 | Stage 4: Establishing the facts in chronological order |
+| 1.2.5 | Stage 5: Initial [[Page-115\|fact analysis]] and developing a preliminary [[Page-115\|theory of the case]] |
+| 1.2.6 | Stage 6: Giving preliminary advice |
+| 1.2.7 | Stage 7: Concluding the interview |
+| 1.2.8 | After the interview |
+| 1.3 | Interviewing witnesses |
+| 1.4 | Consultations and conferences with counsel |
+| 1.5 | Interviewing in criminal practice |
+| 1.5.1 | Introduction |
+| 1.5.2 | Interviewing for prosecutors |
+| 1.5.2.1 | General |
+| 1.5.2.2 | Complainant |
+| 1.5.2.3 | Other witnesses (police, supporting witnesses, [[Page-100\|expert witness]]es) |
+| 1.5.2.4 | Sex crimes |
+| 1.5.2.5 | Minors |
+| 1.5.3 | Interviewing for defence lawyers |
+| 1.5.3.1 | General |
+| 1.5.3.2 | Accused |
 
 ---
 
@@ -94,6 +94,7 @@ graph LR
 1.5.4 Interviewing through an interpreter
 
 1.6 Protocol and ethics
+
 ## 1.1 Introduction
 
 The litigation process starts long before the well-known processes we readily associate with it, such as the issue of a summons, the exchange of pleadings, making an [[Page-131|opening statement]], [[Page-136|examination-in-chief]], [[Page-145|cross-examination]] and [[Page-174|closing argument]]. The litigation process starts at the first meeting with the client and there are special structures, skills and techniques involved in interviewing a client or a witness.
@@ -137,6 +138,7 @@ Stage 5: Developing a preliminary [[Page-115|theory of the case]]
 Stage 6: Giving preliminary advice
 
 Stage 7: Concluding the interview.
+
 ### 1.2.1 Stage 1: Meeting the client and exchanging pleasantries
 
 Now let's get back to the client who is waiting in our reception room. She has arrived in some distress. There are other clients present. Where do you think the client would prefer to be? What do you think good manners and sound business practice dictate? First impressions are usually lasting ones.
@@ -176,6 +178,7 @@ This is enough for now, but I can assure you there are other problems. However, 
 "I am sorry to hear of your husband's death. I fully understand your concern for your children's well-being and that you are experiencing financial difficulties at this stage. I would like to help you solve these problems quickly. You have already given me some very helpful information but I'm afraid I am going to need more information so that you and I may work together to find a solution quickly."
 
 The client usually responds positively to this approach, but there is the possibility that the client may become tearful; so keep a box of tissues handy in your desk drawer. The time may now be ripe for you to explain where you intend going with the rest of the interview. You should proceed with caution, however. Remember that the client probably has no idea what to expect and may even feel quite uncomfortable talking to you about money so soon after her husband's death.
+
 ### **1.2.3 Stage 3: Dealing with preliminary matters**
 
 There are a few preliminary matters that you need to discuss with the client before entering into a detailed fact investigation. These matters include fees, confidentiality, potential conflicts of interests, taking possession of the client's documents and even taking notes during the interview. With this particular client, you can start with the legal fees as she is plainly concerned about her current inability to pay her accounts. You could also explain to her that, in terms of the Law Society's practice, the initial consultation, and the advice given during it, is free. (If the consultation is with counsel, different considerations may apply as the attorney ought to have explained the fee structure to the client.) It is suggested that you assure her that she does not have to concern herself with fees at this stage and that you will advise her later in the interview about the various alternatives as far as fees are concerned.
@@ -226,25 +229,25 @@ There are three basic types of question we can use in an interview:
 
 Table 1.1 Open, closed and leading questions
 
-|  Type of question | Examples  |
+| Type of question | Examples |
 | --- | --- |
-|  **The open question:** It is called an open question |   |
+| **The open question:** It is called an open question | |
 
 ---
 
-|  because it allows the client or witness to answer in any way he or she thinks appropriate. The witness can decide what subject to tell you about and also how much or how little information to provide. Open questions of this nature elicit general rather than specific information. Open questions do not give the client much guidance as to precisely what information is required. An open question is always inquisitive (asking for information) rather than suggestive (giving information). | 'How can I help you?' 'What happened on the day of the accident?' 'What happened next?'  |
+| because it allows the client or witness to answer in any way he or she thinks appropriate. The witness can decide what subject to tell you about and also how much or how little information to provide. Open questions of this nature elicit general rather than specific information. Open questions do not give the client much guidance as to precisely what information is required. An open question is always inquisitive (asking for information) rather than suggestive (giving information). | 'How can I help you?' 'What happened on the day of the accident?' 'What happened next?' |
 | --- | --- |
-|  **The closed question:** This type of question is put in such a way that it directs the client or witness to the specific information required. Closed questions seek specific information and are usually preceded by interrogative words (words we expect to be followed by a question mark when we write) like 'when', 'where', 'who', 'what' and 'why'. Closed questions starting with 'when', 'where', 'who', 'what' and 'why' do not usually suggest the answer and are therefore not leading questions. A technique employed to ensure that a closed question is not leading is to graft the question onto a prior answer given by the client or witness. This is called piggy-backing. | Say the client says: 'The other car then came over to our side of the road.' A closed question employing the piggy-back technique would be: 'How did you react when the other car came over to your side of the road?' Asking, 'What happened next?' is an open question and does not indicate to the client precisely what information you require.  |
-|  **The leading question:** This type of question is also a closed question but it suggests the answer. It is the kind of question you will predominantly ask in [[Page-145|cross-examination]]. (Leading questions are generally not allowed in [[Page-136|examination-in-chief]], but more about that later.) It is not sensible to ask leading questions in the initial stages of fact investigation because clients often bow to the suggestion and give the answers they think they are expected to give rather than their own, uncontaminated version of the events. | 'So when the other car came over to your side of the road you applied the brakes, didn't you?' This question suggests a fact to the witness, namely that she had applied the brakes before the collision.  |
+| **The closed question:** This type of question is put in such a way that it directs the client or witness to the specific information required. Closed questions seek specific information and are usually preceded by interrogative words (words we expect to be followed by a question mark when we write) like 'when', 'where', 'who', 'what' and 'why'. Closed questions starting with 'when', 'where', 'who', 'what' and 'why' do not usually suggest the answer and are therefore not leading questions. A technique employed to ensure that a closed question is not leading is to graft the question onto a prior answer given by the client or witness. This is called piggy-backing. | Say the client says: 'The other car then came over to our side of the road.' A closed question employing the piggy-back technique would be: 'How did you react when the other car came over to your side of the road?' Asking, 'What happened next?' is an open question and does not indicate to the client precisely what information you require. |
+| **The leading question:** This type of question is also a closed question but it suggests the answer. It is the kind of question you will predominantly ask in [[Page-145\|cross-examination]]. (Leading questions are generally not allowed in [[Page-136\|examination-in-chief]], but more about that later.) It is not sensible to ask leading questions in the initial stages of fact investigation because clients often bow to the suggestion and give the answers they think they are expected to give rather than their own, uncontaminated version of the events. | 'So when the other car came over to your side of the road you applied the brakes, didn't you?' This question suggests a fact to the witness, namely that she had applied the brakes before the collision. |
 
 In an interview with a client, open questions will be used to direct the client to a general topic while closed, non-leading questions will be used to gather, or clarify, specific information. A technique called 'funnelling' is used to move from general to specific topics. It works as follows: The lawyer asks an open question directing the client or witness to a broad or general topic. When the witness answers, the lawyer employs closed questions to direct the witness down an ever narrower funnel, hence the word 'funnelling'. The idea is to control the flow of information so that the important facts are flushed out. This technique, using Mrs Smith's case, could be used as follows:
 **Table 1.2** Funnelling technique
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  The lawyer starts with some general questions to direct the client to the topic to be discussed. The general topic here is the collision. | Q. You said earlier that you were driving the car when the collision occurred. Please tell me everything you remember of the collision. A. . . . Q. What else do you remember of the collision? A. . . .  |
-|  At this point the lawyer's questions will become more specific and turn from open to closed questions. This is done in order to flush out all the specific information on the topics chosen by the lawyer. The specific topics explored here are speed, weather conditions and relative positions. | Q. At what speed were you travelling immediately before the collision? A. . . . Q. What were the weather conditions at the time? A. . . . Q. Where was the other car when you first became aware of it? A. . . .  |
-|  The questions will then continue in this fashion until the general topic has been exhausted. A new topic will then be introduced by open questions and clarified by closed questions. (Binder, Bergman and Price (1991) at 171-185.)  |   |
+| The lawyer starts with some general questions to direct the client to the topic to be discussed. The general topic here is the collision. | Q. You said earlier that you were driving the car when the collision occurred. Please tell me everything you remember of the collision. A. . . . Q. What else do you remember of the collision? A. . . . |
+| At this point the lawyer's questions will become more specific and turn from open to closed questions. This is done in order to flush out all the specific information on the topics chosen by the lawyer. The specific topics explored here are speed, weather conditions and relative positions. | Q. At what speed were you travelling immediately before the collision? A. . . . Q. What were the weather conditions at the time? A. . . . Q. Where was the other car when you first became aware of it? A. . . . |
+| The questions will then continue in this fashion until the general topic has been exhausted. A new topic will then be introduced by open questions and clarified by closed questions. (Binder, Bergman and Price (1991) at 171-185.) | |
 
 Lawyers also use other techniques to recover all the facts from a client or a witness, for example, by referring a witness to documents that can assist in refreshing his or her memory. They employ a technique called active-listening, which sounds like a contradiction, but means that the listener (lawyer) actively encourages the client or witness by appropriate comments, even sounds, like 'Yes, I see', or 'Uhuh', or 'Go on'. They try to synchronise the witness's recollection of events with the documents and the evidence of other witnesses. They also go over the witness's statement carefully to ensure that all the direct, circumstantial and reliability evidence has been gathered. (*Direct evidence* is what witnesses saw or heard of the event in issue, mostly eye-witness evidence. *Circumstantial*
 
@@ -272,27 +275,28 @@ What we now have to do, still as preliminary steps, is to determine the facts th
 What we have been doing thus far is to engage in a process of fact analysis. The model used throughout this book is called the proof-making model of fact analysis. The aim of the proof-making model is to identify the facts and evidence to be presented to the court in order to prove the client's case, hence the term, 'proof-making'.
 The proof-making model has five analytical stages and three tactical stages. The analytical stages deal with fact analysis. The tactical stages deal with trial tactics and are covered in more detail in chapter 14. The analytical stages can be presented as follows:
 
-|  Stage 1 Branch or area of law | Stage 2 [[Page-54|Cause of action]] or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence  |
+| Stage 1 Branch or area of law | Stage 2 [[Page-54\|Cause of action]] or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence |
 | --- | --- | --- | --- | --- |
-|   |  |  |  | Identifies the  |
+| | | | | Identifies the |
 
 ---
 
-|  Identifies the area of law involved, e.g., contract, delict, family, etc | Identifies the [[Page-54|cause of action]] or defence within the relevant area of law | Identifies the legal elements or requirements of the cause of action or defence | Identifies the facts available to prove each legal element | items of evidence available to prove each fact to be relied upon  |
+| Identifies the area of law involved, e.g., contract, delict, family, etc | Identifies the [[Page-54\|cause of action]] or defence within the relevant area of law | Identifies the legal elements or requirements of the cause of action or defence | Identifies the facts available to prove each legal element | items of evidence available to prove each fact to be relied upon |
 | --- | --- | --- | --- | --- |
 
 We have already identified the branches of law which could be relevant to Mrs Smith's claims. We have also in the broad sense identified the potential causes of action available to her. Thus:
 
-|  Stage 1 Branch or area of law | Stage 2 Cause of action or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence  |
+| Stage 1 Branch or area of law | Stage 2 Cause of action or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence |
 | --- | --- | --- | --- | --- |
-|  1 RAF Act 2 Delict 3 Insurance 4 Family | 1 Claim for loss of support and personal injuries 2 Claim for damage to car 3 Claim on policy 4 Claim for maintenance |  |  |   |
+| 1 RAF Act 2 Delict 3 Insurance 4 Family | 1 Claim for loss of support and personal injuries 2 Claim for damage to car 3 Claim on policy 4 Claim for maintenance | | | |
 
 It does not really matter that we are still uncertain about the merits of the potential claims we have tentatively identified. What is important is that we now have a good starting point. First we need to do an analysis of the facts. Once that has been done, we can formulate an initial [[Page-115|theory of the case]]. We could use one of our client's potential claims, the claim for loss of support for herself, as an example. We know from our experience and a little research that it is a delictual claim now regulated by statute, the Road Accident Fund Act 56 of 1996. This Act is amended almost every other year and some of the amendments have been so drastic that their validity has had to be considered by the Constitutional Court. Where does that leave us as the lawyer at the first interview with the client? We have to undertake legal research which cannot be done immediately while the client is present. That will have to be put on hold. We then proceed as follows:
 
 We first determine the legal elements (the so-called *[[Page-47|facta probanda]]* or material facts) of such a claim.
-|  Stage 1 Area of law | Stage 2 Cause of action | Stage 3 Legal elements  |
+
+| Stage 1 Area of law | Stage 2 Cause of action | Stage 3 Legal elements |
 | --- | --- | --- |
-|  1 RAF Act | 1 Claim for loss of support | - [ ] The deceased owed our client a duty of support; - [ ] the death of the deceased has been caused by or arose out of the driving of a motor vehicle; - [ ] the insured driver has been negligent; (**Note for research:** Is negligence still an element?) - [ ] our client suffered damages in the form of loss of support; - [ ] the amount of the loss; and - [ ] there has been compliance with the Act relating to service of a claim and time periods.  |
+| 1 RAF Act | 1 Claim for loss of support | - [ ] The deceased owed our client a duty of support; - [ ] the death of the deceased has been caused by or arose out of the driving of a motor vehicle; - [ ] the insured driver has been negligent; (**Note for research:** Is negligence still an element?) - [ ] our client suffered damages in the form of loss of support; - [ ] the amount of the loss; and - [ ] there has been compliance with the Act relating to service of a claim and time periods. |
 
 After identifying the legal elements, we still have to determine the legal content or meaning of each legal requirement. What is meant by 'negligence', for example? Is it still required? And what sort of losses or damages can be recovered? These questions are answered by legal research. For the purposes of an initial interview with the client, a basic reference work like *Amler's Precedents of Pleadings* will probably be sufficient to identify the legal elements and their meaning. (Always use the latest edition.)
 
@@ -311,11 +315,12 @@ As an administrative measure, we should also ensure that we have the witnesses t
 Note that this process closely resembles the processes counsel would employ in the course of preparing for trial. See chapter 14 in this regard.
 Table 1.3 Initial-[[Page-115|fact analysis]]
 
-|  Stage 3 Legal element Material fact (to be pleaded) | Stage 4 Proposition of fact (to be proved by evidence) | Stage 5 Evidence (oral or by exhibits) | Stage 6 Admissible? Reliable? Sufficient? | Source Admin  |
+| Stage 3 Legal element Material fact (to be pleaded) | Stage 4 Proposition of fact (to be proved by evidence) | Stage 5 Evidence (oral or by exhibits) | Stage 6 Admissible? Reliable? Sufficient? | Source Admin |
 | --- | --- | --- | --- | --- |
-|  Deceased owed a duty of support to the plaintiff. | The deceased and plaintiff were married to each other. | *Oral:* "We were married on . . . at . . ." *Exhibit:* Marriage certificate | Yes Yes | Plaintiff Plaintiff  |
-|   | The plaintiff needed support. | *Oral:* "I did not work as I have had to look after our children and the household. I do not have any skills to enable me to find work anyway. And even if I were to have got a job, my salary would have been consumed by what we would have had to pay others to care for our children during the day." | Yes | Plaintiff  |
-|   | The deceased was able to provide such support. | *Oral:* "My husband earned good money in a stable job. He was paid R . . . per month, plus an annual bonus equal to a month's salary, and his employer also contributed to a pension scheme and medical aid fund. He supported me and our children. We had no other means of support." *Exhibits:* Deceased's salary slips and tax returns. | Yes Yes | Plaintiff Plaintiff or executor  |
+| Deceased owed a duty of support to the plaintiff. | The deceased and plaintiff were married to each other. | *Oral:* "We were married on . . . at . . ." *Exhibit:* Marriage certificate | Yes Yes | Plaintiff Plaintiff |
+| | The plaintiff needed support. | *Oral:* "I did not work as I have had to look after our children and the household. I do not have any skills to enable me to find work anyway. And even if I were to have got a job, my salary would have been consumed by what we would have had to pay others to care for our children during the day." | Yes | Plaintiff |
+| | The deceased was able to provide such support. | *Oral:* "My husband earned good money in a stable job. He was paid R . . . per month, plus an annual bonus equal to a month's salary, and his employer also contributed to a pension scheme and medical aid fund. He supported me and our children. We had no other means of support." *Exhibits:* Deceased's salary slips and tax returns. | Yes Yes | Plaintiff Plaintiff or executor |
+
 The process is repeated for each legal requirement or material fact of the claim. This will take some time and might have to be done after the interview has ended. It may even take more than one interview to gather all the necessary information.
 
 The next step would be to work out which of the elements we have identified, is or are the likely one or ones to be in dispute and to determine what our case will be on that aspect. Once this process has been completed, we can develop a preliminary [[Page-115|theory of the case]] which will take into account the law and the onus and standard of proof, the strengths and weaknesses of the evidence and the alternatives available to our client. Only then will we be able to advise our client about what she can and should do. But it is far too early to do that yet. During the first interview we are more likely going to spend our time making preliminary assessments of the claims our client may have, what their legal requirements may be, what evidence is immediately available to support them and what further steps we need to take to obtain full instructions.
@@ -377,17 +382,18 @@ agreed, particularly in the case of an interview with a new client. There should
 The whole process can be converted to a general scheme we can use for all new clients:
 **Table 1.4** General scheme for interviewing clients
 
-|  What to do | How to do it | General advice  |
+| What to do | How to do it | General advice |
 | --- | --- | --- |
-|  Meeting the client and exchanging pleasantries. (Meet, greet and seat the client.) | 1 Meet the client at your reception. 2 Introduce yourself. 3 Give the client a comfortable seat. 4 Engage in some small-talk until you can steer the conversation to the purpose of the interview. | 1 Don't keep the client waiting. 2 Don't offer alcohol. 3 Don't rush into premature advice.  |
-|  Initial problem and goal identification. | 1 Invite the client to tell you how he/she sees the problem and what his/her goals are. 2 Form your own views of the problem and the client's goal *in your mind*. 3 If necessary, help the client by gentle prodding to state the problem and goals. 4 Confirm that you understand what the problem is and what the client's goals are. | 1 Don't volunteer your own view of what the problem is or what the client wants or needs. 2 Don't take notes yet; maintain eye-contact instead.  |
-|  Dealing with preliminary matters. | 1 Explain your fee structure. 2 Mention the confidentiality of the discussions. 3 Consider if there may be a conflict of interest. 4 Explain the need to take notes. | Don't assume the client is aware of these matters.  |
-|  Establishing the facts in chronological order. | 1 Explain the importance of the facts and the need to obtain the exhibits. 2 Lead the client gently through the history of the matter. 3 Ensure the client tells the story in his/her own words. 4 Make notes. 5 Use open and non-leading questions. | 1 Proceed slowly. The facts are important. 2 Don't suggest facts or solutions. 3 Concentrate on the details when the client's memory is still fresh.  |
-|  Initial-[[Page-115|fact analysis]] and developing a preliminary [[Page-115|theory of the case]]. | 1 Think of the possible causes of action or defences available to the client. 2 Gently question the client to elicit the relevant facts for the claim or defence you have identified. 3 Consider what evidence is available to prove the facts supporting the claim or defence. | 1 Don't come to firm conclusions too soon. 2 Reserve your final opinion until you have all the facts and have had time to think about the case. 3 Resist the temptation to give unqualified advice.  |
-|  What to do | How to do it | General advice  |
+| Meeting the client and exchanging pleasantries. (Meet, greet and seat the client.) | 1 Meet the client at your reception. 2 Introduce yourself. 3 Give the client a comfortable seat. 4 Engage in some small-talk until you can steer the conversation to the purpose of the interview. | 1 Don't keep the client waiting. 2 Don't offer alcohol. 3 Don't rush into premature advice. |
+| Initial problem and goal identification. | 1 Invite the client to tell you how he/she sees the problem and what his/her goals are. 2 Form your own views of the problem and the client's goal *in your mind*. 3 If necessary, help the client by gentle prodding to state the problem and goals. 4 Confirm that you understand what the problem is and what the client's goals are. | 1 Don't volunteer your own view of what the problem is or what the client wants or needs. 2 Don't take notes yet; maintain eye-contact instead. |
+| Dealing with preliminary matters. | 1 Explain your fee structure. 2 Mention the confidentiality of the discussions. 3 Consider if there may be a conflict of interest. 4 Explain the need to take notes. | Don't assume the client is aware of these matters. |
+| Establishing the facts in chronological order. | 1 Explain the importance of the facts and the need to obtain the exhibits. 2 Lead the client gently through the history of the matter. 3 Ensure the client tells the story in his/her own words. 4 Make notes. 5 Use open and non-leading questions. | 1 Proceed slowly. The facts are important. 2 Don't suggest facts or solutions. 3 Concentrate on the details when the client's memory is still fresh. |
+| Initial-[[Page-115\|fact analysis]] and developing a preliminary [[Page-115\|theory of the case]]. | 1 Think of the possible causes of action or defences available to the client. 2 Gently question the client to elicit the relevant facts for the claim or defence you have identified. 3 Consider what evidence is available to prove the facts supporting the claim or defence. | 1 Don't come to firm conclusions too soon. 2 Reserve your final opinion until you have all the facts and have had time to think about the case. 3 Resist the temptation to give unqualified advice. |
+| What to do | How to do it | General advice |
 | --- | --- | --- |
-|  Giving preliminary advice. | 1 Deal with each problem in turn. 2 Tell the client what his/her options are in respect of each problem. 3 Tell the client what you suggest he/she should do. 4 Ensure that the client understands that the advice is provisional and subject to a full investigation of the facts. 5 When in doubt, tell the client that you would like to consider the matter further, consult counsel or do legal research before giving further advice. | 1 Avoid overly optimistic opinions or forecasts on the outcome of the matter; they may come back to haunt you. 2 Be conservative in the advice you give. 3 Don't over-emphasise potential problems, but ensure the client knows what they are.  |
-|  Concluding the interview. | 1 Ensure all the client's concerns have been dealt with. 2 Tell the client what you will be doing about the case after the interview. 3 Ensure that the client knows what he or she is expected to do after the interview. 4 Accompany the client to the exit from your office or chambers. 5 Confirm your instructions and advice in a letter. |   |
+| Giving preliminary advice. | 1 Deal with each problem in turn. 2 Tell the client what his/her options are in respect of each problem. 3 Tell the client what you suggest he/she should do. 4 Ensure that the client understands that the advice is provisional and subject to a full investigation of the facts. 5 When in doubt, tell the client that you would like to consider the matter further, consult counsel or do legal research before giving further advice. | 1 Avoid overly optimistic opinions or forecasts on the outcome of the matter; they may come back to haunt you. 2 Be conservative in the advice you give. 3 Don't over-emphasise potential problems, but ensure the client knows what they are. |
+| Concluding the interview. | 1 Ensure all the client's concerns have been dealt with. 2 Tell the client what you will be doing about the case after the interview. 3 Ensure that the client knows what he or she is expected to do after the interview. 4 Accompany the client to the exit from your office or chambers. 5 Confirm your instructions and advice in a letter. | |
+
 ---
 
 ### 1.2.8 After the interview
@@ -535,6 +541,7 @@ In practice the application for leave to adduce evidence of the complainant's pr
 Minors should be interviewed only when their guardian or another suitable relative or adult is present. The offences committed against minors often fall within the sexual-crimes category and the processes and protocols described in paragraph 1.5.2.4 should be adapted to suit and used.
 
 The prosecutor should assess whether it would expose the witness under the biological or mental age of eighteen years to undue mental stress or suffering if he or she testifies at the hearing and should the prosecutor come to that conclusion he or she should prepare an application for the evidence to be given through an intermediary under the provisions of section 170A of the Act.
+
 ### 1.5.3 Interviewing for defence lawyers
 
 ---
@@ -559,6 +566,7 @@ Clients in criminal cases often blame their lawyers for failure in the litigatio
 - If at all possible, conduct the interview in the presence of a third person (after obtaining the accused's informed consent). A clerk or secretary may suffice.
 - Record all advice given to the accused in writing and require the accused to acknowledge in writing receipt of that advice. List the options available to the accused and explain clearly what you advise he or she should do.
 - Insist that all instructions the accused gives with regard to the conduct of the proceedings be recorded in writing and signed by the accused.
+
 ### 1.5.3.3 Prosecution witnesses
 
 There are constraints with regard to interviews with witnesses identified as prosecution witnesses. Rule 4.3.2 of the Uniform Rules of Professional Ethics of the GCB lays down the following:
@@ -614,10 +622,10 @@ The Uniform Rules of Professional Ethics of the GCB and the Rules of Ethics of t
 
 ---
 
----
-
 ## Concepts in this lecture
+
 [[Cross-examination]]
 
 ## Navigation
+
 Prev: [[L00 - Introduction & Prefaces|← Previous Chapter]] · Next: [[L02 - Advising and counselling clients|Next Chapter →]]

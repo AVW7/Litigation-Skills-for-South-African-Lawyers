@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L9
 tags: [lecture, litigation-skills]
+
 ---
 # L09 — Drafting exceptions and striking out
 
@@ -20,19 +22,19 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
 
 [ address and details as per Rule 6(5)(d)]
-### 8.3 Further pleadings
+
+## 8.3 Further pleadings
 
 The most common replication introduces a confession and avoidance in response to allegations made in the plea. The result is that the 'avoidance' part of the replication may introduce new facts to justify the plaintiff's original claims, or to avoid the conclusion contended for by the defendant in the plea. When new facts are introduced in this way, there may be some scope for the new allegations in the replication to be met in turn by a confession and avoidance. Further pleadings may then be delivered. These are called, in the order that they may appear after the replication, a 'rejoinder', 'surrejoinder', 'rebutter' and 'surrebutter' respectively.
 
 The principles for these further pleadings are the same as for replications. It is only necessary to deliver such a pleading if admissions need to be made or additional facts pleaded by way of a confession and avoidance. They also follow the general pattern of a replication and the same prayer is used to join issue.
 
-### 8.4 Close of pleadings (*litis contestatio*)
+## 8.4 Close of pleadings (litis contestatio)
 
 A purpose served co-incidentally by the delivery of a replication is that the pleadings are then closed, meaning that the parties have defined the issues and are ready to be allocated trial dates. If no replication is delivered within the time allowed, (which is 15 days), the pleadings are closed automatically. Some procedural steps can only be taken after the pleadings have closed. Some claims that would otherwise lapse if the plaintiff were to die are transferred to the deceased estate if the pleadings in the action were closed before the plaintiff's death.
 
@@ -44,22 +46,23 @@ The same principles apply as for statements of claim and pleas.
 
 ### CONTENTS
 
-|  9.1 | Introduction  |
+## 9.1 Introduction
+
+| 9.1 | Introduction |
 | --- | --- |
-|  9.2 | Exceptions  |
-|  9.2.1 | The purpose of an [[Page-75|exception]]  |
-|  9.2.2 | When an exception can and should be taken  |
-|  9.2.3 | The procedure for an exception  |
-|  9.2.4 | The form, format and style of an exception  |
-|  9.3 | Applications to strike out under Rule 23(2)  |
-|  9.4 | Applications to strike out under Rule 30  |
-|  9.5 | Objection to a charge in criminal proceedings  |
-|  9.5.1 | Introduction  |
-|  9.5.2 | Objecting to the charge  |
-|  9.5.3 | Responding to the objection to the charge  |
-|  9.5.4 | Sections 89 to 104  |
-|  9.6 | Protocol and ethics  |
-### 9.1 Introduction
+| 9.2 | Exceptions |
+| 9.2.1 | The purpose of an [[Page-75\|exception]] |
+| 9.2.2 | When an exception can and should be taken |
+| 9.2.3 | The procedure for an exception |
+| 9.2.4 | The form, format and style of an exception |
+| 9.3 | Applications to strike out under Rule 23(2) |
+| 9.4 | Applications to strike out under Rule 30 |
+| 9.5 | Objection to a charge in criminal proceedings |
+| 9.5.1 | Introduction |
+| 9.5.2 | Objecting to the charge |
+| 9.5.3 | Responding to the objection to the charge |
+| 9.5.4 | Sections 89 to 104 |
+| 9.6 | Protocol and ethics |
 
 An *exception* is a defence or answer of a legal nature; it does not rely on any new or additional facts. The exception procedure is used when a statement of claim or a plea is on the face of it defective. That means that the pleading concerned cannot on any reasonable interpretation deliver what it is supposed to deliver, namely, an identifiable and recognised [[Page-54|cause of action]] or defence. One can then take a legal point by way of an exception in order to bring an early end to the proceedings or to dispose of a substantial part of the matter without having to go to trial.
 
@@ -130,6 +133,7 @@ In both types of exception there will be a prayer for an order that the exceptio
 - It may award costs on the usual principles.
 
 A decision upholding an exception is usually final in its effect and therefore appealable. A decision refusing an exception, however, is interlocutory. It is not binding on the trial court. Notwithstanding its interlocutory nature, it may be appealable in some circumstances.
+
 ### 9.2.4 The form, format and style of an exception
 
 An exception is a pleading and for that reason has to comply with the rules relating to pleadings generally. It can be taken to "any pleading", in terms of Rule 23(1). That means, ironically, that an exception may be taken to an exception that does not disclose a ground for the point it purports to take. An exception also has to comply with the rule specific to exceptions, Rule 23. It has to set out the grounds upon which the exception is based clearly and concisely. Because an exception is a pleading, it has to be signed by counsel, or an attorney with the right of audience in the High Court, or by the party excepting personally. An exception also has to have a prayer for relief or else it would be vague and embarrassing. An exception without a prayer would also be an irregular proceeding as contemplated by Rule 30 and liable to be set aside under that rule.
@@ -143,24 +147,23 @@ The exception in this instance will be to the effect that the declaration lacks 
 a [[Page-54|cause of action]].
 **Table 9.1** [[Page-75|Exception]]
 
-|  Par | Text of pleading | Comment  |
+| Par | Text of pleading | Comment |
 | --- | --- | --- |
-|   | [DESCRIPTION OF COURT as prescribed] Case no 876/[year] Between: KLM (Pty) Ltd and Ian John Smith PLAINTIFF/RESPONDENT DEFENDANT/EXCIPIENT | 1 The parties are usually described as excipient and respondent respectively, but it will do no harm to add their conventional descriptions too.  |
-|   | EXCEPTION |   |
-|  1 | The plaintiff's claim as pleaded in the particulars of claim is for the payment of the purchase price of an immovable property, alleged to have been purchased by the defendant in terms of a written contract. It is further alleged that Annexure 'A' to the particulars of claim is a true copy of the contract. | 1 Some legal research will have been done before the grounds for the exception could be identified and pleaded accurately.  |
-|  2 | In terms of section 1 of the Alienation of Land Act 68 of 1981 a contract relating to the alienation of immovable property has to be in writing and signed by the parties thereto, or by their agents acting on their written authority. | 2 An exception does not add facts. It raises a point of law. It would therefore be inappropriate to refer to the statements in the exception as 'material facts'. 3 The individual points upon which the excipient wishes to rely in support of the exception are set out in the form of a short argument, which is really what an exception amounts to. 4 Rule 23 requires the grounds to be set out 'clearly and concisely'.  |
-|  3 | It is apparent, on the face of the particulars of claim and Annexure 'A' thereto, that the contract sued upon has not been signed by the defendant or his agent acting on his written authority. |   |
-|  4 | In the premises the contract sued upon, is void and the allegations in the particulars of claim cannot sustain a cause of action. |   |
-|   | WHEREFORE the defendant prays for an order - (a) upholding the exception with costs; (b) dismissing the plaintiff's action with costs. | 1 The prayer seeks complementary orders. Prayer (a) on its own is not enough to dispose of the claim. 2 The court may grant leave to amend, but that is for the respondent to seek and to justify.  |
-|  Par | Text of pleading | Comment  |
-| --- | --- | --- |
-|   | DATED AT [place] this [date] |   |
-|   | Signature Counsel's name (printed) Defendant/Excipient's counsel |   |
-|   | Signature Attorney's name (printed) Angus McAlpine Defendant/Excipient's Attorney [address and details as per Rule 6(5)(d)] |   |
-|   | To: The Registrar [address] And to: Angela Moore and Associates Plaintiff/Respondent's Attorneys [address and details as per Rule 6(5)(b)] Ref: Ms Moore/KLM101 |   |
+| | [DESCRIPTION OF COURT as prescribed] Case no 876/[year] Between: KLM (Pty) Ltd and Ian John Smith PLAINTIFF/RESPONDENT DEFENDANT/EXCIPIENT | 1 The parties are usually described as excipient and respondent respectively, but it will do no harm to add their conventional descriptions too. |
+| | EXCEPTION | |
+| 1 | The plaintiff's claim as pleaded in the particulars of claim is for the payment of the purchase price of an immovable property, alleged to have been purchased by the defendant in terms of a written contract. It is further alleged that Annexure 'A' to the particulars of claim is a true copy of the contract. | 1 Some legal research will have been done before the grounds for the exception could be identified and pleaded accurately. |
+| 2 | In terms of section 1 of the Alienation of Land Act 68 of 1981 a contract relating to the alienation of immovable property has to be in writing and signed by the parties thereto, or by their agents acting on their written authority. | 2 An exception does not add facts. It raises a point of law. It would therefore be inappropriate to refer to the statements in the exception as 'material facts'. 3 The individual points upon which the excipient wishes to rely in support of the exception are set out in the form of a short argument, which is really what an exception amounts to. 4 Rule 23 requires the grounds to be set out 'clearly and concisely'. |
+| 3 | It is apparent, on the face of the particulars of claim and Annexure 'A' thereto, that the contract sued upon has not been signed by the defendant or his agent acting on his written authority. | |
+| 4 | In the premises the contract sued upon, is void and the allegations in the particulars of claim cannot sustain a cause of action. | |
+| | WHEREFORE the defendant prays for an order - (a) upholding the exception with costs; (b) dismissing the plaintiff's action with costs. | 1 The prayer seeks complementary orders. Prayer (a) on its own is not enough to dispose of the claim. 2 The court may grant leave to amend, but that is for the respondent to seek and to justify. |
+| | DATED AT [place] this [date] | |
+| | Signature Counsel's name (printed) Defendant/Excipient's counsel | |
+| | Signature Attorney's name (printed) Angus McAlpine Defendant/Excipient's Attorney [address and details as per Rule 6(5)(d)] | |
+| | To: The Registrar [address] And to: Angela Moore and Associates Plaintiff/Respondent's Attorneys [address and details as per Rule 6(5)(b)] Ref: Ms Moore/KLM101 | |
+
 In a case where the exception is based on an allegation that the pleading is vague and embarrassing, the exception should show that the required notice has been given and that the time for removing the cause of the complaint has elapsed.
 
-### 9.3 Applications to strike out under Rule 23(2)
+## 9.3 Applications to strike out under Rule 23(2)
 
 An application under Rule 23(2) is aimed at individual allegations or paragraphs of the pleading while an exception is aimed at a whole claim or defence. The purpose of an application to strike out offending material under Rule 23(2)
 
@@ -173,14 +176,14 @@ The court will grant an application to strike out the offending material only if
 The prayer in the notice of motion has to specify the material to be struck out of the offending pleading precisely, line by line and paragraph by paragraph. The affidavit should state the ground for suggesting why each of the offending allegations is "scandalous", "vexatious" or "irrelevant", as the case may be, and what prejudice will be suffered if they remain. Examples of interlocutory applications are given in chapter 10.
 Table 9.2 [[Page-75|Striking out]] order in the notice of motion
 
-|  Order prayed  |
+| Order prayed |
 | --- |
-|  . . . for orders that -  |
-|  (a) The following parts of the plaintiff's particulars of claim be struck out on the grounds that they contain matter which is scandalous or vexatious or irrelevant:  |
-|  (i) the first sentence of paragraph 7;  |
-|  (ii) the whole of paragraph 8;  |
-|  (iii) the words from "and" up to and including the words "convicted of fraud" in paragraph 9;  |
-|  (b) The respondent be ordered to pay the costs of this application.  |
+| . . . for orders that - |
+| (a) The following parts of the plaintiff's particulars of claim be struck out on the grounds that they contain matter which is scandalous or vexatious or irrelevant: |
+| (i) the first sentence of paragraph 7; |
+| (ii) the whole of paragraph 8; |
+| (iii) the words from "and" up to and including the words "convicted of fraud" in paragraph 9; |
+| (b) The respondent be ordered to pay the costs of this application. |
 
 It is not necessary to respond to the offending pleading while the application is pending. (Rule 23(4)) It would generally be unwise to plead to the offending allegations. An application to strike out scandalous, vexatious or irrelevant matter from an affidavit is made under Rule 6(15), which expressly requires prejudice to be proved.
 
@@ -201,14 +204,15 @@ The application procedure under Rule 30 is the same as for other interlocutory a
 application with or without leave to the other party to amend the offending pleading.
 **Table 9.3** Comparing exceptions and applications to strike out under Rules 23(2) and 30
 
-|   | [[Page-75|Exception]] under Rule 23(1) | Application under Rule 23(2) | Application under Rule 30  |
+| | [[Page-75\|Exception]] under Rule 23(1) | Application under Rule 23(2) | Application under Rule 30 |
 | --- | --- | --- | --- |
-|  **When to be made** | 1 When the pleading does not disclose a claim or defence. 2 When the pleading is vague and embarrassing and a notice to cure the defect has been ignored. | When the pleading contains scandalous, vexatious or irrelevant matter and the inclusion of that matter will cause prejudice. | When the pleading (or other proceeding) is irregular in form; when it fails to comply with the requirements of the rules and the irregularity or failure causes prejudice.  |
-|  **Purpose** | To obtain a decision without evidence on the question whether there is a *prima facie* claim or defence. | To remove the offending matter and prevent prejudice. | To force compliance with the rules of pleading in order to remove the prejudice.  |
-|  **Procedure** | 1 An exception. 2 Notice to cure followed by an exception. | Interlocutory application under Rule 23(2). | Interlocutory application under Rule 30.  |
-|  **Its consequences if not opposed** | Claim or defence may be struck out. | Offending matter may be struck out. | The offending pleading (or other proceeding) may be struck out.  |
-|  **Response** | An amendment | An amendment. | An amendment.  |
-|  **Consequences of not pursuing it** | Adverse costs order at trial. | The prejudice remains. | The prejudice remains.  |
+| **When to be made** | 1 When the pleading does not disclose a claim or defence. 2 When the pleading is vague and embarrassing and a notice to cure the defect has been ignored. | When the pleading contains scandalous, vexatious or irrelevant matter and the inclusion of that matter will cause prejudice. | When the pleading (or other proceeding) is irregular in form; when it fails to comply with the requirements of the rules and the irregularity or failure causes prejudice. |
+| **Purpose** | To obtain a decision without evidence on the question whether there is a *prima facie* claim or defence. | To remove the offending matter and prevent prejudice. | To force compliance with the rules of pleading in order to remove the prejudice. |
+| **Procedure** | 1 An exception. 2 Notice to cure followed by an exception. | Interlocutory application under Rule 23(2). | Interlocutory application under Rule 30. |
+| **Its consequences if not opposed** | Claim or defence may be struck out. | Offending matter may be struck out. | The offending pleading (or other proceeding) may be struck out. |
+| **Response** | An amendment | An amendment. | An amendment. |
+| **Consequences of not pursuing it** | Adverse costs order at trial. | The prejudice remains. | The prejudice remains. |
+
 ## 9.5 Objection to a charge in criminal proceedings
 
 ### 9.5.1 Introduction
@@ -244,6 +248,7 @@ Take notice that the accused gives notice of his objection to the charge and tha
 (3) . . .
 
 Wherefore the accused prays that the charge be quashed, alternatively, that the prosecution be ordered to make such amendments to the charge or to deliver such particulars as are necessary to remove the cause of the objection.
+
 ### 9.5.3 Responding to the objection to the charge
 
 The prosecutor faced with an objection to the charge will have to consider whether the charge as it stands satisfies the requirements of section 84 of the Act and if it does, will be entitled to set the matter down for argument and defend the charge as it stands. If the prosecutor on reflection should come to the conclusion that the objection is good, he or she will have to amend the charge in order to remove the cause of the objection. This is achieved by filing an amended charge (in the form of a summons, charge sheet or indictment).
@@ -284,7 +289,9 @@ Sections 89 to 104 deal with the requirements for a charge in respect of specifi
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L08 - Drafting replications and further pleadings|← Previous Chapter]] · Next: [[L10 - Drafting applications|Next Chapter →]]

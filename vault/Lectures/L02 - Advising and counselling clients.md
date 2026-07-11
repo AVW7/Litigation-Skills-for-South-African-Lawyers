@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L2
 tags: [lecture, litigation-skills]
+
 ---
 # L02 — Advising and counselling clients
 
@@ -18,14 +20,14 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
 ## Chapter Content Walkthrough
 
-## Advising and counselling clients
+## Chapter 2: Advising and counselling clients
 
 ### CONTENTS
 
@@ -48,16 +50,18 @@ graph LR
   - 2.7.3 Entry in investigation diary
   - 2.7.4 Oral advice to the complainant
 - 2.8 Protocol and ethics
-### 2.1 Introduction
+
+## 2.1 Introduction
 
 Clients approach lawyers for advice and counselling so that they can make informed decisions about their future conduct. The client wants to know, 'What can I do?' and 'What should I do?' In the case of a prosecutor's office, the 'client' is the complainant even though in practice the litigation is usually driven by the police and the prosecution is conducted in the name of the state. The question, 'What can I do?' requires the lawyer to identify and evaluate the available options and the consequences of adopting each of them. It is the lawyer's duty to advise the client of the pros and cons of each option and which option, in the lawyer's view, is the best option. The question, 'What should I do?' on the other hand, requires the lawyer to help the client to make the right decision, having regard to those options and consequences. Counselling therefore goes beyond the mere giving of advice. It is the process by means of which the lawyer helps the client to decide what to do. Having received advice and counselling, the client has the responsibility of making the final decision.
 
 Advising and counselling are complementary, but different, skills. The lawyer acts as an objective investigator during the advice stage but takes on the role of a personal advisor during the counselling stage. Advising and counselling occur in virtually every branch of a lawyer's practice, from property transactions to litigation, from the collection of small debts to the conclusion of international shipping or licensing contracts. Whatever the nature of a lawyer's practice, advising and counselling will be part of it. Attorneys may advise and counsel differently from advocates as they have a more direct, and usually a more enduring, relationship with their clients. Advocates are also usually required to advise or counsel in a far more formal setting.
 
 Advising and counselling are also part of litigation. Indeed, advising and counselling continue through every stage of the litigation process. It can start at the first interview and can continue even after a final appeal has been decided. Nevertheless, the underlying processes and skills to be employed are the same for both branches of the profession and for all types of legal work, including the work of a prosecutor.
-### 2.2 Advising and counselling generally
 
-#### 2.2.1 Advising the client
+## 2.2 Advising and counselling generally
+
+### 2.2.1 Advising the client
 
 Before you can advise a client, you will have to form an opinion or view on the facts and the law. This may only be possible after an exhaustive fact investigation or extensive legal research. Sometimes lawyers will be able to deal with the problem fairly promptly because they have encountered it before or because it falls within their special field of expertise.
 
@@ -71,14 +75,14 @@ You could do this according to the following scheme:
 
 **Table 2.1** Scheme for advising a client
 
-|  Stage | Ask yourself . . .  |
+| Stage | Ask yourself . . . |
 | --- | --- |
-|  1. Identify the problem and the client's objectives. | What is the problem? What does the client want to achieve?  |
-|  2. Investigate the facts to ensure you can identify the available options. | Against what factual background does this problem exist?  |
-|  3. Identify the legal issues and consider their application to the facts. | What legal principles apply to the facts? What is the effect of those legal principles on the problem and on the client's objectives?  |
-|  4. Identify the consequences of each option by considering the likely legal and non-legal consequences of each option. | What are the options? What are the likely consequences of each of them? Which is the best option? Why do I think so?  |
-|  5. Discuss the options and their consequences fully with the client. | What can the client do? What are the advantages and disadvantages of each option?  |
-|  6. Tell the client which option you regard as the best option and why you think so. | What should the client do?  |
+| 1. Identify the problem and the client's objectives. | What is the problem? What does the client want to achieve? |
+| 2. Investigate the facts to ensure you can identify the available options. | Against what factual background does this problem exist? |
+| 3. Identify the legal issues and consider their application to the facts. | What legal principles apply to the facts? What is the effect of those legal principles on the problem and on the client's objectives? |
+| 4. Identify the consequences of each option by considering the likely legal and non-legal consequences of each option. | What are the options? What are the likely consequences of each of them? Which is the best option? Why do I think so? |
+| 5. Discuss the options and their consequences fully with the client. | What can the client do? What are the advantages and disadvantages of each option? |
+| 6. Tell the client which option you regard as the best option and why you think so. | What should the client do? |
 
 The counselling phase is not entirely separated from this process and is prominent during the next stage when the client, after having received your advice, has to make a decision. The different stages of the process should also not be applied in too strict a sequence as it may become necessary to return to prior stages before the whole process is finally completed. For example, when you have identified the legal principles and have considered their effect, it may become necessary to re-investigate the facts or even to reconsider the true nature of the problem. A confident lawyer will move between the different stages effortlessly while the solution to the client's problem becomes ever clearer. Like most processes used for solving legal problems, advising and counselling cannot be confined to a straitjacket. Each stage constitutes an essential step towards the finalisation of the process.
 
@@ -102,7 +106,7 @@ Clients often make mistakes even after receiving the best advice because they do
 
 ethics of the legal profession. While clients should be allowed to make their own decisions, this cannot be taken too far. In some cases the assistance and support of a family member or an elder in the client's community or a shop-steward may be necessary.
 
-### 2.3 Oral advice and counselling in litigation
+## 2.3 Oral advice and counselling in litigation
 
 Oral advice can be given during a formal interview, over the telephone or even at court during a trial. There are so many different circumstances under which a lawyer would give advice in a face-to-face situation that it is difficult to lay down any specific procedures for doing it. Nevertheless, there are some pitfalls to avoid.
 
@@ -152,12 +156,12 @@ Advice given by letter differs from advice by way of a memorandum or written opi
 
 Table 2.2 Format for a letter (or memorandum) of advice
 
-|  Subject-matter | Content  |
+| Subject-matter | Content |
 | --- | --- |
-|  Executive summary | This is the initial part of the letter where the client's instructions, the answer to the question or problem and your recommendations are summarised.  |
-|  Body | The main part of the letter discusses the question or problem in more detail, outlines the conclusion reached and makes a recommendation with regard to further action.  |
-|  Reasoning or argument | The argument sets out the reasons for the conclusion with reference to the facts and the law applicable to those facts.  |
-|  Conclusion and practical advice | In the concluding part of the letter the recommendations and advice are repeated and the client is advised with regard to the practical implementation of the recommendation. This includes what further evidence or information may be needed before proceeding any further.  |
+| Executive summary | This is the initial part of the letter where the client's instructions, the answer to the question or problem and your recommendations are summarised. |
+| Body | The main part of the letter discusses the question or problem in more detail, outlines the conclusion reached and makes a recommendation with regard to further action. |
+| Reasoning or argument | The argument sets out the reasons for the conclusion with reference to the facts and the law applicable to those facts. |
+| Conclusion and practical advice | In the concluding part of the letter the recommendations and advice are repeated and the client is advised with regard to the practical implementation of the recommendation. This includes what further evidence or information may be needed before proceeding any further. |
 
 Many lay clients are only interested in the first and last stages. They want to know what they can do and what their lawyer suggests they should do. Some clients may also want to know how their lawyer has arrived at the conclusion and on what grounds the recommendation is based. The result is that even the technical part of the
 
@@ -183,6 +187,7 @@ Since advising by way of a memorandum is in some aspects the same as advising by
 - You can proceed by setting out the facts in more detail, explaining how the problem arose having regard to those facts, and then deal with the legal principles which can be brought to bear on the problem.
 - You can then analyse the facts and the law in some detail, as in a formal opinion. Ultimately this analysis should lead to a conclusion or an opinion that answers the two basic questions at the heart of most cases, namely "What can the client do?" and "What should the client do?"
 - The memorandum should conclude with a firm recommendation with regard to what the client is advised he or she should do, including the ramifications of any decision that may be made, whether it is to act on the advice or to go against it. The memorandum should contain practical advice about the way forward.
+
 ## 2.6 Written opinions
 
 While there is no impediment, legal or practical, to attorneys giving advice by way of formal, written opinions, a written opinion is the traditional way in which an advocate gives advice. Some of the most important sources of the Roman-Dutch law as applied in South Africa are collections of opinions by famous advocates like De Groot. Often a written opinion is in itself a document of such complexity that it needs to be explained to the lay client by another lawyer, usually the attorney who briefed counsel in the first place.
@@ -258,6 +263,7 @@ The starting point will thus be the question: What is the law on the point? This
 Although you start with the law, you end with the facts. The purpose of finding the law is to ensure you apply the correct legal principles to the facts of the case. This is probably the most important part of the opinion. It is here where you have to demonstrate how you came to your conclusion or opinion. The facts and the law are merged in this exercise. The only tools available to you are your legal knowledge, research skills, words and logic. The reader has to be persuaded by what you have written. In demonstrating how you arrived at your opinion, you will rely on analogy, examples, precedents in case law, hypotheses, the probabilities as you see them, presumptions, and even your experience of human behaviour and judicial attitudes. This will assist you in arriving at an answer and will be used to justify the opinion you give the client.
 
 I do not proclaim that this process is easy. In fact, it can be very difficult. You may lie awake many a night wrestling with the facts and the law before you find the answer. You may struggle to find a way to express your opinion so that the client can follow your reasoning. The good news, however, is that it gets easier with practice. You will soon develop a style that works for you. There is often more than one way to arrive at a conclusion. Even if it takes time, all problems can eventually be solved. Sometimes the best thing to do is to write the opinion and then to let it lie on your desk for a while. Let it stew in the subconscious of your mind. It is surprising how often fresh insights into the problem break through while you are engaged on something totally different. When that happens, you can rewrite the opinion to the extent necessary. You don't have to send the opinion out while you are still uncertain about its correctness.
+
 ### 2.6.4 Conclusion
 
 The process by which one arrives at the answer cannot be defined nor can it be restricted to a particular model. There are so many different ways to arrive at an opinion after stating the question, setting out the facts and the law, and applying logic and experience in order to *justify* the answer. However, the client asked for an opinion and you have to express an opinion one way or the other. It does not mean that a lawyer is always obliged to have a firm opinion on every question. It may well be that you conclude, for example, that the outcome of an appeal cannot be predicted. If that is your conclusion, you are entitled to say so but you still have to justify your view like any other (by reference to the facts and the law).
@@ -281,18 +287,20 @@ If the facts you have been given are incomplete, insufficient or doubtful, expre
 Consider the main argument that could be raised against your views and then deal with it. Explain why you think that argument will not prevail over yours. This exercise will not only sharpen your views, it will also expose glaring errors in your opinion or reasoning. It may also come in handy later when the case has gone to a hearing on the subject-matter of your opinion and you have to defend the views you have expressed. You will by then have considered the opposite view and, presumably, found some answers to it. It is good to do this at a stage when your client still has the opportunity to follow a different course.
 Use headings and sub-headings where you can to help separate (and clarify) your discussion of various points, for example:
 
+```text
 A. Introduction - the question
 B. The facts
-1. The background
-2. The disputed facts
-3. The probabilities
+   1. The background
+   2. The disputed facts
+   3. The probabilities
 C. The law
-1. The first point - Prescription
-2. The second point - Estoppel
+   1. The first point - Prescription
+   2. The second point - Estoppel
 D. Conclusion
-1. The answer
-2. The argument against it
+   1. The answer
+   2. The argument against it
 E. The way forward - some practical advice.
+```
 
 Be careful not to express your views in absolute or arrogant terms. You may have some difficulty explaining to an irate client, who has just lost the case, what you meant when you said the defence had no merit whatsoever! It is far better to express your views with some circumspection, for example: On these facts I am of the view that the court will probably reject that defence.
 
@@ -315,6 +323,7 @@ Prosecutors give advice in their course of their daily duties as much as lawyers
 ### 2.7.1 Written opinion
 
 Prosecutors are not called upon to provide written opinions. That function is performed by the State Attorney, or counsel briefed by the State Attorney, or by someone employed at a higher office, for example, the National Prosecuting Authority.
+
 ### 2.7.2 Memorandum and minute
 
 From time to time prosecutors do, however, have to provide advice in the form of a memorandum or a minute. A minute is a letter addressed to another public official and it has a special format which is discussed below. A memorandum prepared by a prosecutor will also be directed to another public official. Memoranda of this kind and minutes resemble the memoranda and letters respectively that lawyers in private practice would write and for that reason the principles discussed earlier in this chapter would apply with equal force to them. The differences need to be emphasised here.
@@ -385,7 +394,9 @@ The advice given to the complainant ought to be recorded in detail in the invest
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L01 - Interviewing clients and witnesses|← Previous Chapter]] · Next: [[L03 - Alternatives to litigation|Next Chapter →]]

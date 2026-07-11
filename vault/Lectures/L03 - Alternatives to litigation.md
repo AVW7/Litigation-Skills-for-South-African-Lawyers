@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L3
 tags: [lecture, litigation-skills]
+
 ---
 # L03 — Alternatives to litigation
 
@@ -20,21 +22,19 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
 
 - Do not contradict or devalue the decision made by the client by your words or conduct, even if you disagree with it.
 
-## Chapter 3
-Alternatives to litigation
+## Chapter 3: Alternatives to litigation
 
 Clash and conflict are present in every community. We have the rule of law, including a few of the procedures . . . for resolving disputes, including conciliation and [[Page-30|mediation]], [[Page-30|arbitration]], . . . settlement, and judicial determination. The rule of law is versatile and creative.
 
 Justice William O'Douglas, Santa Barbara, 1961
 
-# CONTENTS
+### CONTENTS
 
 3.1 Introduction
 3.2 Arbitration
@@ -54,7 +54,8 @@ Justice William O'Douglas, Santa Barbara, 1961
 3.8.1 Introduction
 3.8.2 Plea and sentence agreements
 3.9 Protocol and ethics
-# 3.1 Introduction
+
+## 3.1 Introduction
 
 Litigation is not always the best way to resolve a dispute. It is the legal profession's equivalent of surgery, to be used as a last resort when all other means of resolving the problem are inadequate or have failed. Litigation (like surgery) is by its nature risky, intrusive, painful and expensive. It can only be applied to a narrow range of problems in its field. It cannot guarantee a favourable outcome as it can so easily depend on the skills, or lack of skills, of a single person, namely counsel. It is therefore not surprising that litigation is unpopular with the public. Fortunately, the law is versatile enough, and lawyers creative enough, to include alternative methods of dispute resolution in the array of tools employed to solve legal problems.
 
@@ -80,7 +81,7 @@ What the first four methods have in common is that they rely either on litigatio
 
 If any method of ADR were to be unsuitable or unsuccessful in a particular case, another form of ADR may be adopted, with the proviso that litigation always remains as the last resort.
 
-### 3.2 Arbitration
+## 3.2 Arbitration
 
 Arbitration is a procedure by which a dispute may be determined without recourse to the courts. In some cases arbitration is compulsory, but it is mainly used as a result of a provision in the contract between the parties to the dispute. In some cases the contract provides who the arbitrator will be or how he or she is to be appointed, whether legal representation will be allowed and what procedures are to apply. In the absence of such contractual terms, the provisions of the Arbitration Act 42 of 1965 will apply. If a party who has previously agreed to arbitration, institutes an action nevertheless, the other party may apply to the court for a stay of the action until the arbitration has been completed.
 
@@ -110,7 +111,7 @@ Typically the arbitration process would go through the following stages:
 
 After arranging for arbitration as the method for resolving the dispute between their clients, the lawyers concerned would prepare for the arbitration as if it were a trial before a judge. Most of the drafting, preparation and advocacy skills and techniques discussed later in this book would be equally applicable to arbitration. While the hearing may be conducted with less formality than a trial, that does not mean that there is any less skill involved in presenting and arguing the client's case. On the contrary, if the arbitrator is not a trained lawyer, there will be an additional burden and duty on the lawyers to ensure that the arbitrator has a firm understanding of the procedures and legal principles involved. Because the arbitration is in essence a trial, the protocols and ethics that apply to trials also apply to arbitrations.
 
-### 3.3 Determination by an independent third party or expert
+## 3.3 Determination by an independent third party or expert
 
 Another way of resolving an issue between parties to a dispute is to submit it for determination to an independent third party or expert. Such an adjudicator may be from almost any discipline and does not have to be a lawyer. He or she may even be an official such as the Master of the High Court or the Registrar of the High Court. For example, the Registrar is frequently called upon to make binding rulings with regard to the amount to be given as security for costs under Rule 47. A question of law may be submitted to counsel for an opinion under the provisions of the Arbitration Act 42 of 1965 or independently of the Act. As in the case of arbitration, the person whose determination is sought, has no jurisdiction beyond answering the question put to him or her.
 
@@ -139,7 +140,7 @@ The procedures involved are flexible and can be devised by the parties themselve
 
 The lawyers for the parties have the following functions: They have to arrange an agreement between their clients for the dispute to be submitted to the expert for his or her determination; they have to settle the terms of the submission. They have to agree on precisely what information will be put before the expert and what independent knowledge or facts the expert may gather or rely upon in coming to a conclusion. They have to put the relevant facts and documents before the expert in an appropriate brief and they have to pay his or her fees.
 
-### 3.4 Mediation
+## 3.4 Mediation
 
 "Mediation is no more than assisted [[Page-30|negotiation]]", Roger Chapman wrote in *NZLawyer* 13 July 2012 Issue 188. Mediation is therefore similar to negotiation but it takes place under the supervision or guidance of the mediator. Its purpose is also to seek agreement on a possible solution for the problem. The word mediation is derived from the Latin word "mediare", which means to be in the middle. That describes the position of the mediator *(see page 50)* quite accurately. He or she is a neutral person who assists the parties to find mutually acceptable solutions to end their dispute. The mediator does not make decisions or give rulings. The role of the mediator is rather that of a facilitator, a go-between, who structures the discussion, clarifies the viewpoints of the parties, encourages the parties to explore alternatives, and guides them to a mutually acceptable solution. The mediator's function is similar to that of a catalyst in a chemical reaction; the catalyst instigates or facilitates the reaction between the ingredient chemicals, but does not become part of the new chemical produced by the reaction.
 
@@ -214,7 +215,7 @@ Court-supervised mediation is the norm in many countries and it is likely that S
 - provide that the court hearing the matter may take into account that a litigant has refused to participate in a proposed mediation when considering the issue of costs;
 - make provision further for matters such as suspension of time limits pending mediation, rules for the mediation process, settlement agreements, fees of mediators, representation of parties at the mediation, and the qualification and appointment of mediators (to be determined and appointed by the minister).
 
-### 3.5 Negotiation
+## 3.5 Negotiation
 
 A dispute can be settled by the conclusion of a contract called a compromise or settlement. A compromise is a contract by which an existing or potential dispute is resolved by the creation of new rights and obligations. When the new contract is concluded, it replaces (novates) the original rights and obligations the parties had, unless they agree otherwise. In some cases it may be necessary to keep the original [[Page-54|cause of action]] alive in order to enforce a party's rights, as occurs frequently when the compromise includes a consent to judgment in the original action.
 
@@ -278,11 +279,7 @@ During the negotiations you are going to have to explain your client's case, def
 The methods lawyers use to analyse the facts and the law in preparation for a trial, are discussed in chapters 13 and 14. Those methods are equally applicable to the preparation a lawyer needs to do for a negotiation. When these preparations have been completed, you should have a scheme containing the following three elements:
 
 - Your client's objectives: What exactly does the client want to achieve?
-- Your analysis of the facts, including the available oral and documentary evidence: What are the facts? What
-
----
-
-evidence is there to support the client's claims, defences or objectives?
+- Your analysis of the facts, including the available oral and documentary evidence: What are the facts? What evidence is there to support the client's claims, defences or objectives?
 - Your analysis of the law: What legal principles are involved? How do they affect the strength of the client's case?
 
 These three elements are inextricably linked to each other; what the client wants determines what facts are relevant, and the same principle applies to the law. This analysis is done exactly as for a trial. One simply cannot conduct negotiations for a possible settlement of a dispute properly without knowing exactly how the same dispute could be dealt with by taking it to trial.
@@ -354,21 +351,21 @@ The Inns of Court School of Law has identified eleven common mistakes in conduct
 
 **Table 3.1** Common mistakes in negotiation and remedies
 
-|  Mistake | Remedy  |
+| Mistake | Remedy |
 | --- | --- |
-|  Underselling the client's case. | Do not settle for less than you think the client's case is worth.  |
-|  Dealing with the case superficially. | Prepare fully instead and get to grips with the true issues.  |
-|  Adopting a set, inflexible view of the case. | Be flexible to adapt to any kind of opponent and any argument the opposition may raise.  |
-|  Lacking familiarity with the facts. | Do a detailed [[Page-115|fact analysis]]. (See chapter 14.)  |
-|  Failing to prepare a logical structure for the negotiation. | Prepare to deal with the issues logically.  |
-|  A lack of practical planning. | Be prepared to consider the practical effects of any proposals on the client.  |
-|  Failing to take account of the opponent's case and being caught by surprise as a result. | Be prepared to deal with the situation if new facts were to be raised by the other side.  |
-|  Failing to plan concessions. | Concede only with good reason and only on the basis of what you have planned to concede.  |
-|  A lack of attention to detail. | Think ahead to the implementation of the deal offered or contemplated.  |
-|  Unreasonably blaming the opponent for the failure of the negotiation. | Your preparation needs to be so thorough that you are able to deal with any kind of opponent.  |
-|  Poor use of time. | Get to the real issues quickly.  |
+| Underselling the client's case. | Do not settle for less than you think the client's case is worth. |
+| Dealing with the case superficially. | Prepare fully instead and get to grips with the true issues. |
+| Adopting a set, inflexible view of the case. | Be flexible to adapt to any kind of opponent and any argument the opposition may raise. |
+| Lacking familiarity with the facts. | Do a detailed [[Page-115\|fact analysis]]. (See chapter 14.) |
+| Failing to prepare a logical structure for the negotiation. | Prepare to deal with the issues logically. |
+| A lack of practical planning. | Be prepared to consider the practical effects of any proposals on the client. |
+| Failing to take account of the opponent's case and being caught by surprise as a result. | Be prepared to deal with the situation if new facts were to be raised by the other side. |
+| Failing to plan concessions. | Concede only with good reason and only on the basis of what you have planned to concede. |
+| A lack of attention to detail. | Think ahead to the implementation of the deal offered or contemplated. |
+| Unreasonably blaming the opponent for the failure of the negotiation. | Your preparation needs to be so thorough that you are able to deal with any kind of opponent. |
+| Poor use of time. | Get to the real issues quickly. |
 
-### 3.6 Doing nothing
+## 3.6 Doing nothing
 
 Sometimes doing nothing is the right thing to do. It may be a good idea to sit back and wait for someone else to take the first step. Reflection may be what is required, even if only for a few days. So meditation joins mediation as
 
@@ -377,34 +374,36 @@ Sometimes doing nothing is the right thing to do. It may be a good idea to sit b
 a method of ADR. The value of this approach should not be underestimated. Justice Brandeis of the United States Supreme Court is reported to have answered, when asked what the most important thing was he and the other Justices did: 'The most important thing we do is not doing (anything).'
 
 It takes a conscious effort to sit back and let the problem stew for a while, when all our instincts cry out for action. Before you advise a client not to do anything at all in the face *(see page 62)* of a problem, the pros and cons of all the alternatives will naturally have to be considered and the client advised fully. Some disputes benefit from a cooling-off period during which emotions may subside, enabling the problem to be seen in a more objective light. In some cases one would need to wait for uncertain events to take their course. For example, if the client is the debtor or wrongdoer, one may wait to see what steps, if any, the other party takes to pursue the claim. But there are also some potential disadvantages to waiting and doing nothing. The most obvious is that the problem is unlikely to go away or resolve itself. The other is that a claim may become prescribed or time-barred, a danger against which lawyers should take adequate precautions.
-### 3.7 Comparative table
+
+## 3.7 Comparative table
 
 **Table 3.2** The comparative merits of different forms of dispute resolution
 
-|   | Litigation | [[Page-30|Arbitration]] | Expert determination | [[Page-30|Mediation]] | [[Page-30|Negotiation]]  |
+| | Litigation | [[Page-30\|Arbitration]] | Expert determination | [[Page-30\|Mediation]] | [[Page-30\|Negotiation]] |
 | --- | --- | --- | --- | --- | --- |
-|  **Adversarial?** | Yes | Yes | No | No | No  |
-|  **Formal?** | Yes | Yes | No | No | No  |
-|  **Flexible?** | No | A little | Yes | Yes | Yes  |
-|  **Delay in reaching finality?** | Long delays | Can be quick, often not | Can be quick | Can be quick | Can be very quick  |
-|  **Cost?** | Expensive | Can be very expensive | Not very costly | Relatively inexpensive | Least expensive  |
-|  **Legal aid available?** | Yes | No | No | Only in some cases | No  |
-|  **Finality of result?** | Subject to appeal | Subject to review | Subject to review | Final as any other contract | Final as any other contract  |
-|  **Proceedings confidential?** | Very limited confidentiality | May be agreed | May be agreed | Yes | Yes  |
-|  **Certainty of outcome?** | None | None | None | Agreement gives certainty | Agreement gives certainty  |
-|  **Meeting interests of both parties?** | No, winner takes all | No, winner takes all | No, winner takes all | Yes | Yes  |
-|  **Enforceable?** | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required  |
+| **Adversarial?** | Yes | Yes | No | No | No |
+| **Formal?** | Yes | Yes | No | No | No |
+| **Flexible?** | No | A little | Yes | Yes | Yes |
+| **Delay in reaching finality?** | Long delays | Can be quick, often not | Can be quick | Can be quick | Can be very quick |
+| **Cost?** | Expensive | Can be very expensive | Not very costly | Relatively inexpensive | Least expensive |
+| **Legal aid available?** | Yes | No | No | Only in some cases | No |
+| **Finality of result?** | Subject to appeal | Subject to review | Subject to review | Final as any other contract | Final as any other contract |
+| **Proceedings confidential?** | Very limited confidentiality | May be agreed | May be agreed | Yes | Yes |
+| **Certainty of outcome?** | None | None | None | Agreement gives certainty | Agreement gives certainty |
+| **Meeting interests of both parties?** | No, winner takes all | No, winner takes all | No, winner takes all | Yes | Yes |
+| **Enforceable?** | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required |
+
 There is another, less obvious aspect to this table. Your ability to deal with or to expose fraud and deception increases steadily as you move from negotiation, where it may be difficult, towards litigation, where the tools of [[Page-145|cross-examination]] and the criminal sanction for perjury are available.
 
-### 3.8 Alternative dispute resolution for prosecutors
+## 3.8 Alternative dispute resolution for prosecutors
 
-#### 3.8.1 Introduction
+### 3.8.1 Introduction
 
 There are occasions when prosecutors become involved in ADR. A criminal case involves a dispute after all, and the trial is the means of determining the outcome of that particular contest. But not all criminal cases need to go to trial. In many some arrangement can be reached between the prosecution and the defence that will obviate the need for a trial. A plea of guilty to a lesser or alternative charge may be offered and accepted. The prosecutor may withdraw the charges altogether. A [[Page-30|plea and sentence agreement]] may be concluded in terms of section 105A of the Criminal Procedure Act 51 of 1977 ('the Act').
 
 The general process by means of which these outcomes are achieved is negotiation and prosecutors may adopt the methodology and approach advocated in paragraph 3.5 above in all cases save where there are special provisions or directives in place, for example, a directive under section 105A of the Act.
 
-#### 3.8.2 Plea and sentence agreements
+### 3.8.2 Plea and sentence agreements
 
 Section 105A(1)(a) of the Act is the empowering provision that allows prosecutors to *negotiate and enter into* a plea
 
@@ -440,7 +439,7 @@ A prosecutor who has been authorised in writing to negotiate and enter into a pl
 
 Section 105A has detailed provisions and this discussion should not be used as a substitute for studying its provisions. Note also that the National Director of Public Prosecutions has issued directives to be observed by prosecutors in the application of section 105A.
 
-> [!warning] 3.9 Protocol and ethics
+> [!warning] **3.9 Protocol and ethics**
 
 The general principle for ADR is that a lawyer should always act professionally and within the Rules of Ethics of his or her profession.
 
@@ -451,7 +450,9 @@ In [[Page-30|arbitration]] and cases of determination by an independent third pa
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L02 - Advising and counselling clients|← Previous Chapter]] · Next: [[L04 - Preparing to commence action|Next Chapter →]]

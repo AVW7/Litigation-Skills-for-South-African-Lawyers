@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L13
 tags: [lecture, litigation-skills]
+
 ---
 # L13 — Preparation for trial: Legal research
 
@@ -19,7 +21,6 @@ graph LR
     C --> D["Successful Courtroom Execution"]
 ```
 *Figure: The problem-to-execution chain in this chapter.*
-
 
 ---
 
@@ -51,10 +52,9 @@ This is not a closed list and prosecutors should take advice and guidance from t
 - Take measurements, photographs and videos, if necessary, to avoid becoming a witness.
 - Remember that an [[Page-100|expert witness]] owes a duty to the court, first and foremost.
 
-## Chapter 13
-Preparation for trial: Legal research
+## Chapter 13: Preparation for trial: Legal research
 
-# CONTENTS
+### CONTENTS
 
 13.1 Introduction
 13.2 Classification of the problem: Legal analysis
@@ -72,7 +72,8 @@ Preparation for trial: Legal research
 13.6 The old Roman-Dutch authorities
 13.7 A library for criminal practice
 13.8 Protocol and ethics
-### 13.1 Introduction
+
+## 13.1 Introduction
 
 It is self-evident that a lawyer has to be able to conduct legal research. Legal research can be defined as the technique employed by lawyers to identify the legal principles applying to a proven or assumed set of facts. In the litigation context the legal principles which have been identified can be applied to the facts of the case to provide an answer to the question or issue before the court. Legal research is therefore not undertaken in a vacuum, as some academic exercise, but against the background of a known or anticipated set of facts. In this sense, legal research and [[Page-115|fact analysis]] go hand in hand. There is a symbiotic relationship between the law and the facts. The law is the same for all cases of the same type. The facts, on the other hand, differ from case to case. Legal research should not be regarded as a separate exercise; it is part of the analysis of the facts and documents of the case.
 
@@ -86,7 +87,7 @@ Legal research in the litigation context will typically span four different proc
 
 While the process includes all four stages, it revisits prior stages as the circumstances require. For example, while you are doing research in the library you may come across a statute, decision or textbook which puts a different complexion on the problem and requires you to investigate the facts along a different line or with a different claim or defence in mind. Thus each step of the process is left incomplete until you are in a position to take a holistic approach to find a solution or answer to the problem. The stages of legal research are also not entirely distinct from each other; they overlap to an extent. The fact investigation, for example, is done with one eye on the law. The law determines the direction of the fact investigation. If, for example, it appears at an early stage during the fact investigation that a contract existed between the parties, the further investigation of the facts would proceed with the principles of the law of contract firmly in mind. The legal research would then concentrate on that branch of the law.
 
-### 13.2 Classification of the problem: Legal analysis
+## 13.2 Purpose of legal research
 
 At university legal problems came in neat little compartments. The contracts lecturer set problems requiring you to apply the law of contact; the criminal law professor only asked questions relating to criminal law. You could be tested only on the courses you took and the problems you were required to solve were within the prescribed syllabus. Tests were also written according to a timetable. It was quite easy. You knew what to expect and when
 
@@ -99,29 +100,30 @@ Getting from a jumble of facts and documents to the appropriate legal classifica
 The starting point is to categorize the relevant relationship. The law is there to regulate relationships between people. If you were alone on a deserted island, you would have no need for law. It is for this reason that Robinson Crusoe could say that he was master of everything he could see on the island, a law unto himself. It was only when a second person came to the island (the man Friday) that a legal relationship could exist. The relationship between Robinson Crusoe and Friday was dynamic and complex. They were friends and partners, master and servant, protector and ward, and above all, allies against a common foe. The changing circumstances determined what their respective rights and obligations were. Such underlying relationships can be used to identify the broad area of the law to apply to a given factual setting.
 **Table 13.1** Identifying the relevant area of law
 
-|  Relationship | General field of law | Special field of law | Remedies | Comment  |
+| Relationship | General field of law | Special field of law | Remedies | Comment |
 | --- | --- | --- | --- | --- |
-|  The parties have or had a contract, agreement, deal, bargain or arrangement. | The law of contract | Sale Lease Loan Services Supply of goods and services Insurance | Performance (payment, delivery, etc.) Damages | Each type of contract has its own unique principles which apply in conjunction with the general principles of the law of contract: thus individual textbooks and headings in the library.  |
-|  The parties were brought together by an unlawful act which caused a loss in respect of property or person. | The law of delict | Damage to property Injury to person Injury or death of person causing loss of support MVA claims for personal injuries or loss of support | Damages Interdict | The concept of property includes movables and immovables, as well as incorporeal property (or intellectual property).  |
-|  The parties are bound together by a marriage or by children or by a common ancestry. | Family law | Husband and wife Children Succession | Divorce Division of assets Custody or access Maintenance Inheritance |   |
-|  The parties stand in the relationship of employer and employee. | Labour law |  | Performance (payment, work) Re-instatement Damages | This branch is kept separate, although it belongs under the law of contract (the contract of service).  |
-|  An unjust transfer of money or property has taken place between the parties. | Enrichment | Various enrichment actions | Payment Restitution |   |
-|  Relationship | General field of law | Special field of law | Remedies | Comment  |
+| The parties have or had a contract, agreement, deal, bargain or arrangement. | The law of contract | Sale Lease Loan Services Supply of goods and services Insurance | Performance (payment, delivery, etc.) Damages | Each type of contract has its own unique principles which apply in conjunction with the general principles of the law of contract: thus individual textbooks and headings in the library. |
+| The parties were brought together by an unlawful act which caused a loss in respect of property or person. | The law of delict | Damage to property Injury to person Injury or death of person causing loss of support MVA claims for personal injuries or loss of support | Damages Interdict | The concept of property includes movables and immovables, as well as incorporeal property (or intellectual property). |
+| The parties are bound together by a marriage or by children or by a common ancestry. | Family law | Husband and wife Children Succession | Divorce Division of assets Custody or access Maintenance Inheritance | |
+| The parties stand in the relationship of employer and employee. | Labour law | | Performance (payment, work) Re-instatement Damages | This branch is kept separate, although it belongs under the law of contract (the contract of service). |
+| An unjust transfer of money or property has taken place between the parties. | Enrichment | Various enrichment actions | Payment Restitution | |
+| Relationship | General field of law | Special field of law | Remedies | Comment |
 | --- | --- | --- | --- | --- |
-|  The parties make adverse claims to property. | The law of property | Movable property Immovable property Intellectual property | Delivery Possession Damages Interdict | These claims could be based on the law of contract, family law, the law partnership or the law of property.  |
-|  The parties are, or were, engaged in a joint venture or partnership. | The law of contract | Partnership | Contractual remedies Dissolution Contribution | This is another branch of the law of contract which has its own set of principles.  |
-|  The parties are |  |  |  |   |
+| The parties make adverse claims to property. | The law of property | Movable property Immovable property Intellectual property | Delivery Possession Damages Interdict | These claims could be based on the law of contract, family law, the law partnership or the law of property. |
+| The parties are, or were, engaged in a joint venture or partnership. | The law of contract | Partnership | Contractual remedies Dissolution Contribution | This is another branch of the law of contract which has its own set of principles. |
+| The parties are | | | | |
 
 ---
 
-|  shareholders, directors or officers of a company. | Company law |  | Companies Act remedies | Some of these relationships are based on contract.  |
+| shareholders, directors or officers of a company. | Company law | | Companies Act remedies | Some of these relationships are based on contract. |
 | --- | --- | --- | --- | --- |
-|  The parties are principal and agent. | The law of agency | Mandate, brokers, agents | Contractual remedies | Generally a contractual relationship.  |
-|  The parties are, or were, engaged in a maritime adventure. | Maritime law | Carriage of goods by sea Marine insurance International finance/letters of credit Admiralty law | Contractual and delictual remedies Action in rem | Notwithstanding the confusing terminology and special admiralty procedure, maritime law is about some very ordinary contracts; sale, lease, agency, services, insurance etc.  |
-|  The parties have rights or obligations arising from a negotiable instrument. | The law of negotiable instruments | Cheques Letters of credit Banking | Contractual Special remedies | Provisional sentence procedure could be used to obtain quick payment.  |
+| The parties are principal and agent. | The law of agency | Mandate, brokers, agents | Contractual remedies | Generally a contractual relationship. |
+| The parties are, or were, engaged in a maritime adventure. | Maritime law | Carriage of goods by sea Marine insurance International finance/letters of credit Admiralty law | Contractual and delictual remedies Action in rem | Notwithstanding the confusing terminology and special admiralty procedure, maritime law is about some very ordinary contracts; sale, lease, agency, services, insurance etc. |
+| The parties have rights or obligations arising from a negotiable instrument. | The law of negotiable instruments | Cheques Letters of credit Banking | Contractual Special remedies | Provisional sentence procedure could be used to obtain quick payment. |
+
 In the initial stages of legal research the facts may not be clear and it may not be possible to identify the relevant field of the law to the exclusion of others. It is important to keep your options open at this stage. Explore all potential avenues. Some may be dead ends. Others may lead you to a better understanding of the problem without providing the answer. Eventually one field of the law will emerge as the one most relevant to the particular set of facts.
 
-### 13.3 Legal research: Using the library
+## 13.3 Methodology in legal research
 
 The purpose of legal research is to find the applicable law (and to find it quickly) in order to advise your client on his or her rights and obligations and to enable you, as counsel, to advance your client's case professionally and with a full understanding of the law. Research, in this context, means a systematic investigation to establish the relevant principles of law. The methods you adopt will have to take account of the resources available to you as well as the nature of the problem, the urgency of the matter and the amount of knowledge you start with. You will probably adopt a method with the following phases -
 
@@ -146,7 +148,7 @@ Once you have made a preliminary classification of the case to determine the spe
 
 appeal before the Supreme Court of Appeal or Constitutional Court.
 
-### 13.3.3 Identifying the sources
+## 13.3 Methodology in legal research
 
 In some cases you will have a good idea where to start because the case is simple or because you have prior experience of a similar case. In other cases you have no idea where to start. Every lawyer will have his or her own preferences and style. I prefer books to the internet. I also prefer an approach that investigates the historical development of the relevant legal principle and then investigates how that point developed in other jurisdictions; this is called the historical-comparative approach. My selection of sources and my classification of them probably reflect my affinity to this approach. It seems to me, if I need any justification for my approach, that the Supreme Court of Appeal and the Constitutional Court also prefer this style of legal problem solving.
 
@@ -178,14 +180,15 @@ publications and also of new or proposed legislation.
 
 **Table 13.2** Narrowing down the research
 
-|  Specific source | Narrowing it down  |
+| Specific source | Narrowing it down |
 | --- | --- |
-|  Statute (Act of Parliament, provincial ordinance, municipal by-law or regulation) | 1 What does the Act as a whole have in mind? 2 How have the Act and the section been interpreted? 3 How has the section been applied in other cases? 4 Check the *Noter-up* for case law.  |
-|  Decided case | 1 What authorities were relied on in this judgment? 2 What other judgments followed this one, or departed from it? (*Noter-up*) 3 Have there been any legislative changes to the law?  |
-|  Textbook | 1 Is there a supplement to this textbook or a later edition of the book? 2 Is there a loose-leaf service or current service? 3 Follow footnotes to other sources. 4 Check catchwords and phrases in the subject index.  |
-|  Journal | 1 Check subject index. 2 What other sources are identified by the author? Follow up.  |
-|  Thesis | 1 Check subject index for catchwords and phrases. 2 What other sources are identified by the author? Follow up.  |
-|  Roman-Dutch authorities | 1 What did *De Groot, Voet, Van der Linden and Van der Keessel* have to say on this subject? 2 To what extent have our courts or authors adopted their principles? 3 What sources do these authors rely on? 4 What do these sources disclose?  |
+| Statute (Act of Parliament, provincial ordinance, municipal by-law or regulation) | 1 What does the Act as a whole have in mind? 2 How have the Act and the section been interpreted? 3 How has the section been applied in other cases? 4 Check the *Noter-up* for case law. |
+| Decided case | 1 What authorities were relied on in this judgment? 2 What other judgments followed this one, or departed from it? (*Noter-up*) 3 Have there been any legislative changes to the law? |
+| Textbook | 1 Is there a supplement to this textbook or a later edition of the book? 2 Is there a loose-leaf service or current service? 3 Follow footnotes to other sources. 4 Check catchwords and phrases in the subject index. |
+| Journal | 1 Check subject index. 2 What other sources are identified by the author? Follow up. |
+| Thesis | 1 Check subject index for catchwords and phrases. 2 What other sources are identified by the author? Follow up. |
+| Roman-Dutch authorities | 1 What did *De Groot, Voet, Van der Linden and Van der Keessel* have to say on this subject? 2 To what extent have our courts or authors adopted their principles? 3 What sources do these authors rely on? 4 What do these sources disclose? |
+
 *Is it still current?:* This question ought to exercise your mind when you have assembled the authorities on the points you have researched. Statutes are amended and sometimes repealed; new statutes are passed which affect earlier ones, not always deliberately; cases are explained and sometimes overruled; authors change their mind in a later edition or in an article in a journal; and new and amending regulations are published in the *Government Gazette*. (Who reads the *Government Gazette*? If you want your research to be complete and accurate, you should. As part of your research determine whether any regulations have been promulgated on the subject of your research, and if so, to what effect, and whether they are still in force.) Electronic sources are particularly useful at this stage of the research because they are updated regularly (daily or weekly, in most cases).
 
 *Go to foreign sources for a comparison:* The higher the court in which you have to conduct the litigation, the greater the need will be to do comparative research. In the Supreme Court of Appeal and the Constitutional Court research into foreign law is virtually indispensable. The methods you will adopt for researching foreign law will be similar to the methods you adopt for South African law. It is suggested that you start with general sources and proceed to the more specific sources before you narrow the research down further. The countries you choose for comparative research will differ from case to case and depend on your familiarity with the legal system and language of a particular country. There are general sources in English law and American law available at the High Court libraries in
@@ -199,7 +202,8 @@ South Africa. They are:
 - The Restatement of the Law - Second published by the American Law Institute Publishers is a set of commentaries on American law, arranged topically in separate volumes for Contracts, Judgments, Property, Torts and Trusts respectively. The Restatement of the Law - Third adds new topics in Constitutional law.
 
 There are similar sources for almost every legal system you might want to compare. For historical reasons, a legal system based on Roman law is often directly comparable. French, German and Dutch law fall in this category and could be useful as comparative sources.
-### 13.3.4 Recording the results
+
+## 13.3 Methodology in legal research
 
 Victor Tunkel (Legal Research Law-Finding and Problem-Solving Blackstone Press Limited (1992) chapter 7) suggests the following scheme for recording the results of your research:
 
@@ -215,11 +219,11 @@ Victor Tunkel (Legal Research Law-Finding and Problem-Solving Blackstone Press L
 - Organise the material in a logical order.
 - File and keep the research materials. You may only need them much later and they could also be useful in another case many years later.
 
-### 13.3.5 Making a permanent note or record
+## 13.3 Methodology in legal research
 
 If necessary, dictate or type a note setting out the main points of the research. File and keep these notes. The products of the research are often recorded in an opinion or written memorandum or even heads of argument. Copies of those documents should be kept in the file for research materials. An index should be kept. If you can keep this system religiously, you will succeed where many others have failed! There can be no valid excuse for not keeping a proper index these days; you can update the index on your computer each time an opinion, memorandum or argument is typed.
 
-### 13.4 Applying the law to the facts
+## 13.4 Applying the law to the facts
 
 ---
 
@@ -232,7 +236,7 @@ Once the research has been completed, the knowledge or information you have acqu
 - handling [[Page-179|Motion Court]] matters (chapter 22); and
 - conducting reviews and appeals (chapters 24 and 25).
 
-### 13.5 A collection of resources
+## 13.5 A collection of resources
 
 If I were to start practising today, what resources would I like for my library? I start with a list of "must haves" and a second list for "would like to haves" with the proviso that I should not commit my scarce funds to sources I can consult for free. It is not essential that you should have a large library when you are just setting out to establish a practice. The contrary is true. You can get by with surprisingly little. You may have to work away from the office or chambers, but it can be done by making use of the resources in libraries to which any lawyer in South Africa should be able to gain access.
 
@@ -275,7 +279,7 @@ These are my ten "must have" books:
 - Joffe High Court Motion Procedure: A Practical Guide LexisNexis.
 I have chosen these ten works on the basis of what I now know (from experience) I would need when starting out in practice. The books on evidence and procedure would accompany me every time I go to court. The others would be available for cases in their individual areas of the law. My list has current books on evidence, procedure and pleadings. Amler and Claassens serve the purpose of general research engines. Each contains handy summaries of the law and references to case law on a large number of matters. Then I have books on the main branches of the law a new practitioner would be likely to encounter; contracts, delict, damages arising from car accidents, crime, family matters and [[Page-179|motion court]]. Beyond this point I would acquire specialist publications as and when needed. Insurance law, company law, insolvency law, labour law and the law of negotiable instruments are high on my "would like to have" list.
 
-### 13.6 The old Roman-Dutch authorities
+## 13.6 The old Roman-Dutch authorities
 
 Even the old Roman-Dutch authorities can be classified as general or specific, and include statutes, decided cases, academic writings and theses, and opinions. They span about two hundred years (about 1600 to 1806 AD) although there are older and newer ones which still carry some weight. In commercial matters the underlying ius commune (or law merchant, as English lawyers call it) could date back even further. It is not possible to deal with the full breadth of authorities available from this source because there are just too many works of quality, but my own list of preferences runs as follows:
 
@@ -295,7 +299,7 @@ dating from 1658 to 1796 that you will find in the nine volumes of the *Groot Pl
 
 It is a sobering thought that South African lawyers are now the custodians of this vast source of wisdom and legal learning. The Dutch have codified their law (1838) in keeping with the fashion which swept Europe after Napoleon Bonaparte and nowadays they spend more effort and time on interpreting the code than on the law as it had developed into that code.
 
-### 13.7 A library for criminal practice
+## 13.7 A library for criminal practice
 
 Criminal lawyers (prosecutors and defence counsel) can rightfully be said to be specialist practitioners and while my "must have" and "would like to have" lists above are designed to build a library for general practice, that can obviously not work for practice in the criminal courts. The sources a criminal lawyer would need could perhaps be divided into two groups, namely those sources he or she would want to carry to court and those sources that would remain at the office to be consulted at leisure.
 
@@ -330,7 +334,9 @@ There are areas of criminal law that have no civil procedure equivalents, such a
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L12 - Preparing the case for trial: Assembling the evidence|← Previous Chapter]] · Next: [[L14 - Preparation for trial: Fact analysis and strategy|Next Chapter →]]

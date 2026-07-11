@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L12
 tags: [lecture, litigation-skills]
+
 ---
 # L12 — Preparing the case for trial: Assembling the evidence
 
@@ -19,7 +21,6 @@ graph LR
     C --> D["Successful Courtroom Execution"]
 ```
 *Figure: The problem-to-execution chain in this chapter.*
-
 
 ---
 
@@ -46,23 +47,22 @@ This is not a closed list of things for defence counsel to consider. Each case w
 - If the claim or defence is bad, the preparation will probably show that to be so. This is the time to think about settlement.
 - Perhaps the most salutary lesson is this: When all the lawyers in the case are competent and do their work diligently, the cases are usually decided on the facts and the law. But if a lawyer makes a mistake or does not prepare properly, justice may not be done in the case. The whole system of justice relies on competent and ethical representation of litigants; preparation for trial is an important component of competent representation.
 
-## Chapter 12
-Preparing the case for trial: Assembling the evidence
+## Chapter 12: Preparing the case for trial: Assembling the evidence
 
 CONTENTS
 
-|  12.1 | Introduction  |
+| 12.1 | Introduction |
 | --- | --- |
-|  12.1.1 | Types of evidence  |
-|  12.1.2 | The sources of evidence  |
-|  12.1.3 | The need to preserve the evidence  |
-|  12.2 | Consultations  |
-|  12.3 | Inspecting documents and examining exhibits  |
-|  12.4 | Inspections in loco  |
-|  12.5 | Creating [[Page-100|demonstrative exhibit]]s: Plans, photographs and models  |
-|  12.5.1 | Plans  |
-|  12.5.2 | Photographs  |
-|  12.5.3 | Models  |
+| 12.1.1 | Types of evidence |
+| 12.1.2 | The sources of evidence |
+| 12.1.3 | The need to preserve the evidence |
+| 12.2 | Consultations |
+| 12.3 | Inspecting documents and examining exhibits |
+| 12.4 | Inspections in loco |
+| 12.5 | Creating [[Page-100\|demonstrative exhibit]]s: Plans, photographs and models |
+| 12.5.1 | Plans |
+| 12.5.2 | Photographs |
+| 12.5.3 | Models |
 
 ---
 
@@ -78,6 +78,7 @@ CONTENTS
 12.7 Conducting a [[Page-100|pre-trial conference]]
 12.8 Assembling the evidence: The prosecutor's position
 12.9 Protocol and ethics
+
 ## 12.1 Introduction
 
 Assembling the evidence and presenting it to the court are distinct but related processes. The police investigate criminal cases for the prosecution. Defence counsel and lawyers engaged in civil cases have to conduct their own investigations. In America this type of investigative work is done by specialist investigators, who are often also qualified lawyers. While private investigators are used to a limited degree in South Africa, the investigation of the facts of the case is almost without [[Page-75|exception]] done by the attorney who is going to conduct the trial, either as counsel, or as the instructing attorney who will assist counsel during the trial. In the latter situation it is common for counsel and the instructing attorney to work together as a team. They will conduct consultations and inspections together, take written statements from prospective witnesses, consult experts and prepare [[Page-100|demonstrative exhibit]]s. They will acquire essential knowledge about the facts to put before the court in order to persuade it to rule in their client's favour.
@@ -106,6 +107,7 @@ The court is going to receive evidence from two sources. Each side may place rel
 - considering their discovered documents and other exhibits.
 
 This will reduce the chances of being caught by surprise.
+
 ### 12.1.3 The need to preserve the evidence
 
 The main aim is to preserve and organise the evidence for use at the trial in a form that ensures that the evidence is admissible, reliable and sufficient. In short, ensure that the client's evidence is legally and logically sufficient to prove the case (or to cast doubt on the other side's case, if acting for the defendant). Also, subject the evidence to analysis, a process explained in chapter 14. However, there is no purpose in analysing evidence that is not going to be available at the trial. Consider what to do to ensure that the evidence is available at the trial by being firstly, admissible in its form, secondly, reliable in its quality, and thirdly, sufficient in its quantity to prevail over the other side. A number of different processes can be employed to these ends, depending on the type of evidence and its sources.
@@ -181,7 +183,7 @@ All these sources should be studied and incorporated in the statements of the wi
 
 The medical file will form the basis of the client's discovery affidavit as well and may even be produced as an agreed bundle of exhibits at the trial. You need to be careful, though, that the contents of the file are legible. You also need to watch out for misleading terminology and adverse comments like, "This patient has made a satisfactory recovery," as it is not clear to whom the "satisfactory" refers. These comments and entries have to be dealt with by the [[Page-100|expert witness]]es and should not be left unanswered and unexplained.
 
-### 12.3 Inspecting documents and examining exhibits
+## 12.3 Inspecting documents and examining exhibits
 
 The evidence placed before the court consists largely of documentary evidence. Like oral evidence, documentary evidence has to be found, organised and placed before the court through credible witnesses who can give admissible evidence. Some of the documents may be obtained from the client, but it would be extremely unwise to conduct a trial with only the information gathered from the client.
 
@@ -196,9 +198,9 @@ There are computer programmes available to help you keep track of all the docume
 
 Table 12.1 Scheme for organising documentary evidence
 
-|  Date | Nature of document | Author | Recipient | Summary of contents | Notes or comments  |
+| Date | Nature of document | Author | Recipient | Summary of contents | Notes or comments |
 | --- | --- | --- | --- | --- | --- |
-|  Documents should be in date order. | Letter? Contract? Receipt? Invoice? Plan? Photograph? etc. | Who wrote, signed or drafted it? (This person could be a necessary witness.) | Who received it? (Another potential witness.) | What does the document mean in the context of the case? Where does it fit in the story? Tell your story through the documents. | Cross-reference to other documents or evidence, make notes for [[Page-145|cross-examination]] and so on.  |
+| Documents should be in date order. | Letter? Contract? Receipt? Invoice? Plan? Photograph? etc. | Who wrote, signed or drafted it? (This person could be a necessary witness.) | Who received it? (Another potential witness.) | What does the document mean in the context of the case? Where does it fit in the story? Tell your story through the documents. | Cross-reference to other documents or evidence, make notes for [[Page-145\|cross-examination]] and so on. |
 
 This is by no means the only way to organise the documents. If you adopt this kind of process you will inevitably have to read and analyse each document and think about its role and use in the dispute. Most documents don't help at all, but then, in the miner's pan there are only a few flecks of gold to be found after all that sifting and swirling! Analysing the documents is an intensive and useful exercise for trial preparation and is also hard work, best done without distractions. You could use a scheme such as the one discussed in chapter 14 for this type of analysis.
 
@@ -213,6 +215,7 @@ Having organised and analysed the documents in this fashion, you are ready to st
 ---
 
 - The content of any documents in the bundle is not in issue, except for the following documents: -" (Prepare a list to be attached to the agreement.)
+
 ## 12.4 Inspections in loco
 
 It is surprising that so many lawyers try to conduct a trial without having visited the scene of the events giving rise to the dispute, for example, where a collision occurred. What is not surprising, is how often some feature at the scene decisively influences the outcome of the trial. A taxi driver lost his right arm when his taxi and an approaching Post Office truck collided with each other. The two vehicles had struck each other a glancing blow, right side to right side, on a narrow road. The point of impact on all versions was more or less in the centre of the road. The taxi driver could not point out the scene. His passengers could not be found until the trial. The police plan did not identify the scene well enough to enable counsel to determine precisely where the collision had occurred. An inspection of the place where the taxi driver's counsel and attorney initially thought the collision had occurred revealed nothing of interest. However, on the morning of the trial one of the passengers turned up and was able to pinpoint the scene. Counsel went to the scene. One look at the scene was enough. It revealed that the taxi driver had no room to swerve to his left as there was a vertical cliff and a barrier right on the edge of the road surface. The Post Office driver, on the other hand, had at least the width of the road again to his left. This area was level and passable and he could have avoided the collision by swerving to his left. The damages were apportioned two thirds/one third against the Post Office driver on the basis that he had failed to swerve to his left to avoid the collision. Both drivers were held to have been equally negligent in not keeping a proper lookout but only one of them had the room for evasive action.
@@ -266,9 +269,9 @@ A key should be prepared for each photograph. This should initially be done at t
 
 **Table 12.2** Providing captions for photographs
 
-|  Number | Date | Legend | Compass | Comment  |
+| Number | Date | Legend | Compass | Comment |
 | --- | --- | --- | --- | --- |
-|  1 | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident.  |
+| 1 | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident. |
 
 If the case is about a collision, say, an elderly pensioner living in a rural area was knocked down by a bus, your client may need a lot of help to be able to give his evidence coherently and persuasively. In such a case I would suggest the following process for a set of helpful photographs:
 
@@ -283,7 +286,7 @@ the client. Could and should he have seen the bus?
 
 The details given in respect of each photograph should be agreed with the other side. If a particular photograph cannot be admitted, it should be removed from the bundle and should be proved separately. Ideally there should be no dispute about what the photographs depict, but there could reasonably be disputes about the evidence of the witnesses who pointed out features at the scene. Such disputes cannot be avoided but they can usually be resolved by omitting the captions and comments and allowing each side's witnesses to give their evidence using the photographs alone as their reference point.
 
-### **12.5.3 Models**
+### 12.5.3 Models
 
 Some cases are so difficult to conduct that it cannot be done without the use of a model. In RAF cases where children are involved as witnesses, it is often helpful, if not essential, to use a set of toy cars, buses and trucks. Some adult witnesses also need help. These could be used during consultations and in court when the witnesses are asked to explain how the collision occurred. If models of this kind are to be used, they should bear a passing resemblance to the real thing. Your best laid plans could come unstuck if the witness declines your invitation to demonstrate with the red car you hand her on the basis that she had been knocked down by a green car. There is also no purpose in using a model at all if you are going to hand the witness a toy bus and ask that he should pretend it is a cement truck. The bus should be in reasonable proportion to the cars used in the demonstration. The purpose of using models is to help the witnesses to give their evidence confidently and coherently. Using models which bear little or no resemblance to the real thing is more likely to defeat the object of the exercise than to help.
 
@@ -297,11 +300,12 @@ In some cases, more intricate models will be required. In an English case a work
 - a working model of a ship's crane which had collapsed on shore side facilities.
 
 There are other cases where models could be used. In each case the model is there to help the witnesses explain some feature of the events in dispute and to help counsel and the judge to gain a better understanding of the facts.
-### **12.5.4 Rule 36(10)**
+
+### 12.5.4 Rule 36(10)
 
 The plans, photographs and models prepared by an attorney or an advocate have to be proved like any other exhibit. Proof could be supplied by admissions. Ideally the attorney or advocate should not become a witness in the case. If [[Page-100|demonstrative exhibit]]s have been prepared by an attorney or an advocate, every effort should be made to agree their correctness with the other side. You should discuss the use of these demonstrative exhibits at the Rule 37 conference (or even earlier) and ask your opponent to admit them or to indicate in what respects it is suggested that they are not accurate. Where possible the items making agreement impossible should be reconsidered. Do you really need them? Can you change the exhibit and accommodate your opponent's concerns? Can you prove the correctness of the exhibit through another witness? This is still not the best way of dealing with the matter. In the absence of agreement a notice under Rule 36(10) will have to be delivered to the other side at least 15 days before the trial, offering inspection of the item and requiring it to be admitted within ten days. If there is no response in the ten-day period the plan, photograph or model may be used without further proof.
 
-### **12.6 Consulting and briefing experts**
+## 12.6 Consulting and briefing experts
 
 Judges draw inferences from the facts that are proved in the case before them. However, some cases involve facts and inferences falling outside the ordinary experience of judges (and other lawyers). [[Page-100|Expert witness]]es are used to
 
@@ -309,18 +313,18 @@ Judges draw inferences from the facts that are proved in the case before them. H
 
 explain subjects outside the court's normal experience and to express opinions on the inferences to be drawn from the facts. An expert's evidence can make or break your case. In some cases [[Page-100|expert evidence]] is indispensable; in other cases it can help you to present your case more persuasively.
 
-### **12.6.1 Who is an expert?**
+### 12.6.1 Who is an expert?
 
 An expert is a person who, by virtue of his or her academic qualifications, experience or research (or a combination of them), is able to give relevant evidence in the nature of information and opinions not generally available to the public.
 
-### **12.6.2 Types of expert evidence**
+### 12.6.2 Types of expert evidence
 
 There are two types of expert evidence: The *first* is where an expert is required to give evidence of his or her own independent investigations and observations, which may include opinions based on those investigations and observations. This type of expert evidence is encountered often in RAF actions when the orthopaedic surgeon who treated plaintiffs for their injuries, gives expert evidence of their injuries, the treatment they received, the cost of the treatment, whether future treatment will be necessary, and the cost of future treatment. In the process, the surgeon may express opinions on the nature and degree of pain and discomfort, disability, loss of amenities of life, life expectancy and other matters relevant to quantum.
 
 The *second* type of expert evidence is where an expert is asked to give evidence based on documents submitted to him or her for the purpose of providing an expert opinion on some issue or question or other. For example, a radiologist may be employed by the defendant to examine X-rays of the plaintiff's leg in order to express an expert opinion on the question whether there is a likelihood that future medical treatment will be required. The expert will do no independent fact investigation in this situation but will base his or her opinion on the facts provided to him or her.
 When employing an expert, it is important that you should make it clear whether the expert is expected to make an independent investigation of the facts or whether he or she is restricted to the material supplied to him or her.
 
-### **12.6.3 Admissibility of expert evidence**
+### 12.6.3 Admissibility of expert evidence
 
 There is still some controversy whether an [[Page-100|expert witness]] should be allowed to express an opinion on the very matter the court has to decide, the so-called "ultimate issue". This question has not been resolved yet, but opinion evidence is generally allowed when it can help the court to decide the issues. Opinion evidence is admissible when it is relevant and it is relevant when it can help the judge to make a decision. This is not a very precise test, is it? There are nevertheless some principles to be applied as a general guide:
 
@@ -329,11 +333,11 @@ There is still some controversy whether an [[Page-100|expert witness]] should be
 - Before allowing a witness to express an expert opinion, the court will have to be satisfied of the expertise of the witness and that the facts upon which the opinions are to be based have been, or will be, proved. That does not mean that the opinion evidence has to wait until the court has made its final findings of fact. The witness will be allowed to express his or her opinions and to state the facts, proved or assumed, which support the opinions expressed by him or her.
 - The court is not bound to accept the expert's opinion. The court may reject it, even if no opposing views have been expressed by other witnesses. When opposing opinions are expressed by the expert witnesses called by the parties, the court may determine the approach to be followed to resolve the issues. The court alone is responsible for findings of fact and law.
 
-### **12.6.4 The field of expertise**
+### 12.6.4 The field of expertise
 
 Because the evidence of the expert has to be relevant to be admissible, the expert will have to be expert in the subject-matter before the court; otherwise his or her opinion will not be helpful. You should therefore try to find an expert in the relevant field. The nature of the dispute determines whom you would employ and call as an expert. For example, an orthopaedic surgeon should be able to express helpful opinions on the degree of pain and discomfort to be expected in an RAF case involving bodily injuries. An architect should be able to give helpful expert opinions in a dispute relating to the compliance (or non-compliance) of building work with the approved plans and the national building regulations.
 
-### **12.6.5 How to select an expert**
+### 12.6.5 How to select an expert
 
 Due to the degree of speciality in virtually all areas of human endeavour, particular care must be taken in the selection of an expert. In the case where a particular expert has already been involved, for example as the orthopaedic surgeon who treated the plaintiffs *(see page 221)* for their injuries, there may still be good reason to appoint another expert although that would not usually be necessary. If an expert has to be appointed from
 
@@ -348,7 +352,7 @@ scratch, it may not always be easy to find one. The following steps may be taken
 - If the proposed expert is suitably qualified to give an opinion, give him or her sufficient detail of the facts of the case and ask him or her to confirm that the issue is well within his or her expertise. If it is not, ask him or her if he or she knows an expert within whose field of expertise the matter falls.
 - Once a suitable expert has been found, ensure that the basis of his or her retainer is agreed and confirm the relevant details in a letter.
 
-### **12.6.6 Preparing the expert's brief**
+### 12.6.6 Preparing the expert's brief
 
 The expert must know exactly what is required of him or her. The expert report will also have to be structured in such a way that it could be used as the basis of the expert's evidence or, failing that, an expert summary under Rule 36(9)(b). For these purposes, an expert brief will have to be prepared. This could be done in a consultation, but even then there should be a written record. The expert's written brief should contain the following -
 
@@ -369,7 +373,7 @@ The expert's report should be structured in such a way that it can be used as a 
 - any qualifications or reservations the expert wishes to impose on the opinions expressed;
 - a list of any reference works relied upon by the expert in reaching the conclusions or opinion.
 
-### **12.6.7 Problems to anticipate**
+### 12.6.7 Problems to anticipate
 
 There are some practical and ethical matters to keep in mind when briefing an expert.
 
@@ -419,7 +423,9 @@ A properly handled pre-trial conference is a valuable tool of preparation for th
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L11 - Preparing the case for trial: Advice on evidence|← Previous Chapter]] · Next: [[L13 - Preparation for trial: Legal research|Next Chapter →]]

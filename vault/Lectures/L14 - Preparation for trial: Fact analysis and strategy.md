@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L14
 tags: [lecture, litigation-skills]
+
 ---
 # L14 — Preparation for trial: Fact analysis and strategy
 
@@ -20,7 +22,6 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
@@ -30,6 +31,7 @@ graph LR
 - Return books you have borrowed from a colleague as soon as possible.
 
 ## Chapter 14
+
 Preparation for trial: [[Page-115|Fact analysis]] and strategy
 
 CONTENTS
@@ -52,11 +54,12 @@ CONTENTS
 14.7 Stage 8: Trial tactics
 14.8 Counsel's trial notebook
 14.9 Fact analysis in criminal cases
-#### 14.1 Introduction
+
+## 14.1 Introduction
 
 When the case is ready to proceed to trial counsel's personal preparation still has to be completed. Conducting the necessary legal research will be an important part of that preparation. What remains is for counsel to become completely conversant with the facts of the case and to plan a suitable strategy for the trial. This part of the preparation for trial involves two linked processes namely, fact analysis and strategic planning. The aim is to achieve such a high degree of understanding of the facts and evidence that counsel will be able to adopt the best possible tactics for the trial and will be able to deal competently with all the processes and incidents of the trial itself.
 
-##### 14.1.1 Fact analysis
+### 14.1.1 Fact analysis
 
 Fact analysis is used to determine and test the legal, factual and logical sufficiency of the case. This book uses the proof-making model of fact analysis. The proof-making model is based on logic and legal principles. It can be defined as the process by means of which we harness the evidence to ensure that it is sufficient to support a claim or a defence in legal proceedings.
 
@@ -88,28 +91,29 @@ The basic steps at Stages 3 to 5 of the proof-making model are represented in th
 
 The legal elements are determined by the law and discovered by legal research. For example, if the claim is based on a breach of a contract, the law of contract will determine what the legal elements of the claim are and you will find the relevant principles in a textbook or a case dealing with the law of contract. The facts are arrived at as logical deductions from the evidence. The evidence, in turn, is given by witnesses and consists of oral evidence and exhibits. The exhibits may include documentary evidence that can be contained in a variety of different types of documents. Further issues to be taken into account are the admissibility, reliability and sufficiency of the evidence. The law determines what evidence is admissible. The reliability of the evidence is determined by the judge and recorded as findings of fact. The onus and standard of proof (*prima facie*, balance of probability or beyond reasonable doubt) play an important role in determining whether the evidence is sufficient to discharge the onus of proof.
 
-#### 14.1.2 Strategy
+### 14.1.2 Strategy
 
 Your trial strategy will be based on a careful fact analysis and a resourceful consideration of a persuasive theory of the case and suitable tactics to pursue that theory.
 
 Strictly speaking, only the first five stages involve fact analysis; the last two have to do with strategy and trial tactics. Each of these steps is essential for systematic trial preparation; and each complements the others. The complete process can be represented as follows:
 **Table 14.2** General scheme for trial preparation based on the Proof-making Model
 
-|  Stage | What counsel has to do | Skill involved  |
+| Stage | What counsel has to do | Skill involved |
 | --- | --- | --- |
-|  1 | *Determine the area of law involved* | Legal research. Fact analysis.  |
-|  2 | *Determine the [[Page-54|cause of action]] (criminal charge) or defence* | Legal research. Analysis of legal documents.  |
-|  3 | *Determine the material facts (the legal elements) in issue.* 1 In a civil case, compare the Particulars of Claim (the 'Claim') and the Plea. The issues are the allegations in the Claim which are denied (or not admitted) in the Plea. 2 In a criminal case the issues are all the material facts alleged in the Charge Sheet or Indictment put in issue by a plea of | Legal research. Analysis of legal documents.  |
+| 1 | *Determine the area of law involved* | Legal research. Fact analysis. |
+| 2 | *Determine the [[Page-54\|cause of action]] (criminal charge) or defence* | Legal research. Analysis of legal documents. |
+| 3 | *Determine the material facts (the legal elements) in issue.* 1 In a civil case, compare the Particulars of Claim (the 'Claim') and the Plea. The issues are the allegations in the Claim which are denied (or not admitted) in the Plea. 2 In a criminal case the issues are all the material facts alleged in the Charge Sheet or Indictment put in issue by a plea of | Legal research. Analysis of legal documents. |
 
 ---
 
-|   | 'Not guilty'. 3 Ascertain the precise legal content or meaning of each material fact in issue. |   |
+| | 'Not guilty'. 3 Ascertain the precise legal content or meaning of each material fact in issue. | |
 | --- | --- | --- |
-|  4 | *Ascertain the propositions of fact to support each material fact in issue.* 1 These facts are arrived at as deductions from the available evidence. 2 Some facts may also be arrived at as valid deductions from other facts. | [[Page-115|Fact analysis]]. Analysis of legal documents.  |
-|  5 | *Determine what evidence is available for each proposition of fact by way of:* 1 oral evidence; 2 exhibits (including documents); and 3 admissions. | Fact analysis. Analysis of legal documents.  |
-|  6 | *Consider the admissibility, reliability and sufficiency of the evidence.* 1 Deal with all admissibility problems. 2 Consider the reliability of the evidence. 3 Consider whether the available evidence is sufficient, having regard to the incidence of the onus of proof and the standard of proof required (*prima facie*, balance of probability or beyond reasonable doubt). | Fact analysis. Legal research.  |
-|  7 | *Develop a [[Page-115|theory of the case]].* 1 Identify the central issue in the case. 2 State your position on that issue. 3 State the main facts supporting your position on the central issue. 4 Identify the opposition's theory. 5 Discredit the opposition's theory. | Logic  |
-|  8 | *Develop appropriate tactics to pursue the theory of the case.* 1 Decide which witnesses to call. 2 Decide which exhibits to prove. 3 Prepare a timeline for each witness. 4 Anticipate who the other side's witnesses will be. 5 Prepare themes for the [[Page-145|cross-examination]] of each opposition witness. 6 Prepare an [[Page-131|opening statement]]. 7 Prepare a closing address (in draft). | Trial tactics.  |
+| 4 | *Ascertain the propositions of fact to support each material fact in issue.* 1 These facts are arrived at as deductions from the available evidence. 2 Some facts may also be arrived at as valid deductions from other facts. | [[Page-115\|Fact analysis]]. Analysis of legal documents. |
+| 5 | *Determine what evidence is available for each proposition of fact by way of:* 1 oral evidence; 2 exhibits (including documents); and 3 admissions. | Fact analysis. Analysis of legal documents. |
+| 6 | *Consider the admissibility, reliability and sufficiency of the evidence.* 1 Deal with all admissibility problems. 2 Consider the reliability of the evidence. 3 Consider whether the available evidence is sufficient, having regard to the incidence of the onus of proof and the standard of proof required (*prima facie*, balance of probability or beyond reasonable doubt). | Fact analysis. Legal research. |
+| 7 | *Develop a [[Page-115\|theory of the case]].* 1 Identify the central issue in the case. 2 State your position on that issue. 3 State the main facts supporting your position on the central issue. 4 Identify the opposition's theory. 5 Discredit the opposition's theory. | Logic |
+| 8 | *Develop appropriate tactics to pursue the theory of the case.* 1 Decide which witnesses to call. 2 Decide which exhibits to prove. 3 Prepare a timeline for each witness. 4 Anticipate who the other side's witnesses will be. 5 Prepare themes for the [[Page-145\|cross-examination]] of each opposition witness. 6 Prepare an [[Page-131\|opening statement]]. 7 Prepare a closing address (in draft). | Trial tactics. |
+
 The steps taken by counsel in his or her preparation for trial should be recorded in counsel's trial notebook. (See paragraph 14.8.) The use of computers makes it easy to do the analysis with the use of columns and tables. You could be faced with thousands of documents, hordes of witnesses, numerous issues and multiple parties. However, for the type of case that comes before the courts every day, a simple plan that is executed diligently will be sufficient. Remember, although personal computers and litigation support software can help you to record, organise and recall the available information, they cannot do the *thinking* for you. You still have to analyse the information yourself.
 
 The case of our client, Mrs Smith, can be used as our vehicle of instruction. She has sued for the damage to her car. The pleadings are closed, both sides have completed the discovery process and proper expert notices, summaries and other notices have been served. The brief to counsel contains written statements of potential witnesses as well as the police plan and some photographs of the scene and the plaintiff's car. The case is therefore ready to proceed.
@@ -131,33 +135,33 @@ guilty to the charge, every material fact alleged in the charge sheet or indictm
 In a civil case and in [[Page-30|arbitration]] proceedings where pleadings are exchanged, the issues can be identified from the opposing pleadings. The two sets have to be read together. You can ascertain what the issues are by determining whether a material fact set out in the claim has been admitted or denied. If a material fact alleged in the claim is denied (or not admitted), it has to be listed as an issue. If any additional material facts are raised in the plea (for example, [[Page-66|contributory negligence]]), those are also listed as issues, unless they are admitted in a replication. Any further particulars supplied by either party have to be taken into account. The process of analysis to determine the issues can be done in tabular form, as follows:
 **Table 14.3** Identifying the issues
 
-|  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
+| Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues |
 | --- | --- | --- |
-|  1 The plaintiff is Anne Smith, an unemployed widow, who resides at [street address]. | 1 The defendant admits paragraphs 1 and 2 of the particulars of claim ('the claim'). |   |
-|  2 The defendant is Joe Soap, an adult male, carpenter, who resides at [street address]. |  |   |
-|  3 The plaintiff was at all material times the owner of a [year] Honda motorcar with registration number NPN 2001 ('the plaintiff's car'). | 2 The defendant does not admit any of the allegations in paragraph 3 of the claim. | 1 Whether the plaintiff at all material times was the owner of motor car NPN 2001, a [year] model Honda.  |
-|  4.1 On [date] and at about 09:30 a collision occurred between the plaintiff's car and another car then being driven by the defendant ('the collision'). | 3 Save as qualified by paragraph 3 of the plea the defendant admits paragraph 4 of the claim. |   |
-|  4.2 The collision occurred at the intersection of X and Y Streets [name city or town], ('the intersection'). |  |   |
-|  5 The collision was caused by the defendant's negligence. *Particulars of defendant's negligence* |  |   |
-|  5.1 He entered the intersection against the red traffic light. | 4 The defendant denies each allegation in paragraph 5 of the claim. | 2 Whether the defendant drove negligently in any of the aspects stipulated.  |
-|  5.2 He drove at an excessive speed. |  |   |
-|  5.3 He failed to keep a proper lookout. |  |   |
-|  5.4 He failed to take adequate steps to avoid the collision when he could have done so. |  |   |
-|  Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues  |
+| 1 The plaintiff is Anne Smith, an unemployed widow, who resides at [street address]. | 1 The defendant admits paragraphs 1 and 2 of the particulars of claim ('the claim'). | |
+| 2 The defendant is Joe Soap, an adult male, carpenter, who resides at [street address]. | | |
+| 3 The plaintiff was at all material times the owner of a [year] Honda motorcar with registration number NPN 2001 ('the plaintiff's car'). | 2 The defendant does not admit any of the allegations in paragraph 3 of the claim. | 1 Whether the plaintiff at all material times was the owner of motor car NPN 2001, a [year] model Honda. |
+| 4.1 On [date] and at about 09:30 a collision occurred between the plaintiff's car and another car then being driven by the defendant ('the collision'). | 3 Save as qualified by paragraph 3 of the plea the defendant admits paragraph 4 of the claim. | |
+| 4.2 The collision occurred at the intersection of X and Y Streets [name city or town], ('the intersection'). | | |
+| 5 The collision was caused by the defendant's negligence. *Particulars of defendant's negligence* | | |
+| 5.1 He entered the intersection against the red traffic light. | 4 The defendant denies each allegation in paragraph 5 of the claim. | 2 Whether the defendant drove negligently in any of the aspects stipulated. |
+| 5.2 He drove at an excessive speed. | | |
+| 5.3 He failed to keep a proper lookout. | | |
+| 5.4 He failed to take adequate steps to avoid the collision when he could have done so. | | |
+| Particulars of claim (See Table 6.1.) | Plea (See Table 7.9.) | Issues |
 | --- | --- | --- |
-|  6 As a result of the collision and the defendant's negligence the plaintiff's car was damaged and the plaintiff has suffered damages in the sum of R339 000.00. *Particulars of plaintiff's loss:* |  |   |
-|  6.1 Value of plaintiff's car before the collision R440 000.00 | 5 The defendant admits that motorcar NPN 2001 was damaged in the collision but denies the remaining allegations in paragraphs 6 and 7 of the claim. | 3 If it is proved that the defendant drove negligently, as alleged, whether such negligence caused damage to the plaintiff's car.  |
-|  6.2 Value of plaintiff's car after the collision R110 000.00 |  | 4 Whether the amount of the damages is R339 000.00, made up as alleged. Note that there are a number of facts to prove in order to succeed on these issues. They follow as a matter of law if the facts are proved.  |
-|  6.3 SUBTOTAL R330 000.00 |  |   |
-|  6.4 Cost of hiring replacement car for 45 days @ R200.00 a day R9 000.00 |  |   |
-|  TOTAL R339 000.00 |  |   |
-|  7 In the premises the defendant is liable to pay the sum of R339 000.00 to the plaintiff. | 6 In the event of the plaintiff proving the allegations in paragraphs 3, 5 and 6 of the claim, the defendant pleads as follows: |   |
+| 6 As a result of the collision and the defendant's negligence the plaintiff's car was damaged and the plaintiff has suffered damages in the sum of R339 000.00. *Particulars of plaintiff's loss:* | | |
+| 6.1 Value of plaintiff's car before the collision R440 000.00 | 5 The defendant admits that motorcar NPN 2001 was damaged in the collision but denies the remaining allegations in paragraphs 6 and 7 of the claim. | 3 If it is proved that the defendant drove negligently, as alleged, whether such negligence caused damage to the plaintiff's car. |
+| 6.2 Value of plaintiff's car after the collision R110 000.00 | | 4 Whether the amount of the damages is R339 000.00, made up as alleged. Note that there are a number of facts to prove in order to succeed on these issues. They follow as a matter of law if the facts are proved. |
+| 6.3 SUBTOTAL R330 000.00 | | |
+| 6.4 Cost of hiring replacement car for 45 days @ R200.00 a day R9 000.00 | | |
+| TOTAL R339 000.00 | | |
+| 7 In the premises the defendant is liable to pay the sum of R339 000.00 to the plaintiff. | 6 In the event of the plaintiff proving the allegations in paragraphs 3, 5 and 6 of the claim, the defendant pleads as follows: | |
 
 ---
 
-|   | (a) The plaintiff was also negligent in that: (i) She drove NPN 2001 at an excessive speed. (ii) She failed to keep a proper lookout. (iii) She entered the intersection against the red traffic light. (b) The plaintiff's negligence was also a cause of the collision and any damages she suffered. (c) The plaintiff's damages therefore fall to be reduced by virtue of section 1 of Act 34 of 1956. | 5 Whether the plaintiff has also been negligent. 6 Whether the plaintiff's negligence was a contributory cause of her damages. **Note:** Some of the allegations which have been pleaded in paragraph 6 of the plea are conclusions of law arising from the factual allegations, for example paragraph 6(c).  |
+| | (a) The plaintiff was also negligent in that: (i) She drove NPN 2001 at an excessive speed. (ii) She failed to keep a proper lookout. (iii) She entered the intersection against the red traffic light. (b) The plaintiff's negligence was also a cause of the collision and any damages she suffered. (c) The plaintiff's damages therefore fall to be reduced by virtue of section 1 of Act 34 of 1956. | 5 Whether the plaintiff has also been negligent. 6 Whether the plaintiff's negligence was a contributory cause of her damages. **Note:** Some of the allegations which have been pleaded in paragraph 6 of the plea are conclusions of law arising from the factual allegations, for example paragraph 6(c). |
 | --- | --- | --- |
-|  8 Notwithstanding demand, the defendant has failed to pay the sum claimed. | 7 The defendant admits paragraph 8 of the claim but denies being liable. |   |
+| 8 Notwithstanding demand, the defendant has failed to pay the sum claimed. | 7 The defendant admits paragraph 8 of the claim but denies being liable. | |
 
 **Note:** Cosmetic changes have been made to the defendant's plea to comply with the style advocated in chapter 7.
 In a criminal case the issues are defined by the charge sheet or indictment, coupled with the accused's plea and section 115 statement. Counsel would first identify the material facts for the crime concerned. For example, an indictment on a charge of murder would introduce the following material facts (or elements):
@@ -188,7 +192,7 @@ These are the Stage 3 legal elements that have to be satisfied for her claim to 
 
 ---
 
-### 14.3 Stage 4: Propositions of fact supporting each legal element (or material fact)
+## 14.3 Stage 4: Propositions of fact supporting each legal element (or material fact)
 
 Each legal element (material fact) in issue has to be established by sufficient facts to support that legal element. That proof can be supplied by admissions of fact or by *(see page 248)* evidence proving the necessary facts. No further proof is necessary when a material fact has been admitted. The facts are obtained from the statements, exhibits and other documents and are also referred to as evidential facts. The evidential facts are called propositions of fact because they have not yet been proved; we propose to prove them by admissions obtained from the other side or by way of the evidence placed before the court.
 
@@ -225,9 +229,9 @@ By following this process you can ensure that you get a clear view of the availa
 
 **Table 14.4** Material fact (legal requirement) and propositions of fact
 
-|  Material fact to be proved (Legal element identified at Stage 3) | Propositions of fact to support the material fact in issue (Evidential facts - Stage 4)  |
+| Material fact to be proved (Legal element identified at Stage 3) | Propositions of fact to support the material fact in issue (Evidential facts - Stage 4) |
 | --- | --- |
-|  1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a [year] model Honda, from a dealer in motor cars. 1.2 The sale was for cash. 1.3 The purchase price was paid. 1.4 The car was delivered to her by the dealer with the intention of transferring ownership. 1.5 The car was received by her with the intention of acquiring ownership. 1.6 The plaintiff has been in undisturbed possession of the car ever since.  |
+| 1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a [year] model Honda, from a dealer in motor cars. 1.2 The sale was for cash. 1.3 The purchase price was paid. 1.4 The car was delivered to her by the dealer with the intention of transferring ownership. 1.5 The car was received by her with the intention of acquiring ownership. 1.6 The plaintiff has been in undisturbed possession of the car ever since. |
 
 You can work out what facts the evidence can prove by reading and re-reading the statements and documents with the aim of determining how they can help to prove the material fact in issue. This can be demonstrated by using another example from Mrs Smith's case. She says the following in her statement (Appendix 1):
 "As I approached the intersection with X Street, I saw the lights turn green in our favour. I intended to go through the intersection on to the freeway. I was doing about 50 kilometres per hour. The speed limit is 60.
@@ -245,16 +249,16 @@ This evidence can support the following propositions of fact, which in turn, sup
 
 If these facts can be proved, you will be able to establish negligence on the part of the defendant. What you have to do next, is to marshal or organise all the evidence to prove each of the propositions of fact your case relies on.
 
-#### 14.4 Stage 5: The evidence to prove each proposition of fact
+## 14.4 Stage 5: The evidence to prove each proposition of fact
 
 Each proposition of fact has to be proved by admissible and credible evidence. This proof generally consists of admissions, oral evidence and exhibits. In civil cases the defendant usually admits a number of the material or evidential facts and no further proof is then required in respect of those facts. In criminal cases the defence usually makes admissions under section 220 of the Criminal Procedure Act 51 of 1977. The section specifically provides that "such admission shall be sufficient proof of such fact". The oral evidence that is available will be apparent from the statements of the prospective witnesses. The exhibits will likewise have been identified (and obtained).
 
 The next step in the analysis of the facts is to list the individual items of evidence proving each proposition of fact. Take the first proposition of fact, namely that the plaintiff had bought the car from a dealer (proposition 1.1). On what evidence is that proposition based? You could arrange the evidence in support of proposition 1.1 as follows:
 
-|  Evidence Stage 5  |
+| Evidence Stage 5 |
 | --- |
-|  Oral: "I went to the Honda dealership. I bought the car, a (year) model Honda, from them . . ."  |
-|  Exhibits: Contract, receipt.  |
+| Oral: "I went to the Honda dealership. I bought the car, a (year) model Honda, from them . . ." |
+| Exhibits: Contract, receipt. |
 
 ---
 
@@ -266,23 +270,24 @@ This process of analysis can be set out in a table as follows:
 
 **Table 14.5** Identifying the evidence to prove each proposition of fact
 
-|  Material fact (Legal element identified at Stage 3) | Propositions of fact (Evidential facts - Stage 4) | The evidence to prove each proposition of fact (Stage 5)  |
+| Material fact (Legal element identified at Stage 3) | Propositions of fact (Evidential facts - Stage 4) | The evidence to prove each proposition of fact (Stage 5) |
 | --- | --- | --- |
-|  1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a 2003 Honda, from a dealer in motor cars. | Plaintiff: 'I went to the Honda dealership. I bought the car, a [year] Honda, from them . . .' Exhibits: Contract, receipt.  |
-|   |  1.2 The sale was for cash. | Plaintiff: 'I bought the car for cash.' Exhibits: Contract, receipt.  |
-|   |  1.3 The purchase price was paid. | Plaintiff: 'I paid by cheque . . .' Exhibits: Receipt, cheque.  |
-|   |  1.4 The dealer delivered the car with the intention of transferring ownership to her. | Plaintiff: 'The dealer then handed me the keys and the car's registration documents . . .' Exhibits: Registration documents.  |
-|   |  1.5 She received the car with the intention of acquiring ownership. | Plaintiff: 'I wanted a car for myself.'  |
-|  2 The defendant drove negligently. | 2.1 The intersection is controlled by traffic lights. | Plaintiff: 'As I approached the intersection with X Street, I noticed the lights turn green in our favour.'  |
-|   |  2.2 The traffic lights were working. | Plaintiff: - as for paragraph 2.1. Constable Smith: . . . City Engineer: . . .  |
-|  Material fact (Legal element identified at Stage 3) | Propositions of fact (Evidential facts - Stage 4) | The evidence to prove each proposition of fact (Stage 5)  |
+| 1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a 2003 Honda, from a dealer in motor cars. | Plaintiff: 'I went to the Honda dealership. I bought the car, a [year] Honda, from them . . .' Exhibits: Contract, receipt. |
+| | 1.2 The sale was for cash. | Plaintiff: 'I bought the car for cash.' Exhibits: Contract, receipt. |
+| | 1.3 The purchase price was paid. | Plaintiff: 'I paid by cheque . . .' Exhibits: Receipt, cheque. |
+| | 1.4 The dealer delivered the car with the intention of transferring ownership to her. | Plaintiff: 'The dealer then handed me the keys and the car's registration documents . . .' Exhibits: Registration documents. |
+| | 1.5 She received the car with the intention of acquiring ownership. | Plaintiff: 'I wanted a car for myself.' |
+| 2 The defendant drove negligently. | 2.1 The intersection is controlled by traffic lights. | Plaintiff: 'As I approached the intersection with X Street, I noticed the lights turn green in our favour.' |
+| | 2.2 The traffic lights were working. | Plaintiff: - as for paragraph 2.1. Constable Smith: . . . City Engineer: . . . |
+| Material fact (Legal element identified at Stage 3) | Propositions of fact (Evidential facts - Stage 4) | The evidence to prove each proposition of fact (Stage 5) |
 | --- | --- | --- |
-|   | 2.3 The light was green for motorists proceeding in Y Street when Mrs Smith entered the intersection from Y Street. | Plaintiff: - as for paragraph 2.1.  |
-|   | 2.4 The light was red for motorists proceeding in X Street. | This is a deduction from paragraphs 2.1 to 2.3.  |
-|   | 2.5 The defendant entered the intersection from X Street against the red light. | This is a deduction too.  |
-|   | 2.6 The defendant did not keep a proper lookout. | We can deduce this because, if he had been keeping a proper lookout, he would have stopped.  |
-|   | 2.7 The speed limit is 60 kph. | Plaintiff: 'The speed limit is 60.' Constable Smith: . . .  |
-|   | 2.8 The defendant drove too fast. | Plaintiff: '. . . I noticed a car coming at high speed . . .'  |
+| | 2.3 The light was green for motorists proceeding in Y Street when Mrs Smith entered the intersection from Y Street. | Plaintiff: - as for paragraph 2.1. |
+| | 2.4 The light was red for motorists proceeding in X Street. | This is a deduction from paragraphs 2.1 to 2.3. |
+| | 2.5 The defendant entered the intersection from X Street against the red light. | This is a deduction too. |
+| | 2.6 The defendant did not keep a proper lookout. | We can deduce this because, if he had been keeping a proper lookout, he would have stopped. |
+| | 2.7 The speed limit is 60 kph. | Plaintiff: 'The speed limit is 60.' Constable Smith: . . . |
+| | 2.8 The defendant drove too fast. | Plaintiff: '. . . I noticed a car coming at high speed . . .' |
+
 The process continues for each material fact in issue. Propositions of fact are often listed together in clusters. (See propositions of fact 2.7 and 2.8 in Table 6.) If they cannot be clustered together in some logical groupings, they should be set out in chronological order.
 
 There has to be proof for each proposition of fact. In the absence of an admission, evidence is needed to prove
@@ -293,7 +298,7 @@ the facts. Special care needs to be taken with exhibits. Exhibits must be proved
 
 In this example a number of documents were used to prove a proposition of fact, for example, the contract, receipt and registration documents. They are relied on as proof of Mrs Smith's ownership of the car. Special skills are required for the analysis of documentary evidence. This art is called analysis of legal documents and, like [[Page-115|fact analysis]], it is used for many different legal tasks; its use is not confined to the litigation process.
 
-#### 14.4.1 Analysis of legal documents
+### 14.4.1 Analysis of legal documents
 
 It is an inescapable fact that documentary evidence plays an important part in trials. Many civil cases are dominated entirely by documentary evidence. Those documents are part of the factual matrix of the case and they need to be analysed just as carefully as any other type of evidence. In the course of the preparation of the case, the documentary evidence ought to have been collected, organised and preserved so that they can be produced as admissible evidence at the trial.
 
@@ -302,25 +307,26 @@ Statutes and contracts are analysed according to two branches of the law, known 
 Keep in mind that the analysis of the documentary evidence is not done in isolation; it is done as part of the general fact analysis. Each document has to be analysed in order to gauge its true meaning and import in the case. What does the document mean? How is it relevant? What weight can be attached to it? This can be determined by using the following scheme:
 **Table 14.6** Scheme for the analysis of legal documents
 
-|  Stage | What to do | How to do it: Ask yourself  |
+| Stage | What to do | How to do it: Ask yourself |
 | --- | --- | --- |
-|  **Analysis of the document** | 1 Establish the nature of the document. | What is the exact nature of this document? (It could be a contract - of which there are many forms, - a will, patent, licence, letter, fax, cheque, certificate, court order, an email, medical report, invoice, delivery note, mortgage, etc. There are many other types of documents. No list will ever be complete.)  |
-|   |  2 Ascertain who executed the document. | 1 Who wrote or signed this document? 2 Who is responsible for its contents?  |
-|   |  3 Determine who the other parties to the document are, if it is a bilateral document. | 1 To whom was the document addressed? 2 Who is the other party to the arrangements set out in the document?  |
-|   |  4 Analyse the document to determine its precise subject-matter. | What is the main purpose or intention of this document? (To let property, to record the details of a marriage, to set out the terms of a licence, to record the terms of a contract, etc.)  |
-|   |  5 Identify the true meaning of the document, having regard to its relevant parts or clauses, the nature of the subject-matter and the chronological context in which the document was executed. | 1 How does the document seek to achieve its main purpose? 2 Does it actually achieve that purpose? 3 If not, what are the shortcomings of the document?  |
-|  **Proof of the document** | 1 Determine how the document is to be proved by witnesses, by admissions or under the provisions of a statute. | 1 Who is to be called as a witness to prove this document? 2 Can the document be admitted by way of an admission? 3 Is the document admissible under the provisions of a statute? (Any one of a number of statutes could apply. The principal ones are the Civil Proceedings Evidence Act 25 of 1965, the Law of Evidence Amendment Act 45 of 1988, the Electronic Transmissions and Transactions Act 25 of 2002 and the Criminal Procedure Act 51 of 1977.)  |
-|  Stage | What to do | How to do it: Ask yourself  |
+| **Analysis of the document** | 1 Establish the nature of the document. | What is the exact nature of this document? (It could be a contract - of which there are many forms, - a will, patent, licence, letter, fax, cheque, certificate, court order, an email, medical report, invoice, delivery note, mortgage, etc. There are many other types of documents. No list will ever be complete.) |
+| | 2 Ascertain who executed the document. | 1 Who wrote or signed this document? 2 Who is responsible for its contents? |
+| | 3 Determine who the other parties to the document are, if it is a bilateral document. | 1 To whom was the document addressed? 2 Who is the other party to the arrangements set out in the document? |
+| | 4 Analyse the document to determine its precise subject-matter. | What is the main purpose or intention of this document? (To let property, to record the details of a marriage, to set out the terms of a licence, to record the terms of a contract, etc.) |
+| | 5 Identify the true meaning of the document, having regard to its relevant parts or clauses, the nature of the subject-matter and the chronological context in which the document was executed. | 1 How does the document seek to achieve its main purpose? 2 Does it actually achieve that purpose? 3 If not, what are the shortcomings of the document? |
+| **Proof of the document** | 1 Determine how the document is to be proved by witnesses, by admissions or under the provisions of a statute. | 1 Who is to be called as a witness to prove this document? 2 Can the document be admitted by way of an admission? 3 Is the document admissible under the provisions of a statute? (Any one of a number of statutes could apply. The principal ones are the Civil Proceedings Evidence Act 25 of 1965, the Law of Evidence Amendment Act 45 of 1988, the Electronic Transmissions and Transactions Act 25 of 2002 and the Criminal Procedure Act 51 of 1977.) |
+| Stage | What to do | How to do it: Ask yourself |
 | --- | --- | --- |
-|   | 2 Consider any admissibility issues there may be. | 1 Is the admissibility of the document affected by the law of evidence generally? 2 Is the document protected by privilege?  |
+| | 2 Consider any admissibility issues there may be. | 1 Is the admissibility of the document affected by the law of evidence generally? 2 Is the document protected by privilege? |
 
 ---
 
-|  **Consistency of the document** | 1 Check whether the document is internally consistent, whether it contains internal contradictions or shortcomings. | 1 Does the document contain clauses that are inconsistent with other clauses? 2 If so, does the inconsistency detract from the true meaning or purpose of the document?  |
+| **Consistency of the document** | 1 Check whether the document is internally consistent, whether it contains internal contradictions or shortcomings. | 1 Does the document contain clauses that are inconsistent with other clauses? 2 If so, does the inconsistency detract from the true meaning or purpose of the document? |
 | --- | --- | --- |
-|   |  2 Check whether the document is consistent with the other documents in the case. | 1 Are there any inconsistencies between this document and any other document in the case? 2 If so, how can the inconsistency be reconciled with the client's case or be explained?  |
-|   |  3 Check whether the document is consistent with the general facts or probabilities of the case. | 1 Is the document consistent with the general or inherent probabilities of the case? 2 Do I need to adjust my [[Page-115|theory of the case]] or is there an acceptable explanation for the inconsistency?  |
-|  **Weight of the document** | Weigh the evidence as contained in the document together with all the other evidence in order to determine whether the totality of the evidence on the point is sufficient. | 1 How is the document relevant? 2 How important is the document in the general context of the case? 3 Is the document sufficient, when considered together with the other evidence, to swing the balance in the client's favour on the relevant issue?  |
+| | 2 Check whether the document is consistent with the other documents in the case. | 1 Are there any inconsistencies between this document and any other document in the case? 2 If so, how can the inconsistency be reconciled with the client's case or be explained? |
+| | 3 Check whether the document is consistent with the general facts or probabilities of the case. | 1 Is the document consistent with the general or inherent probabilities of the case? 2 Do I need to adjust my [[Page-115\|theory of the case]] or is there an acceptable explanation for the inconsistency? |
+| **Weight of the document** | Weigh the evidence as contained in the document together with all the other evidence in order to determine whether the totality of the evidence on the point is sufficient. | 1 How is the document relevant? 2 How important is the document in the general context of the case? 3 Is the document sufficient, when considered together with the other evidence, to swing the balance in the client's favour on the relevant issue? |
+
 ## 14.5 Stage 6: Admissibility, reliability and sufficiency of the evidence
 
 The strengths and weaknesses of the case begin to emerge as you consider the admissibility, reliability and sufficiency of the evidence. During this stage the process of [[Page-115|fact analysis]] crosses over into strategic planning.
@@ -349,15 +355,15 @@ One way of making an assessment whether the evidence is sufficient to establish 
 
 **Table 14.7** Considering the admissibility, consistency and sufficiency of the evidence
 
-|  Material fact (Stage 3) | Propositions of fact (Stage 4) | The evidence for each proposition of fact (Stage 5) | A (6) | R (6) | S (6)  |
+| Material fact (Stage 3) | Propositions of fact (Stage 4) | The evidence for each proposition of fact (Stage 5) | A (6) | R (6) | S (6) |
 | --- | --- | --- | --- | --- | --- |
-|  1 The Plaintiff was at all material times the owner of motor car NPN 2001, a [year] Honda. | 1.1 The plaintiff bought the car, a [year] Honda, from a dealer in motor cars. | Plaintiff: 'I went to the Honda dealership. I bought the car, a [year] model Honda, from them . . .' Exhibits: Contract, receipt. | Y Y Y | Y Y Y | Y Y Y  |
-|   | 1.2 The sale was for cash. | Plaintiff: 'I bought the car for cash.' Exhibits: Contract, receipt Admission at Rule 37 conference (paragraph 6 of minutes)*. | Y Y | Y Y | Y Y  |
-|   | 1.3 The purchase price was paid. | Plaintiff: 'I paid by cheque . . .' Exhibits: Receipt, cheque. | Y Y | Y Y | Y Y  |
-|  Material fact (Stage 3) | Propositions of fact (Stage 4) | The evidence for each proposition of fact (Stage 5) | A (6) | R (6) | S (6)  |
+| 1 The Plaintiff was at all material times the owner of motor car NPN 2001, a [year] Honda. | 1.1 The plaintiff bought the car, a [year] Honda, from a dealer in motor cars. | Plaintiff: 'I went to the Honda dealership. I bought the car, a [year] model Honda, from them . . .' Exhibits: Contract, receipt. | Y Y Y | Y Y Y | Y Y Y |
+| | 1.2 The sale was for cash. | Plaintiff: 'I bought the car for cash.' Exhibits: Contract, receipt Admission at Rule 37 conference (paragraph 6 of minutes)*. | Y Y | Y Y | Y Y |
+| | 1.3 The purchase price was paid. | Plaintiff: 'I paid by cheque . . .' Exhibits: Receipt, cheque. | Y Y | Y Y | Y Y |
+| Material fact (Stage 3) | Propositions of fact (Stage 4) | The evidence for each proposition of fact (Stage 5) | A (6) | R (6) | S (6) |
 | --- | --- | --- | --- | --- | --- |
-|   | 1.4 The dealer delivered the car to her with the intention of transferring ownership. | Plaintiff: 'The dealer then handed me the keys and the car's registration documents . . .' Exhibits: Registration documents. | Y Y | Y Y | Y Y  |
-|   | 1.5 She received the car with the intention of acquiring ownership. | Plaintiff: 'I wanted a car for myself.' | Y | Y | Y  |
+| | 1.4 The dealer delivered the car to her with the intention of transferring ownership. | Plaintiff: 'The dealer then handed me the keys and the car's registration documents . . .' Exhibits: Registration documents. | Y Y | Y Y | Y Y |
+| | 1.5 She received the car with the intention of acquiring ownership. | Plaintiff: 'I wanted a car for myself.' | Y | Y | Y |
 
 **Note:** A = Admissible? R = Reliable? S = Sufficient? Y = Yes. N = No.
 
@@ -441,19 +447,19 @@ The following five steps provide a solid basis for the development and formulati
 - State the main points defeating the opposition's theory.
 **Table 14.8** Examples of opposing theories of the case
 
-|  Type of case | Prosecution or plaintiff's theory | Defence or defendant's theory (*)  |
+| Type of case | Prosecution or plaintiff's theory | Defence or defendant's theory (*) |
 | --- | --- | --- |
-|  Criminal charge of assault | The issue is whether the accused acted in self-defence. The stabbing was unlawful. The accused was not acting in self-defence and, in any event, exceeded the legitimate bounds of self-defence by stabbing the complainant in the back. | The accused acted in self-defence. The wound in the complainant's back was inflicted accidentally when the parties grappled with each other and fell down.  |
-|  Criminal charge of theft by shoplifting | The issue is whether the accused had the necessary *mens rea* for theft. She did. She concealed the item in her handbag to avoid detection. | The accused did not intend to steal the item. She was distracted and absent-mindedly put it in her bag and then forgot to pay for it. She was arrested before she realised her mistake.  |
-|  Civil claim for damage to a car | The issue is whether the defendant was negligent. He failed to stop at the intersection when the light was red against him and that caused the collision. His conduct was unreasonable. | The light was green for the defendant, so that the plaintiff must have entered the intersection against the red light.  |
-|  Civil claim for damages against a surgeon arising from a surgical procedure | The issue is whether the defendant exercised that degree of skill required of a surgeon. He was negligent in that he did not exercise the requisite degree of professional skill and care. This is proved by the consequences of the operation on the plaintiff; some of her facial muscles have been damaged and she cannot raise her left eyelid. | There are inherent risks in all surgical processes. These were fully explained to the plaintiff. The consequences she has suffered fall within the recognised and accepted parameters for the surgery performed on her.  |
-|  Civil claim for defamation | The issue is whether the publication of the defamatory material was justified. The material published by the defendant is *per se* defamatory. It portrays the plaintiff as dishonest. The allegation is false. There was no excuse for publishing it. | The defendant was justified in making that allegation about the plaintiff. He had been dishonest and it was in the public interest that it be published because the plaintiff is a politician currently holding public office.  |
-|  Type of case | Prosecution or plaintiff's theory | Defence or defendant's theory (*)  |
+| Criminal charge of assault | The issue is whether the accused acted in self-defence. The stabbing was unlawful. The accused was not acting in self-defence and, in any event, exceeded the legitimate bounds of self-defence by stabbing the complainant in the back. | The accused acted in self-defence. The wound in the complainant's back was inflicted accidentally when the parties grappled with each other and fell down. |
+| Criminal charge of theft by shoplifting | The issue is whether the accused had the necessary *mens rea* for theft. She did. She concealed the item in her handbag to avoid detection. | The accused did not intend to steal the item. She was distracted and absent-mindedly put it in her bag and then forgot to pay for it. She was arrested before she realised her mistake. |
+| Civil claim for damage to a car | The issue is whether the defendant was negligent. He failed to stop at the intersection when the light was red against him and that caused the collision. His conduct was unreasonable. | The light was green for the defendant, so that the plaintiff must have entered the intersection against the red light. |
+| Civil claim for damages against a surgeon arising from a surgical procedure | The issue is whether the defendant exercised that degree of skill required of a surgeon. He was negligent in that he did not exercise the requisite degree of professional skill and care. This is proved by the consequences of the operation on the plaintiff; some of her facial muscles have been damaged and she cannot raise her left eyelid. | There are inherent risks in all surgical processes. These were fully explained to the plaintiff. The consequences she has suffered fall within the recognised and accepted parameters for the surgery performed on her. |
+| Civil claim for defamation | The issue is whether the publication of the defamatory material was justified. The material published by the defendant is *per se* defamatory. It portrays the plaintiff as dishonest. The allegation is false. There was no excuse for publishing it. | The defendant was justified in making that allegation about the plaintiff. He had been dishonest and it was in the public interest that it be published because the plaintiff is a politician currently holding public office. |
+| Type of case | Prosecution or plaintiff's theory | Defence or defendant's theory (*) |
 | --- | --- | --- |
-|  Civil claim for specific performance of a contract | The issue is whether the plaintiff had performed his side of the bargain. He had, but the defendant, without any justification, repudiated the contract. There was nothing wrong with the potato seeds sold. | The defendant has justifiably cancelled the contract as the seeds were unfit for the purpose for which they were bought. The seeds are contaminated by a bacterium rendering them infertile.  |
-|  Matrimonial claim for primary cvare of small children | The question before the court is what the best interests of the children demand with regard to their care. The defendant's current circumstances are no good for the children's continued well-being. She has formed a relationship with a known paedophile and there is a real risk that he will abuse the children. It would be far better to place the children with their father, the plaintiff. | It is in the best interests of the children to leave them in the care of the defendant, their natural mother, who has cared quite adequately for them since their birth. While the defendant's partner has a conviction for a sexual offence, he has been rehabilitated and the defendant can protect the children.  |
-|  Civil claim for assault against a police officer | The issue is whether the shooting was lawful. The plaintiff had done nothing wrong. He was walking around the market when he was accosted by a man wielding a gun. He was frightened and ran away. He did not know that the man, now known to have been the defendant, was a police officer. | The defendant was entitled to arrest the plaintiff without a warrant as he had committed the offence of robbery in the presence of the defendant. The plaintiff sought to avoid arrest and ran away. There were no other reasonable or effective means available to arrest the plaintiff, save by shooting him in the leg.  |
-|  Civil claim for re-instatement of an employee | The issue is the validity of the plaintiff's dismissal. He was dismissed unlawfully and without notice. The strike was lawful. The plaintiff was entitled to an opportunity to make representations before he was dismissed. | The plaintiff had taken part in an illegal strike and was dismissed after being given a full opportunity to make representations.  |
+| Civil claim for specific performance of a contract | The issue is whether the plaintiff had performed his side of the bargain. He had, but the defendant, without any justification, repudiated the contract. There was nothing wrong with the potato seeds sold. | The defendant has justifiably cancelled the contract as the seeds were unfit for the purpose for which they were bought. The seeds are contaminated by a bacterium rendering them infertile. |
+| Matrimonial claim for primary cvare of small children | The question before the court is what the best interests of the children demand with regard to their care. The defendant's current circumstances are no good for the children's continued well-being. She has formed a relationship with a known paedophile and there is a real risk that he will abuse the children. It would be far better to place the children with their father, the plaintiff. | It is in the best interests of the children to leave them in the care of the defendant, their natural mother, who has cared quite adequately for them since their birth. While the defendant's partner has a conviction for a sexual offence, he has been rehabilitated and the defendant can protect the children. |
+| Civil claim for assault against a police officer | The issue is whether the shooting was lawful. The plaintiff had done nothing wrong. He was walking around the market when he was accosted by a man wielding a gun. He was frightened and ran away. He did not know that the man, now known to have been the defendant, was a police officer. | The defendant was entitled to arrest the plaintiff without a warrant as he had committed the offence of robbery in the presence of the defendant. The plaintiff sought to avoid arrest and ran away. There were no other reasonable or effective means available to arrest the plaintiff, save by shooting him in the leg. |
+| Civil claim for re-instatement of an employee | The issue is the validity of the plaintiff's dismissal. He was dismissed unlawfully and without notice. The strike was lawful. The plaintiff was entitled to an opportunity to make representations before he was dismissed. | The plaintiff had taken part in an illegal strike and was dismissed after being given a full opportunity to make representations. |
 
 (*) **Note:** The defence or defendant should reformulate the issue if the plaintiff has put an incorrect slant on it.
 A preliminary [[Page-115|theory of the case]] should be developed as soon as possible in order to channel your energies in the
@@ -462,7 +468,7 @@ A preliminary [[Page-115|theory of the case]] should be developed as soon as pos
 
 right direction and to save costs, but that theory should not be too rigid or specific in the early stages. As new facts, understandings and knowledge become available the preliminary theory may be shaped into a final battle plan. We can call that plan our trial tactics.
 
-#### 14.7 Stage 8: Trial tactics
+## 14.7 Stage 8: Trial tactics
 
 Trial tactics develop logically out of the analysis of the facts and the development of a [[Page-115|theory of the case]]. These prior steps are not taken as an academic exercise in logic but as essential and practical steps in preparing for trial. They assist you in a number of ways to become fully prepared for any eventuality that may arise at the trial.
 
@@ -509,10 +515,11 @@ It is not suggested for a moment that this is all you need to know about tactics
 The scheme for trial preparation using the proof-making model of [[Page-115|fact analysis]] is schematically represented as follows:
 **Table 14.9** Scheme for Preparation for Trial using the Proof-making model of fact analysis
 
-|  Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8  |
+| Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  Area of law | [[Page-54|Cause of action]] | Legal elements | The facts | The evidence | Admissible? Reliable? Sufficient? | Theory of the case | Trial tactics  |
-|   |  |  |  |  |  |  | 1 Strengths and weaknesses 2 Further investigations 3 Witnesses to call 4 Exhibits to use 5 Timeline for each witness 6 Identify opposition witnesses 7 Themes for cross-examination of each opposing witness 8 [[Page-131|Opening statement]] 9 [[Page-174|Closing argument]]  |
+| Area of law | [[Page-54\|Cause of action]] | Legal elements | The facts | The evidence | Admissible? Reliable? Sufficient? | Theory of the case | Trial tactics |
+| | | | | | | | 1 Strengths and weaknesses 2 Further investigations 3 Witnesses to call 4 Exhibits to use 5 Timeline for each witness 6 Identify opposition witnesses 7 Themes for cross-examination of each opposing witness 8 [[Page-131\|Opening statement]] 9 [[Page-174\|Closing argument]] |
+
 ## 14.8 Counsel's trial notebook
 
 There are many good reasons for keeping detailed notes of your preparation. The trial may not proceed, in which event your notes will serve you well the second time around. You may not be available for the trial on the new dates, in which event your successor may have the benefit of your preparation. The client should not have to pay twice for the same work. Most of all, the case may be so complicated that you cannot store all the important things you need to remember on scraps of paper or in the recesses of your (fallible) memory.
@@ -552,7 +559,7 @@ In time, every advocate develops his or her own methods and style in preparing f
 
 Note: There is a complete trial-preparation exercise in Appendix 2 at the end of this book.
 
-### 14.9 Fact analysis in criminal cases
+## 14.9 Fact analysis in criminal cases
 
 The police and prosecutors work together "to produce the evidence to support the charge" in a criminal case. The investigating officer gathers the evidence in the form of witness statements and exhibits and makes a preliminary assessment of the charge the evidence can support and the sufficiency of the evidence. The docket is then submitted to the prosecutor, who analyses the evidence and the law before deciding upon the precise charge or charges to be put to the accused. If there is insufficient evidence, the charge is withdrawn or the docket returned to the police for further investigation. Fact analysis of this kind is being practised every day across South Africa by hundreds of police officers and prosecutors. Fact analysis is part of everyday life for them. Whether they have a set programme or system for their fact analysis is not known, but I venture to suggest that they would at least have to identify the legal elements of the charge and consider whether they have sufficient evidence to prove them. Whatever system they use, prosecutors do some form of fact analysis to enable them to put a coherent, comprehensive and convincing case before the court.
 
@@ -563,7 +570,9 @@ Defence counsel has a considerable advantage over the prosecutor. The prosecutio
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L13 - Preparation for trial: Legal research|← Previous Chapter]] · Next: [[L15 - The protocol and etiquette of the courtroom|Next Chapter →]]

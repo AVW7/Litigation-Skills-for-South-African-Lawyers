@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L21
 tags: [lecture, litigation-skills]
+
 ---
 # L21 — Closing argument
 
@@ -20,7 +22,6 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
@@ -30,9 +31,10 @@ interrupt the flow of an opponent's questioning.
 - Asking the court to declare a witness hostile, should be done with circumspection as the imputation is that the witness is untruthful, or will not tell the truth at the instance of the party calling him or her. Ascribing dishonesty to witnesses should only be done when there are reasonable grounds for such a suggestion, and even then it should be done with tact.
 
 ## Chapter 21
+
 [[Page-174|Closing argument]]
 
-# CONTENTS
+### CONTENTS
 
 21.1 Introduction
 21.2 Preparing a closing argument
@@ -46,13 +48,14 @@ interrupt the flow of an opponent's questioning.
 21.5 Style and tactics in the closing argument
 21.6 Protocol and ethics
 21.7 Checklist and assessment guide
-### 21.1 Introduction
+
+## 21.1 Introduction
 
 After all the evidence has been led, one or more counsel for each party may present their closing argument on the evidence, the facts and the law. The closing argument may be delivered at the end of the trial process, but you will have started to formulate your argument as your [[Page-115|theory of the case]] when you first met the client or received the brief. An argument, of course, is a series of connected facts or propositions, harnessed in a logical and persuasive way to support a suggested or desired outcome. A legal argument relies in whole or in part on established legal principles or procedures.
 
 The purpose of a closing argument is to persuade the judge to accept your theory of the case and reject your opponent's theory; that is, to decide the issues in your favour and to grant judgment in favour of your client. You have to persuade the judge on two scores, *first*, that your theory is supported by the facts and the law; and *second*, that your opponent's theory is not supported, or if it is, that your theory is more probable. In a criminal case the test is different - proof beyond reasonable doubt is required. The purpose of a closing argument becomes clear when one takes into account that the judge is presented with a problem (the issue to be decided) and has to find an answer for it in the evidence, the facts and the law. Your closing argument has to provide the judge with a platform for a judgment in your client's favour.
 
-### 21.2 Preparing a closing argument
+## 21.2 Preparing a closing argument
 
 The conduct of litigation requires an advocate to master two distinct skills. The *first* is the "production" of the evidence by leading, cross-examining and re-examining witnesses. The *second* is the "presentation" of the final argument on the facts and law of the case. Although these are distinct skills, they are inextricably bound together, not just to each other, but also to the preparation which preceded the trial. During the stages when you have to produce the evidence, you have to keep your proposed closing argument very clearly in your sights; otherwise the evidence would be a random hotchpotch rather than a logical and organised collection of the individual pieces of evidence supporting your theory of the case. Conversely, the strength of your closing argument depends on the success with which you produced the facts when you led the evidence of your own witnesses and cross-examined opposition witnesses. The final argument is therefore a logical extension of the overall process that began with the assembling of the evidence. It also runs through all the steps taken during your preparation for trial and the trial itself.
 The planning for a closing argument therefore has to start long before the trial commences. In fact, it should start with a conceptual argument at the time of the first interview with the client when you develop a preliminary theory of the case. During the subsequent stages of the litigation process, you will collect and marshal the evidence
@@ -71,7 +74,7 @@ to support your [[Page-115|theory of the case]]. During the trial you will produ
 
 The argument is worked out in advance in draft, as a provisional argument. It anticipates the evidence your own witnesses will give as well as the evidence and argument for the other side. During the trial, the argument is refined and modified, if necessary, as each witness completes his or her evidence or at the end of the day when you have a chance to reflect upon the evidence given that day. When all the evidence for both sides has been led, the argument is finalised and reduced to writing in the form of heads of argument. That is not yet the final product, as even during your opponent's argument you will note points to answer in reply.
 
-### 21.3 Order of closing addresses
+## 21.3 Order of closing addresses
 
 Generally the prosecutor argues first in a criminal case, followed by counsel for the accused, after which the prosecutor has the right to reply to matters raised in the defence argument. Where there are multiple accused, their counsel address the court in the order in which their clients are named in the charge sheet or indictment; accused no 1's counsel speaks first, then accused no 2's, and so on. In civil cases a similar order applies. The plaintiff's counsel argues first, then counsel for the defendant, and counsel for the plaintiff may thereafter reply to matters raised in the defendant's argument. If there are multiple plaintiffs or defendants, they follow the order in which they appear on the pleadings. The process escalates when there are third parties. There is another complication: if the onus *(see page 381)* of proof is entirely on the defendant, the order is reversed, with the defendant arguing first and having the right to reply.
 
@@ -85,7 +88,7 @@ Defendant's counsel has a similar opportunity to address the court fully on the 
 
 Plaintiff's counsel may deal with points arising from the defendant's argument in reply. The reply is not the time to address the main argument. If new matters are raised in reply, the court will almost invariably invite defendant's counsel to deal with the new matter, and is unlikely to give plaintiff's counsel another opportunity to reply.
 
-### 21.4 Structure of a closing argument
+## 21.4 Structure of a closing argument
 
 An argument can be structured in a number of ways. There can be only a single point to argue - a point of fact or a
 
@@ -95,48 +98,49 @@ point of law arising from the facts. There can also be many different points to 
 
 **Table 21.1** Scheme for a [[Page-174|closing argument]]
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** State the issues. | Isolate the issues or essential questions of law involved. Arrange them in logical order and structure the rest of the argument accordingly.  |
-|  **Step 2:** Deal with the onus and standard of proof. | Mention on whom the onus of proof lies in respect of each issue and state what the standard of proof is (*prima facie*, balance of probability, beyond reasonable doubt).  |
-|  **Step 3:** Marshal the evidence in support of your [[Page-115|theory of the case]]. | State briefly what evidence there is in support of the theory of the case being pursued and deal with the associated questions of credibility, probability, probative value, [[Page-100|circumstantial evidence]] and numeral preponderance. Deal with the inferences to be drawn from the facts. In short, arrange the evidence, facts, circumstances and points of argument so that they tell an interesting and convincing story.  |
-|  What to do | How to do it  |
+| **Step 1:** State the issues. | Isolate the issues or essential questions of law involved. Arrange them in logical order and structure the rest of the argument accordingly. |
+| **Step 2:** Deal with the onus and standard of proof. | Mention on whom the onus of proof lies in respect of each issue and state what the standard of proof is (*prima facie*, balance of probability, beyond reasonable doubt). |
+| **Step 3:** Marshal the evidence in support of your [[Page-115\|theory of the case]]. | State briefly what evidence there is in support of the theory of the case being pursued and deal with the associated questions of credibility, probability, probative value, [[Page-100\|circumstantial evidence]] and numeral preponderance. Deal with the inferences to be drawn from the facts. In short, arrange the evidence, facts, circumstances and points of argument so that they tell an interesting and convincing story. |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 4:** Deal briefly with the opponent's case. | Discuss the opponent's case to show its weaknesses, lack of credibility, insufficiency of proof and other defects. If necessary, deal with the matter on a comparative basis to point out why your case should be preferred.  |
-|  **Step 5:** Deal with the law and integrate it into your argument. | Apply any relevant points of law to the facts and the relief claimed.  |
-|  **Step 6:** Discuss the relief claimed. | Discuss the relief claimed or the order to be granted. The purpose of the argument is to justify the relief claimed by your client. Ensure that each item in the prayer is dealt with.  |
+| **Step 4:** Deal briefly with the opponent's case. | Discuss the opponent's case to show its weaknesses, lack of credibility, insufficiency of proof and other defects. If necessary, deal with the matter on a comparative basis to point out why your case should be preferred. |
+| **Step 5:** Deal with the law and integrate it into your argument. | Apply any relevant points of law to the facts and the relief claimed. |
+| **Step 6:** Discuss the relief claimed. | Discuss the relief claimed or the order to be granted. The purpose of the argument is to justify the relief claimed by your client. Ensure that each item in the prayer is dealt with. |
 
 It is not possible in all cases to keep these steps completely separate from each other. They may flow into each other or overlap. It may even be that it is unnecessary to cover all these items. It is, for example, hardly necessary to tell an experienced judge that the onus of proof rests on the prosecution to prove the guilt of the accused beyond reasonable doubt. You may prefer to join Steps 3 and 5 and deal with the law and the facts together. You may also prefer to deal with the opposition's case *after* dealing with the law, rather than *before*. However, a good argument has to address every step in the structure in Table 21.1, even if they are arranged differently.
 
 The structure of the argument is also dictated by factors such as the audience to whom the argument is to be addressed and the content and difficulty of the argument. The argument should therefore be managed in such a way that it covers all the points you need to make but with the ultimate aim of presenting an argument that will appeal to the bench you have.
 
-#### 21.4.1 Dealing with the issues one at a time
+### 21.4.1 Dealing with the issues one at a time
 
 In most cases the issues can be isolated and dealt with separately. Related issues can be clustered together, but it is still important to keep them firmly in mind as separate from each other. How else could one justify a finding in one's favour on any *particular* issue? The argument should also progress from one issue to the next. However, there must be some cohesion or connection between the points and issues raised during the argument. For example, in a negligence case involving the driving of a car, the argument could deal first with proof of the identity of the driver and only then deal with the grounds of negligence and thereafter with any questions of [[Page-66|contributory negligence]]. Dealing with contributory negligence first in that situation does not appeal to logic as contributory negligence would only be relevant if negligence on the part of the defendant has been established.
 **Table 21.2** Dealing with the issues in turn
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** State the questions or issues to be decided. | *Well, M' Lord, there are three questions to be decided by the court. 1. Was the defendant the driver of the car? 2. Was the defendant negligent in that he entered the intersection against the red traffic light? 3. Was the plaintiff also negligent in failing to take reasonable steps to avoid the collision?*  |
-|  **Step 2:** State where the onus lies. | *I submit that the onus on the third issue is on the defendant but accept that the onus on the first two is on the plaintiff.*  |
-|  Explain the consequences of the court's finding on each question. | *If Your Lordship's findings are in the plaintiff's favour on each of these questions, then she would be entitled to judgment as claimed. If the finding on either of the first two questions is in favour of the defendant, there should be judgment in his favour or absolution from the instance, depending on whether M' Lord regards his version as more probable than the plaintiff's or simply as not less probable than the plaintiff's. If the first two questions are answered in favour of the plaintiff but the third in favour of the defendant, then M' Lord may apportion the blame and reduce the plaintiff's damages.*  |
+| **Step 1:** State the questions or issues to be decided. | *Well, M' Lord, there are three questions to be decided by the court. 1. Was the defendant the driver of the car? 2. Was the defendant negligent in that he entered the intersection against the red traffic light? 3. Was the plaintiff also negligent in failing to take reasonable steps to avoid the collision?* |
+| **Step 2:** State where the onus lies. | *I submit that the onus on the third issue is on the defendant but accept that the onus on the first two is on the plaintiff.* |
+| Explain the consequences of the court's finding on each question. | *If Your Lordship's findings are in the plaintiff's favour on each of these questions, then she would be entitled to judgment as claimed. If the finding on either of the first two questions is in favour of the defendant, there should be judgment in his favour or absolution from the instance, depending on whether M' Lord regards his version as more probable than the plaintiff's or simply as not less probable than the plaintiff's. If the first two questions are answered in favour of the plaintiff but the third in favour of the defendant, then M' Lord may apportion the blame and reduce the plaintiff's damages.* |
 
 ---
 
-|  Deal with each question in turn. Start by restating the first question. | *The first question is whether the defendant was the driver of the car.*  |
-| --- | --- |
-|  **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *There is ample evidence that the defendant was the driver.* *1 The plaintiff and witness X saw him driving. Witness X has no reason to be untruthful about this.* *2 The defendant admitted that he had been driving when constable Y spoke to him.* *3 It was the defendant's own car too; it is more likely that he drove it than his little brother, who doesn't even have a driver's licence.* *4 Last, but not the least, there were numerous inconsistencies between the defendant's and his brother's evidence. Their evidence is not credible.*  |
-|  Suggest the answer. | *I submit that it is more likely than not that the defendant was the driver.*  |
-|  Restate the second question. | *The second question is whether the defendant had been negligent in that he entered the intersection against the red traffic light.*  |
-|  What to do | How to do it  |
-| --- | --- |
-|  **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *Well, the plaintiff and witness X both gave credible evidence to that effect. The defendant's false denial that he had been driving undermines his version that the light was green for him. Apart from that, he apologised to the plaintiff after the collision. Why apologise if the collision was not his fault, as he now claims?*  |
-|  Suggest the answer. | *I therefore submit that there is clear evidence of negligence on the defendant's part.*  |
-|  Restate the third question. | *The last question should really be, could the plaintiff do anything to avoid the collision?*  |
-|  **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *M' Lord, the [[Page-92|burden of proof]] on this issue is on the defendant. The only evidence is that of the defendant and his brother. Both of them have been untruthful about other aspects of the matter. Their evidence of what the plaintiff could and should have done to avoid the collision, is speculative. What they cannot demonstrate, is how the plaintiff could avoid the collision, having regard to the amount of time the plaintiff had after it became apparent that the defendant was not going to stop. In any event, the defendant drove into the side of the plaintiff's car. She was legitimately in the intersection and had every right to expect other motorists to obey the most basic of our traffic laws; you have to stop at the red light.*  |
-|  **Step 6:** Suggest the answer. | *I therefore submit that the defendant has not discharged the onus of proving [[Page-66|contributory negligence]] on the part of the plaintiff.*  |
-|  **Step 6:** State the overall conclusion. | *For these reasons I submit that the plaintiff is entitled to judgment as prayed. If M' Lord were to be against me on the question of contributory negligence, I would submit that the apportionment should be heavily in favour of the plaintiff.*  |
 ### 21.4.2 Submissions on the facts
+
+| Deal with each question in turn. Start by restating the first question. | *The first question is whether the defendant was the driver of the car.* |
+| --- | --- |
+| **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *There is ample evidence that the defendant was the driver.* *1 The plaintiff and witness X saw him driving. Witness X has no reason to be untruthful about this.* *2 The defendant admitted that he had been driving when constable Y spoke to him.* *3 It was the defendant's own car too; it is more likely that he drove it than his little brother, who doesn't even have a driver's licence.* *4 Last, but not the least, there were numerous inconsistencies between the defendant's and his brother's evidence. Their evidence is not credible.* |
+| Suggest the answer. | *I submit that it is more likely than not that the defendant was the driver.* |
+| Restate the second question. | *The second question is whether the defendant had been negligent in that he entered the intersection against the red traffic light.* |
+| What to do | How to do it |
+| --- | --- |
+| **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *Well, the plaintiff and witness X both gave credible evidence to that effect. The defendant's false denial that he had been driving undermines his version that the light was green for him. Apart from that, he apologised to the plaintiff after the collision. Why apologise if the collision was not his fault, as he now claims?* |
+| Suggest the answer. | *I therefore submit that there is clear evidence of negligence on the defendant's part.* |
+| Restate the third question. | *The last question should really be, could the plaintiff do anything to avoid the collision?* |
+| **Step 3:** Develop your points in favour of the answer contended for. **Step 4:** Deal with the opponent's version. | *M' Lord, the [[Page-92\|burden of proof]] on this issue is on the defendant. The only evidence is that of the defendant and his brother. Both of them have been untruthful about other aspects of the matter. Their evidence of what the plaintiff could and should have done to avoid the collision, is speculative. What they cannot demonstrate, is how the plaintiff could avoid the collision, having regard to the amount of time the plaintiff had after it became apparent that the defendant was not going to stop. In any event, the defendant drove into the side of the plaintiff's car. She was legitimately in the intersection and had every right to expect other motorists to obey the most basic of our traffic laws; you have to stop at the red light.* |
+| **Step 6:** Suggest the answer. | *I therefore submit that the defendant has not discharged the onus of proving [[Page-66\|contributory negligence]] on the part of the plaintiff.* |
+| **Step 6:** State the overall conclusion. | *For these reasons I submit that the plaintiff is entitled to judgment as prayed. If M' Lord were to be against me on the question of contributory negligence, I would submit that the apportionment should be heavily in favour of the plaintiff.* |
 
 Submissions on the facts require attention to detail and the organisation of the material into a comprehensible and attractive package. You should have such a complete mastery of the facts and evidence that you can spin an interesting and convincing tale. Advocacy is about spin, meaning that you put a particular slant, favourable to your client, on the material before the court. Good spin is realistic; it does not attempt the impossible. The bigger the case, measured by the volume of the material and not the importance of the matter, the more important it is for counsel to create order out of the apparent chaos of the mass of evidence and exhibits. You could create order in your argument by adopting this scheme:
 
@@ -155,18 +159,19 @@ a logical order, for example, by -
 - referring to the inherent probabilities of the matter, where the prior conduct of the witness has been inconsistent with his or her evidence or the inherent probabilities of the matter.
 **Table 21.3** Argument on the facts
 
-|  What to do | How to do it  |
-| --- | --- |
-|  **Step 1:** State the fact to be proved. **Step 2:** Deal with the onus of proof. | *Your Worship, I now turn to deal with the question whether the accused has been shown, beyond reasonable doubt, to have had the necessary intention for the crime of theft.*  |
-|  Tell the court what you are going to submit. | *I submit that he did not, for the following reasons:*  |
-|  **Step 3:** Marshal the evidence to support your submission. | *It is common cause the accused came into the store and, after browsing for a while, put his own backpack on the floor and picked up Exhibit 1 from the display rack. Also that he left the store after browsing for a while longer and did so without paying for the Exhibit 1. His conduct fits that of a brazen thief and that of someone who had made an honest mistake equally. The most important features in his favour are the following:* 1 As soon as he was stopped outside the store, he apologised, saying that he had made a mistake. There is a dispute between the witnesses about precisely what he had said, but the store detective's statement to the police is decisive. She said to the police, and I quote from Exhibit B, "He said: 'I am sorry, it's a mistake'". This statement is exactly in consonance with what the accused has told the court. 2 The accused has been consistent in this version. He gave it instantly, before there had been any opportunity for reflection or intrigue. 3 It appears that even the store detective believed him. She admits that she had said to the accused that it was "unfortunately" the store's policy to prosecute. Why should it be unfortunate, unless she thought the accused had made an honest mistake? 4 There was nothing furtive in the accused's behaviour. He quite openly took the backpack, wandered around with it and then left. 5 The undisputed evidence of Dr Stone is decisive; the accused suffers from colour-blindness which makes this kind of mistake understandable.  |
-|  **Step 4:** Deal with adverse facts or evidence, if you haven't already done so. | 1 The only evidence of a guilty state of mind is that of the store detective, to the effect that the accused apologised and did not have enough money to pay for the backpack. The first part of this evidence is not consistent with what is in her statement, as I have already pointed out. But even if it were true, it is not evidence of guilt. An innocent person could well apologise in such circumstances. 2 And the fact that the accused did not have enough money to pay for the backpack is neutral; it fits in equally well with his version that he never intended to buy a backpack at all but wanted a different type of bag, which is also less expensive.  |
-|  What to do | How to do it  |
-| --- | --- |
-|  **Step 5:** Allude to the law on the incidence of the onus and the standard of proof required, if necessary. | *The question Your Worship has to decide is whether the accused's version has been demonstrated to be false, beyond reasonable doubt.*  |
-|  **Step 6:** State the conclusion. | 1 I respectfully submit that the prosecution evidence falls far short of the standard required. The accused's version has not been demonstrated to be false; on the contrary, it appears to be more probable than the prosecution theory. 2 It is, of course, not necessary that his version should be probable; it has to be shown to be false beyond reasonable doubt. 3 I submit the State has not been able to achieve that standard of proof.  |
-|  **Step 6:** Tell the court what order should be made if the court finds the facts to be as contended for. | *In the circumstances I submit that the appropriate finding is that the accused be acquitted.*  |
 ### 21.4.3 Submissions on matters of law
+
+| What to do | How to do it |
+| --- | --- |
+| **Step 1:** State the fact to be proved. **Step 2:** Deal with the onus of proof. | *Your Worship, I now turn to deal with the question whether the accused has been shown, beyond reasonable doubt, to have had the necessary intention for the crime of theft.* |
+| Tell the court what you are going to submit. | *I submit that he did not, for the following reasons:* |
+| **Step 3:** Marshal the evidence to support your submission. | *It is common cause the accused came into the store and, after browsing for a while, put his own backpack on the floor and picked up Exhibit 1 from the display rack. Also that he left the store after browsing for a while longer and did so without paying for the Exhibit 1. His conduct fits that of a brazen thief and that of someone who had made an honest mistake equally. The most important features in his favour are the following:* 1 As soon as he was stopped outside the store, he apologised, saying that he had made a mistake. There is a dispute between the witnesses about precisely what he had said, but the store detective's statement to the police is decisive. She said to the police, and I quote from Exhibit B, "He said: 'I am sorry, it's a mistake'". This statement is exactly in consonance with what the accused has told the court. 2 The accused has been consistent in this version. He gave it instantly, before there had been any opportunity for reflection or intrigue. 3 It appears that even the store detective believed him. She admits that she had said to the accused that it was "unfortunately" the store's policy to prosecute. Why should it be unfortunate, unless she thought the accused had made an honest mistake? 4 There was nothing furtive in the accused's behaviour. He quite openly took the backpack, wandered around with it and then left. 5 The undisputed evidence of Dr Stone is decisive; the accused suffers from colour-blindness which makes this kind of mistake understandable. |
+| **Step 4:** Deal with adverse facts or evidence, if you haven't already done so. | 1 The only evidence of a guilty state of mind is that of the store detective, to the effect that the accused apologised and did not have enough money to pay for the backpack. The first part of this evidence is not consistent with what is in her statement, as I have already pointed out. But even if it were true, it is not evidence of guilt. An innocent person could well apologise in such circumstances. 2 And the fact that the accused did not have enough money to pay for the backpack is neutral; it fits in equally well with his version that he never intended to buy a backpack at all but wanted a different type of bag, which is also less expensive. |
+| What to do | How to do it |
+| --- | --- |
+| **Step 5:** Allude to the law on the incidence of the onus and the standard of proof required, if necessary. | *The question Your Worship has to decide is whether the accused's version has been demonstrated to be false, beyond reasonable doubt.* |
+| **Step 6:** State the conclusion. | 1 I respectfully submit that the prosecution evidence falls far short of the standard required. The accused's version has not been demonstrated to be false; on the contrary, it appears to be more probable than the prosecution theory. 2 It is, of course, not necessary that his version should be probable; it has to be shown to be false beyond reasonable doubt. 3 I submit the State has not been able to achieve that standard of proof. |
+| **Step 6:** Tell the court what order should be made if the court finds the facts to be as contended for. | *In the circumstances I submit that the appropriate finding is that the accused be acquitted.* |
 
 ---
 
@@ -183,22 +188,23 @@ Submissions on matters of law are made in similar fashion but the argument tends
 **The facts:** The plaintiff sued an insurer under a disability policy on the basis that he had contracted an incurable disabling disease. The insurer alleged that the plaintiff, unbeknownst to either party, was already suffering from that disease when the contract of insurance was concluded and that the contract was therefore void. (See *Kent v South African National Life Assurance Company* 1997 (2) SA 808 (D)) Study the judgment and consider whether counsel's argument helped the judge to come to a decision based on legal principles found in rather obscure authorities. Copies of the foreign authorities were provided to the judge as they were unavailable in the court's library. The passages quoted in the heads were not read to the judge; they were paraphrased during the oral argument.
 **Table 21.4** Argument on a point of law
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  State the main submission. | *We contend that there can be no valid insurance contract if the risk sought to be insured against has, with or without the knowledge of the parties, already materialised prior to the effective date of the contract of insurance.*  |
-|  1 Refer to each authority for the point in turn. 2 Quote only telling passages, for effect. 3 Provide a translation, if necessary. | *Josephi de Casaregis Discursus Legales de Commercio (1707) said the following at Discursus 1 note 13:* 'Assecuratio non tenet, si tempore assecurationis merces erant deperditiae, vel casus sinister erat sequutus', *which can be translated as follows:* 'The insurance does not hold, if at the time of the insurance the merchandise has already been lost, or the casualty has already occurred.'  |
-|   | *Hugo De Groot Inleidinge tot de Hollandsche Rechtsgeleerdheid (1631)*  |
+| State the main submission. | *We contend that there can be no valid insurance contract if the risk sought to be insured against has, with or without the knowledge of the parties, already materialised prior to the effective date of the contract of insurance.* |
+| 1 Refer to each authority for the point in turn. 2 Quote only telling passages, for effect. 3 Provide a translation, if necessary. | *Josephi de Casaregis Discursus Legales de Commercio (1707) said the following at Discursus 1 note 13:* 'Assecuratio non tenet, si tempore assecurationis merces erant deperditiae, vel casus sinister erat sequutus', *which can be translated as follows:* 'The insurance does not hold, if at the time of the insurance the merchandise has already been lost, or the casualty has already occurred.' |
+| | *Hugo De Groot Inleidinge tot de Hollandsche Rechtsgeleerdheid (1631)* |
 
 ---
 
-|  1 A submission can be 'attached' to an authority. 2 It is not always necessary to provide a translation, especially when the authority is well-known. | *defined insurance at 3.23.1 as follows:* 'Verzekering is een overkoming, waer door iemand op hem neemt het onzecker gevaer dat een ander had te verwachten: den welcke wederom hem daer voor gehouden is loon te geven'. *We submit that it is clear from this definition that the risk relates to an uncertain danger which may eventuate in the future, that is, after the contract has been concluded.*  |
+### 21.4.4 Discrediting the opposition's argument
+
+| 1 A submission can be 'attached' to an authority. 2 It is not always necessary to provide a translation, especially when the authority is well-known. | *defined insurance at 3.23.1 as follows:* 'Verzekering is een overkoming, waer door iemand op hem neemt het onzecker gevaer dat een ander had te verwachten: den welcke wederom hem daer voor gehouden is loon te geven'. *We submit that it is clear from this definition that the risk relates to an uncertain danger which may eventuate in the future, that is, after the contract has been concluded.* |
 | --- | --- |
-|  1 When a passage is quoted in full in the heads, it is not necessary to repeat it in oral argument. 2 It is often sufficient to draw the judge's attention to the authority and to move on to the next one. | *Joubert (ed) The Law of South Africa Volume 12 'Insurance' (1988) states the following in footnote 4 at para 172:* 'According to Gordon & Getz 168 'the risk cannot attach as there is no insurable interest; the policy is accordingly void'. The authors probably mean that there can never be an insurable interest in an object which has already been lost, and that for this reason the basis of the contract falls away.'  |
-|  What to do | How to do it  |
+| 1 When a passage is quoted in full in the heads, it is not necessary to repeat it in oral argument. 2 It is often sufficient to draw the judge's attention to the authority and to move on to the next one. | *Joubert (ed) The Law of South Africa Volume 12 'Insurance' (1988) states the following in footnote 4 at para 172:* 'According to Gordon & Getz 168 'the risk cannot attach as there is no insurable interest; the policy is accordingly void'. The authors probably mean that there can never be an insurable interest in an object which has already been lost, and that for this reason the basis of the contract falls away.' |
+| What to do | How to do it |
 | --- | --- |
-|   | *French law is to the same effect. Lambert-Faivre Droit des Assurances 8 ed (1992) para 307 states that:* 'Des trois éléments de l'assurance - risque, prime, sinistre - le risque est le plus fondamental et détermine les deux autres . . .' *This passage can be translated as follows:* 'Of the three elements of insurance, risk, premium and peril, the risk is the most fundamental and determines the other two . . .' *In para 309 the learned author states that:* '... si le risque n'existe pas, le contrat d'assurance devient nul faute d'objet . . .', *meaning* 'If the risk does not exist, the contract of insurance becomes void for want of an object (or purpose)'.  |
-|  State the conclusion contended for. | *On the admitted facts, the risk sought to be insured against in the current case no longer existed when the proposal was made, nor when the proposal was accepted, nor when the policy vested.* *No valid contract of insurance could therefore come into existence, notwithstanding the common but mistaken belief of the parties that the plaintiff at that time did not suffer from a permanent disability such as contemplated by the policy.*  |
-#### 21.4.4 Discrediting the opposition's argument
+| | *French law is to the same effect. Lambert-Faivre Droit des Assurances 8 ed (1992) para 307 states that:* 'Des trois éléments de l'assurance - risque, prime, sinistre - le risque est le plus fondamental et détermine les deux autres . . .' *This passage can be translated as follows:* 'Of the three elements of insurance, risk, premium and peril, the risk is the most fundamental and determines the other two . . .' *In para 309 the learned author states that:* '... si le risque n'existe pas, le contrat d'assurance devient nul faute d'objet . . .', *meaning* 'If the risk does not exist, the contract of insurance becomes void for want of an object (or purpose)'. |
+| State the conclusion contended for. | *On the admitted facts, the risk sought to be insured against in the current case no longer existed when the proposal was made, nor when the proposal was accepted, nor when the policy vested.* *No valid contract of insurance could therefore come into existence, notwithstanding the common but mistaken belief of the parties that the plaintiff at that time did not suffer from a permanent disability such as contemplated by the policy.* |
 
 An argument which ignores the opposition's argument is unlikely to be helpful or persuasive. It is clearly deficient because it does not answer the other side's facts or argument. The other side's argument therefore has to be confronted in a way that will result in it being rejected. You can proceed in two steps. The *first* is to distinguish the opposition's [[Page-115|theory of the case]] from your own. The *second* is to discredit it.
 
@@ -213,7 +219,7 @@ An argument which ignores the opposition's argument is unlikely to be helpful or
   - - the inferences drawn by the other side from the facts or evidence; and
   - - the other side's submissions on the law, or their application of the law to the facts.
 
-#### 21.4.5 Heads of argument
+### 21.4.5 Heads of argument
 
 There are few things as helpful to a judge in reaching a decision as well-drafted heads of argument. They can be used as a framework for the judgment, even if the judge does not accept every submission counsel has made. They also serve as a handy reminder of the main points of counsel's argument and the authorities relied upon. Yet, too few advocates make full use of this simple device to make their trial advocacy more persuasive. A skeleton argument is an invaluable device for the assistance of counsel in the presentation of a [[Page-174|closing argument]].
 
@@ -224,6 +230,7 @@ Draft heads or main points of argument should be prepared as the final stage in 
 Heads should be short. They are not supposed to be a written argument. A written argument proceeds on the basis that there will be no opportunity for oral argument. The heads are not supposed to take the place of your final or [[Page-174|closing argument]]. They are meant to be a summary of the main points of your argument. Points dealt with briefly in the heads are usually elaborated upon in the oral argument. Conversely, points that are covered in detail in the heads may be dealt with more tersely in the oral argument.
 
 The structure for heads of argument differs from case to case, but generally counsel would cover each of the steps set out in Table 21.1. It is also a good idea to ensure that your heads comply with the general principles set out in Supreme Court of Appeal Rule 10(3). (See chapter 25.)
+
 ## 21.5 Style and tactics in the closing argument
 
 Lawyers differ from each other as much as other people do. No two advocates will have exactly the same personality or talents. The skill or technique of persuasion is very personal to an individual advocate. It is therefore rather optimistic to expect that there should be only one way to present argument. Experienced counsel may adapt their style of argument to the particular judge before whom they appear. They take into account the character of the judge and the known or perceived predisposition of the judge. Nevertheless, in order to be persuasive, counsel has to apply certain basic principles:
@@ -274,7 +281,9 @@ If this book were to be used as a teaching guide or prescribed work for advocacy
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L20 - Special procedures|← Previous Chapter]] · Next: [[L22 - Motion Court|Next Chapter →]]

@@ -1,0 +1,640 @@
+{
+  "nodes": [
+    {
+      "id": "vault_dashboard_overview",
+      "label": "Dashboard Overview",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Entry point for the Litigation Skills digital vault, providing navigation to databases and chapter TOC"
+    },
+    {
+      "id": "vault_litigation_skills_book",
+      "label": "Litigation Skills for South African Lawyers",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Core text by Chris Marnewick SC that the vault is based on, 319 pages of litigation guidance"
+    },
+    {
+      "id": "vault_chapter_toc",
+      "label": "Chapters Table of Contents",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_pages_database",
+      "label": "Pages Database",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Database view for filtering all 319 pages of the litigation skills text"
+    },
+    {
+      "id": "vault_chapters_index",
+      "label": "Chapters Index",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_etiquette_checklists",
+      "label": "Etiquette Checklists",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_court_protocol",
+      "label": "Court Protocol",
+      "file_type": "rationale",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Governs workspace behavior with proper judicial address rules: My Lord/Lady in High Court, Your Worship in Magistrates Court"
+    },
+    {
+      "id": "vault_home",
+      "label": "South African Litigation Skills Course Vault",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Map of Content (MOC) serving as the main navigation hub for the vault"
+    },
+    {
+      "id": "vault_all_lectures",
+      "label": "All Lectures",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Ordered walkthrough of all 29 chapters of the litigation skills text"
+    },
+    {
+      "id": "vault_all_terms",
+      "label": "All Terms",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Alphabetical index of core litigation concepts"
+    },
+    {
+      "id": "vault_all_formulas",
+      "label": "All Formulas",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Master index of key legal tests and requirements"
+    },
+    {
+      "id": "vault_readme",
+      "label": "Litigation Skills Study Vault README",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Project documentation explaining vault structure and how to use Obsidian with the content"
+    },
+    {
+      "id": "vault_obsidian_app",
+      "label": "Obsidian",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Knowledge management application used to host the vault"
+    },
+    {
+      "id": "vault_dataview_plugin",
+      "label": "Dataview Plugin",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "blacksmithgu plugin that powers live tables in index notes"
+    },
+    {
+      "id": "vault_assets_readme_template",
+      "label": "README Template",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Generic template for creating course study vaults with Obsidian structure"
+    },
+    {
+      "id": "vault_spaced_repetition_plugin",
+      "label": "Spaced Repetition Plugin",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "st3v3nmw plugin for turning review cards into study queues"
+    },
+    {
+      "id": "vault_anki_export",
+      "label": "Anki Export",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Flashcards can export to Anki via Obsidian_to_Anki or Yanki"
+    },
+    {
+      "id": "vault_chapter_1",
+      "label": "Chapter 1 - Interviewing Clients and Witnesses",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_chapter_2",
+      "label": "Chapter 2 - Advising and Counselling Clients",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_chapter_3",
+      "label": "Chapter 3 - Alternatives to Litigation",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_chapter_4",
+      "label": "Chapter 4 - Preparing to Commence Action",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_chapter_5",
+      "label": "Chapter 5 - Function Form and Style of Pleadings",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_chapter_15",
+      "label": "Chapter 15 - Courtroom Protocol and Etiquette",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_litigation_skills_book",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_court_protocol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_pages_database",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapters_index",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_etiquette_checklists",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_5",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_dashboard_overview",
+      "target": "vault_chapter_15",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_all_lectures",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_all_terms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_all_formulas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_dashboard_overview",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_dataview_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_obsidian_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_readme",
+      "target": "vault_home",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_readme",
+      "target": "vault_all_lectures",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_readme",
+      "target": "vault_obsidian_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_readme",
+      "target": "vault_dataview_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_readme",
+      "target": "vault_litigation_skills_book",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_home",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_all_lectures",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_obsidian_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_spaced_repetition_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_dataview_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_assets_readme_template",
+      "target": "vault_anki_export",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_all_terms",
+      "target": "vault_all_formulas",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_court_protocol",
+      "target": "vault_chapter_15",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_readme",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vault_home",
+      "target": "vault_assets_readme_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "vault_core_navigation",
+      "label": "Core Navigation Components",
+      "nodes": [
+        "vault_home",
+        "vault_dashboard_overview",
+        "vault_all_lectures",
+        "vault_all_terms",
+        "vault_all_formulas"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md"
+    },
+    {
+      "id": "vault_obsidian_plugins",
+      "label": "Obsidian Plugin Ecosystem",
+      "nodes": [
+        "vault_dataview_plugin",
+        "vault_spaced_repetition_plugin",
+        "vault_obsidian_app"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md"
+    },
+    {
+      "id": "vault_chapter_sequence",
+      "label": "Litigation Skills Chapter Sequence",
+      "nodes": [
+        "vault_chapter_1",
+        "vault_chapter_2",
+        "vault_chapter_3",
+        "vault_chapter_4",
+        "vault_chapter_5",
+        "vault_chapter_15"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md"
+    }
+  ],
+  "input_tokens": 1970,
+  "output_tokens": 4573
+}

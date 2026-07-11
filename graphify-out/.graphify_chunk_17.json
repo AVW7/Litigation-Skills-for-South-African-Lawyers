@@ -1,0 +1,815 @@
+{
+  "nodes": [
+    {
+      "id": "pages_page_62_litigation_skills",
+      "label": "Litigation Skills - Page 62",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-62.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_63_drafting_statements",
+      "label": "Drafting Statements of Claim - Page 63",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-63.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_64_form_content_claims",
+      "label": "Form and Content of Claims - Page 64",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_65_setting_out_cause",
+      "label": "Setting Out the Cause of Action - Page 65",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_66_particulars_claim",
+      "label": "Particulars of Claim - Page 66",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-66.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_67_particulars_details",
+      "label": "Particulars of Claim Details - Page 67",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-67.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_68_claim_framework",
+      "label": "Claim Framework - Page 68",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-68.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_69_declaration",
+      "label": "Declaration - Page 69",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-69.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_7_introduction",
+      "label": "Introduction to Interviewing - Page 7",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-7.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_70_declaration_details",
+      "label": "Declaration Details - Page 70",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-70.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_71_counterclaim",
+      "label": "Counterclaim - Page 71",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-71.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_72_third_party_claim",
+      "label": "Third-Party Claim - Page 72",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-72.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_73_third_party_procedure",
+      "label": "Third-Party Procedure - Page 73",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-73.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_74_partnership_contribution",
+      "label": "Partnership Contribution - Page 74",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-74.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_75_interpleader_claim",
+      "label": "Interpleader Claim - Page 75",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-75.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_76_interpleader_details",
+      "label": "Interpleader Details - Page 76",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-76.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_77_provisional_sentence",
+      "label": "Provisional Sentence Summons - Page 77",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-77.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_78_charge_criminal",
+      "label": "The Charge in Criminal Proceedings - Page 78",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-78.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_79_chapter_7",
+      "label": "Chapter 7: Drafting Pleas - Page 79",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_8_meeting_client",
+      "label": "Meeting the Client - Page 8",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-8.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_80_preliminary_steps",
+      "label": "Preliminary Steps for Pleas - Page 80",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-80.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pages_page_81_form_content_plea",
+      "label": "Form and Content of the Plea - Page 81",
+      "file_type": "document",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-81.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_statement_of_claim",
+      "label": "Statement of Claim",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Fundamental document in civil proceedings that sets out who is claiming what, from whom, and why. Used generically to cover various forms including particulars of claim, declarations, counterclaims, third-party claims, and interpleader claims."
+    },
+    {
+      "id": "concept_cause_of_action",
+      "label": "Cause of Action",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "A set of facts giving rise to a claim recognised by law. Must traverse all material facts and can be classified as contractual, delictual, enrichment, statutory, or mixed claims."
+    },
+    {
+      "id": "concept_locus_standii",
+      "label": "Locus Standi",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Capacity to participate in legal proceedings. Primary sense refers to capacity to sue/be sued; secondary sense refers to legal relationship between plaintiff and subject-matter of claim."
+    },
+    {
+      "id": "concept_prayer",
+      "label": "Prayer",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Determines parties, jurisdiction, cause of action pleading, and relief wording. A statement of claim without a prayer is deficient and may be set aside."
+    },
+    {
+      "id": "concept_particulars_claim",
+      "label": "Particulars of Claim",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-66.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Document attached to combined summons for unliquidated claims. Must identify material facts (facta probanda) including plaintiff's interest, defendant's negligent act, causation, damage, and loss."
+    },
+    {
+      "id": "concept_declaration",
+      "label": "Declaration",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-69.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Full details of claim delivered when liquidated claim is defended. Must state whether contract is oral or written under Rule 18(6)."
+    },
+    {
+      "id": "concept_counterclaim",
+      "label": "Counterclaim",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-71.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Claim by defendant against plaintiff in existing proceedings. Resolves all outstanding claims between parties for final accounting."
+    },
+    {
+      "id": "concept_third_party_claim",
+      "label": "Third-Party Claim",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-72.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Used to join additional parties under Rule 13. Available for contribution claims, indemnity claims, or common issues. Creates separate lis between issuing party and third party."
+    },
+    {
+      "id": "concept_interpleader_claim",
+      "label": "Interpleader Claim",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-75.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Under Rule 58, for competing claims to same thing/money. Applicant claims no interest, does not collude, and offers to deal with property as court directs."
+    },
+    {
+      "id": "concept_liquid_document",
+      "label": "Liquid Document",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-77.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Document where defendant admits/acknowledges indebtedness for fixed amount. Must be written, signed, unconditional. Basis for provisional sentence summons under Rule 8."
+    },
+    {
+      "id": "concept_charge_criminal",
+      "label": "Criminal Charge",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-78.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Under Criminal Procedure Act 51 of 1977 (s 84), must set forth offence with particulars of time, place, person/property, and reasonably sufficient notice of charge nature."
+    },
+    {
+      "id": "concept_plea",
+      "label": "Plea",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Defendant's answer to plaintiff's statement of claim. States grounds of defence and material facts relied upon. Must distinguish between denial raising factual issue and defence introducing new matter "
+    }
+  ],
+  "edges": [
+    {
+      "source": "pages_page_63_drafting_statements",
+      "target": "concept_statement_of_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-63.md"
+    },
+    {
+      "source": "pages_page_64_form_content_claims",
+      "target": "concept_statement_of_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "pages_page_64_form_content_claims",
+      "target": "concept_locus_standii",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "pages_page_65_setting_out_cause",
+      "target": "concept_cause_of_action",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md"
+    },
+    {
+      "source": "pages_page_65_setting_out_cause",
+      "target": "concept_prayer",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md"
+    },
+    {
+      "source": "pages_page_66_particulars_claim",
+      "target": "concept_particulars_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-66.md"
+    },
+    {
+      "source": "pages_page_69_declaration",
+      "target": "concept_declaration",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-69.md"
+    },
+    {
+      "source": "pages_page_70_declaration_details",
+      "target": "concept_declaration",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-70.md"
+    },
+    {
+      "source": "pages_page_71_counterclaim",
+      "target": "concept_counterclaim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-71.md"
+    },
+    {
+      "source": "pages_page_72_third_party_claim",
+      "target": "concept_third_party_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-72.md"
+    },
+    {
+      "source": "pages_page_73_third_party_procedure",
+      "target": "concept_third_party_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-73.md"
+    },
+    {
+      "source": "pages_page_75_interpleader_claim",
+      "target": "concept_interpleader_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-75.md"
+    },
+    {
+      "source": "pages_page_76_interpleader_details",
+      "target": "concept_interpleader_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-76.md"
+    },
+    {
+      "source": "pages_page_77_provisional_sentence",
+      "target": "concept_liquid_document",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-77.md"
+    },
+    {
+      "source": "pages_page_78_charge_criminal",
+      "target": "concept_charge_criminal",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-78.md"
+    },
+    {
+      "source": "pages_page_79_chapter_7",
+      "target": "concept_plea",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md"
+    },
+    {
+      "source": "pages_page_80_preliminary_steps",
+      "target": "concept_plea",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-80.md"
+    },
+    {
+      "source": "pages_page_81_form_content_plea",
+      "target": "concept_plea",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-81.md"
+    },
+    {
+      "source": "concept_statement_of_claim",
+      "target": "concept_cause_of_action",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "concept_statement_of_claim",
+      "target": "concept_prayer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md"
+    },
+    {
+      "source": "concept_statement_of_claim",
+      "target": "concept_locus_standii",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "concept_particulars_claim",
+      "target": "concept_cause_of_action",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-66.md"
+    },
+    {
+      "source": "concept_declaration",
+      "target": "concept_statement_of_claim",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "concept_counterclaim",
+      "target": "concept_statement_of_claim",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "concept_third_party_claim",
+      "target": "concept_statement_of_claim",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-72.md"
+    },
+    {
+      "source": "concept_interpleader_claim",
+      "target": "concept_statement_of_claim",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-75.md"
+    },
+    {
+      "source": "concept_plea",
+      "target": "concept_statement_of_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md"
+    },
+    {
+      "source": "pages_page_7_introduction",
+      "target": "pages_page_8_meeting_client",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-7.md"
+    },
+    {
+      "source": "pages_page_62_litigation_skills",
+      "target": "pages_page_63_drafting_statements",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-62.md"
+    },
+    {
+      "source": "pages_page_63_drafting_statements",
+      "target": "pages_page_64_form_content_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-63.md"
+    },
+    {
+      "source": "pages_page_64_form_content_claims",
+      "target": "pages_page_65_setting_out_cause",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "source": "pages_page_65_setting_out_cause",
+      "target": "pages_page_66_particulars_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md"
+    },
+    {
+      "source": "pages_page_66_particulars_claim",
+      "target": "pages_page_67_particulars_details",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-66.md"
+    },
+    {
+      "source": "pages_page_67_particulars_details",
+      "target": "pages_page_68_claim_framework",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-67.md"
+    },
+    {
+      "source": "pages_page_68_claim_framework",
+      "target": "pages_page_69_declaration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-68.md"
+    },
+    {
+      "source": "pages_page_69_declaration",
+      "target": "pages_page_70_declaration_details",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-69.md"
+    },
+    {
+      "source": "pages_page_70_declaration_details",
+      "target": "pages_page_71_counterclaim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-70.md"
+    },
+    {
+      "source": "pages_page_71_counterclaim",
+      "target": "pages_page_72_third_party_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-71.md"
+    },
+    {
+      "source": "pages_page_72_third_party_claim",
+      "target": "pages_page_73_third_party_procedure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-72.md"
+    },
+    {
+      "source": "pages_page_73_third_party_procedure",
+      "target": "pages_page_74_partnership_contribution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-73.md"
+    },
+    {
+      "source": "pages_page_74_partnership_contribution",
+      "target": "pages_page_75_interpleader_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-74.md"
+    },
+    {
+      "source": "pages_page_75_interpleader_claim",
+      "target": "pages_page_76_interpleader_details",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-75.md"
+    },
+    {
+      "source": "pages_page_76_interpleader_details",
+      "target": "pages_page_77_provisional_sentence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-76.md"
+    },
+    {
+      "source": "pages_page_77_provisional_sentence",
+      "target": "pages_page_78_charge_criminal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-77.md"
+    },
+    {
+      "source": "pages_page_78_charge_criminal",
+      "target": "pages_page_79_chapter_7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-78.md"
+    },
+    {
+      "source": "pages_page_79_chapter_7",
+      "target": "pages_page_80_preliminary_steps",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md"
+    },
+    {
+      "source": "pages_page_80_preliminary_steps",
+      "target": "pages_page_81_form_content_plea",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-80.md"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_pleading_documents",
+      "label": "Pleading Documents Chapter 6",
+      "nodes": [
+        "concept_statement_of_claim",
+        "concept_particulars_claim",
+        "concept_declaration",
+        "concept_counterclaim",
+        "concept_third_party_claim",
+        "concept_interpleader_claim"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-64.md"
+    },
+    {
+      "id": "hyperedge_cause_of_action_elements",
+      "label": "Cause of Action Elements",
+      "nodes": [
+        "concept_cause_of_action",
+        "concept_prayer",
+        "concept_locus_standii"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-65.md"
+    },
+    {
+      "id": "hyperedge_plea_drafting_chapter7",
+      "label": "Plea Drafting Components Chapter 7",
+      "nodes": [
+        "concept_plea",
+        "pages_page_79_chapter_7",
+        "pages_page_80_preliminary_steps",
+        "pages_page_81_form_content_plea"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Pages/Page-79.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

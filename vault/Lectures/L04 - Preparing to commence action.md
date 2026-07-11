@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L4
 tags: [lecture, litigation-skills]
+
 ---
 # L04 — Preparing to commence action
 
@@ -19,7 +21,6 @@ graph LR
     C --> D["Successful Courtroom Execution"]
 ```
 *Figure: The problem-to-execution chain in this chapter.*
-
 
 ---
 
@@ -39,8 +40,7 @@ For [[Page-30|negotiation]] and [[Page-30|mediation]] the following rules and pr
 - Address all participants as Mr, Miss, Mrs or Ms, as required. In rare cases the parties and lawyers will know each other so well that this may be artificial; depart from the basic rule with caution, however.
 - Allow the client to make his or her own decisions.
 
-## Chapter 4
-Preparing to commence action
+## Chapter 4: Preparing to commence action
 
 Chance favours only the prepared mind.
 
@@ -50,7 +50,7 @@ The harder I practise the luckier I get.
 
 Gary Player, SA golf player
 
-# CONTENTS
+### CONTENTS
 
 4.1 Introduction
 4.2 Letter of demand or repudiation
@@ -64,7 +64,8 @@ Gary Player, SA golf player
 4.4.4 Finding and retaining experts
 4.5 Creating a trial folder
 4.6 Fees
-# 4.1 Introduction
+
+## 4.1 Introduction
 
 Once litigation is decided upon you have to prepare for it in a way that will ensure that you are able to cope with the process as a whole. While the litigation process itself is regulated fairly comprehensively by the rules of court and the law of evidence, there is much more preparation to be done before a summons can be issued or a plea delivered. Cases are often won or lost on the strength of the work done before the summons is issued. It is in this phase that astute lawyers come into their own. By the time the litigation gets underway, they are already fully prepared for almost anything that could happen during the proceedings.
 
@@ -72,7 +73,7 @@ Once litigation is decided upon you have to prepare for it in a way that will en
 
 Litigation is adversarial, like war. No general would enter a battle without preparing for it in advance - long before moving a single soldier or machine. Being prepared for war means having your soldiers armed and ready, your equipment serviced and in place and your supply lines open. You must also have sufficient funds and resources available to fight the battle for as long as it is likely to last. You would not put your soldiers at risk without giving an ultimatum to the enemy either. Lawyers and prosecutors plan for the litigation process in exactly the same way, even if the stakes are considerably lower.
 
-#### 4.2 Letter of demand or repudiation
+## 4.2 Letter of demand or repudiation
 
 It is customary to write a letter of demand to the prospective defendant before a summons is issued. There are many reasons why a letter of demand should precede the institution of an action:
 
@@ -100,7 +101,7 @@ A letter of repudiation is a response to a demand and will follow a similar form
 
 Letters of demand or repudiation should not be threatening or abusive. A threat is more likely to provoke resistance than result in a favourable response. Threats and abuse do not belong in the practice of law anyway. The letter has to be polite, professional and informative. Write every letter in the knowledge that it may end up before the court. The letter should also be persuasive. If you can avoid litigation by persuading the other side that your client has a good claim or defence you should do so. A letter of demand should therefore be regarded as an exercise in advocacy, not gamesmanship. Writing that the action *will be vigorously pursued* or that the action would be *vigorously defended* is unnecessary. If action were instituted it would be your duty to pursue or defend the claim. It will serve a better purpose to point out why the claim or defence is good.
 
-### 4.3 Preserving the evidence
+## 4.3 Preserving the evidence
 
 Cases are decided on the facts proved by the evidence and on the law applying to the proven facts. The law can be found in books: statutes, textbooks and law reports. The evidence, on the other hand, has to be found, then preserved and ultimately presented at the trial. To coin a phrase, the law will still be there tomorrow but the evidence may not. It is therefore extremely important to collect the evidence when it is still fresh and available. One of the first things a lawyer has to do when instructed in a litigation matter is to gather and preserve the evidence. Gathering the evidence is not only necessary for the purpose of eventually placing it before the court, it is also necessary for a proper analysis of the case and the client's rights and options. One simply cannot conduct litigation without evidence and without the evidence a lawyer's advice amounts to little more than guesswork.
 
@@ -109,7 +110,8 @@ However, it is not enough to gather the evidence while it is still fresh. There 
 There are two main kinds of evidence. They are *oral evidence*, which can be also given in writing in an affidavit, and *real evidence* in the form of exhibits. Each piece of evidence needs to be gathered in a way that will preserve its integrity and will ensure that it is still available at the time of the trial. In searching for further evidence, a lawyer will typically: (a) interview further witnesses and take statements from them; (b) take possession of exhibits; (c) visit and inspect crime or accident scenes; (d) arrange for photographs to be taken of persons, places or things; (e) arrange for plans and drawings to be prepared and models to be built and (f) arrange for persons or things to be subjected to expert examination.
 
 In criminal cases it is the function of the police to investigate the case and to collect and preserve the evidence. That does not mean that the prosecutor is not involved. To the contrary: A prosecutor will participate in the process very much like an advocate will do by guiding the investigation and the gathering of evidence.
-#### 4.3.1 Witnesses
+
+### 4.3.1 Witnesses
 
 The details of all persons who are identified as potential witnesses should be taken as soon as possible. Persons who appear to have little or nothing to contribute may later be essential witnesses, so their details need to be taken too. The important details are those that will allow the witness to be traced later, when needed. You should obtain the full names of the witness, work and home addresses, occupation as well as next of kin and their addresses. The witness should be encouraged to keep in contact with the firm representing the client and ideally given the firm's card stating the name of the lawyer handling the case.
 
@@ -124,7 +126,8 @@ Witnesses should be kept informed of developments and be told when the case is l
 Witnesses should also be informed if there is a possibility that they may be required for pre-trial consultations with counsel. Make arrangements for such consultations after you have ascertained what time and date suit the witness. Don't try to force the witness into your own schedule.
 
 Arrange transport for the witness as he or she is actually doing you a favour, and offer to do the same for the trial. It may even be necessary to arrange accommodation and some subsistence allowance for witnesses who live some distance away. In short, ensure that your witnesses are willing to give evidence and do not turn up grudgingly, merely because they have to.
-### 4.3.2 Exhibits
+
+## 4.3 Preserving the evidence
 
 Real exhibits are things (from the Latin res) which tend to prove or disprove a fact. For the sake of convenience, and because the rules deal with them differently, we draw a distinction between documentary exhibits (and similar records) on the one hand and other real exhibits on the other hand. They will be referred to as documents (or documentary exhibits) and things (or real exhibits) respectively. The discovery process relates only to documents but you should note that there is an extended definition of what we would normally understand to be a document.
 
@@ -160,7 +163,7 @@ It is important to remember that each document will have to be produced to the c
 
 It is not enough to gather the exhibits. Each exhibit has to be examined and analysed to determine its value to the facts of the case. Where necessary, experts will have to do the investigation and analysis.
 
-#### **4.4 Fact analysis and developing a preliminary theory of the case**
+## 4.4 Fact analysis and developing a preliminary theory of the case
 
 From the first interview with the client to the time a summons is issued you will be engaged in a process of evaluation of the evidence and the legal principles that can have a bearing on the case. This process is never really over and continues throughout the litigation, even as the trial proceeds from day to day. In the initial stages there may not be much to analyse and no clear indication what the claim or defence is, nor whether the claim or defence is good or bad. But that is to be expected. By the time a summons has to be issued or a plea delivered there has to be a fairly clear [[Page-54|cause of action]] (claim) or defence which can be supported by the available evidence.
 
@@ -168,7 +171,7 @@ The first opportunity for a prosecutor to evaluate the evidence and to direct th
 
 In either case the prosecutor handling the docket has to undertake a preliminary fact analysis and develop a preliminary theory of the case.
 
-##### **4.4.1 Initial fact analysis and legal research**
+### 4.4.1 Initial fact analysis and legal research
 
 Lawyers develop their individual ways to analyse the facts. While the process is called "fact analysis", it is really an evaluation of the available evidence. That evidence will include not only what witnesses can tell the court but also what the exhibits can contribute to the proof in the case. The exhibits are mostly documents. These, in turn, have to be analysed like all the other evidence in the case. So the fact analysis includes an analysis of the documents and other exhibits. One cannot prescribe one method for all lawyers or even one method for all types of cases. It can be done in stages, according to the system introduced in chapter 1 and explained in more detail in chapter 14, or it could be done in a less structured way, without separating the stages of the process. Many senior practitioners do the fact analysis almost automatically; they no longer have to sit down and work it out, step by step. Their experience enables them to get to the answer quickly. For a novice, a sound method leaving nothing to chance is required.
 
@@ -192,14 +195,15 @@ Once you have identified an initial [[Page-115|theory of the case]], you should 
 
 What can you do in the early stages of the case to prepare for the trial in such a way that you can advance and protect your theory of the case?
 
-#### 4.4.2 Taking further statements
+### 4.4.2 Taking further statements
 
 First of all, you can, and should, take statements from all the witnesses who can give helpful evidence. Let us revert to our client from chapter 1, Mrs Smith. If you have to prove that the light was red when the defendant entered the intersection, you can start by taking a statement from our client and her children. The witnesses do not have to be from your client's car. Fairly obvious avenues to pursue are to determine whether there were any bystanders who saw the collision who can help; whether anyone spoke to the defendant shortly after the collision and if so, what he said. It will help to know if the traffic lights were in working order. After all, your client, Mrs Smith, and the children saw the lights indicating green for them, but that does not necessarily mean they were red for the defendant. You should approach the city engineer to find out whether they have records that will indicate whether the lights were in working order and how they were phased. You can have an additional witness here, and you may later have to decide whether that person should be called as an [[Page-100|expert witness]]. In other words, you look for as much evidence as possible to prove that fact which you see as the cornerstone of the case, namely that the light was red when the defendant entered the intersection. You would naturally prefer eye-witnesses, admissions by the defendant and circumstantial evidence, all to the same effect.
 
 In the other case, where you have to defend the accused on a charge of murder, you will take statements of the accused and all the witnesses who can support his alibi. Furthermore, you will take a very hard look at the evidence of the prosecution witnesses: Who are the witnesses who place the accused at the scene of the murder? Are they reliable? Under what circumstances did they make their identification? How good is their eyesight? Did they know the accused previously? Are they biased against the accused? In this case you will not limit your efforts in trying to find evidence to support the alibi. You will also look for evidence or circumstances that can undermine the prosecution's theory. As you look deeper into the facts, you may modify your initial theory by perhaps restating it as "the accused could not have done it because he was elsewhere and there has been a mistaken identification".
 
 Seen from the prosecution's perspective, the investigating officer will be given guidance with regard to further investigations that may undermine the accused's potential defence.
-#### 4.4.3 Creating demonstrative exhibits
+
+### 4.4.3 Creating demonstrative exhibits
 
 You also have to turn your mind to the process of persuasion and will contemplate the following: What can you do to make it easier for your witnesses to tell their story so that your theory of the case will prevail? How can you present the evidence so that it will be easy for the judge to understand it? How can you present it so that it will have maximum impact? The answer is, by creating demonstrative exhibits. Three kinds of demonstrative exhibits are used most frequently, namely photographs, plans and drawings, and models. In the near future video-recordings will also become common.
 
@@ -219,7 +223,7 @@ The purpose of this type of evidence is to demonstrate or illustrate a fact or t
 
 Like all other evidence, [[Page-100|demonstrative exhibit]]s must be produced (proved) by witnesses unless there is an agreement that they may be produced by consent. It is therefore important to ensure that the witness who created the exhibit should be available to give evidence at the trial.
 
-#### 4.4.4 Finding and retaining experts
+### 4.4.4 Finding and retaining experts
 
 [[Page-100|Expert evidence]] could win the case for your client. An [[Page-100|expert witness]] is a person who, by virtue of his or her qualifications, training or experience, is allowed to express opinions which go to proving a fact in issue. However, the opinion must be based on facts that are either admitted or proved in the case. For example, a district surgeon may express an opinion on the question whether the accused was under the influence of alcohol at the time the accused drove a car. The doctor will have to justify that opinion by reference to proven or admitted facts.
 
@@ -243,7 +247,7 @@ An initial brief should be prepared for each expert, setting out -
 - the need to update the report as and when new facts emerge; and
 - the fee structure for the work to be done by the expert and who will be liable for it. (The usual rule is that the firm of attorneys briefing the expert is liable, unless there is a specific agreement to the contrary.)
 
-#### 4.5 Creating a trial folder
+## 4.5 Creating a trial folder
 
 By the time the trial date arrives, a fair amount of material will probably have been collected. The trial materials need to be organised in some logical system which works for all sorts of cases, criminal and civil, big and small, High Court and any other court. You need a system that allows you to find your way through the contents of your folder quickly, accurately and with confidence. This becomes more important at the trial where a bumbling lawyer scratching away through heaps of papers of no particular or apparent order will appear to be ill-prepared and unprofessional. The process of creating a trial folder starts as soon as it becomes clear that you are going to litigate, which could be as early as during the first interview.
 
@@ -293,7 +297,9 @@ Advocates do not keep files and use a different system. They use the trial-noteb
 ---
 
 ## Concepts in this lecture
+
 [[Locus Standi]]
 
 ## Navigation
+
 Prev: [[L03 - Alternatives to litigation|← Previous Chapter]] · Next: [[L05 - Function, form and style of pleadings|Next Chapter →]]

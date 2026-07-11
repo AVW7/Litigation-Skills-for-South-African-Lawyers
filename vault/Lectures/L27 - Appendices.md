@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L27
 tags: [lecture, litigation-skills]
+
 ---
 # L27 — Appendices
 
@@ -18,8 +20,8 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
@@ -48,60 +50,65 @@ A prosecutor has to note the verdict and sentence (in the event of a conviction)
 - If anything is to be learned from the case, discuss the issue with the investigating officer so that both of you may improve your respective skills and techniques.
 
 ## Appendix 1
+
 ### Client's statement
+
 #### Statement of Mrs Anne Smith
 
-|  Text of statement | Attorney's comments  |
+| Text of statement | Attorney's comments |
 | --- | --- |
-|  1 My full name is Anne Smith. My maiden name was O'Brien. | 1-2 Take copies of ID document and birth certificate for the file. Arrange for safekeeping of originals.  |
-|  2 I was born on [date] in [place and province]. |   |
-|  3 My residential address is [street address]. |   |
-|  4 I was married to my late husband, John William Smith, in community of property at [place] on [date]. We were still married at the time of his death on [date]. | 4-6 Take copies of marriage certificate, deceased's ID document and children's birth certificates for the file. Take deceased's ID document for safekeeping. Arrange for keeping of original birth certificates.  |
-|  5 Two children were born of our marriage. They are Anne-Elise Smith, a girl born on [date] and James Andrew Smith, a boy born on [date]. |   |
-|  6 My late husband was born on [date] in [place and province]. |   |
-|  7 On [date] at about 09:30 I was driving my car, a [year] Honda, registration no. NPN 2001 along Y Street, [town or city]. I was going from the beach |   |
+| 1 My full name is Anne Smith. My maiden name was O'Brien. | 1-2 Take copies of ID document and birth certificate for the file. Arrange for safekeeping of originals. |
+| 2 I was born on [date] in [place and province]. | |
+| 3 My residential address is [street address]. | |
+| 4 I was married to my late husband, John William Smith, in community of property at [place] on [date]. We were still married at the time of his death on [date]. | 4-6 Take copies of marriage certificate, deceased's ID document and children's birth certificates for the file. Take deceased's ID document for safekeeping. Arrange for keeping of original birth certificates. |
+| 5 Two children were born of our marriage. They are Anne-Elise Smith, a girl born on [date] and James Andrew Smith, a boy born on [date]. | |
+| 6 My late husband was born on [date] in [place and province]. | |
+| 7 On [date] at about 09:30 I was driving my car, a [year] Honda, registration no. NPN 2001 along Y Street, [town or city]. I was going from the beach | |
 
 ---
 
-|   | towards [*suburb*], travelling from East to West, in clear conditions. My husband was in the passenger seat and the children in the back seats. We all had our seatbelts on. | 8 | Get municipal plans of the intersection with an aerial photograph and the phasing sequence of the lights.  |
+| | towards [*suburb*], travelling from East to West, in clear conditions. My husband was in the passenger seat and the children in the back seats. We all had our seatbelts on. | 8 | Get municipal plans of the intersection with an aerial photograph and the phasing sequence of the lights. |
 | --- | --- | --- | --- |
-|  8 | As I approached the intersection with X Street, I saw the lights turn green in our favour. I intended to go through the intersection on to the freeway. I was doing about 50 kilometres per hour. The speed limit is 60. |  |   |
-|  Text of statement | Attorney's comments  |
+| 8 | As I approached the intersection with X Street, I saw the lights turn green in our favour. I intended to go through the intersection on to the freeway. I was doing about 50 kilometres per hour. The speed limit is 60. | | |
+
+| Text of statement | Attorney's comments |
 | --- | --- |
-|  9 As I entered the intersection, I noticed a car coming at high speed into the intersection from my right. The light must have been red for it. Before I could react, it struck my car on its right hand side. My car spun around and collided with its left hand side against the light pole on the SW corner of the intersection. | 9 Get the police accident report and plan/key.  |
-|  10 I was in a lot of pain. I could see that my husband was badly injured and the children were both unconscious. I lost consciousness and came to in hospital [*name of hospital*] the next day. I then learned that my husband had died at the scene and that both our children were in hospital with me but that both were out of danger. |   |
-|  11 I have since found out that the driver of the other car was Mr Joe Soap, a carpenter of [*street address*]. I met him at the Magistrates' Court. He was prosecuted for culpable homicide and I was due to give evidence but the case was remanded. | 11 Get charge sheet and criminal case record.  |
-|  12 My husband was a qualified systems engineer and he worked for Killmer Packaging in [*town or city*]. My husband earned good money in a stable job. He was paid R35 000.00 per month, plus an annual bonus equal to a month's salary, and his employer also contributed to a pension scheme and medical aid fund. He supported me and our children. He would have retired at age 65. | 12 Contact employer for details and evidence.  |
-|  13 I did not work as I have to look after our children and the household. I do not have any skills to enable me to find work anyway. And even if I were to have got a job, my salary would have been consumed by what we would have had to pay others to care for our children during the day. |   |
-|  14 The car belonged to me. I went to the Honda dealership in [*town or city*]. I wanted a car for myself. I bought a [*year*] Honda from them for cash. We had a short, written contract setting out the terms. I paid by cheque and was given a receipt. The dealer then handed me the keys and the car's registration documents and congratulated me on my purchase. I bought the car about a year ago, the price was R176 000.00. | 14 Take copies of returned cheque, receipt, contract and registration documents. Make arrangements to safeguard originals.  |
-|  15 After the collision the car was taken to Speedy Car Repairs in [*town or city*]. It is still there. They have repaired it but have refused to give it back to me because I am unable to pay them for the repairs. I have lodged a claim with my insurance company - the car was insured but they are not responding to my calls. There is also a dispute about the parts used for the repair job. The insurance company sent an assessor out and he insisted that second-hand parts be used for some of the repairs. The panelbeater disagreed and used new parts. | 15 Check status of car with Speedy's. Contact insurer about insurance claim. Get copy of policy and claim documents.  |
-|  Text of statement | Attorney's comments  |
+| 9 As I entered the intersection, I noticed a car coming at high speed into the intersection from my right. The light must have been red for it. Before I could react, it struck my car on its right hand side. My car spun around and collided with its left hand side against the light pole on the SW corner of the intersection. | 9 Get the police accident report and plan/key. |
+| 10 I was in a lot of pain. I could see that my husband was badly injured and the children were both unconscious. I lost consciousness and came to in hospital [*name of hospital*] the next day. I then learned that my husband had died at the scene and that both our children were in hospital with me but that both were out of danger. | |
+| 11 I have since found out that the driver of the other car was Mr Joe Soap, a carpenter of [*street address*]. I met him at the Magistrates' Court. He was prosecuted for culpable homicide and I was due to give evidence but the case was remanded. | 11 Get charge sheet and criminal case record. |
+| 12 My husband was a qualified systems engineer and he worked for Killmer Packaging in [*town or city*]. My husband earned good money in a stable job. He was paid R35 000.00 per month, plus an annual bonus equal to a month's salary, and his employer also contributed to a pension scheme and medical aid fund. He supported me and our children. He would have retired at age 65. | 12 Contact employer for details and evidence. |
+| 13 I did not work as I have to look after our children and the household. I do not have any skills to enable me to find work anyway. And even if I were to have got a job, my salary would have been consumed by what we would have had to pay others to care for our children during the day. | |
+| 14 The car belonged to me. I went to the Honda dealership in [*town or city*]. I wanted a car for myself. I bought a [*year*] Honda from them for cash. We had a short, written contract setting out the terms. I paid by cheque and was given a receipt. The dealer then handed me the keys and the car's registration documents and congratulated me on my purchase. I bought the car about a year ago, the price was R176 000.00. | 14 Take copies of returned cheque, receipt, contract and registration documents. Make arrangements to safeguard originals. |
+| 15 After the collision the car was taken to Speedy Car Repairs in [*town or city*]. It is still there. They have repaired it but have refused to give it back to me because I am unable to pay them for the repairs. I have lodged a claim with my insurance company - the car was insured but they are not responding to my calls. There is also a dispute about the parts used for the repair job. The insurance company sent an assessor out and he insisted that second-hand parts be used for some of the repairs. The panelbeater disagreed and used new parts. | 15 Check status of car with Speedy's. Contact insurer about insurance claim. Get copy of policy and claim documents. |
+| Text of statement | Attorney's comments |
 | --- | --- |
-|  16 I suffered the following injuries in the collision: a broken leg (left tibia and fibula), a head injury involving a loss of consciousness and significant concussion, a cut below my left eye resulting in permanent facial scarring (3 cm long scar running |   |
+| 16 I suffered the following injuries in the collision: a broken leg (left tibia and fibula), a head injury involving a loss of consciousness and significant concussion, a cut below my left eye resulting in permanent facial scarring (3 cm long scar running | |
 
 ---
 
-|  down left side of cheekbone) and bruises and abrasions on the right side of my body. According to the doctor I will have a permanent shortening of my leg by about 2cm which will cause me to walk with a limp and will require shoe raises for my left shoe. He said it would cost about R20.--00 per pair of shoes for the rest of my lifetime. (I buy new shoes twice a year.) | 16 Get full medical report.  |
+| down left side of cheekbone) and bruises and abrasions on the right side of my body. According to the doctor I will have a permanent shortening of my leg by about 2cm which will cause me to walk with a limp and will require shoe raises for my left shoe. He said it would cost about R20.--00 per pair of shoes for the rest of my lifetime. (I buy new shoes twice a year.) | 16 Get full medical report. |
 | --- | --- |
-|  17 My daughter suffered a broken pelvis and she is still in hospital in traction. She will be there for another three weeks. The doctor says she will never be able to take part in sport again. She was doing ballet and had been in the KZN cross-country squad for her age group the previous three years. The doctor also said that she will need physiotherapy (three sessions per week) for a period of nine months after discharge from hospital and that it will cost R420.00 per session. | 17 Get full medico/legal report. Speak to physiotherapist for a report when treatment starts.  |
-|  18 My son suffered a head injury. He is also still in hospital. It appears to me that he has some sort of partial paralysis on the left side of his body. The doctor describes his injury as a diffuse head injury involving prolonged loss of consciousness and a permanent loss of some intellectual and motor function. I do not know precisely what that means but understand that my son will probably need remedial teaching and will perhaps have to be trained for special employment for handicapped people. Before the collision he was a healthy little boy who coped easily with his schoolwork and liked all sports. I have spoken to an occupational therapist, Mrs Duyn Barnard, who has examined my son and told me that he will need occupational therapy for two years at a cost of R1 750.00 per month and that he will be disabled in the sense of being unable to compete on even terms in the labour market. She estimates his disability at 33%. | 18 Get full medico/legal report. Get full report from the OT.  |
-|  19 In [year] my husband took out an insurance policy on his life with ABC Limited. The policy was for R750 000.00 and the premium of R750.00 was paid out of his salary every month. On [date] he signed the policy over to me. He said at the time that if anything happened to him I would be able to get the insurance money quickly to keep me and the children until the estate had been finalised. He had a bad experience with his mother's estate which took years to sort out. I have copies of the policy and the cession document. There were other policies too but they were not ceded to me. My brother-in-law, Peter Smith, is the executor. He has been appointed by the Master in terms of my husband's will. Peter has the originals of all the policies. He says the policies fall in the estate and that he does not think I can have the money now. He says I must get a court order or the Master's consent. Peter's address is [street address]. We get on well and Peter and his wife have been very supportive since the accident. | 19 Copies of policy signed by Joseph James for ABC at [place] and cession signed by John William Smith on [date] at [place] taken. Get copy of letters of executorship and estate documents.  |
-|  Text of statement | Attorney's comments  |
+| 17 My daughter suffered a broken pelvis and she is still in hospital in traction. She will be there for another three weeks. The doctor says she will never be able to take part in sport again. She was doing ballet and had been in the KZN cross-country squad for her age group the previous three years. The doctor also said that she will need physiotherapy (three sessions per week) for a period of nine months after discharge from hospital and that it will cost R420.00 per session. | 17 Get full medico/legal report. Speak to physiotherapist for a report when treatment starts. |
+| 18 My son suffered a head injury. He is also still in hospital. It appears to me that he has some sort of partial paralysis on the left side of his body. The doctor describes his injury as a diffuse head injury involving prolonged loss of consciousness and a permanent loss of some intellectual and motor function. I do not know precisely what that means but understand that my son will probably need remedial teaching and will perhaps have to be trained for special employment for handicapped people. Before the collision he was a healthy little boy who coped easily with his schoolwork and liked all sports. I have spoken to an occupational therapist, Mrs Duyn Barnard, who has examined my son and told me that he will need occupational therapy for two years at a cost of R1 750.00 per month and that he will be disabled in the sense of being unable to compete on even terms in the labour market. She estimates his disability at 33%. | 18 Get full medico/legal report. Get full report from the OT. |
+| 19 In [year] my husband took out an insurance policy on his life with ABC Limited. The policy was for R750 000.00 and the premium of R750.00 was paid out of his salary every month. On [date] he signed the policy over to me. He said at the time that if anything happened to him I would be able to get the insurance money quickly to keep me and the children until the estate had been finalised. He had a bad experience with his mother's estate which took years to sort out. I have copies of the policy and the cession document. There were other policies too but they were not ceded to me. My brother-in-law, Peter Smith, is the executor. He has been appointed by the Master in terms of my husband's will. Peter has the originals of all the policies. He says the policies fall in the estate and that he does not think I can have the money now. He says I must get a court order or the Master's consent. Peter's address is [street address]. We get on well and Peter and his wife have been very supportive since the accident. | 19 Copies of policy signed by Joseph James for ABC at [place] and cession signed by John William Smith on [date] at [place] taken. Get copy of letters of executorship and estate documents. |
+| Text of statement | Attorney's comments |
 | --- | --- |
-|  20 My husband used to give me half his salary each month for the household expenses. I used R 4 500.00 to pay the bond on the house and the rest for the following: food and groceries, school fees and allied expenses, clothing and uniforms, domestic and gardener's salaries, petrol and services for our cars, saving for our annual holiday, presents and unforeseen expenses. My husband used the balance of his salary to invest and some to spend on himself. I did not buy clothing for him, for example. | 20 Work out maintenance claim and contact executor. Get copies of household accounts and records. Arrange for safekeeping of originals.  |
-|  21 The priority for me at the moment is to get some money from the estate to pay the household expenses and the hospital and medical accounts. |   |
+| 20 My husband used to give me half his salary each month for the household expenses. I used R 4 500.00 to pay the bond on the house and the rest for the following: food and groceries, school fees and allied expenses, clothing and uniforms, domestic and gardener's salaries, petrol and services for our cars, saving for our annual holiday, presents and unforeseen expenses. My husband used the balance of his salary to invest and some to spend on himself. I did not buy clothing for him, for example. | 20 Work out maintenance claim and contact executor. Get copies of household accounts and records. Arrange for safekeeping of originals. |
+| 21 The priority for me at the moment is to get some money from the estate to pay the household expenses and the hospital and medical accounts. | |
 
 ---
 
-|  When I spoke to my brother-in-law about this he said that there was nothing he could do; he has to finalise all the estate accounts and report to the Master before he can distribute the estate. We are on good terms and he has told me he will do whatever is legal for him to do with the estate. | 21. Get copies of medical and hospital accounts and statements.  |
+| When I spoke to my brother-in-law about this he said that there was nothing he could do; he has to finalise all the estate accounts and report to the Master before he can distribute the estate. We are on good terms and he has told me he will do whatever is legal for him to do with the estate. | 21. Get copies of medical and hospital accounts and statements. |
 | --- | --- |
-|  22 My husband and I made a joint will some years ago - I do not have a copy - and we left the whole of our estate to each other subject to the condition that everything must go to the children on the death of the survivor. The will has been lodged with the Master by my brother-in-law. | 22 Get copy of the will.  |
-|  23 You have now explained to me that I have the following potential claims - (a) a claim for the repair costs of my car; (b) a claim for my own injuries and for the loss of support I have suffered as a result of my husband's death; (c) claims by the children for their injuries and loss of support; (d) a claim for the proceeds of the insurance policy; and (e) a possible claim for maintenance for me and the children out of the estate and pending its finalisation. |   |
-|  24 I appoint X Y and Z Partnership as my attorneys to act on my and my children's behalf in investigating these claims and pursuing them against anyone who is liable. |   |
-|  *Signature* Anne Smith [place] [date] |   |
+| 22 My husband and I made a joint will some years ago - I do not have a copy - and we left the whole of our estate to each other subject to the condition that everything must go to the children on the death of the survivor. The will has been lodged with the Master by my brother-in-law. | 22 Get copy of the will. |
+| 23 You have now explained to me that I have the following potential claims - (a) a claim for the repair costs of my car; (b) a claim for my own injuries and for the loss of support I have suffered as a result of my husband's death; (c) claims by the children for their injuries and loss of support; (d) a claim for the proceeds of the insurance policy; and (e) a possible claim for maintenance for me and the children out of the estate and pending its finalisation. | |
+| 24 I appoint X Y and Z Partnership as my attorneys to act on my and my children's behalf in investigating these claims and pursuing them against anyone who is liable. | |
+| *Signature* Anne Smith [place] [date] | |
 
 ## Appendix 2
+
 Trial preparation exercise
+
 ### 1 Brief to counsel
 
 #### 1.1 Instructions to counsel
@@ -135,13 +142,14 @@ Anne-Elise Quayle
 Attorney for the accused
 
 [date]
-## 1.2 Annexure to Form J15
 
-*The State v Justin Graham*
+#### 1.2 Annexure to Form J15
+
+##### *The State v Justin Graham*
 
 The accused is charged with the crime of theft, in that the accused, on or about 12 December [year] and at Three Rings Sports, [town or city], within the Magisterial district of [town or city], unlawfully stole a backpack to the value of R150.00, the property or in the lawful possession of Three Rings Sports.
 
-## 1.3 Section 115 Statement
+#### 1.3 Section 115 Statement
 
 IN THE MAGISTRATES' COURT FOR THE DISTRICT OF [name of district]
 
@@ -175,7 +183,7 @@ J Graha
 
 Accused
 
-## 1.4 Statement of Irene Delamere
+#### 1.4 Statement of Irene Delamere
 
 I am an adult female, store detective, and I am employed by Three Rings Sports in [town or city].
 On 12 December [year] at about 10:15 in the morning I was on duty in the store. I saw the accused, whom I now know to be Mr Justin Graham, arrive. He was carrying an old backpack over his shoulder. I followed him around in the store and saw him taking a backpack from the display rack. He looked around furtively and then walked over to another rack where different types of bags were being displayed and, after handling one or two of them, he started walking out of the store. I noticed that he was still carrying the store's backpack and that the price tag was no longer visible. He walked straight past the cashier at the till point without paying for the backpack.
@@ -192,11 +200,11 @@ It is the policy of Three Rings Sports to prosecute shoplifters, and we therefor
 
 prosecuted.
 
-*I Delamere*
+Signed: *I Delamere*
 
 Statement taken by me, constable S. Reddy, no 1325475 on this 12th December [year] at [town or city] Police Station.
 
-### 1.5 Statement of Simon Reddy
+#### 1.5 Statement of Simon Reddy
 
 I am a constable in the South African Police Service.
 
@@ -213,44 +221,44 @@ I warned the accused in terms of the Judges Rules and after he had indicated tha
 
 Later the same day I took a statement from Ms Delamere, entered in the docket as 'A1'.
 
-*S Reddy*
+Signed: *S Reddy*
 
 Constable no 1325475
 
-### 1.6 Statement of Justin Graham
+#### 1.6 Statement of Justin Graham
 
-|  Statement | Timeline  |
+| Statement | Timeline |
 | --- | --- |
-|  I am 22 years old and live with my parents at [street address]. On 12 December [year] I went to Three Rings Sports to buy a new bag as my old backpack was torn. I had a newspaper in my backpack. I was on my way to a job interview with XYZ Fashions. They had advertised for a storeman. I had been unemployed for a time and decided that I had sound enough qualifications for that position. My interview was scheduled for 12:00. In my backpack was the newspaper with the advertisement. I had kept it because there were other job advertisements that I intended to follow up if I did not get the job at XYZ. I wanted a new bag rather than a backpack, as I thought a bag might be more in keeping with the position I was seeking. I wanted the new bag for the interview to make a good impression. I intended to throw the old backpack away as soon as I had found a new bag. | personal particulars 12/12/[year] Three Rings Sports - why? old backpack job advert. wanted new bag why? intention with old one?  |
-|  I found the rack in the store with backpacks and handled some of them. I found them interesting. I had some time to kill and was in no hurry. I must have put my own backpack on the floor, but cannot recall that. I moved on to the bag counter and found nothing to my liking. I looked around for a shop assistant but there was no one around. I then left the store, intending to look for a bag elsewhere. When I was outside, I was stopped by the store detective. I had not seen her before. She pointed to the backpack slung over my shoulder and asked if I had paid for it. When I looked at it, I noticed to my horror that it was one of the backpacks I had examined inside the store. It felt just like mine. I think I said it was a | at display rack handled - how (demonstrate) old backpack on floor looked for shop-asst. left - why? stopped asked if had paid noticed mistake  |
+| I am 22 years old and live with my parents at [street address]. On 12 December [year] I went to Three Rings Sports to buy a new bag as my old backpack was torn. I had a newspaper in my backpack. I was on my way to a job interview with XYZ Fashions. They had advertised for a storeman. I had been unemployed for a time and decided that I had sound enough qualifications for that position. My interview was scheduled for 12:00. In my backpack was the newspaper with the advertisement. I had kept it because there were other job advertisements that I intended to follow up if I did not get the job at XYZ. I wanted a new bag rather than a backpack, as I thought a bag might be more in keeping with the position I was seeking. I wanted the new bag for the interview to make a good impression. I intended to throw the old backpack away as soon as I had found a new bag. | personal particulars 12/12/[year] Three Rings Sports - why? old backpack job advert. wanted new bag why? intention with old one? |
+| I found the rack in the store with backpacks and handled some of them. I found them interesting. I had some time to kill and was in no hurry. I must have put my own backpack on the floor, but cannot recall that. I moved on to the bag counter and found nothing to my liking. I looked around for a shop assistant but there was no one around. I then left the store, intending to look for a bag elsewhere. When I was outside, I was stopped by the store detective. I had not seen her before. She pointed to the backpack slung over my shoulder and asked if I had paid for it. When I looked at it, I noticed to my horror that it was one of the backpacks I had examined inside the store. It felt just like mine. I think I said it was a | at display rack handled - how (demonstrate) old backpack on floor looked for shop-asst. left - why? stopped asked if had paid noticed mistake |
 
 ---
 
-|  mistake. I don't know how I had made the mistake of taking that instead of my own. | told her it was a mistake  |
+| mistake. I don't know how I had made the mistake of taking that instead of my own. | told her it was a mistake |
 | --- | --- |
-|  I told her that I had thought it was my own backpack I was carrying but she was not interested in what I had to say. She said it was unfortunately the store's policy to prosecute and told me to wait for the police. | told me about store policy  |
-|  I don't really know how I made the mistake. I am colour-blind. My type of colour-blindness makes it impossible for me to get a driver's licence because I cannot distinguish between brown and red. Our family doctor knows all about it. His name is Dr Stone. I can get you his phone number. | colour-blind  |
-|  Statement | Timeline  |
+| I told her that I had thought it was my own backpack I was carrying but she was not interested in what I had to say. She said it was unfortunately the store's policy to prosecute and told me to wait for the police. | told me about store policy |
+| I don't really know how I made the mistake. I am colour-blind. My type of colour-blindness makes it impossible for me to get a driver's licence because I cannot distinguish between brown and red. Our family doctor knows all about it. His name is Dr Stone. I can get you his phone number. | colour-blind |
+| Statement | Timeline |
 | --- | --- |
-|  To me the two backpacks look the same. I had a really good look at the police station and could not see any significant differences between them. I had not noticed any difference in weight or texture as the store's backpack was filled with crumpled paper. | comment on backpacks weight texture appearance  |
-|  I have been advised that according to the store detective the price tag was not visible when I left the store with the store's backpack. The tag was attached to one of the slings that are supposed to go around one's shoulders. I simply did not notice the tag when I slung the bag over my shoulder. The tag must have somehow been caught between the sling and my body. | explanation for price tag?  |
-|  I once had to sit out during an important rugby match when the opposition team arrived and it turned out that they wore brown jerseys which I could not distinguish from my school's red ones. I became the joke of the school as a result of that. | past incidents?  |
-|  I never intended to steal the backpack. I did not even realise I had it with me, rather than my own backpack. | recap: intention?  |
+| To me the two backpacks look the same. I had a really good look at the police station and could not see any significant differences between them. I had not noticed any difference in weight or texture as the store's backpack was filled with crumpled paper. | comment on backpacks weight texture appearance |
+| I have been advised that according to the store detective the price tag was not visible when I left the store with the store's backpack. The tag was attached to one of the slings that are supposed to go around one's shoulders. I simply did not notice the tag when I slung the bag over my shoulder. The tag must have somehow been caught between the sling and my body. | explanation for price tag? |
+| I once had to sit out during an important rugby match when the opposition team arrived and it turned out that they wore brown jerseys which I could not distinguish from my school's red ones. I became the joke of the school as a result of that. | past incidents? |
+| I never intended to steal the backpack. I did not even realise I had it with me, rather than my own backpack. | recap: intention? |
 
 J Graham
 
 31 January [year]
 
-### 1.7 Medico-legal report of Dr I Stone
+#### 1.7 Medico-legal report of Dr I Stone
 
-|  Statement | Timeline  |
+| Statement | Timeline |
 | --- | --- |
-|  I am a registered medical practitioner and practise as such at [practice address]. | personal & professional particulars  |
-|  The accused, Justin Graham, is well known to me. In fact, I delivered him when he was born 22 years ago and he has been a patient ever since. | accused patient since birth  |
-|  Justin suffers from colour-blindness. We found this out when he first went to school. It came as no surprise to me as his older brother had already been diagnosed with the same type of colour-blindness. | colour-blind when diagnosed?  |
-|  Their mother is a carrier of the gene which causes colour-blindness. The condition is hereditary. The defective gene is carried by females only but the condition affects only male offspring of the gene-carrier, (subject to quite extraordinary exceptions, of which only a handful have been recorded). | Mother carries gene males affected how manifested?  |
-|  The defect manifests itself in an inability to distinguish certain colours. The most common is the inability to distinguish between red and brown. Sufferers of this type of colour-blindness can, typically, not distinguish between the red and amber traffic lights and colours at that end of the colour spectrum. It is called *protanopia*. To a person suffering from *protanopia*, like Justin, reds and browns are mostly indistinguishable from each other. | reds/browns effect on accused?  |
-|  Colour-blindness is incurable. | *protanopia* curable? Show exhibits: comment?  |
+| I am a registered medical practitioner and practise as such at [practice address]. | personal & professional particulars |
+| The accused, Justin Graham, is well known to me. In fact, I delivered him when he was born 22 years ago and he has been a patient ever since. | accused patient since birth |
+| Justin suffers from colour-blindness. We found this out when he first went to school. It came as no surprise to me as his older brother had already been diagnosed with the same type of colour-blindness. | colour-blind when diagnosed? |
+| Their mother is a carrier of the gene which causes colour-blindness. The condition is hereditary. The defective gene is carried by females only but the condition affects only male offspring of the gene-carrier, (subject to quite extraordinary exceptions, of which only a handful have been recorded). | Mother carries gene males affected how manifested? |
+| The defect manifests itself in an inability to distinguish certain colours. The most common is the inability to distinguish between red and brown. Sufferers of this type of colour-blindness can, typically, not distinguish between the red and amber traffic lights and colours at that end of the colour spectrum. It is called *protanopia*. To a person suffering from *protanopia*, like Justin, reds and browns are mostly indistinguishable from each other. | reds/browns effect on accused? |
+| Colour-blindness is incurable. | *protanopia* curable? Show exhibits: comment? |
 
 Ivan Stone MB ChB
 
@@ -290,51 +298,53 @@ The accused has admitted taking the backpack, its ownership and its value (in th
 Unlawfulness cannot seriously be disputed and would have to be conceded at the trial. The accused clearly acted without consent and none of the other defences that would render his actions lawful is present at a *prima facie* level.
 
 The sole issue is therefore whether the accused acted with requisite *mens rea* for theft, in particular, whether the accused knew that he was acting unlawfully.
+
 ### 2.2 Fact analysis
 
-|  Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact  |
+| Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact |
 | --- | --- | --- |
-|  3. *mens rea* (the accused intended to deprive the owner permanently of the backpack and knew that he was acting unlawfully) | 3.A = Prosecution facts 3.B = Defence facts |   |
-|   | 3.A.1 The accused entered the store with an old backpack. | Delamere: "He was carrying an old backpack . . ." Exhibit: Old backpack  |
-|   | 3.A.2 He took a backpack from the store's display rack. | Delamere: "I . . . saw him taking a backpack from the display rack . . ." Exhibit: Store's backpack  |
+| 3. *mens rea* (the accused intended to deprive the owner permanently of the backpack and knew that he was acting unlawfully) | 3.A = Prosecution facts 3.B = Defence facts | |
+| | 3.A.1 The accused entered the store with an old backpack. | Delamere: "He was carrying an old backpack . . ." Exhibit: Old backpack |
+| | 3.A.2 He took a backpack from the store's display rack. | Delamere: "I . . . saw him taking a backpack from the display rack . . ." Exhibit: Store's backpack |
 
 ---
 
-|   | 3.A.3 He behaved suspiciously. | Delamere: 'He looked around furtively . . .' (#1)  |
+| | 3.A.3 He behaved suspiciously. | Delamere: 'He looked around furtively . . .' (#1) |
 | --- | --- | --- |
-|   | 3.A.4 He then looked at other bags. | Delamere: 'He walked over . . . and, after handling one or two of them, . . .' (#2)  |
-|   | 3.A.5 He walked past the cashier at the till point without paying. | Delamere: 'He walked straight past the cashier . . . without paying for the backpack.'  |
-|   | 3.A.6 When he was stopped outside the store, he admitted his guilt by apologising. | Delamere: 'He . . . said: 'I am sorry.''  |
-|   | 3.A.7 He did not have enough money on him to pay for the backpack he had taken. | Delamere: 'The value of the backpack is R150.00.' Exhibit: Price tag (#3) Reddy: 'I searched . . . found R45.00 in his trousers pocket.' Exhibit: Prisoners' Property Register (#4)  |
-|   | 3.B.8 The two backpacks are very similar in weight and texture. | Graham: 'I had a really good look . . . and could not see any significant differences between them. I had not noticed any difference in weight or texture.' Exhibits: Both backpacks  |
-|   | 3.B.9 Both contained only paper. | Graham: 'The store's backpack was filled with crumpled paper.' 'In my backpack was the newspaper . . .' Exhibits: Both backpacks  |
-|  Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact  |
+| | 3.A.4 He then looked at other bags. | Delamere: 'He walked over . . . and, after handling one or two of them, . . .' (#2) |
+| | 3.A.5 He walked past the cashier at the till point without paying. | Delamere: 'He walked straight past the cashier . . . without paying for the backpack.' |
+| | 3.A.6 When he was stopped outside the store, he admitted his guilt by apologising. | Delamere: 'He . . . said: 'I am sorry.'' |
+| | 3.A.7 He did not have enough money on him to pay for the backpack he had taken. | Delamere: 'The value of the backpack is R150.00.' Exhibit: Price tag (#3) Reddy: 'I searched . . . found R45.00 in his trousers pocket.' Exhibit: Prisoners' Property Register (#4) |
+| | 3.B.8 The two backpacks are very similar in weight and texture. | Graham: 'I had a really good look . . . and could not see any significant differences between them. I had not noticed any difference in weight or texture.' Exhibits: Both backpacks |
+| | 3.B.9 Both contained only paper. | Graham: 'The store's backpack was filled with crumpled paper.' 'In my backpack was the newspaper . . .' Exhibits: Both backpacks |
+| Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact |
 | --- | --- | --- |
-|   | 3.B.10 The accused wanted a bag, not another backpack. | Graham: 'I wanted a new bag rather than a backpack . . .'  |
-|   | 3.B.11 The accused is red/brown colour blind. | Graham: 'I am colour blind . . . cannot distinguish between brown and red.' Dr Stone: 'Justin suffers from colour blindness.' 'To a person suffering from *protanopia*, like Justin, reds and browns are mostly indistinguishable from each other.'  |
-|   | 3.B.12 The store's backpack is red. | Reddy: 'The one was red . . .' Exhibit: Store's backpack (#5)  |
-|   | 3.B.13 The accused's old backpack is 'rusty brown'. | Reddy: 'The other backpack was a rusty brown colour . . .' Exhibit: Old backpack (#6)  |
-|   | 3.B.14 The accused said he had thought that he was carrying his own backpack. | Graham: 'I told her that . . . but she was not interested . . .'  |
-|   | 3.B.15 The store detective believed him. | Graham: '. . . said it was unfortunately the store's policy to prosecute . . .'  |
+| | 3.B.10 The accused wanted a bag, not another backpack. | Graham: 'I wanted a new bag rather than a backpack . . .' |
+| | 3.B.11 The accused is red/brown colour blind. | Graham: 'I am colour blind . . . cannot distinguish between brown and red.' Dr Stone: 'Justin suffers from colour blindness.' 'To a person suffering from *protanopia*, like Justin, reds and browns are mostly indistinguishable from each other.' |
+| | 3.B.12 The store's backpack is red. | Reddy: 'The one was red . . .' Exhibit: Store's backpack (#5) |
+| | 3.B.13 The accused's old backpack is 'rusty brown'. | Reddy: 'The other backpack was a rusty brown colour . . .' Exhibit: Old backpack (#6) |
+| | 3.B.14 The accused said he had thought that he was carrying his own backpack. | Graham: 'I told her that . . . but she was not interested . . .' |
+| | 3.B.15 The store detective believed him. | Graham: '. . . said it was unfortunately the store's policy to prosecute . . .' |
 
 ### 2.3 Fact analysis continued: Admissibility, reliability and sufficiency issues
 
-#1 Opinion evidence, but probably admissible as the kind of conclusion ordinary people can draw from the behaviour of other persons.
+\#1 Opinion evidence, but probably admissible as the kind of conclusion ordinary people can draw from the behaviour of other persons.
 
-#2 'One or two'? She may not have kept the accused under observation continuously. Cross-examine.
+\#2 'One or two'? She may not have kept the accused under observation continuously. Cross-examine.
 
-#3 The prosecutor will probably use the price tag as evidence. Might as well admit 3.A.7. Get the client's consent first.
+\#3 The prosecutor will probably use the price tag as evidence. Might as well admit 3.A.7. Get the client's consent first.
 
-#4 The prosecutor may use the Prisoners' Property Register to prove the amount the accused had on him when
+\#4 The prosecutor may use the Prisoners' Property Register to prove the amount the accused had on him when
 
 ---
 
 searched at the police station. Should not be in issue. See #3.
 
-#5 and 6 Establish precise colours before appearance and confirm in cross-examination of prosecution witnesses.
+\#5 and 6 Establish precise colours before appearance and confirm in cross-examination of prosecution witnesses.
 
 **Note:** A character witness could help the accused's case somewhat, but we should look for someone who is not a friend or a relative. Perhaps a friend or classmate from his school days; someone who knows he is colour-blind and can recount incidents where this has resulted in embarrassment for the accused. Ask the attorney to make inquiries. Make doubly sure that the accused does not have previous convictions or some other skeletons in his cupboard. The prosecution may retaliate if character evidence is given.
-## 2.4 Theory of the case
+
+### 2.4 Theory of the case
 
 (1) The issue is going to be whether the accused had the necessary *mens rea* for theft.
 (2) The accused's taking of the backpack without paying for it was the result of an understandable mistake on his part, rather than the intention to steal.
@@ -342,7 +352,7 @@ searched at the police station. Should not be in issue. See #3.
 (4) The prosecution may contend that it was all a pretence; that he intended to steal.
 (5) The problem with that suggestion is that there is no reason to reject the accused's version - the burden rests upon the State to prove that his version is false, beyond reasonable doubt.
 
-## 2.5 Trial tactics
+### 2.5 Trial tactics
 
 ### Strengths and weaknesses of the accused's case
 
@@ -372,6 +382,7 @@ Justin Graham (accused)
 Dr Stone (expert)
 
 Character witness?
+
 ### Timelines
 
 As indicated in the margins of the statements of:
@@ -382,7 +393,7 @@ Dr Ivan Stone
 
 ---
 
-## Prosecution witnesses
+### Prosecution witnesses
 
 Anticipate that the prosecutor will call Irene Delamere and perhaps also Sgt Reddy, to give evidence in accordance with their statements.
 
@@ -414,7 +425,7 @@ PUT:
 
 Explained very carefully to the accused that he did not have to make a statement.
 
-## Draft opening statement
+### Draft opening statement
 
 This is a case of an unfortunate but understandable mistake rather than deliberate wrongdoing.
 
@@ -445,7 +456,7 @@ His family doctor, Dr Ivan Stone, will give evidence confirming that the accused
 
 The accused did not intend to take the store's backpack. He did not even realise he had it. He therefore lacked the necessary *mens rea* for theft.
 
-## Draft closing argument
+### Draft closing argument
 
 The issue is *animus furandi*.
 
@@ -486,6 +497,7 @@ He is not a dishonest person.
 The accused's conduct was not so unreasonable that the conclusion can be drawn that he must have known that he had the store's backpack. (See S v Sam supra.)
 
 The accused must therefore be acquitted.
+
 ## 2.3 Memorandum to instructing attorney
 
 The State v Justin Graham
@@ -754,7 +766,9 @@ interlocutory application see Interlocutory application
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L26 - Epilogue|← Previous Chapter]] · Next: [[L28 - Index|Next Chapter →]]

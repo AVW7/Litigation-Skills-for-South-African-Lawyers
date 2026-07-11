@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L11
 tags: [lecture, litigation-skills]
+
 ---
 # L11 — Preparing the case for trial: Advice on evidence
 
@@ -19,7 +21,6 @@ graph LR
     C --> D["Successful Courtroom Execution"]
 ```
 *Figure: The problem-to-execution chain in this chapter.*
-
 
 ---
 
@@ -41,6 +42,7 @@ Affidavits contain the evidence of the witnesses. It is important that the evide
 - Strictly observe the formalities of the oath.
 
 # Chapter 11
+
 Preparing the case for trial: [[Page-92|Advice on evidence]]
 
 CONTENTS
@@ -71,6 +73,7 @@ CONTENTS
 11.7.2 Advising on the evidence for prosecutors
 11.7.3 Advising on the evidence for defence counsel
 11.8 Protocol and ethics
+
 ---
 
 ## 11.1 Introduction
@@ -122,6 +125,7 @@ State in one paragraph what the case is about. This immediately focuses attentio
 - This is an action for damages under the provisions of the Road Accident Fund Act 56 of 1996.
 - In this action the consultant (the plaintiff) has sued the defendant for damages for breach of contract. It is said that a stud bull by the name of ZINZAN, which was sold by the defendant to the consultant in [date], is sterile.
 - This is an admiralty action in rem for the enforcement of a claim for damage to cargo.
+
 ### 11.3.2 A discussion of the pleadings
 
 A close scrutiny of the pleadings is necessary to identify the issues so that the preparation can concentrate on the true issues. Before that is done, a number of other questions need to be addressed:
@@ -157,13 +161,13 @@ You can then list and paraphrase the issues as follows:
 
 It may become apparent, from an examination of the discovered documents and perusal of the statements of the witnesses, that some of the issues you have identified can be eliminated by way of admissions. Keep this in mind for the part of the advice dealing with the Rule 37 conference.
 
-### **11.3.4 A discussion of the burden of proof and the duty to begin**
+### 11.3.4 A discussion of the burden of proof and the duty to begin
 
 The sufficiency of the evidence is determined by the amount and quality of the available evidence, the incidence of the onus and the standard of proof. Determine and state who bears the onus of proof on each issue. Then consider which of the parties has the duty to begin (Rule 39(11)). This is an important exercise. You could summarise your conclusion as follows:
 
 - "The plaintiff bears the onus of proof on all the issues listed above except issues X, Y and Z. The ordinary standard of proof in civil cases, namely a preponderance of probability applies. Because the plaintiff bears the onus in respect of some of the issues, the plaintiff is bound to commence adducing evidence first."
 
-### **11.3.5 A discussion of the oral evidence available to the plaintiff (or defendant)**
+### 11.3.5 A discussion of the oral evidence available to the plaintiff (or defendant)
 
 By this stage of the analysis you will have a fair idea of what the case is about. You will know what the issues are and who bears the onus of proof in relation to each of them. It is now necessary to make a preliminary assessment of the witnesses, the available documentary evidence and the sufficiency of the available evidence, having regard to the onus and standard of proof. If you were to conclude that there is insufficient evidence to sustain your client's claim or defence, this is the time to explain that to the client so that further evidence may be obtained or negotiations may be opened with the other side. The available evidence should be considered in detail, in the context of the case as a whole.
 
@@ -177,7 +181,7 @@ You should analyse the evidence of each witness and summarise the salient parts 
 
 If the evidence is insufficient in any respect or incomplete, or if new evidence has come to light which another witness can and should comment on, advise on the steps to be taken to ensure that the evidence is complete. Ensure also that the necessary witnesses will be available at the hearing. Advise on the need for subpoenas. If additional witnesses are necessary, advise on the need to take statements from them and note the topics on which their evidence is necessary.
 
-### **11.3.6 A discussion of the documentary evidence available to the plaintiff (or defendant)**
+### 11.3.6 A discussion of the documentary evidence available to the plaintiff (or defendant)
 
 A systematic approach is necessary in order for you to cope with documentary evidence; the more documents there are in the case, the greater the need for a good system.
 
@@ -194,26 +198,26 @@ documentary evidence could be done according to the scheme discussed in chapter 
 - You may need to divide the documents so that there are separate bundles, for example, a correspondence bundle, a contract documents bundle, a bundle of medical reports, another for invoices and similar statements, a bundle for expert summaries and reports, and a bundle of plans and photographs. The bigger the case, the more important it is to have separate bundles.
 - Keep in mind that the process of persuasion requires that a difficult case should be kept simple, for counsel, for the witnesses and for the judge who has to hear the case. Plan the documentary evidence to be used at the trial with this principle in mind.
 
-### **11.3.7 The need for conferences and inspections**
+### 11.3.7 The need for conferences and inspections
 
 It is preferable for counsel to interview and brief the witnesses well before the hearing. Advise the client which witnesses you want to interview before the hearing. In some instances an inspection *in loco* will be necessary to enable you to be fully acquainted with the scene and with the facts. When in doubt, always go on an inspection. It could mean the difference between winning and losing the case. It is often helpful to take the witnesses to the scene to explain there what happened.
 
 Do you think the court may understand the facts or evidence more clearly if the court were to hold an inspection during the trial? Do you have witnesses who can best convey to the court what they saw and experienced if they could explain that at the scene? Advise on the arrangements to be made (the inspection may have to be held far from the seat of the court) and list this aspect for discussion at the Rule 37 conference. (See chapter 12 for more detail on consultations and inspections.)
 
-### **11.3.8 The need for independent examination of persons or things by experts**
+### 11.3.8 The need for independent examination of persons or things by experts
 
 Rule 36(1) provides for an examination of the plaintiff claiming damages arising from bodily injuries by a medical adviser nominated by the defendant and Rule 36(2) sets out the procedures for such an examination. If you require the plaintiff in an MVA action to be examined by an independent specialist to give evidence on the defendant's behalf, you will have to comply with these provisions. Advise on the procedures set out in Rule 36(2) to (5).
 
 The same principle applies under Rule 36(5A) to a plaintiff who claims damages for loss of support where that plaintiff's state of health is a relevant factor in determining the amount of his or her loss. If you act for the plaintiff, advise the plaintiff on the procedures to expect, and in particular, advise the plaintiff that he or she should not discuss the merits of the case (the collision or underlying event giving rise to the injuries) with the plaintiff's medical advisers.
 Rule 36(6) and (7) have similar provisions for the examination of property (movable and immovable) where the nature or condition of the property may be relevant to any issue in the case.
 
-### **11.3.9 Expert witnesses and summaries of their opinions**
+### 11.3.9 Expert witnesses and summaries of their opinions
 
 Rule 36(9) requires that notice has to be given of the intention to call an expert witness and that such notice has to be given at least 15 days before the trial. A summary of the opinions and reasons of the expert also has to be served on the other side at least ten days before the trial.
 
 Consider whether any evidence to be given is of an expert nature and if so, ensure that your client knows that these notices and summaries have to be provided. It is often necessary to consult with the expert witnesses in order to be able to draft the relevant summaries and if you think that is the advisable course, tell your client what needs to be done. If your client needs assistance in order to brief an appropriate expert, deal with the matter in the [[Page-92|advice on evidence]]. (See chapter 12 for a more detailed discussion on the procurement of [[Page-100|expert evidence]].)
 
-### **11.3.10 Plans, diagrams, photographs and models**
+### 11.3.10 Plans, diagrams, photographs and models
 
 ---
 
@@ -223,22 +227,22 @@ In many cases there are plans or diagrams and even photographs already in existe
 
 Consider and advise generally whether there are exhibits in the nature of plans, diagrams, photographs or models to be used at the trial. Further consider whether demonstrative exhibits of this type should be created for the trial. Advise generally on the way to procure and preserve this type of evidence. (See chapter 12 with regard to the creation of demonstrative exhibits.)
 
-### **11.3.11 Rule 37 procedures**
+### 11.3.11 Rule 37 procedures
 
 Rule 37(4) requires the parties to exchange what amount to summaries of the matters they intend to discuss at the Rule 37 conference. Advise and draft the necessary notice if required to do so. Advise on the admissions to be made at the Rule 37 conference and also on the admissions to be sought from the other party. Advise on the prospects of a settlement and how a settlement could be achieved if that is at all deemed feasible.
 Consider the requirements of Rule 37 carefully and advise on any aspect of the rule that may be applicable to the case at hand. Make a list of the matters to be raised at the conference and try to anticipate the other side's approach at the conference. Remember that some divisions of the High Court have special Rule 37 procedures. Ensure that your side will be able to comply strictly with those requirements; otherwise your case may lose its place on the roll.
 
-### **11.3.12 A discussion of the prospects of success and the quantum of the claim**
+### 11.3.12 A discussion of the prospects of success and the quantum of the claim
 
 It is not essential to advise the client on the prospects of success when doing an [[Page-92|advice on evidence]] but it is a helpful tool in your preparation for trial to do so. It is, however, your duty to advise the client at the earliest opportunity if you think that his or her prospects of success are poor. If you have come to that conclusion, advise the client fully, either in the advice on evidence or in a consultation.
 
 The process of considering a suitable settlement and what the client's prospects of success are may require an assessment of the quantum of his claim, especially in a damages action. At this juncture you may make a preliminary assessment of the court's likely award and advise the client appropriately.
 
-### **11.3.13 General comments on the state of preparation for trial**
+### 11.3.13 General comments on the state of preparation for trial
 
 You can make general remarks in conclusion. The advice given at this stage is usually in the nature of practical advice. For example, if you are briefed in a matrimonial action and it appears to you that the parties may benefit from counselling, you may mention that in the advice. Or in a partnership dispute you may conclude that the partners are in the process of ruining an otherwise prosperous business by the litigation and suggest that they go to [[Page-30|mediation]] instead. If you think the case should be settled, this is the time to say so. The client should not receive that kind of advice for the first time at the doors of the court.
 
-### **11.3.14 A run through the rules**
+### 11.3.14 A run through the rules
 
 There are other rules that may apply to the case:
 
@@ -258,11 +262,11 @@ should be reconsidered. Will it help to make an interlocutory application for a 
 - Rule 61: Will an interpreter be necessary for any of the witnesses? If so, advise on the arrangements to be made to acquire the services of a reliable interpreter. If it appears that the other side also needs an interpreter, advise that they should be approached for the purpose of reaching an agreement that an interpreter be employed. Advise that the parties should share the initial expense on the basis that the costs of employing the interpreter will be costs in the cause.
 - Are there any practice directives (issued by the Judge-President of the division concerned) which need to be complied with? If so, advise on the steps that are necessary to ensure compliance with them.
 
-# **11.3.15 Date and place of signature and name of counsel/attorney**
+### 11.3.15 Date and place of signature and name of counsel/attorney
 
 It is customary to sign the [[Page-92|advice on evidence]] and to date it.
 
-# **11.4 Request for further particulars**
+## 11.4 Request for further particulars
 
 Further particulars for the purpose of preparing for trial may be requested under Rule 21, not less than 20 days before the trial. The request has to be signed by an advocate or an attorney with the right of audience in the High Court, or the client (who must be a natural person). The request adopts the format of the other pleadings. While the purpose of further particulars is to enable the party requesting them to prepare for trial that does not mean that the other party could be subjected to a series of questions in the nature of [[Page-145|cross-examination]]. Be aware of the fact that the court may make punitive orders for costs with regard to requests for particulars that constitute an abuse of the process of the court.
 
@@ -270,40 +274,40 @@ In the following example the plaintiff had sued a garage for the value of his ca
 
 **Table 11.1** Request for further particulars for trial
 
-|  Par | Text of request for particulars | Comment  |
+| Par | Text of request for particulars | Comment |
 | --- | --- | --- |
-|   | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT |   |
-|   | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL |   |
-|  Par | Text of request for particulars | Comment  |
+| | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT | |
+| | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL | |
+| Par | Text of request for particulars | Comment |
 | --- | --- | --- |
-|  1 | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen? | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination!  |
-|   | Dated at [place] this .. day of .., [year]. |   |
-|   | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] |   |
-|   | To: The Registrar [address] |   |
+| 1 | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen? | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination! |
+| | Dated at [place] this .. day of .., [year]. | |
+| | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] | |
+| | To: The Registrar [address] | |
 
 ---
 
-And to: P X & Company Plaintiff's Attorneys  
+And to: P X & Company Plaintiff's Attorneys
 [address and details as per Rule 6(5)(d)]
 
 The response was short and to the point:
 
 **Table 11.2** Further particulars
 
-|  1. AD PARAGRAPH 4(b) OF THE PLEA The plaintiff - (i) failed to look after the spare keys to the car; (ii) allowed the spare keys to the car to fall into the hands of the person who unlawfully removed it from the defendant's premises.  |
+| 1. AD PARAGRAPH 4(b) OF THE PLEA The plaintiff - (i) failed to look after the spare keys to the car; (ii) allowed the spare keys to the car to fall into the hands of the person who unlawfully removed it from the defendant's premises. |
 | --- |
 
 The further particulars were signed by counsel and an attorney and addressed to the registrar and the plaintiff's attorneys. So everyone knew what to expect on this issue.
 
 The formal style of a declaration or a plea would be used in the further particulars. An inadequate response could be followed by an application to compel and, in an extreme case, dismissal of the claim or [[Page-75|striking out]] of the defence. Further particulars for trial bind the party who supplied them. Take care that they accurately reflect the facts as given by your client.
 
-### 11.5 Rule 37(4) notice and reply
+## 11.5 Rule 37(4) notice and reply
 
 Rule 37(4) requires every party to furnish every other party with a list of admissions required, enquiries he or she will direct at them at the Rule 37 conference, and any other matters to be raised at the conference. This notice has to be given at least ten days before the conference. The practice with regard to Rule 37 conferences differs in the various divisions of the High Court. Those differences are also apparent in the different *(see page 201)* styles adopted in respect of Rule 37(4) notices. In some divisions judges pay scant regard to Rule 37(4) and are quite content to hear cases on the basis that counsel would have made use of the provisions of Rule 37(4) if it was necessary. In other divisions judges take an opposite view and scrutinise the Rule 37 procedures with a fine tooth comb in order to determine whether, in their opinion, the case is ready to proceed. Generally it would be sufficient to show that a serious attempt has been made to eliminate unnecessary disputes of fact. A Rule 37(4) notice could serve a useful purpose if it is drafted with the intention of obtaining meaningful admissions of fact or admissions with regard to documents.
 
 The format of a Rule 37(4) notice and response is the same as for a request for further particulars and its answer respectively.
 
-### 11.6 Expert notices and summaries
+## 11.6 Expert notices and summaries
 
 A party may not, except with the leave of the court, call a witness to give [[Page-100|expert evidence]] without first having given notice of the intention to do so (Rule 36(9)(a)) and having delivered a summary of the expert's opinions and the reasons for his or her opinions (Rule 36(9)(b)). The purpose of the notice is to alert the opponent to the fact that expert evidence will be given and to prevent the opponent from being caught by surprise at the trial. An appropriate notice will give the name and address of the expert and even a copy of his or her *curriculum vitae*. Armed with that information, you could investigate the background, knowledge and experience of the proposed expert and even employ experts in the same field of endeavour to give evidence for your side.
 
@@ -312,28 +316,29 @@ The purpose of the summary is also to prevent surprise. It goes further in that 
 The following example of an expert summary relates to an expropriation action involving a dispute about the development potential of the expropriated property. The plaintiff contends that the land had the potential to be developed into a golf course estate. The defendant contends that the plaintiff would not have been given town-planning approval because of environmental concerns. The notice under Rule 36(9)(a) and the summary under Rule 36(9)(b) are combined. Care has to be taken that the time limits of both rules are complied with and that the annexure to the summary provides both the opinions to be expressed by the expert and his reasons for holding those opinions.
 **Table 11.3** Expert summary in terms of Rule 36(9)(b)
 
-|  Par | Text of summary | Comment  |
+| Par | Text of summary | Comment |
 | --- | --- | --- |
 
 ---
 
-|   | [COURT DESCRIPTION as prescribed] Case no 669/[year] In the matter between: Sydney Hart PLAINTIFF and The Municipality of West Suburbia DEFENDANT |   |
+| | [COURT DESCRIPTION as prescribed] Case no 669/[year] In the matter between: Sydney Hart PLAINTIFF and The Municipality of West Suburbia DEFENDANT | |
 | --- | --- | --- |
-|   | SUMMARY IN TERMS OF RULE 36(9)(b) |   |
-|  1 | The plaintiff intends to call Mr. JOHN FULLERTON as an [[Page-100|expert witness]] at the trial. |   |
-|  2 | The qualifications and experience of the witness are as follows: He has a BSc degree in biological sciences from the University of Cape Town. The degree was awarded to him in [year] with distinction and with a special merit for outstanding work in environmental biology. |   |
-|  2.1 | He has a BSc Honours degree (year) in ecology and an MSc [year] in urban and regional planning from the same university. |   |
-|  2.2 | The Honours Degree was pursued through a scholarship awarded by the CSIR, and researched aspects of the ecology and management of small urban nature reserves. The Masters Degree was awarded on the basis of applied research done on the behalf of the Wildlife Society of Southern Africa and the Town and Regional Planning Commission. | 1 The qualifications and experience of the witness are not strictly required by the rule.  |
-|  2.3 | His services have been called upon in environmental, planning and management issues by a wide range of central government, provincial and local government, quasi-government bodies, research institutes, non-government development agencies, private companies and individuals. (Full details are set out in his curriculum vitae, which is Appendix 1 of his report, Annexure "A" to this summary.) | 2 However, the expert is most likely going to be required to give evidence of his expertise and it may be good advocacy to set his qualifications and experience out in a document which the judge will have reference to repeatedly during the trial and also while writing a judgment.  |
-|  2.4 |  | 3 If the witness has a written CV, it may as well be attached as a separate annexure.  |
-|  Par | Text of summary | Comment  |
+| | SUMMARY IN TERMS OF RULE 36(9)(b) | |
+| 1 | The plaintiff intends to call Mr. JOHN FULLERTON as an [[Page-100\|expert witness]] at the trial. | |
+| 2 | The qualifications and experience of the witness are as follows: He has a BSc degree in biological sciences from the University of Cape Town. The degree was awarded to him in [year] with distinction and with a special merit for outstanding work in environmental biology. | |
+| 2.1 | He has a BSc Honours degree (year) in ecology and an MSc [year] in urban and regional planning from the same university. | |
+| 2.2 | The Honours Degree was pursued through a scholarship awarded by the CSIR, and researched aspects of the ecology and management of small urban nature reserves. The Masters Degree was awarded on the basis of applied research done on the behalf of the Wildlife Society of Southern Africa and the Town and Regional Planning Commission. | 1 The qualifications and experience of the witness are not strictly required by the rule. |
+| 2.3 | His services have been called upon in environmental, planning and management issues by a wide range of central government, provincial and local government, quasi-government bodies, research institutes, non-government development agencies, private companies and individuals. (Full details are set out in his curriculum vitae, which is Appendix 1 of his report, Annexure "A" to this summary.) | 2 However, the expert is most likely going to be required to give evidence of his expertise and it may be good advocacy to set his qualifications and experience out in a document which the judge will have reference to repeatedly during the trial and also while writing a judgment. |
+| 2.4 | | 3 If the witness has a written CV, it may as well be attached as a separate annexure. |
+| Par | Text of summary | Comment |
 | --- | --- | --- |
-|  3 | Mr FULLERTON will express the opinion that the potential for development of Rem of Lot 1606 of West Suburbia could be realised by a golf course estate type of development as proposed by Mr. JOHANNES VLOK. The development potential can be realised in such a way that the reasonable requirements of the owner, the environment, environmental protection agencies, local, regional and central government organisations and the site itself could be met. | 1 Notwithstanding that the written report which contains the full opinion is to be attached, the main conclusions of the expert should be emphasised in the summary itself.  |
-|  4 | Mr FULLERTON will further express the opinion that the necessary permission for the development to proceed would in all likelihood have been granted. | 2 The crucial principle is that the opinions and reasons should be adequately set out in the annexure. It is of no use to attach a report that does not comply with the rule.  |
-|  5 | His opinions and reasons are fully set out in Annexure "B". | 3 If for some reason you do not want to give the other side a copy of the expert's report, you will have to set out the reasons and opinions in the body of the summary.  |
-|  6 | His opinions and reasons are fully set out in Annexure "B". | 4 In that case you will have to ensure that the expert agrees with the way you have paraphrased his or her opinions and reasons.  |
-|   | DATED AT [place] this .. day of .., [year]. signature Attorney's name (printed) WAREINGS INC. Plaintiff's attorneys [address and details as per Rule 6(5)(b)] |   |
-|   | To: The Registrar High Court Masonic Grove DURBAN And to: P X & Company Defendant's Attorneys [address and details as per Rule 6(5)(d)] Ref. 60/006/afs |   |
+| 3 | Mr FULLERTON will express the opinion that the potential for development of Rem of Lot 1606 of West Suburbia could be realised by a golf course estate type of development as proposed by Mr. JOHANNES VLOK. The development potential can be realised in such a way that the reasonable requirements of the owner, the environment, environmental protection agencies, local, regional and central government organisations and the site itself could be met. | 1 Notwithstanding that the written report which contains the full opinion is to be attached, the main conclusions of the expert should be emphasised in the summary itself. |
+| 4 | Mr FULLERTON will further express the opinion that the necessary permission for the development to proceed would in all likelihood have been granted. | 2 The crucial principle is that the opinions and reasons should be adequately set out in the annexure. It is of no use to attach a report that does not comply with the rule. |
+| 5 | His opinions and reasons are fully set out in Annexure "B". | 3 If for some reason you do not want to give the other side a copy of the expert's report, you will have to set out the reasons and opinions in the body of the summary. |
+| 6 | His opinions and reasons are fully set out in Annexure "B". | 4 In that case you will have to ensure that the expert agrees with the way you have paraphrased his or her opinions and reasons. |
+| | DATED AT [place] this .. day of .., [year]. signature Attorney's name (printed) WAREINGS INC. Plaintiff's attorneys [address and details as per Rule 6(5)(b)] | |
+| | To: The Registrar High Court Masonic Grove DURBAN And to: P X & Company Defendant's Attorneys [address and details as per Rule 6(5)(d)] Ref. 60/006/afs | |
+
 The opinions and reasons could be given in the summary itself rather than in a report attached to the notice. In such a case care has to be taken that the salient facts upon which the expert based his or her opinion are also
 
 ---
@@ -342,22 +347,22 @@ provided in the summary. If the facts are not given in summary form, it will be 
 
 **Table 11.4** Expert summary in damages action
 
-|  The witness will express the following opinions for the reasons which are indicated:  |
+| The witness will express the following opinions for the reasons which are indicated: |
 | --- |
-|  (a) *Opinion:* The reasonable and necessary cost of repair of the plaintiff's car is R250 000.00, being R150 000.00 for labour and R100 000.00 for parts.  |
-|  *Reasons:*  |
-|  (i) The repair work would take a qualified and competent panelbeater at least 75 hours. This is an estimate based on the nature and number of the parts to be removed, the time it would take to do so, and the time it would take to fit and repaint the replacement parts.  |
-|  (ii) The market rate of remuneration for a qualified panelbeater, which accords with the rate prescribed by the Department of Manpower, is R400.00 per hour.  |
-|  (iii) The parts which needed to be replaced because they could not be repaired would have cost at least R100 000.00, being the manufacturer's price for the replacement parts. See the attached price list from the manufacturer.  |
-|  **Note:** Details of each item and its price ought to be given.  |
-|  (b) *Opinion:* The market value of the plaintiff's car before the collision was at least R750 000.00.  |
-|  *Reasons:*  |
-|  (i) Cars of the same make and model sold on the second-hand market for R750 000.00 or more at the time of the collision, if they were in reasonably good condition.  |
-|  (ii) The plaintiff's car, on a visual inspection after the collision, appeared to have been in a reasonably good condition prior to the collision. This is supported by the car's service records and by what the plaintiff has informed the witness.  |
-|  (c) *Opinion:* The market value of the plaintiff's car after the collision was no more than R50 000.00.  |
-|  *Reasons:*  |
-|  (i) The estimated repair cost of R250 000.00 would have had to be spent before the car could be roadworthy.  |
-|  (ii) A buyer would have taken that into account when negotiating a price for the car in its damaged condition.  |
+| (a) *Opinion:* The reasonable and necessary cost of repair of the plaintiff's car is R250 000.00, being R150 000.00 for labour and R100 000.00 for parts. |
+| *Reasons:* |
+| (i) The repair work would take a qualified and competent panelbeater at least 75 hours. This is an estimate based on the nature and number of the parts to be removed, the time it would take to do so, and the time it would take to fit and repaint the replacement parts. |
+| (ii) The market rate of remuneration for a qualified panelbeater, which accords with the rate prescribed by the Department of Manpower, is R400.00 per hour. |
+| (iii) The parts which needed to be replaced because they could not be repaired would have cost at least R100 000.00, being the manufacturer's price for the replacement parts. See the attached price list from the manufacturer. |
+| **Note:** Details of each item and its price ought to be given. |
+| (b) *Opinion:* The market value of the plaintiff's car before the collision was at least R750 000.00. |
+| *Reasons:* |
+| (i) Cars of the same make and model sold on the second-hand market for R750 000.00 or more at the time of the collision, if they were in reasonably good condition. |
+| (ii) The plaintiff's car, on a visual inspection after the collision, appeared to have been in a reasonably good condition prior to the collision. This is supported by the car's service records and by what the plaintiff has informed the witness. |
+| (c) *Opinion:* The market value of the plaintiff's car after the collision was no more than R50 000.00. |
+| *Reasons:* |
+| (i) The estimated repair cost of R250 000.00 would have had to be spent before the car could be roadworthy. |
+| (ii) A buyer would have taken that into account when negotiating a price for the car in its damaged condition. |
 
 The summary should always give the expert's reasons separately.
 
@@ -406,7 +411,9 @@ Where the pressures under which you have to operate as prosecutor are such that 
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L10 - Drafting applications|← Previous Chapter]] · Next: [[L12 - Preparing the case for trial: Assembling the evidence|Next Chapter →]]

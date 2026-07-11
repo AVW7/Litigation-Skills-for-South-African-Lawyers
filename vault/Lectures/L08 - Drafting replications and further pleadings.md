@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L8
 tags: [lecture, litigation-skills]
+
 ---
 # L08 — Drafting replications and further pleadings
 
@@ -19,7 +21,6 @@ graph LR
     C --> D["Successful Courtroom Execution"]
 ```
 *Figure: The problem-to-execution chain in this chapter.*
-
 
 ---
 
@@ -41,8 +42,7 @@ Accused
 - It is inappropriate and (arguably) unethical to deny an allegation if the defendant does not know whether it is true or not and has no contrary evidence. The plea should rather state that the allegation is not admitted.
 - The defendant's counsel is also obliged to consider alternative dispute resolution methods.
 
-# Chapter 8
-Drafting replications and further pleadings
+## Chapter 8: Drafting replications and further pleadings
 
 CONTENTS
 
@@ -82,25 +82,25 @@ WHEREFORE the plaintiff joins issue. (This is the customary prayer to a replicat
 Estoppel is a defence which is often raised in a replication. Let us assume that the plea in a claim for the purchase price of goods denies that a contract was concluded between the parties on the basis that the person alleged to have represented the defendant lacked the authority to represent the defendant. The plaintiff may wish to respond to that defence by pleading that the defendant is estopped from denying the authority of that person. The estoppel will then have to be raised in the replication. This could be done as follows:
 **Table 8.1** Replication
 
-|  Par | Text of pleading | Comment  |
+| Par | Text of pleading | Comment |
 | --- | --- | --- |
-|   | CASE HEADING |   |
-|   | PLAINTIFF'S REPLICATION |   |
-|  1 | 1.1 Over a period of eighteen months immediately preceding the conclusion of the contract and in a number of transactions, Alan Smith ('Smith') with the knowledge of the defendant, represented the defendant in concluding similar contracts to that relied upon in the particulars of claim with the plaintiff. 1.2 The defendant honoured those contracts as if Smith had been authorised to represent it in concluding contracts of such a nature. 1.3 The defendant by its conduct thus represented to the plaintiff that Smith had the necessary authority to conclude contracts with the plaintiff on its behalf. 1.4 The plaintiff, relying upon the truth of that representation, acted to its detriment by concluding the contract sued upon with the defendant and delivering the goods sold thereby to Smith. | 1 The facts in answer to the plea have to be set out in the style of all pleadings. That means separate paragraphs for distinct allegations. The paragraphs have to be numbered. (See Rule 18.) 2 A certain amount of legal research would have had to be done before the replication could be drafted. 3 Is negligence a requirement for an estoppel of this nature? Legal research will supply the answer.  |
-|  Par | Text of pleading | Comment  |
-| --- | --- | --- |
-|  2 | In the premises the defendant is estopped from denying that Smith had been duly authorised by it to conclude the contract sued upon. |   |
-|   | WHEREFORE the plaintiff joins issue. | 1 The replication must have a prayer. 2 'WHEREFORE the plaintiff joins issue' is sufficient. It is not necessary to repeat the prayer contained in the statement of claim.  |
-|   | Dated at [place] this [date] |   |
-|   | Signature Counsel's name (printed) Plaintiff's Counsel |   |
-|   | Signature Attorney's name (printed) Plaintiff's attorney [ address and details as per Rule 6(5)(b)] To: The Registrar [ address] And to: Defendant's attorneys |   |
+| | CASE HEADING | |
+| | PLAINTIFF'S REPLICATION | |
+| 1 | 1.1 Over a period of eighteen months immediately preceding the conclusion of the contract and in a number of transactions, Alan Smith ('Smith') with the knowledge of the defendant, represented the defendant in concluding similar contracts to that relied upon in the particulars of claim with the plaintiff. 1.2 The defendant honoured those contracts as if Smith had been authorised to represent it in concluding contracts of such a nature. 1.3 The defendant by its conduct thus represented to the plaintiff that Smith had the necessary authority to conclude contracts with the plaintiff on its behalf. 1.4 The plaintiff, relying upon the truth of that representation, acted to its detriment by concluding the contract sued upon with the defendant and delivering the goods sold thereby to Smith. | 1 The facts in answer to the plea have to be set out in the style of all pleadings. That means separate paragraphs for distinct allegations. The paragraphs have to be numbered. (See Rule 18.) 2 A certain amount of legal research would have had to be done before the replication could be drafted. 3 Is negligence a requirement for an estoppel of this nature? Legal research will supply the answer. |
+| 2 | In the premises the defendant is estopped from denying that Smith had been duly authorised by it to conclude the contract sued upon. | |
+| | WHEREFORE the plaintiff joins issue. | 1 The replication must have a prayer. 2 'WHEREFORE the plaintiff joins issue' is sufficient. It is not necessary to repeat the prayer contained in the statement of claim. |
+| | Dated at [place] this [date] | |
+| | Signature Counsel's name (printed) Plaintiff's Counsel | |
+| | Signature Attorney's name (printed) Plaintiff's attorney [ address and details as per Rule 6(5)(b)] To: The Registrar [ address] And to: Defendant's attorneys | |
 
 ---
 
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L07 - Drafting pleas and special pleas|← Previous Chapter]] · Next: [[L09 - Drafting exceptions and striking out|Next Chapter →]]

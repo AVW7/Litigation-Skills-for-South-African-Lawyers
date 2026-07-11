@@ -5,8 +5,9 @@ tags:
   - litigation-skills
 ---
 
-# Litigation Skills for South African Lawyers
-## Digital Vault Dashboard
+## Litigation Skills for South African Lawyers
+
+### Digital Vault Dashboard
 
 Welcome to the digital, interactive vault for Chris Marnewick SC's *Litigation Skills for South African Lawyers*. This vault transforms the 319 pages of the text into a fully linked knowledge base.
 
@@ -14,13 +15,15 @@ Welcome to the digital, interactive vault for Chris Marnewick SC's *Litigation S
 > This workspace is governed by the rules and protocols in [[rules|South African Litigation Rules & Etiquette]]. Always address the bench with appropriate deference ("My Lord", "My Lady" in the High Court, and "Your Worship" in the Magistrates' Court).
 
 ### Database Views (Bases)
+
 * **[[Pages.base|Pages Database]]** - View and filter all 319 pages.
 * **[[Chapters.base|Chapters Index]]** - Browse chapters and starting pages.
 * **[[Rules.base|Etiquette Checklists]]** - Look up professional conduct guidelines.
 
 ### Chapters Table of Contents
+
 | Chapter | Topic | Starting Page |
-|---|---|---|
+| --- | --- | --- |
 | Chapter 1 | [[Page-3\|Interviewing clients and witnesses]] | 3 |
 | Chapter 2 | [[Page-22\|Advising and counselling clients]] | 22 |
 | Chapter 3 | [[Page-30\|Alternatives to litigation]] | 30 |
@@ -46,4 +49,3 @@ Welcome to the digital, interactive vault for Chris Marnewick SC's *Litigation S
 | Chapter 23 | [[Page-186\|Persuasive advocacy]] | 186 |
 | Chapter 24 | [[Page-193\|Reviews]] | 193 |
 | Chapter 25 | [[Page-197\|Appeals]] | 197 |
-

@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L17
 tags: [lecture, litigation-skills]
+
 ---
 # L17 — Examination-in-chief
 
@@ -18,39 +20,40 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
 ## Chapter Content Walkthrough
 
-|  - [ ] Addressing the court with proper deference. |   |
+| - [ ] Addressing the court with proper deference. | |
 | --- | --- |
-|  - [ ] Ensuring that only one counsel is standing at any time. |   |
-|  - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
+| - [ ] Ensuring that only one counsel is standing at any time. | |
+| - [ ] Addressing the court from the correct location, not moving about the courtroom. | |
 
 **Table 16.5** Checklist for [[Page-131|opening statement]] for defendant's counsel
 
-|   | Skill involved | Competent/ Not yet Competent  |
+| | Skill involved | Competent/ Not yet Competent |
 | --- | --- | --- |
-|  1 | Telling the court that the defendant/defence will be calling witnesses. |   |
-|  2 | Identifying the defence(s). |   |
-|  3 | Isolating the issues in respect of each defence. |   |
-|  4 | Reminding the court of the incidence and standard of proof, if necessary. |   |
-|  5 | Stating the facts of the defence case briefly, without overstating. |   |
-|   | Skill involved | Competent/ Not yet Competent  |
+| 1 | Telling the court that the defendant/defence will be calling witnesses. | |
+| 2 | Identifying the defence(s). | |
+| 3 | Isolating the issues in respect of each defence. | |
+| 4 | Reminding the court of the incidence and standard of proof, if necessary. | |
+| 5 | Stating the facts of the defence case briefly, without overstating. | |
+| | Skill involved | Competent/ Not yet Competent |
 | --- | --- | --- |
-|  6 | Avoiding argument or inadmissible material. |   |
-|  7 | Advising the court of the witnesses to be called by the defendant/defence. |   |
-|  8 | Briefly summarising the evidence to be given by each witness. |   |
-|  9 | Avoiding reading, and speaking at audible level and pace. |   |
-|  10 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the witness. - [ ] Speaking at appropriate volume and pace. - [ ] Addressing the court with proper deference. - [ ] Ensuring that only one counsel is standing at any time. - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
+| 6 | Avoiding argument or inadmissible material. | |
+| 7 | Advising the court of the witnesses to be called by the defendant/defence. | |
+| 8 | Briefly summarising the evidence to be given by each witness. | |
+| 9 | Avoiding reading, and speaking at audible level and pace. | |
+| 10 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the witness. - [ ] Speaking at appropriate volume and pace. - [ ] Addressing the court with proper deference. - [ ] Ensuring that only one counsel is standing at any time. - [ ] Addressing the court from the correct location, not moving about the courtroom. | |
 
 ## Chapter 17
+
 [[Page-136|Examination-in-chief]]
 
-# CONTENTS
+### CONTENTS
 
 17.1 Introduction
 17.2 Restrictions on examination-in-chief
@@ -124,7 +127,7 @@ Leading questions are nevertheless permitted to -
 - clarify the evidence already given; and
 - save time and costs when the questions relate to matters not in issue between the parties.
 
-### 17.3 Planning the structure and content of the examination-in-chief
+## 17.3 Planning the structure and content of the examination-in-chief
 
 The success of your examination-in-chief depends on systematic preparation and flawless execution. A deficiency in either can have adverse consequences for the client. The examination-in-chief of each witness has to be planned very carefully to ensure that you can elicit all the favourable evidence from the witness with maximum impact. As with *(see page 306)* the rest of your trial preparation, you should make notes for inclusion in counsel's trial notebook. There should be a separate section for each witness. You should then:
 
@@ -157,11 +160,12 @@ The success of your examination-in-chief depends on systematic preparation and f
 ---
 
 evidence.)
+
 - Anticipate the topics of [[Page-145|cross-examination]] and [[Page-160|re-examination]] for the witness: This will allow you to brief him or her fully. The likely areas of cross-examination should have been identified during your preparation for trial. Those areas should be explored with the witness when the witness is briefed before giving evidence. Whether an explanation is to be given in the course of the evidence-in-chief, rather than in re-examination, depends on counsel's judgment. The other side may not be aware of the weakness. If they raise it, it can always be dealt with in re-examination, you may argue. Whichever way you decide in a given situation, remember that it is generally counter-productive to ask too many questions about the topic because that would tend to exaggerate the difficulty. The topics for cross-examination should be the topics upon which you are most likely going to be required to re-examine the witness. In some cases a telling reply can be prepared for re-examination, when you and your witness will have the last word, but that telling reply may never be made if the opposition does not cross-examine on the point. You may therefore have to consider leading that telling evidence in your [[Page-136|examination-in-chief]] instead.
 
 - Anticipate objections: Stage 6 of your trial-preparation process (see chapter 14) should have alerted you to any possible objections. Once a potential objection has been identified, you can plan your questions to avoid the objection by, for example, laying the proper foundation for the evidence. If there is a good response to be made, you may be able to respond to the objection promptly. (See chapter 20.)
 
-### 17.4 Style of questions in examination-in-chief
+## 17.4 Style of questions in examination-in-chief
 
 The basic style for examination-in-chief is that of an interrogative dialogue. There is a discussion between counsel and the witness in which counsel plays the role of questioner and the witness is allowed to tell his or her own story. Counsel enquires and the witness gives the facts. To ensure that the story is truly that of the witness and not counsel's, counsel is not allowed to ask leading questions. A leading question is one that suggests the answer. Another reason why the evidence should be led without leading questions is that leading questions make it more difficult for the judge to make an assessment of the character and credibility of the witness and the reliability of the evidence. You need to give the judge a reasonable opportunity to hear your witness speak and tell his or her story in his or her own words. This cannot be done very well if the witness merely says yes or no to all your questions.
 
@@ -189,7 +193,7 @@ A. . . .
 
 The first question is an open question; the last three questions are closed but non-leading questions, each directing the witness to a specific topic.
 
-### 17.5 Briefing the witness
+## 17.5 Briefing the witness
 
 ---
 
@@ -322,79 +326,81 @@ The first step in preparing the evidence-in-chief is to create a timeline or out
 After having briefed Mr Weir, you will probably call him as your first witness at the trial. The accused has pleaded not guilty and made no admissions and no statement under section 115 of the Criminal Procedure Act 1977 (explaining his plea).
 **Table 17.1** Example of [[Page-136|examination-in-chief]]
 
-|  Questions and answers | Comment  |
+| Questions and answers | Comment |
 | --- | --- |
-|  Q. *Mr Weir, where do you live?* A. [address]. Q. *And where do you work?* A. *I work at Clermont Shoe Company in [address].* Q. *What sort of work do you do?* A. *I am a shift manager.* | 1 These questions introduce the witness to the judge, to enable him/her to make a general assessment of Mr Weir's station in life. 2 The questions also give Mr Weir an opportunity to get used to answering questions.  |
-|  Q. *What does that entail?* A. *I am in charge of all the operations in the factory during my shift.* Q. *I assume you manufacture shoes?* A. *Yes, for export and for the local market.* Q. *What hours do you work?* A. *I work the day shift, which is from seven in the morning till five in the afternoon.* Q. *How do you get to work in the morning?* A. *I drive my car.* Q. *Where is it parked while you're at work?* A. *In the employees' parking lot in front of the factory.* | 1 The questions move from the general introduction towards the scene of the incident naturally and without leading questions. 2 All of this evidence could probably be adduced without objection by way of leading questions, but the advantages mentioned at 1 and 2 in the previous section would be lost.  |
-|  Q. *Was the 30th November [year] a working day for you?* A. *Yes.* Q. *Did you go to work that day?* A. *Yes.* Q. *At what time did you go to work?* A. *I was there at ten to seven.* Q. *How did you get there?* A. *I went by car as usual.* Q. *What did you do with your car when you got there?* A. *I parked it in the employees' parking lot and locked it.* Q. *What did you do after you had locked the car?* | These may sound like leading questions but they are not because they do not suggest the answer. The fact that a yes or no answer can be given does not necessarily mean that the question is a leading one.  |
+| Q. *Mr Weir, where do you live?* A. [address]. Q. *And where do you work?* A. *I work at Clermont Shoe Company in [address].* Q. *What sort of work do you do?* A. *I am a shift manager.* | 1 These questions introduce the witness to the judge, to enable him/her to make a general assessment of Mr Weir's station in life. 2 The questions also give Mr Weir an opportunity to get used to answering questions. |
+| Q. *What does that entail?* A. *I am in charge of all the operations in the factory during my shift.* Q. *I assume you manufacture shoes?* A. *Yes, for export and for the local market.* Q. *What hours do you work?* A. *I work the day shift, which is from seven in the morning till five in the afternoon.* Q. *How do you get to work in the morning?* A. *I drive my car.* Q. *Where is it parked while you're at work?* A. *In the employees' parking lot in front of the factory.* | 1 The questions move from the general introduction towards the scene of the incident naturally and without leading questions. 2 All of this evidence could probably be adduced without objection by way of leading questions, but the advantages mentioned at 1 and 2 in the previous section would be lost. |
+| Q. *Was the 30th November [year] a working day for you?* A. *Yes.* Q. *Did you go to work that day?* A. *Yes.* Q. *At what time did you go to work?* A. *I was there at ten to seven.* Q. *How did you get there?* A. *I went by car as usual.* Q. *What did you do with your car when you got there?* A. *I parked it in the employees' parking lot and locked it.* Q. *What did you do after you had locked the car?* | These may sound like leading questions but they are not because they do not suggest the answer. The fact that a yes or no answer can be given does not necessarily mean that the question is a leading one. |
 
 ---
 
 A. I went to my office and started working.
 Q. Until what time did you work that day?
-|  Questions and answers | Comment  |
+
+| Questions and answers | Comment |
 | --- | --- |
-|  A. I **knocked off** at five in the afternoon. Q. Where did you go when you **knocked off**? A. I went to **my car** in the parking lot. Q. What did you do **when you got to your car**? A. I took my keys from my pocket and **bent down to insert the key** in the lock on the driver's door. Q. What happened when you **bent down to insert the key**? A. I was **grabbed from behind** by someone. Q. How did you react when **you were grabbed from behind**? | 1 We employ the technique I call piggybacking here. The previous answer is used to *create* the next question. The question is *grafted* onto the answer. 2 I keep answer and question together (with the answer first) for demonstrative purposes. 3 The words borrowed from the answer are in bold print.  |
-|  A. I started **struggling** with him to throw him off. Q. What happened during the **struggle**? A. He pinned my arms against my sides. **I tried to shake him off** and to bash him against my car but he tripped me and we **fell down**. Q. How did you try to **shake him off**? A. I twisted and turned. Q. In what position did you land when you **fell down**? | 1 The second question is put to ensure that the witness gives a *complete* account. Compare what he said in his statement. 2 The third question is grafted onto a prior answer, not necessarily the one immediately preceding the question. This is quite permissible.  |
-|  A. I was **face down** with the guy who attacked my **on top of me**. Q. What did you do when you were **in that position**? A. I continued to struggle with him. Q. What happened during that time? A. **He said:** "Watch it, I've got a knife and I'll use it if I have to." Q. Did you notice anything when **he said** that? | 1 It is not necessary to use the exact words of the witness. What is important is that you should use the *fact* the witness has given. 2 When the witness gives a demonstration, you have to ensure that it is recorded. You should get the witness to confirm what you have recorded.  |
-|  A. I felt something sharp against my back, **just here**. Q. You **indicate** on your back, just above the waist, on the left side? A. Yes. Q. How did you react when he said he had a knife, and would use it if he had to and you felt something sharp against your back? A. I immediately **stopped struggling**. Q. What did he do when you **stopped struggling**? | The first question is grafted onto a number of prior answers.  |
-|  Questions and answers | Comment  |
+| A. I **knocked off** at five in the afternoon. Q. Where did you go when you **knocked off**? A. I went to **my car** in the parking lot. Q. What did you do **when you got to your car**? A. I took my keys from my pocket and **bent down to insert the key** in the lock on the driver's door. Q. What happened when you **bent down to insert the key**? A. I was **grabbed from behind** by someone. Q. How did you react when **you were grabbed from behind**? | 1 We employ the technique I call piggybacking here. The previous answer is used to *create* the next question. The question is *grafted* onto the answer. 2 I keep answer and question together (with the answer first) for demonstrative purposes. 3 The words borrowed from the answer are in bold print. |
+| A. I started **struggling** with him to throw him off. Q. What happened during the **struggle**? A. He pinned my arms against my sides. **I tried to shake him off** and to bash him against my car but he tripped me and we **fell down**. Q. How did you try to **shake him off**? A. I twisted and turned. Q. In what position did you land when you **fell down**? | 1 The second question is put to ensure that the witness gives a *complete* account. Compare what he said in his statement. 2 The third question is grafted onto a prior answer, not necessarily the one immediately preceding the question. This is quite permissible. |
+| A. I was **face down** with the guy who attacked my **on top of me**. Q. What did you do when you were **in that position**? A. I continued to struggle with him. Q. What happened during that time? A. **He said:** "Watch it, I've got a knife and I'll use it if I have to." Q. Did you notice anything when **he said** that? | 1 It is not necessary to use the exact words of the witness. What is important is that you should use the *fact* the witness has given. 2 When the witness gives a demonstration, you have to ensure that it is recorded. You should get the witness to confirm what you have recorded. |
+| A. I felt something sharp against my back, **just here**. Q. You **indicate** on your back, just above the waist, on the left side? A. Yes. Q. How did you react when he said he had a knife, and would use it if he had to and you felt something sharp against your back? A. I immediately **stopped struggling**. Q. What did he do when you **stopped struggling**? | The first question is grafted onto a number of prior answers. |
+| Questions and answers | Comment |
 | --- | --- |
-|  A. **He said** that all he wanted was my money and credit cards. Q. Did he **say anything else** at that time? A. Yes, **he said** something like: "Don't get hurt for nothing. Give it to me." Q. How did you react to what **he had said**? | 1 The witness did not give the full statement made by the attacker. You have to elicit the missing piece before you continue with the narrative. 2 "Did he say anything else at that time?" is not a leading question because it does not suggest the answer.  |
-|  A. I lay completely still. Q. What did your attacker do next? A. He **took my wallet** from my back pocket. Q. Did you resist in any way when he **took your wallet**? |   |
-|  A. No. Q. Why did you not resist? A. I was afraid that he would stab me. Q. Could you describe your wallet and its contents? A. It is brown leather wallet, folding type, and it had my driver's licence, credit card, a photograph of my family and R350 in cash at the time. Q. What did you do after he **had taken your wallet**? A. **I tried to get a look at him**. Q. How did he react when **you tried to look at him**? A. **He said:** "Don't look at me. Keep your face down." | 1 You therefore have to lead the witness carefully to establish that he gave up the struggle "as a result of" the threat made by his attacker. 2 This evidence is important for the purpose of matching it to the evidence to be given by the next witness. 1 The witness is "controlled" very strictly, one of  |
+| A. **He said** that all he wanted was my money and credit cards. Q. Did he **say anything else** at that time? A. Yes, **he said** something like: "Don't get hurt for nothing. Give it to me." Q. How did you react to what **he had said**? | 1 The witness did not give the full statement made by the attacker. You have to elicit the missing piece before you continue with the narrative. 2 "Did he say anything else at that time?" is not a leading question because it does not suggest the answer. |
+| A. I lay completely still. Q. What did your attacker do next? A. He **took my wallet** from my back pocket. Q. Did you resist in any way when he **took your wallet**? | |
+| A. No. Q. Why did you not resist? A. I was afraid that he would stab me. Q. Could you describe your wallet and its contents? A. It is brown leather wallet, folding type, and it had my driver's licence, credit card, a photograph of my family and R350 in cash at the time. Q. What did you do after he **had taken your wallet**? A. **I tried to get a look at him**. Q. How did he react when **you tried to look at him**? A. **He said:** "Don't look at me. Keep your face down." | 1 You therefore have to lead the witness carefully to establish that he gave up the struggle "as a result of" the threat made by his attacker. 2 This evidence is important for the purpose of matching it to the evidence to be given by the next witness. 1 The witness is "controlled" very strictly, one of |
 
 ---
 
-|  Q. What did you do when **he said** that? | the main advantages of the piggybacking method. It also makes it clear to the witness that counsel is actively listening to the evidence.  |
+| Q. What did you do when **he said** that? | the main advantages of the piggybacking method. It also makes it clear to the witness that counsel is actively listening to the evidence. |
 | --- | --- |
-|  A. I still **tried to get a look at his face**. |   |
-|  Q. How did your effort to get a **look at his face** turn out? |   |
-|  A. He must have **stabbed me** because I felt a sharp pain in my back and I later had to have an operation. He'd punctured my lung. | 2 Other advantages of this method are that it avoids leading questions and allows counsel to maintain eye contact with the witness.  |
-|  Q. Was anything said by either of you after you were **stabbed**? |   |
-|  A. Yes, **he said**: 'Look what you've made me do now. Are you stupid?' | 3 Witnesses quickly warm to this process and often begin to add some relevant material on their own.  |
-|  Q. How did you react to **that statement**? |   |
-|  A. I just **lay still**, face down. I was in a lot of pain. |   |
-|  Q. What did he do as you were **lying there**? | Note that his evidence (of what his attacker said) does not match his statement word for word. The discrepancy is slight and not worth clearing up.  |
-|  A. I heard him **run away** towards Shepstone Road. |   |
-|  Q. What did you do when you heard him **run away**? |   |
-|  Questions and answers | Comment  |
+| A. I still **tried to get a look at his face**. | |
+| Q. How did your effort to get a **look at his face** turn out? | |
+| A. He must have **stabbed me** because I felt a sharp pain in my back and I later had to have an operation. He'd punctured my lung. | 2 Other advantages of this method are that it avoids leading questions and allows counsel to maintain eye contact with the witness. |
+| Q. Was anything said by either of you after you were **stabbed**? | |
+| A. Yes, **he said**: 'Look what you've made me do now. Are you stupid?' | 3 Witnesses quickly warm to this process and often begin to add some relevant material on their own. |
+| Q. How did you react to **that statement**? | |
+| A. I just **lay still**, face down. I was in a lot of pain. | |
+| Q. What did he do as you were **lying there**? | Note that his evidence (of what his attacker said) does not match his statement word for word. The discrepancy is slight and not worth clearing up. |
+| A. I heard him **run away** towards Shepstone Road. | |
+| Q. What did you do when you heard him **run away**? | |
+| Questions and answers | Comment |
 | --- | --- |
-|  A. I **looked** up. | If you want to take the witness out of the strict sequence of events, you should signal your intention to the witness and the judge. Note: You can mark the piggyback phrases from here on as an exercise.  |
-|  Q. What did you see when you **looked** up? |   |
-|  A. I saw a man **running away**. |   |
-|  Q. Please describe the man you saw running away. |   |
-|  A. It was a white guy, about 1,75 metres tall and about 70 kilograms. He was wearing denim jeans and a white T-shirt. Blue denims. | 1 It is permissible to follow a course which concentrates on your [[Page-115|theory of the case]], in this instance that the accused was the robber, in preference to a strict chronological sequence which includes relevant but less important material.  |
-|  Q. What happened after he'd run away? |   |
-|  A. I tried to run after him but I collapsed and some of my workmates came to help me. They took me to first aid and I was then taken to hospital by ambulance. | 2 You may prefer to deal with the identification of the accused before dealing with the complainant's injuries and their consequences.  |
-|  Q. Mr Weir, I'll return to your injuries and what happened at the hospital later. I want to ask a few questions about your attacker and your wallet first. |   |
-|  A. OK. | The question starting with 'Did you . . .' is not a leading question because it does not suggest the answer.  |
-|  Q. Did you ever see your wallet again? |   |
-|  A. Yes, at the police station. |   |
-|  Q. How did that come about? |   |
-|  A. When I came out of the hospital a week later I was called to the police station and the Inspector who is sitting outside showed it to me. |   |
-|  Q. Did you recognise it? |   |
-|  A. Yes. I've had that wallet for a long time. Plus my driver's licence, credit card and a photograph of my wife and children were still in it. Even the money was still all there. | By now, the witness is clearly anticipating the next question. He should have said 'Yes', but he anticipated the next question, 'How . . .'  |
-|  Q. What became of the wallet? |   |
-|  A. The Inspector gave it back to me. |   |
-|  Q. Did you ever see the person again who had taken your wallet from you in the parking lot and stabbed you? |   |
-|  A. Yes. | 1 Identification evidence has to be handled with care. Where the identity of the criminal is in issue, there may be evidence of his or her identification at the scene, at an identity parade or other later occasion and in court. (You may call these three stages Scene ID, Secondary ID and Dock ID.)  |
-|  Q. When and where did you see him again? |   |
-|  A. At the police station when I went to fetch my wallet. |   |
-|  Q. Under what circumstances did you see him at the police station? | 2 Identification evidence should be produced with the utmost care to ensure that all three stages of identification, if applicable, are established.  |
-|  A. When the police came to see me in hospital, they asked if I thought I would recognise his voice and I said yes. They then set up a voice identification parade where I recognised his voice. They then brought him out from behind the screen. |   |
-|  Q. Please describe how the identification parade was conducted. |   |
-|  Questions and answers | Comment  |
+| A. I **looked** up. | If you want to take the witness out of the strict sequence of events, you should signal your intention to the witness and the judge. Note: You can mark the piggyback phrases from here on as an exercise. |
+| Q. What did you see when you **looked** up? | |
+| A. I saw a man **running away**. | |
+| Q. Please describe the man you saw running away. | |
+| A. It was a white guy, about 1,75 metres tall and about 70 kilograms. He was wearing denim jeans and a white T-shirt. Blue denims. | 1 It is permissible to follow a course which concentrates on your [[Page-115\|theory of the case]], in this instance that the accused was the robber, in preference to a strict chronological sequence which includes relevant but less important material. |
+| Q. What happened after he'd run away? | |
+| A. I tried to run after him but I collapsed and some of my workmates came to help me. They took me to first aid and I was then taken to hospital by ambulance. | 2 You may prefer to deal with the identification of the accused before dealing with the complainant's injuries and their consequences. |
+| Q. Mr Weir, I'll return to your injuries and what happened at the hospital later. I want to ask a few questions about your attacker and your wallet first. | |
+| A. OK. | The question starting with 'Did you . . .' is not a leading question because it does not suggest the answer. |
+| Q. Did you ever see your wallet again? | |
+| A. Yes, at the police station. | |
+| Q. How did that come about? | |
+| A. When I came out of the hospital a week later I was called to the police station and the Inspector who is sitting outside showed it to me. | |
+| Q. Did you recognise it? | |
+| A. Yes. I've had that wallet for a long time. Plus my driver's licence, credit card and a photograph of my wife and children were still in it. Even the money was still all there. | By now, the witness is clearly anticipating the next question. He should have said 'Yes', but he anticipated the next question, 'How . . .' |
+| Q. What became of the wallet? | |
+| A. The Inspector gave it back to me. | |
+| Q. Did you ever see the person again who had taken your wallet from you in the parking lot and stabbed you? | |
+| A. Yes. | 1 Identification evidence has to be handled with care. Where the identity of the criminal is in issue, there may be evidence of his or her identification at the scene, at an identity parade or other later occasion and in court. (You may call these three stages Scene ID, Secondary ID and Dock ID.) |
+| Q. When and where did you see him again? | |
+| A. At the police station when I went to fetch my wallet. | |
+| Q. Under what circumstances did you see him at the police station? | 2 Identification evidence should be produced with the utmost care to ensure that all three stages of identification, if applicable, are established. |
+| A. When the police came to see me in hospital, they asked if I thought I would recognise his voice and I said yes. They then set up a voice identification parade where I recognised his voice. They then brought him out from behind the screen. | |
+| Q. Please describe how the identification parade was conducted. | |
+| Questions and answers | Comment |
 | --- | --- |
-|  A. I stood on one side of a screen. They said there were ten guys on the other side and each of them would speak the words I heard my attacker speak. I would then have to try and identify the voice of my attacker, if he was on the | 1 The circumstances under which the Scene ID and the Secondary ID were made should be  |
+| A. I stood on one side of a screen. They said there were ten guys on the other side and each of them would speak the words I heard my attacker speak. I would then have to try and identify the voice of my attacker, if he was on the | 1 The circumstances under which the Scene ID and the Secondary ID were made should be |
 
 ---
 
-|  parade. He was, he was number seven. When they had all finished speaking, I told the police it was number seven. Q. Did you know the man who was number seven in the parade? A. No, but he matched the description I had given the police, white, with brown hair, longish in the back, about 1.7 metres tall, about 75 kilograms and he was even wearing blue denims and a white T-shirt. | established too in order to prove the correctness of the identification. 2 Generally speaking, identification evidence could be direct evidence, [[Page-100|circumstantial evidence]] or an admission or confession. In some cases all three types of evidence will be available.  |
+| parade. He was, he was number seven. When they had all finished speaking, I told the police it was number seven. Q. Did you know the man who was number seven in the parade? A. No, but he matched the description I had given the police, white, with brown hair, longish in the back, about 1.7 metres tall, about 75 kilograms and he was even wearing blue denims and a white T-shirt. | established too in order to prove the correctness of the identification. 2 Generally speaking, identification evidence could be direct evidence, [[Page-100\|circumstantial evidence]] or an admission or confession. In some cases all three types of evidence will be available. |
 | --- | --- |
-|  Q. Do you see that person here today? A. Yes. Q. Could you please point him out? A. Yes, it's him over there, in that box, the accused. Q. Your Worship, may it be noted that the witness identified the accused? By the Court: Yes, carry on. | This identification process is essential for every criminal trial where the identity of the perpetrator of the crime is in issue. The evidence of criminal activity has to be linked to the accused appearing before the court. A Dock ID is therefore essential.  |
-|  Q. Mr Weir, I'd like to return to the injuries you suffered. What injuries did you suffer? A. . . . Q. You said earlier that you were taken to hospital. What treatment did you receive? A. . . . | 1 Signposting is used to indicate a change of direction. 2 The complainant's injuries and their consequences are relevant to sentence.  |
-|  Q. Thank you, Mr Weir, I have no further questions. Please remain where you are to answer any questions my learned friend or His Lordship may have. | When you say, "I have no further questions", your witness often leaves the witness box, no doubt relieved that the ordeal is over. Then they feel foolish when they are called back. So it may be helpful to them if you were to indicate what they are expected to do.  |
+| Q. Do you see that person here today? A. Yes. Q. Could you please point him out? A. Yes, it's him over there, in that box, the accused. Q. Your Worship, may it be noted that the witness identified the accused? By the Court: Yes, carry on. | This identification process is essential for every criminal trial where the identity of the perpetrator of the crime is in issue. The evidence of criminal activity has to be linked to the accused appearing before the court. A Dock ID is therefore essential. |
+| Q. Mr Weir, I'd like to return to the injuries you suffered. What injuries did you suffer? A. . . . Q. You said earlier that you were taken to hospital. What treatment did you receive? A. . . . | 1 Signposting is used to indicate a change of direction. 2 The complainant's injuries and their consequences are relevant to sentence. |
+| Q. Thank you, Mr Weir, I have no further questions. Please remain where you are to answer any questions my learned friend or His Lordship may have. | When you say, "I have no further questions", your witness often leaves the witness box, no doubt relieved that the ordeal is over. Then they feel foolish when they are called back. So it may be helpful to them if you were to indicate what they are expected to do. |
+
 The witness in this example gave evidence of a simple event, all too common you might say, without having to look at documents or other exhibits. The witness was also well educated, composed and prepared. You will not always have witnesses of this calibre. You may have cases with difficult witnesses, hostile witnesses, children, witnesses who can't remember essential details which are set out in their statements, witnesses who just can't remember, witnesses who have to refer to large numbers of documents or exhibits and [[Page-100|expert witness]]es whose evidence you can hardly follow yourself. The basic techniques for [[Page-136|examination-in-chief]] are the same for all these scenarios, but you would obviously prepare to overcome the anticipated difficulties. You may also have to contend with an opponent who interferes with the flow of your examination-in-chief by making one objection after the other, sometimes to the form of the question and sometimes to the answer that is given. The special techniques for these difficulties are dealt with in chapter 20.
 
 All too often counsel lead their witnesses from a statement. They look at the statement and try to find the next question there. The statement of the witness, of course, does not present you with the questions you can ask in order to elicit the relevant evidence. The questions have to be worked out by you, as counsel, and they have to be good questions. They can only be good questions if they elicit all the material evidence sequentially and without asking leading questions. The examination-in-chief can be made a lot easier if you use a timeline that can act as a prompt for your questions.
@@ -402,14 +408,15 @@ All too often counsel lead their witnesses from a statement. They look at the st
 This can be done as follows, using the statement of Detective Inspector Alson Khuzwayo:
 **Table 17.2** Example of the use of a timeline in examination-in-chief
 
-|  Statement of the witness | Timeline | Examination-in-chief  |
+| Statement of the witness | Timeline | Examination-in-chief |
 | --- | --- | --- |
-|  On the 30th November [year] at about 17:10 I was driving an unmarked police car along [street] in [suburb] towards [suburb]. I was on duty, having been to [suburb] to trace a suspect in another matter. As I drove past the Clermont Shoe Company's factory, I saw a gathering in the parking area in front of the building. I saw a man being assisted towards the building. | **30/11/[year]** **17:30** **[street]** **driving Clermont shoe gathering** **man assisted** | Q. Where were you at about 17:30 on 30/11/[year]? A. [street], [suburb]. Q. What were you doing? A. Driving past Clermont Shoe Co. Q. What happened when you were driving past Clermont Shoe Co? A. I saw a gathering in the parking area and a man being assisted towards the building. Q. Where did you go from there?  |
+| On the 30th November [year] at about 17:10 I was driving an unmarked police car along [street] in [suburb] towards [suburb]. I was on duty, having been to [suburb] to trace a suspect in another matter. As I drove past the Clermont Shoe Company's factory, I saw a gathering in the parking area in front of the building. I saw a man being assisted towards the building. | **30/11/[year]** **17:30** **[street]** **driving Clermont shoe gathering** **man assisted** | Q. Where were you at about 17:30 on 30/11/[year]? A. [street], [suburb]. Q. What were you doing? A. Driving past Clermont Shoe Co. Q. What happened when you were driving past Clermont Shoe Co? A. I saw a gathering in the parking area and a man being assisted towards the building. Q. Where did you go from there? |
 
 ---
 
-|  I drove on towards [suburb]. About three hundred metres further towards [suburb] I came across a young man running on the left side of the road with his back to me. At the same time I heard a report on the police radio to the effect that a man had been robbed a few minutes earlier in [suburb] and that the attacker had last been seen running up [street] in the direction of [suburb], and it was a white man wearing blue jeans and a white T-shirt. | **drove on running man police report robbery [suburb] suspect in [street] white/blue jeans/T-shirt** | A. *I drove on towards [suburb].* Q. *What did you see as you were driving?* A. *A man running on the left side.* Q. *What else happened at that time?* A. *I heard a report on the police radio that there had been a robbery and that the suspect had run up [street] towards [suburb].* Q. *Was there any description of the suspect?* A. *Yes, they said it was a white man wearing blue jeans and a white T-shirt.*  |
+| I drove on towards [suburb]. About three hundred metres further towards [suburb] I came across a young man running on the left side of the road with his back to me. At the same time I heard a report on the police radio to the effect that a man had been robbed a few minutes earlier in [suburb] and that the attacker had last been seen running up [street] in the direction of [suburb], and it was a white man wearing blue jeans and a white T-shirt. | **drove on running man police report robbery [suburb] suspect in [street] white/blue jeans/T-shirt** | A. *I drove on towards [suburb].* Q. *What did you see as you were driving?* A. *A man running on the left side.* Q. *What else happened at that time?* A. *I heard a report on the police radio that there had been a robbery and that the suspect had run up [street] towards [suburb].* Q. *Was there any description of the suspect?* A. *Yes, they said it was a white man wearing blue jeans and a white T-shirt.* |
 | --- | --- | --- |
+
 The technique used here is to phrase each question in such a way that the piggyback method is employed but in such a way that the important evidence previously identified during the preparation phase and highlighted in the timeline is elicited from the witness. As the witness gives the evidence, items covered can be marked off in the timeline. Any item in the timeline not covered by the witness has to be elicited by an appropriate question before you move on to the next item in the timeline. It is of the utmost importance that the evidence should be complete and chronological.
 
 > [!warning] 17.8 Protocol and ethics
@@ -422,7 +429,7 @@ The technique used here is to phrase each question in such a way that the piggyb
 - Ensure that the evidence is given in such a way that it can (and is) recorded accurately. This may mean slowing down in a court where the proceedings are recorded manually. Demonstrations and descriptions given by your witnesses have to be translated into spoken words for the record. "The witness has indicated about ten paces, M' Lord."
 - Your witness has to remain at court unless excused by the judge. Ask witnesses in advance if they want to be excused and then ask the judge for permission when the [[Page-160|re-examination]] has been completed (and the judge does not have any questions).
 
-### 17.9 Checklist and assessment guide
+## 17.9 Checklist and assessment guide
 
 If this book were to be used as a teaching guide or prescribed work for advocacy exercises, the following checklist may be used to prepare for the exercises, to serve as an assessment guide, or to serve as a marking guide.
 
@@ -432,16 +439,18 @@ If the checklist were to be used as a marking guide, the best way to go about th
 - NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
 Table 17.3 Checklist for [[Page-136|examination-in-chief]]
 
-|   | Skill involved | Competent/ Not yet competent  |
+| | Skill involved | Competent/ Not yet competent |
 | --- | --- | --- |
-|  1 | Preparing a timeline for each witness |   |
+| 1 | Preparing a timeline for each witness | |
 
 ---
 
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L16 - Opening statement|← Previous Chapter]] · Next: [[L18 - Cross-examination|Next Chapter →]]

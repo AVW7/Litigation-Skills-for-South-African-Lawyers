@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L28
 tags: [lecture, litigation-skills]
+
 ---
 # L28 — Index
 
@@ -18,6 +20,7 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
+
 *Figure: The problem-to-execution chain in this chapter.*
 
 
@@ -25,77 +28,77 @@ graph LR
 
 ## Chapter Content Walkthrough
 
-notice of motion or application, 164, 171-173  
-notice of opposition, 176  
-protocol and ethics, 188  
-substantive application  
- examples, 162, 398-399  
- interlocutory application distinguished, 161  
- steps when drafting, 168-170  
- *text of pleading*, 171-177  
-table of comparison, 163  
+notice of motion or application, 164, 171-173
+notice of opposition, 176
+protocol and ethics, 188
+substantive application
+ examples, 162, 398-399
+ interlocutory application distinguished, 161
+ steps when drafting, 168-170
+ *text of pleading*, 171-177
+table of comparison, 163
 urgent application see Urgent application
 
-# Application to strike out
+### Application to strike out
 
-[[Page-75|exception]] distinguished, 149, 157  
-irregular proceedings, 149, 156  
-scandalous, vexatious or irrelevant matter, 149, 155-156  
+[[Page-75|exception]] distinguished, 149, 157
+irregular proceedings, 149, 156
+scandalous, vexatious or irrelevant matter, 149, 155-156
 table of comparison, 157
 
 [[Page-30|Arbitration]], 46-48
 
 Archaic words, 422
 
-# Assault
+### Assault
 
 [[Page-115|theory of the case]], 260, 263, 264
 
-# Assembling evidence
+### Assembling evidence
 
-[[Page-100|demonstrative exhibit]]s, 216-219  
-experts see [[Page-100|Expert witness]]  
-inspecting documents and examining exhibits, 213-214  
-inspections *in loco*, 215-216  
-medical file, 213  
-overview, 209  
-preservation of evidence, 211  
-prosecutor's position, 223-224  
-protocol and ethics, 224  
-sample client (Mrs Smith), 212-213  
-sources of evidence, 210  
-types of evidence, 209-210  
+[[Page-100|demonstrative exhibit]]s, 216-219
+experts see [[Page-100|Expert witness]]
+inspecting documents and examining exhibits, 213-214
+inspections *in loco*, 215-216
+medical file, 213
+overview, 209
+preservation of evidence, 211
+prosecutor's position, 223-224
+protocol and ethics, 224
+sample client (Mrs Smith), 212-213
+sources of evidence, 210
+types of evidence, 209-210
 witness consultations, 211-213
 
 Attorney-and-client privilege, 7
 
 Authority to act, 17
 
-# **B**
+## B
 
-# Ballistics expert
+### Ballistics expert
 
 [[Page-145|cross-examination]], 334
 
-# Bias
+### Bias
 
 cross-examination, 327, 342 expert witness, 365-366
 
-# Brief to counsel
+### Brief to counsel
 
 trial preparation exercise, 481-485
 
 Bowing, rising, standing, 276
 
-# Burden of proof
+### Burden of proof
 
 [[Page-92|advice on evidence]], 194
 
-# **C**
+## C
 
 Capacity to sue or be sued, 91
 
-# Cause of action
+### Cause of action
 
 *meaning*, 83 types of, 97
 
@@ -103,21 +106,21 @@ Certificate of urgency, 176-177, 408
 
 Cession, 138
 
-# Character evidence
+### Character evidence
 
-cross-examining to prior bad acts, 328, 343  
-exceptions to rule, 374  
+cross-examining to prior bad acts, 328, 343
+exceptions to rule, 374
 exclusionary rule, 305, 372
 
 ---
 
-Charge in criminal case  
-annexure to Form J15, 482  
-constitutional requirements, 123  
-murder, 123  
-objection, 158-160  
-statutory requirements, 123, 159-160  
-summons, charge sheet or indictment setting out, 83, 95, 123  
+Charge in criminal case
+annexure to Form J15, 482
+constitutional requirements, 123
+murder, 123
+objection, 158-160
+statutory requirements, 123, 159-160
+summons, charge sheet or indictment setting out, 83, 95, 123
 theft, 124
 
 [[Page-100|Circumstantial evidence]], 10, 210
@@ -132,63 +135,63 @@ Close of pleadings, 147
 
 Closed questions, 9, 308-309
 
-[[Page-174|Closing argument]]  
-checklist and assessment guide, 395-396  
-dealing with issues in turn, 382-384  
-discrediting opposition argument, 392  
-order of closing addresses, 380-381  
-planning and development, 379  
-protocol and ethics, 394-395  
-purpose, 379  
-shoplifting exercise, 491  
-structure, 381-382, 428  
-style and tactics, 393-394  
-submissions of fact, 385-387, 429  
+[[Page-174|Closing argument]]
+checklist and assessment guide, 395-396
+dealing with issues in turn, 382-384
+discrediting opposition argument, 392
+order of closing addresses, 380-381
+planning and development, 379
+protocol and ethics, 394-395
+purpose, 379
+shoplifting exercise, 491
+structure, 381-382, 428
+style and tactics, 393-394
+submissions of fact, 385-387, 429
 submissions of law, 388-391, 429
 
 Closing file, 475-476
 
 Combined summons, 95
 
-Company  
-address, 92  
-citation, 92  
+Company
+address, 92
+citation, 92
 service on, 92
 
 Compliance application, 177
 
 Compromise, 53, 138
 
-Confession and avoidance  
-estoppel as, 87  
-examples, 130  
-plea, 82, 130-131  
+Confession and avoidance
+estoppel as, 87
+examples, 130
+plea, 82, 130-131
 replication, 147
 
 Confidentiality, 7
 
 Confronting witness, 333-334
 
-Constitution  
-just administrative action, 438  
-[[Page-179|Motion Court]] practices, 400-401  
+Constitution
+just administrative action, 438
+[[Page-179|Motion Court]] practices, 400-401
 notice of charge in criminal case, 123
 
 Consultation or conference with counsel, 21-22
 
 Contemporaneous records, 362
 
-Contractual claim  
-[[Page-54|cause of action]], 97  
-fraud as defence, 125  
-material facts, 86-87  
+Contractual claim
+[[Page-54|cause of action]], 97
+fraud as defence, 125
+material facts, 86-87
 special procedural requirements, 97, 127
 
 Contribution third-party claim, 112-117
 
-[[Page-66|Contributory negligence]]  
-negligent driving claim, 136, 259  
-pleading, 136  
+[[Page-66|Contributory negligence]]
+negligent driving claim, 136, 259
+pleading, 136
 request for further particulars, 199-200
 
 Corruption [[Page-145|cross-examination]], 327, 343
@@ -367,12 +370,12 @@ analysis, 254-256
 
 ---
 
-assembling, 213-214  
-documentary and real exhibits distinguished, 71  
-medical report, 356  
-preservation and safekeeping, 71-72  
-proving, 353-354, 356  
-scheme for organising, 214  
+assembling, 213-214
+documentary and real exhibits distinguished, 71
+medical report, 356
+preservation and safekeeping, 71-72
+proving, 353-354, 356
+scheme for organising, 214
 trial bundle, 214, 354, 356
 
 Dress code, 282
@@ -391,43 +394,43 @@ Entry in investigation diary, 42
 
 Estoppel
 
-legal elements, 87  
-raised in replication, 144-146  
+legal elements, 87
+raised in replication, 144-146
 *text of pleading*, 145-146
 
 Evidence
 
-admissibility *see* Admissibility of evidence  
-[[Page-92|advice on evidence]] *see* Advice on evidence  
-assembling *see* Assembling evidence  
-character evidence *see* Character evidence  
-[[Page-100|circumstantial evidence]], 10, 210  
-contemporaneous records, 362  
-credibility evidence, 210  
-direct evidence, 10, 209-210  
-discrediting, 326-327, 328  
-exclusionary rules, 304-305, 372  
-exhibits *see* Exhibits  
-[[Page-100|expert evidence]] *see* [[Page-100|Expert witness]]  
-[[Page-115|fact analysis]] and strategy, 257-260  
-[[Page-92|hearsay]] evidence, 305, 372-373  
-identification evidence, 369-371  
-improperly obtained, 305  
-indirect evidence, 210  
-materiality, 304  
-objections, 366-369, 375-377  
-opinion evidence *see* Opinion evidence  
-oral evidence *see* Oral evidence; Witness  
-preserving *see* Preservation of evidence  
-prior sexual experience or conduct, 24-25  
-proving each proposition of fact, 250-254  
-real evidence, 69  
-relevance, 303-304, 372  
-reliability and sufficiency, 257-260  
-reliability evidence, 10  
-secondary evidence, 305  
-similar fact evidence, 305, 374-375  
-supporting evidence, 84, 85  
+admissibility *see* Admissibility of evidence
+[[Page-92|advice on evidence]] *see* Advice on evidence
+assembling *see* Assembling evidence
+character evidence *see* Character evidence
+[[Page-100|circumstantial evidence]], 10, 210
+contemporaneous records, 362
+credibility evidence, 210
+direct evidence, 10, 209-210
+discrediting, 326-327, 328
+exclusionary rules, 304-305, 372
+exhibits *see* Exhibits
+[[Page-100|expert evidence]] *see* [[Page-100|Expert witness]]
+[[Page-115|fact analysis]] and strategy, 257-260
+[[Page-92|hearsay]] evidence, 305, 372-373
+identification evidence, 369-371
+improperly obtained, 305
+indirect evidence, 210
+materiality, 304
+objections, 366-369, 375-377
+opinion evidence *see* Opinion evidence
+oral evidence *see* Oral evidence; Witness
+preserving *see* Preservation of evidence
+prior sexual experience or conduct, 24-25
+proving each proposition of fact, 250-254
+real evidence, 69
+relevance, 303-304, 372
+reliability and sufficiency, 257-260
+reliability evidence, 10
+secondary evidence, 305
+similar fact evidence, 305, 374-375
+supporting evidence, 84, 85
 types of, 209-210
 
 Evidential facts, 85
@@ -436,18 +439,18 @@ Ex parte application, 163, 164
 
 [[Page-136|Examination-in-chief]]
 
-admissibility of evidence, 304-305  
-briefing witness, 309-311  
-checklist and assessment guide, 323-324  
-[[Page-145|cross-examination]] compared, 341  
-demonstration exercise, 312-323  
-expert witness, 364  
-leading questions, 305, 308  
-materiality, 304  
-protocol and ethics, 323  
-purpose, 303  
-relevance, 303-304  
-restrictions on, 303-305  
+admissibility of evidence, 304-305
+briefing witness, 309-311
+checklist and assessment guide, 323-324
+[[Page-145|cross-examination]] compared, 341
+demonstration exercise, 312-323
+expert witness, 364
+leading questions, 305, 308
+materiality, 304
+protocol and ethics, 323
+purpose, 303
+relevance, 303-304
+restrictions on, 303-305
 structure and content, 305-308, 428
 
 ---
@@ -456,7 +459,7 @@ style of questions, 308-309
 
 technique, 311-312
 
-# Exception
+### Exception
 
 appeal against decision, 151
 
@@ -480,7 +483,7 @@ text of pleading, 153-154
 
 when taken, 150-151
 
-# Exhibits
+### Exhibits
 
 [[Page-100|demonstrative exhibit]]s, 71, 75
 
@@ -514,7 +517,7 @@ purpose, 75, 353
 
 recording demonstration by witness, 356-357
 
-# Expert witness
+### Expert witness
 
 acceptance or rejection of evidence, 220
 
@@ -558,13 +561,13 @@ types of [[Page-100|expert evidence]], 75, 219-220
 
 Explanation or qualification, 133, 143, 144
 
-# Expropriation action
+### Expropriation action
 
 text of expert summary, 202-203
 
 F
 
-# Fact analysis and strategy
+### Fact analysis and strategy
 
 admissibility, reliability and sufficiency of evidence, 257-260
 
@@ -893,10 +896,10 @@ protocol and ethics, 238-239
 
 ---
 
-recording results, 234  
-Roman-Dutch authorities, 232, 237-238  
-specific sources, 231-232  
-stages, 226  
+recording results, 234
+Roman-Dutch authorities, 232, 237-238
+specific sources, 231-232
+stages, 226
 whether sources still current, 233
 
 Letter of advice, 33-35
@@ -1272,30 +1275,30 @@ National Bar Examinational syllabus for legal writing, 79-80
 
 ---
 
-numbered paragraphs, 88  
-plea see Plea  
-prayer for relief, 83-84, 89  
-precedents, 94  
-protocol and ethics, 94  
-rebutter, 82, 147  
-rejoinder, 82, 147  
-replication, 82, 143-146  
-signature, 89-90  
-statement of claim see Statement of claim  
-structure of set of pleadings, 82-83  
-surrebutter, 82, 147  
-surrejoinder, 82, 147  
-tactical denial, 94  
-terminology, 83-84  
+numbered paragraphs, 88
+plea see Plea
+prayer for relief, 83-84, 89
+precedents, 94
+protocol and ethics, 94
+rebutter, 82, 147
+rejoinder, 82, 147
+replication, 82, 143-146
+signature, 89-90
+statement of claim see Statement of claim
+structure of set of pleadings, 82-83
+surrebutter, 82, 147
+surrejoinder, 82, 147
+tactical denial, 94
+terminology, 83-84
 title, 88
 
 Posture, 431-432
 
 Prayer
 
-*meaning*, 83-84  
-plea, 133-134  
-statement of claim, 98  
+*meaning*, 83-84
+plea, 133-134
+statement of claim, 98
 wording, 89
 
 Prejudice
@@ -1304,35 +1307,35 @@ Prejudice
 
 Preparation for trial
 
-[[Page-92|advice on evidence]] see Advice on evidence  
-assembling evidence see Assembling evidence  
-[[Page-115|fact analysis]] and strategy see Fact analysis and strategy  
-legal research see Legal research  
-protocol and ethics, 207-208  
+[[Page-92|advice on evidence]] see Advice on evidence
+assembling evidence see Assembling evidence
+[[Page-115|fact analysis]] and strategy see Fact analysis and strategy
+legal research see Legal research
+protocol and ethics, 207-208
 stages, 191
 
 Preparing to commence action
 
-[[Page-100|demonstrative exhibit]]s, 75  
-fact analysis and preliminary theory of case, 72-76  
-fees, 78  
-finding and retaining experts, 75-76  
-letter of demand or repudiation, 67-69  
-overview, 67  
-preservation of evidence, 69-72  
+[[Page-100|demonstrative exhibit]]s, 75
+fact analysis and preliminary theory of case, 72-76
+fees, 78
+finding and retaining experts, 75-76
+letter of demand or repudiation, 67-69
+overview, 67
+preservation of evidence, 69-72
 trial folder, 76-78
 
 Prescription
 
-interruption, 144  
-[[Page-66|special plea]], 138-140  
+interruption, 144
+[[Page-66|special plea]], 138-140
 *text of pleading*, 139
 
 Preservation of evidence
 
-exhibits, 71-72, 211  
-importance, 69, 211  
-overview, 69, 211  
+exhibits, 71-72, 211
+importance, 69, 211
+overview, 69, 211
 witnesses, 70, 211
 
 President
@@ -1357,8 +1360,8 @@ Probing questions, 334-336
 
 Procedural application
 
-examples, 177  
-*text of notice and affidavit*, 179-183  
+examples, 177
+*text of notice and affidavit*, 179-183
 to compel discovery, 178-183
 
 Professional journals, 231
@@ -1662,25 +1665,25 @@ prayer, 98
 
 ---
 
-protocol and ethics, 124  
-provisional sentence summons *see* Provisional sentence summons  
-structure, 428  
-third-party claim *see* Third-party claim  
+protocol and ethics, 124
+provisional sentence summons *see* Provisional sentence summons
+structure, 428
+third-party claim *see* Third-party claim
 unliquidated claim, 95
 
-Status quo application  
-examples, 178  
+Status quo application
+examples, 178
 *Mareva* injunction, 184-188
 
-Statutes  
+Statutes
 citation, 282 source of law, 231
 
 Statutory claim, 97
 
-Submissions  
-language and communication skills, 430-431, 432-434  
-of fact, 385-387, 429  
-of law, 388-391, 429  
+Submissions
+language and communication skills, 430-431, 432-434
+of fact, 385-387, 429
+of law, 388-391, 429
 on appeal, 429, 464
 
 Substituted service application for, 404
@@ -1699,42 +1702,42 @@ Surrejoinder, 82, 148
 
 Tautology, 422
 
-Textbooks  
-citation, 283  
-'must haves'  
-criminal practice, 238  
-general practice, 236-237  
+Textbooks
+citation, 283
+'must haves'
+criminal practice, 238
+general practice, 236-237
 source of law, 231
 
-Theft  
-charge, 124  
-doctrine of recent possession, 248-249  
-legal elements, 124  
+Theft
+charge, 124
+doctrine of recent possession, 248-249
+legal elements, 124
 shoplifting *see* Shoplifting
 
-[[Page-115|Theory of the case]]  
-*meaning*, 10, 260  
-alternative theories, 262  
-assault against police officer, 264  
-criminal assault, 260, 263  
-defamation, 263  
-[[Page-100|demonstrative exhibit]]s, 75  
-function, 260-261  
-further statements, 74  
-matrimonial claim for primary care of children, 264  
-medical negligence, 263  
-murder, 73  
-negligent driving, 73, 74, 263  
-re-instatement of employee, 264  
-sample client (Mrs Smith), 11-16  
-shoplifting, 263, 489  
-specific performance, 264  
-steps when developing, 261-262  
-trial tactics, 265-267, 489  
+[[Page-115|Theory of the case]]
+*meaning*, 10, 260
+alternative theories, 262
+assault against police officer, 264
+criminal assault, 260, 263
+defamation, 263
+[[Page-100|demonstrative exhibit]]s, 75
+function, 260-261
+further statements, 74
+matrimonial claim for primary care of children, 264
+medical negligence, 263
+murder, 73
+negligent driving, 73, 74, 263
+re-instatement of employee, 264
+sample client (Mrs Smith), 11-16
+shoplifting, 263, 489
+specific performance, 264
+steps when developing, 261-262
+trial tactics, 265-267, 489
 unlawful dismissal, 264
 
-Theses and other academic writings  
-citation, 283  
+Theses and other academic writings
+citation, 283
 source of law, 231
 
 Things, 71-72
@@ -1821,28 +1824,28 @@ credibility, 210
 
 ---
 
-[[Page-145|cross-examination]] *see* Cross-examination  
-details, 70  
-discrediting, 327-328  
-[[Page-136|examination-in-chief]] *see* Examination-in-chief  
-expert *see* [[Page-100|Expert witness]]  
-hostile, 362-363, 378  
-interest in outcome of trial, 327, 342  
-interviewing in civil case, 20-21, 22  
-interviewing in criminal case  
- by defence, 26-27  
- by prosecution, 22-25  
-memory, 327, 342, 360-362  
-oath or affirmation, 309-310  
-observation, 327, 341  
-prejudice, 327, 342  
-prior bad acts, 328, 343  
-prior convictions, 328, 330, 343, 348-349  
-prior inconsistent statements, 328, 343, 358-359  
-recounting, 327, 342  
-[[Page-160|re-examination]] *see* Re-examination  
-reputation, 328, 343-344  
-statements, 70, 211-212, 482-485  
+[[Page-145|cross-examination]] *see* Cross-examination
+details, 70
+discrediting, 327-328
+[[Page-136|examination-in-chief]] *see* Examination-in-chief
+expert *see* [[Page-100|Expert witness]]
+hostile, 362-363, 378
+interest in outcome of trial, 327, 342
+interviewing in civil case, 20-21, 22
+interviewing in criminal case
+ by defence, 26-27
+ by prosecution, 22-25
+memory, 327, 342, 360-362
+oath or affirmation, 309-310
+observation, 327, 341
+prejudice, 327, 342
+prior bad acts, 328, 343
+prior convictions, 328, 330, 343, 348-349
+prior inconsistent statements, 328, 343, 358-359
+recounting, 327, 342
+[[Page-160|re-examination]] *see* Re-examination
+reputation, 328, 343-344
+statements, 70, 211-212, 482-485
 timeline, 212, 307, 315, 321-323
 
 Words, 422, 425-426
@@ -1851,16 +1854,16 @@ Words and Phrases, 231
 
 Written opinion
 
-advocacy distinguished, 36  
-analysis, 38  
-conclusion, 39  
-discussion, 37-38  
-general comments, 39-40  
-headings, 40  
-introduction, 37  
-nature and purpose, 36  
-practical steps, 36-37  
-State Attorney etc, 40  
+advocacy distinguished, 36
+analysis, 38
+conclusion, 39
+discussion, 37-38
+general comments, 39-40
+headings, 40
+introduction, 37
+nature and purpose, 36
+practical steps, 36-37
+State Attorney etc, 40
 structure, 428
 
 ---
@@ -1868,7 +1871,9 @@ structure, 428
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L27 - Appendices|← Previous Chapter]] · Next: End →

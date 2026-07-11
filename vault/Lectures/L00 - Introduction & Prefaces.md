@@ -1,8 +1,12 @@
 ---
 type: lecture
 lecture: L0
-tags: [lecture, litigation-skills]
+tags:
+  - lecture
+  - litigation-skills
+---
 
+# L00 — Introduction & Prefaces
 
 ## Visual
 
@@ -11,11 +15,9 @@ tags: [lecture, litigation-skills]
 ![[anim_trial_timeline.gif]]
 
 ---
----
-# L00 — Introduction & Prefaces
 
 > One-paragraph overview of the litigation skills and principles taught in this chapter.
->
+%% %%
 > [!abstract] The arc of this chapter
 > **Where we left off:** We explored the previous phase of litigation or litigation foundations.
 >
@@ -27,8 +29,8 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
@@ -95,23 +97,23 @@ February 2007
 
 ## Preface to first edition
 
-*I want to put as many new ideas into the law as I can, to show how particular solutions involve general theory . . .*
+> *I want to put as many new ideas into the law as I can, to show how particular solutions involve general theory . . .*
+>
+> — **Oliver Wendell Holmes, Jr US Supreme Court Justice, 1902-1932**
 
-**Oliver Wendell Holmes, Jr US Supreme Court Justice, 1902-1932**
-
-I ran my first case in the Magistrates' Court at Potgietersrus, where I was working during the university holidays. The prosecutor handed me a docket and a charge sheet and told me to take the case in the next court; he was too busy with another trial. It was a simple stock theft case. I then found, to my horror, that even though I had been watching other people conducting trials for some time, I really had no idea how to do it myself. *I knew what I had to do; I just didn't know how to do it.* There was a large gap between my academic knowledge, which was fine, and my practical skills, which were absent. It was very embarrassing. I survived the ordeal only because the magistrate and the defence attorney helped me when I didn't know what to do or say.
+I ran my first case in the Magistrates' Court at Potgietersrus, where I was working during the university holidays. The prosecutor handed me a docket and a charge sheet and told me to take the case in the next court; he was too busy with another trial. It was a simple stock theft case. I then found, to my horror, that even though I had been watching other people conducting trials for some time, I really had no idea how to do it myself. *I knew what I had to do; I just didn't know how to do it.* There was a large gap between my ==academic knowledge==, which was fine, and my ==practical skills==, which were absent. It was very embarrassing. I survived the ordeal only because the magistrate and the defence attorney helped me when I didn't know what to do or say.
 
 It doesn't have to be like that.
 
 The aim of this book is to help young practitioners (attorneys, advocates and prosecutors) to acquire and develop the skills and techniques of the litigation process to represent their clients with competence and confidence. The emphasis is on skills, not knowledge. Every chapter of the book therefore concentrates on technique. To help you keep track of all the skills and techniques involved, there is a list of precedents, examples and strategies, including what to say to the court in different situations, immediately after the table of contents.
 
-There is a popular myth among the legal fraternity that skills cannot be learned or taught. The suggestion seems to be that you are either born with advocacy skills or without them; and if you were born without them, you might as well give up any hope you harboured of ever becoming a skilled litigator. I don't agree. Even a moderately talented person can acquire good advocacy skills. If they can be acquired, they can be taught. I would not have written this book if I thought otherwise. The secret lies in learning general techniques and procedures that can be
+There is a popular myth among the legal fraternity that skills cannot be learned or taught. The suggestion seems to be that you are either born with advocacy skills or without them; and if you were born without them, you might as well give up any hope you harboured of ever becoming a skilled litigator. I don't agree. Even a moderately talented person can acquire good advocacy skills. If they can be acquired, they can be taught. I would not have written this book if I thought otherwise. The secret lies in learning ==general techniques and procedures== that can be
 
 ---
 
 adapted to suit almost any circumstance you may encounter during the litigation process.
 
-The book is not about the theoretical aspects of advocacy. It is about practical skills and tips for everyday use in practice. Its aim is to teach the "how" rather than the "what". Conventional legal education teaches the law student what the law is, the "this" and the "that", the substantive and procedural rules of the law. Universities teach textbook law. Textbook knowledge tends to be superficial. It is acquired by studying. It is passive, existing in the mind. It is also random in that it depends on some arbitrary syllabus, and general, giving the student no clear reason why a particular piece of knowledge is necessary. On the other hand, a skill, or "know-how", is far more deep-seated knowledge, and, once acquired, tends to remain. It is acquired by "doing", by practising the technique of the skill over and over. It is also active knowledge, demonstrated by action. With skills the emphasis is always on "doing". If you can't do it, you don't have the skill; if you can do it, you have the skill. And the only way to demonstrate that you have mastered a particular skill is to do it, like riding a bicycle!
+The book is not about the theoretical aspects of advocacy. It is about ==practical skills and tips== for everyday use in practice. Its aim is to teach the =="how"== rather than the =="what"==. Conventional legal education teaches the law student what the law is, the "this" and the "that", the substantive and procedural rules of the law. Universities teach textbook law. Textbook knowledge tends to be superficial. It is acquired by studying. It is passive, existing in the mind. It is also random in that it depends on some arbitrary syllabus, and general, giving the student no clear reason why a particular piece of knowledge is necessary. On the other hand, a skill, or "know-how", is far more deep-seated knowledge, and, once acquired, tends to remain. It is acquired by ==doing==, by practising the technique of the skill over and over. It is also active knowledge, demonstrated by action. With skills the emphasis is always on ==doing==. If you can't do it, you don't have the skill; if you can do it, you have the skill. And the only way to demonstrate that you have mastered a particular skill is to ==do it==, like riding a bicycle!
 
 When I started this book, it was intended for use as a litigation skills guide for the practical training of aspirant advocates and attorneys at the law schools of the universities, the Practical Training Schools of the Association of Law Societies and the Advocacy Programmes of the Bar. However, as the book developed during the research and writing processes, it dawned upon me that junior practitioners also need a book that they can carry to court with them, to serve as a first or basic guide for all the steps and procedures which constitute the litigation process. I know of no other book that covers the whole process from beginning to end. I couldn't even find a book to help me with the chapter on appellate advocacy, and as for [[Page-115|fact analysis]], the subject seems to have been largely ignored in South African legal education programmes.
 
@@ -145,7 +147,7 @@ Chris Marnewick SC
 Auckland
 July 2002
 
-# Acknowledgements
+## Acknowledgements
 
 ---
 
@@ -163,117 +165,110 @@ A book like this is based on experience and lessons learned and taught in the pa
 
 ## Precedents, examples and strategies
 
-#### PRECEDENTS
+### PRECEDENTS
 
-|  *Plading or other document* | *Chapter* | *Page*  |
-| --- | --- | --- |
-|  1 Claims: Examples of the citation of plaintiffs and defendants | 5 | 92  |
-|  2 Claims: Particulars of claim in a damages action | 6 | 100  |
-|  3 Claims: Declaration in a contractual claim | 6 | 105  |
-|  4 Claims: Counterclaim in a damages action | 6 | 109  |
-|  5 Claims: Third party particulars of claim for a contribution | 6 | 114  |
-|  6 Claims: Interpleader particulars of claim | 6 | 118  |
-|  7 Claims: Provisional sentence summons | 6 | 122  |
-|  8 Charge of theft | 6 | 124  |
-|  9 Plea: pleading an admission | 7 | 129  |
-|  10 Plea: pleading a denial | 7 | 130  |
-|  11 Plea: denying some allegations while admitting others | 7 | 130  |
-|  12 Plea: pleading a confession and avoidance | 7 | 131  |
-|  13 Plea: pleading that an allegation is not admitted | 7 | 131  |
-|  14 Plea: pleading the material facts of the defence | 7 | 132  |
-|  15 Plea: pleading an explanation or qualification | 7 | 133  |
-|  16 Plea: the prayer | 7 | 134  |
-|  17 Plea: an inelegant plea | 7 | 139  |
-|  18 Plea: a [[Page-66|special plea]] | 7 | 139  |
-|  19 Plea explanation in a criminal case | 7 | 141  |
-|  20 Replication | 8 | 145  |
-|  21 [[Page-75|Exception]] | 9 | 153  |
-|  22 [[Page-75|Striking out]] order under Rule 23(2) | 9 | 156  |
-|  23 Objection to criminal charge | 9 | 158  |
-|  24 Applications: Notice of motion in spoliation application | 10 | 171  |
-|  25 Applications: Founding affidavit in spoliation application | 10 | 173  |
-|  26 Applications: Notice of opposition | 10 | 173  |
-|  27 Applications: Certificate of urgency | 10 | 177  |
-|  28 Applications: Notice of application in interlocutory proceedings | 10 | 179  |
-
----
-
-|  29 | Applications: Founding affidavit in interlocutory proceedings | 10 | 181  |
-| --- | --- | --- | --- |
-|  30 | Request for further particulars for trial | 11 | 199  |
-|  31 | Further particulars for trial | 11 | 200  |
-|  32 | Summary of [[Page-100|expert evidence]] under Rule 36(9) | 11 | 202  |
-|  33 | Summary of expert evidence under Rule 36(9) (damages action) | 11 | 204  |
-|  34 | Heads of argument (Use Tables 1, 2, 3 and 4 in Chapter 21) | 21 | 392  |
-|  35 | Reviews: Notice of motion in review application under Rule 53 | 24 | 440  |
-|  36 | Reviews: Founding affidavit in review application under Rule 53 | 24 | 443  |
-|  37 | Appeals: Notice of application for leave to appeal | 25 | 451  |
-|  38 | Appeals: Notice of application for special leave to appeal | 25 | 454  |
-|  39 | Appeals: Notice of appeal under Rule 49(3) | 25 | 457  |
+| *Pleading or other document* | *Chapter* | *Page* |
+| 1 Claims: Examples of the citation of plaintiffs and defendants | 5 | 92 |
+| 2 Claims: Particulars of claim in a damages action | 6 | 100 |
+| 3 Claims: Declaration in a contractual claim | 6 | 105 |
+| 4 Claims: Counterclaim in a damages action | 6 | 109 |
+| 5 Claims: Third party particulars of claim for a contribution | 6 | 114 |
+| 6 Claims: Interpleader particulars of claim | 6 | 118 |
+| 7 Claims: Provisional sentence summons | 6 | 122 |
+| 8 Charge of theft | 6 | 124 |
+| 9 Plea: pleading an admission | 7 | 129 |
+| 10 Plea: pleading a denial | 7 | 130 |
+| 11 Plea: denying some allegations while admitting others | 7 | 130 |
+| 12 Plea: pleading a confession and avoidance | 7 | 131 |
+| 13 Plea: pleading that an allegation is not admitted | 7 | 131 |
+| 14 Plea: pleading the material facts of the defence | 7 | 132 |
+| 15 Plea: pleading an explanation or qualification | 7 | 133 |
+| 16 Plea: the prayer | 7 | 134 |
+| 17 Plea: an inelegant plea | 7 | 139 |
+| 18 Plea: a [[Page-66\|special plea]] | 7 | 139 |
+| 19 Plea explanation in a criminal case | 7 | 141 |
+| 20 Replication | 8 | 145 |
+| 21 [[Page-75\|Exception]] | 9 | 153 |
+| 22 [[Page-75\|Striking out]] order under Rule 23(2) | 9 | 156 |
+| 23 Objection to criminal charge | 9 | 158 |
+| 24 Applications: Notice of motion in spoliation application | 10 | 171 |
+| 25 Applications: Founding affidavit in spoliation application | 10 | 173 |
+| 26 Applications: Notice of opposition | 10 | 173 |
+| 27 Applications: Certificate of urgency | 10 | 177 |
+| 28 Applications: Notice of application in interlocutory proceedings | 10 | 179 |
+| 29 Applications: Founding affidavit in interlocutory proceedings | 10 | 181 |
+| 30 Request for further particulars for trial | 11 | 199 |
+| 31 Further particulars for trial | 11 | 200 |
+| 32 Summary of [[Page-100\|expert evidence]] under Rule 36(9) | 11 | 202 |
+| 33 Summary of expert evidence under Rule 36(9) (damages action) | 11 | 204 |
+| 34 Heads of argument (Use Tables 1, 2, 3 and 4 in Chapter 21) | 21 | 392 |
+| 35 Reviews: Notice of motion in review application under Rule 53 | 24 | 440 |
+| 36 Reviews: Founding affidavit in review application under Rule 53 | 24 | 443 |
+| 37 Appeals: Notice of application for leave to appeal | 25 | 451 |
+| 38 Appeals: Notice of application for special leave to appeal | 25 | 454 |
+| 39 Appeals: Notice of appeal under Rule 49(3) | 25 | 457 |
 
 ### EXAMPLES OF WHAT TO SAY IN COURT
 
-|  *What to say: Technique or process* |   | *Chapter* | *Page*  |
+| No. | *What to say: Technique or process* | *Chapter* | *Page* |
 | --- | --- | --- | --- |
-|  1 | Asking open, closed or leading questions | 1 | 9  |
-|  2 | Asking questions using the funnelling technique | 1 | 10  |
-|  3 | [[Page-131|Opening statement]] for the prosecution | 16 | 290  |
-|  4 | Opening statement for the defence | 16 | 294  |
-|  5 | Opening statement in a civil case | 16 | 297  |
-|  6 | [[Page-136|Examination-in-chief]] | 17 | 316  |
-|  7 | Examination-in-chief: using a timeline | 17 | 322  |
-|  8 | [[Page-145|Cross-examination]]: confrontation | 18 | 334  |
-|  9 | Cross-examination: probing | 18 | 334  |
-|  10 | Cross-examination: suggestion | 18 | 336  |
-|  11 | Cross-examination: undermining | 18 | 338  |
-|  12 | Cross-examination: a question too many | 18 | 340  |
-|  13 | Cross-examining to a theme | 18 | 341  |
-|  14 | [[Page-160|Re-examination]]: eliciting a favourable explanation | 19 | 348  |
-|  15 | Re-examination: rehabilitating the witness | 19 | 348  |
-|  16 | Re-examination: clarifying evidence | 19 | 349  |
-|  17 | Handling an exhibit which has already been proved | 20 | 354  |
-|  18 | Proving an exhibit formally, through a witness | 20 | 355  |
-|  19 | Proving a [[Page-100|demonstrative exhibit]], a medical report | 20 | 356  |
-|  20 | Recording a demonstration by the witness | 20 | 356  |
-|  21 | Confirming a demonstration given at an inspection | 20 | 358  |
-|  22 | Using a prior inconsistent statement to discredit the witness | 20 | 359  |
-|  23 | Refreshing memory | 20 | 361  |
-|  24 | Cross-examination of an expert to demonstrate bias or interest | 20 | 365  |
-|  25 | Objections to questions and evidence: phrasing an objection | 20 | 366  |
-|  26 | Leading identification evidence in a criminal case | 20 | 370  |
-|  27 | Cross-examining an identification witness in a criminal case | 20 | 371  |
-|  28 | Objections: how to respond to objections | 20 | 376  |
-|  29 | Argument: Dealing with the issues in turn | 21 | 383  |
-|  30 | Argument on the facts | 21 | 386  |
-|  31 | Argument on a point of law | 21 | 390  |
-|  32 | [[Page-179|Motion Court]]: Provisional sentence | 22 | 401  |
-|  33 | Motion Court: Default judgment without evidence | 22 | 402  |
-|  34 | Motion Court: Default judgment with evidence | 22 | 402  |
-|  35 | Motion Court: Summary judgment (unopposed) | 22 | 403  |
-|  36 | Motion Court: Summary judgment (consent order) | 22 | 403  |
-|  37 | Motion Court: Application for substituted service | 22 | 404  |
-|  38 | Motion Court: Divorce trial (unopposed) | 22 | 404  |
-|  39 | Motion Court: Rule 43 application (opposed) | 22 | 405  |
-|  40 | Motion Court: Sequestration application (unopposed) | 22 | 406  |
-|  41 | Motion Court: Urgent application (unopposed) | 22 | 407  |
-|  42 | Motion Court: Urgent spoliation application (opposed) | 22 | 408  |
-|  43 | Appeals: Making submissions of law | 25 | 464  |
-|  44 | Appeals: Making submissions of fact | 25 | 464  |
-|  45 | Appeals: Opening the appeal | 25 | 467  |
+| 1 | Asking open, closed or leading questions | 1 | 9 |
+| 2 | Asking questions using the funnelling technique | 1 | 10 |
+| 3 | [[Page-131\|Opening statement]] for the prosecution | 16 | 290 |
+| 4 | Opening statement for the defence | 16 | 294 |
+| 5 | Opening statement in a civil case | 16 | 297 |
+| 6 | [[Page-136\|Examination-in-chief]] | 17 | 316 |
+| 7 | Examination-in-chief: using a timeline | 17 | 322 |
+| 8 | [[Page-145\|Cross-examination]]: confrontation | 18 | 334 |
+| 9 | Cross-examination: probing | 18 | 334 |
+| 10 | Cross-examination: suggestion | 18 | 336 |
+| 11 | Cross-examination: undermining | 18 | 338 |
+| 12 | Cross-examination: a question too many | 18 | 340 |
+| 13 | Cross-examining to a theme | 18 | 341 |
+| 14 | [[Page-160\|Re-examination]]: eliciting a favourable explanation | 19 | 348 |
+| 15 | Re-examination: rehabilitating the witness | 19 | 348 |
+| 16 | Re-examination: clarifying evidence | 19 | 349 |
+| 17 | Handling an exhibit which has already been proved | 20 | 354 |
+| 18 | Proving an exhibit formally, through a witness | 20 | 355 |
+| 19 | Proving a [[Page-100\|demonstrative exhibit]], a medical report | 20 | 356 |
+| 20 | Recording a demonstration by the witness | 20 | 356 |
+| 21 | Confirming a demonstration given at an inspection | 20 | 358 |
+| 22 | Using a prior inconsistent statement to discredit the witness | 20 | 359 |
+| 23 | Refreshing memory | 20 | 361 |
+| 24 | Cross-examination of an expert to demonstrate bias or interest | 20 | 365 |
+| 25 | Objections to questions and evidence: phrasing an objection | 20 | 366 |
+| 26 | Leading identification evidence in a criminal case | 20 | 370 |
+| 27 | Cross-examining an identification witness in a criminal case | 20 | 371 |
+| 28 | Objections: how to respond to objections | 20 | 376 |
+| 29 | Argument: Dealing with the issues in turn | 21 | 383 |
+| 30 | Argument on the facts | 21 | 386 |
+| 31 | Argument on a point of law | 21 | 390 |
+| 32 | [[Page-179\|Motion Court]]: Provisional sentence | 22 | 401 |
+| 33 | Motion Court: Default judgment without evidence | 22 | 402 |
+| 34 | Motion Court: Default judgment with evidence | 22 | 402 |
+| 35 | Motion Court: Summary judgment (unopposed) | 22 | 403 |
+| 36 | Motion Court: Summary judgment (consent order) | 22 | 403 |
+| 37 | Motion Court: Application for substituted service | 22 | 404 |
+| 38 | Motion Court: Divorce trial (unopposed) | 22 | 404 |
+| 39 | Motion Court: Rule 43 application (opposed) | 22 | 405 |
+| 40 | Motion Court: Sequestration application (unopposed) | 22 | 406 |
+| 41 | Motion Court: Urgent application (unopposed) | 22 | 407 |
+| 42 | Motion Court: Urgent spoliation application (opposed) | 22 | 408 |
+| 43 | Appeals: Making submissions of law | 25 | 464 |
+| 44 | Appeals: Making submissions of fact | 25 | 464 |
+| 45 | Appeals: Opening the appeal | 25 | 467 |
 
 ### STRATEGIES FOR DIFFERENT LITIGATION PROCESSES
 
-|  *Process* |   | *Chapter* | *Page*  |
+| No. | *Process* | *Chapter* | *Page* |
 | --- | --- | --- | --- |
-|  1 | Initial [[Page-115|fact analysis]] | 1 | 15  |
-|  2 | Interviewing a client | 1 | 18  |
-
----
-
----
+| 1 | Initial [[Page-115\|fact analysis]] | 1 | 15 |
+| 2 | Interviewing a client | 1 | 18 |
 
 ## Concepts in this lecture
+
 [[Facta Probanda]] · [[Facta Probantia]] · [[Cause of Action]] · [[Locus Standi]]
 
 ## Navigation
+
 Prev: ← Start · Next: [[L01 - Interviewing clients and witnesses|Next Chapter →]]

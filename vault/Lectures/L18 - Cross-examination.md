@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L18
 tags: [lecture, litigation-skills]
+
 ---
 # L18 — Cross-examination
 
@@ -18,48 +20,48 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
 ## Chapter Content Walkthrough
 
-|  2 | Ensuring that the witness has been briefed properly |   |
+| 2 | Ensuring that the witness has been briefed properly | |
 | --- | --- | --- |
-|  3 | Introducing the witness |   |
-|  4 | Qualifying the witness |   |
-|  5 | Controlling the witness by signposting and piggybacking |   |
-|  6 | Asking clear questions |   |
-|  7 | Asking non-leading questions |   |
-|  8 | Asking simple questions eliciting one fact at a time (as opposed to compound questions) |   |
-|  9 | Ensuring that all gestures and demonstrations are recorded |   |
-|  10 | Listening to the answers and responding appropriately |   |
-|  11 | Avoiding inadmissible evidence |   |
-|  12 | Eliciting the evidence in a logical order |   |
-|  13 | Eliciting all the relevant evidence |   |
-|  14 | Handling exhibits appropriately |   |
-|  15 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |   |
+| 3 | Introducing the witness | |
+| 4 | Qualifying the witness | |
+| 5 | Controlling the witness by signposting and piggybacking | |
+| 6 | Asking clear questions | |
+| 7 | Asking non-leading questions | |
+| 8 | Asking simple questions eliciting one fact at a time (as opposed to compound questions) | |
+| 9 | Ensuring that all gestures and demonstrations are recorded | |
+| 10 | Listening to the answers and responding appropriately | |
+| 11 | Avoiding inadmissible evidence | |
+| 12 | Eliciting the evidence in a logical order | |
+| 13 | Eliciting all the relevant evidence | |
+| 14 | Handling exhibits appropriately | |
+| 15 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections | |
 
-## Cross-examination
+## Chapter 18: Cross-examination
 
 ### CONTENTS
 
-18.1 Introduction18.2 Aims of cross-examination  
- 18.2.1 Constructive cross-examination: Eliciting favourable evidence  
- 18.2.2 Destructive cross-examination: Discrediting the evidence  
- 18.2.3 Destructive cross-examination: Discrediting the witness  
- 18.2.4 Discrediting evidence given by another witness and discrediting another witness18.2.5 The duty to put your version18.2.6 Parading your case18.3 Restrictions on cross-examination  
- 18.3.1 Cross-examination on the merits  
- 18.3.2 Cross-examination to credit  
- 18.3.3 Provisos18.4 Failure to cross-examine18.5 Structure of cross-examination18.6 Technique in cross-examination  
- 18.6.1 Confrontation  
- 18.6.2 Probing  
- 18.6.3 Suggestion (insinuation)  
- 18.6.4 Undermining  
- 18.6.5 Special techniques18.7 [[Page-136|Examination-in-chief]] and cross-examination compared18.8 Examples of cross-examination to a theme  
- 18.8.1 Cross-examining to Observation  
- 18.8.2 Cross-examining to Memory  
+18.1 Introduction18.2 Aims of cross-examination
+ 18.2.1 Constructive cross-examination: Eliciting favourable evidence
+ 18.2.2 Destructive cross-examination: Discrediting the evidence
+ 18.2.3 Destructive cross-examination: Discrediting the witness
+ 18.2.4 Discrediting evidence given by another witness and discrediting another witness18.2.5 The duty to put your version18.2.6 Parading your case18.3 Restrictions on cross-examination
+ 18.3.1 Cross-examination on the merits
+ 18.3.2 Cross-examination to credit
+ 18.3.3 Provisos18.4 Failure to cross-examine18.5 Structure of cross-examination18.6 Technique in cross-examination
+ 18.6.1 Confrontation
+ 18.6.2 Probing
+ 18.6.3 Suggestion (insinuation)
+ 18.6.4 Undermining
+ 18.6.5 Special techniques18.7 [[Page-136|Examination-in-chief]] and cross-examination compared18.8 Examples of cross-examination to a theme
+ 18.8.1 Cross-examining to Observation
+ 18.8.2 Cross-examining to Memory
  18.8.3 Cross-examining to Recounting
 
 ---
@@ -77,6 +79,7 @@ graph LR
 18.9 Protocol and ethics
 
 18.10 Checklist and assessment guide
+
 ## 18.1 Introduction
 
 Every party to a trial has the right to question witnesses called by any other party, and, in the case of a witness called by the judge, may question the court's witness, subject to the permission of the court. This type of questioning is almost invariably adversarial in nature because the witness would not have been called unless he or she had something to contribute against the interests of the party cross-examining. This does not mean that it is open season on the witness. Treating the witness with courtesy is not inconsistent with skilful, powerful and penetrative [[Page-145|cross-examination]].
@@ -146,6 +149,7 @@ examine to that effect. If the witness denies having been convicted, you may lea
 ### 18.2.4 Discrediting evidence given by another witness and discrediting another witness
 
 You could employ some subtle cross-examination to discredit evidence given by another opposition witness or to discredit a witness other than the one being cross-examined. The questions you would ask would tend to expose or suggest bias, an interest in the outcome, discrepancies involving the other witness, an inappropriate attitude to the oath or truth or a reputation for untruthfulness on the part of the other witness. You could also undermine the evidence of another witness by exposing or suggesting that he or she did not have a good opportunity to observe or was forgetful. Ask yourself how believable the evidence of another opposition witness is in the light of what this witness says.
+
 ### 18.2.5 The duty to put your version
 
 One of the fundamental rules of trial is that you have to put as much of your case to individual opposing witnesses as they can reasonably be expected to be able to answer. There are three qualifications to this rule. The *first* is that you have to put to the witness only that part of your version on which the witness is able to comment. The *second* is that you only have to put that part of your own witnesses' version which conflicts with the evidence of the witness under cross-examination. The *third* is that you do not have to put any version to the witness if you are not going to call witnesses to dispute the version given by the witness.
@@ -156,7 +160,7 @@ This is something prosecutors often forget.
 
 When nothing else is to be gained from a witness, you may in some instances be able to make your own case look better by putting those parts of it with which the witness is likely to agree to an opposition witness. If you have a very strong case, you may make the tactical decision to parade your case to the first opposition witness to whom it can logically be put for comment. If the witness agrees with the salient points of your case, the other side may capitulate, and even if they do not, the details of your case will have been fixed in the mind of the judge at an early stage. You parade your case for impact and you should therefore ensure that the witness agrees with every fact you put to him or her; otherwise the impact may be negative, emphasising that the witness disagrees with your version rather than the opposite.
 
-### 18.3 Restrictions on cross-examination
+## 18.3 Restrictions on cross-examination
 
 Questions may be allowed in cross-examination if they serve any of the purposes discussed earlier, subject to a number of provisos. Keep in mind that the court has an overriding discretion to disallow questions even if they are otherwise in order. A general distinction is drawn between cross-examination on the merits (testing the reliability of
 
@@ -164,7 +168,7 @@ Questions may be allowed in cross-examination if they serve any of the purposes 
 
 the evidence) and [[Page-145|cross-examination]] testing the credibility of the witness, or cross-examination to credit, as it is sometimes called.
 
-### **18.3.1 Cross-examination on the merits**
+### 18.3.1 Cross-examination on the merits
 
 Questions are allowed on all matters in issue before the court; whether the accused was the one who had stabbed the deceased, whether the light was red when the defendant entered the intersection and so on. The cross-examiner may also ask questions which elicit favourable evidence for his or her side, even if the witness has given no evidence on the subject-matter of the question in their evidence-in-chief. The merits include the precise circumstances of the event or incident in question and questions which paint the incident in a different light are not only permissible, they are an example of good technique.
 
@@ -177,7 +181,7 @@ The merits include the reliability of the evidence, as opposed to the credibilit
 - whether the witness has been influenced in his or her identification; and
 - the distinguishing features of the person identified.
 
-### **18.3.2 Cross-examination to credit**
+### 18.3.2 Cross-examination to credit
 
 Questions which attack or cast doubt upon the credibility of the witness are allowed in cross-examination. Wide latitude is allowed when the questions relate to the honesty and integrity of the witness. Often the cross-examiner is the only one who has any idea where the questions are going. The following areas may be explored to test the credibility of the witness:
 
@@ -188,7 +192,7 @@ Questions which attack or cast doubt upon the credibility of the witness are all
 - The witness has made a prior inconsistent statement.
 - The witness has a reputation for untruthfulness.
 
-### **18.3.3 Provisos**
+### 18.3.3 Provisos
 
 There are many risks involved in cross-examination. The witness may give damaging answers; the witness may withstand cross-examination so well that the evidence gains in credibility or you may find that you simply have no material to question the honesty of the witness. These problems are compounded by the following circumstances:
 
@@ -203,13 +207,13 @@ the truth, "the whole truth", and nothing but the truth. A simple yes or no answ
 
 - The answers given to questions relating to credit are final. You are not allowed to lead evidence to dispute the evidence given by the witness in this regard. There are two exceptions where evidence in rebuttal may be led to disprove the evidence of the witness. The first is evidence of bias, interest, prejudice or corruption, and the second is evidence of previous convictions.
 
-### 18.4 Failure to cross-examine
+## 18.4 Failure to cross-examine
 
 If you intend to lead evidence to contradict the witness or intend to argue that the witness's evidence should not be accepted, you have the duty to cross-examine the witness on the disputed facts. The idea is to give the witness an opportunity to explain or to answer your side's version of the facts. There is a grave risk in not cross-examining an opposing witness; the court may accept their evidence, especially because their evidence was not disputed in [[Page-145|cross-examination]].
 
 Sometimes the evidence given by a witness is so obviously false or so far-fetched that it is beyond credence; it may not be necessary to cross-examine the witness in such a case. But make sure the judge shares your view that the evidence is beyond credence; don't run unnecessary risks. It doesn't take much time to tell the witness that his or her version is untrue, improbable or far-fetched. When in doubt, put your version to the witness and say that you have no further questions.
 
-### 18.5 Structure of cross-examination
+## 18.5 Structure of cross-examination
 
 The structure or approach of your cross-examination will be determined by the tactics or strategy you have planned for the case or for the particular witness. At the preparation stage, your planning will be provisional only, because you have to listen to the evidence the witness actually gives when being examined-in-chief before you can decide upon your approach. The evidence has to be as it is given, from moment to moment, and you can only finally plan your approach when you have considered the impact of the evidence the witness has given. If your preparation has been thorough, you should be in a good position to make this assessment quickly and accurately. You may then come to the conclusion, for example, that the witness has not hurt your case as badly as you originally anticipated. You may then even decide that there is nothing to gain by cross-examining the witness. Or you may decide to elicit favourable evidence without discrediting the witness in any way.
 Anticipate who the other side will call as their witnesses and think of possible themes for their cross-examination. You need themes for each witness. The following themes may be applicable:
@@ -482,35 +486,35 @@ evidence or the witness.
 
 **Table 18.4** Undermining the witness
 
-|  **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence [[Page-131|opening statement]].  |
+| **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence [[Page-131\|opening statement]]. |
 | --- |
-|  **The aim of the [[Page-145|cross-examination]]:** To "parade" the prosecution case in order to undermine the defence case.  |
-|  Prosecutor. *So you put your own backpack on the floor?*  |
-|  A. Yes.  |
-|  Q. *And you then took a similar backpack from the rack?*  |
-|  A. Yes.  |
-|  Q. *One you were not going to buy because you actually wanted a different type of bag?*  |
-|  A. Yes.  |
-|  Q. *And then you slung the store's backpack over your shoulder?*  |
-|  A. Yes.  |
-|  Q. *And you left your own, tattered backpack on the floor?*  |
-|  A. Yes.  |
-|  Q. *The two bags are quite different, aren't they?*  |
-|  A. Yes, but I did not notice that at the time. I thought I was carrying my own.  |
-|  Q. *And you went to the rack where other types of bags were displayed?*  |
-|  A. Yes.  |
-|  Q. *But you did not select any of them?*  |
-|  A. Yes.  |
-|  Q. *You then walked out of the store without buying anything at all?*  |
-|  A. Yes.  |
-|  Q. *You did not have enough money on you to pay for the backpack, did you?*  |
-|  A. No.  |
-|  Q. *You've been embarrassed previously by your colour-blindness?*  |
-|  A. Often, and for a long time.  |
-|  Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?*  |
-|  A. I've tried.  |
-|  Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?*  |
-|  A. No.  |
+| **The aim of the [[Page-145\|cross-examination]]:** To "parade" the prosecution case in order to undermine the defence case. |
+| Prosecutor. *So you put your own backpack on the floor?* |
+| A. Yes. |
+| Q. *And you then took a similar backpack from the rack?* |
+| A. Yes. |
+| Q. *One you were not going to buy because you actually wanted a different type of bag?* |
+| A. Yes. |
+| Q. *And then you slung the store's backpack over your shoulder?* |
+| A. Yes. |
+| Q. *And you left your own, tattered backpack on the floor?* |
+| A. Yes. |
+| Q. *The two bags are quite different, aren't they?* |
+| A. Yes, but I did not notice that at the time. I thought I was carrying my own. |
+| Q. *And you went to the rack where other types of bags were displayed?* |
+| A. Yes. |
+| Q. *But you did not select any of them?* |
+| A. Yes. |
+| Q. *You then walked out of the store without buying anything at all?* |
+| A. Yes. |
+| Q. *You did not have enough money on you to pay for the backpack, did you?* |
+| A. No. |
+| Q. *You've been embarrassed previously by your colour-blindness?* |
+| A. Often, and for a long time. |
+| Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?* |
+| A. I've tried. |
+| Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?* |
+| A. No. |
 
 The prosecution's case is that the defendant's conduct is suspicious. The first part of the cross-examination is designed to undermine the defendant's version by parading the facts which make that version appear suspicious. The last three questions are designed to undermine it further by raising additional facts which reduce any sympathy the judge might feel towards the accused. The very last question may be the question that allows the witness to give a convincing explanation.
 
@@ -557,23 +561,24 @@ The last question undid all the good results the prior cross-examination had ach
 - Don't argue with the witness and don't give explanations. If the witness raises argumentative matter, ask the witness to restrict his or her answers to the facts. Ask your questions in such a way that you invite facts rather than argument or explanations.
 - The fact that the witness has been disbelieved in another case, is of little or no value to discredit the witness. Some judges may allow a question to that effect, but there are too many imponderables to be sure that the previous finding was correct. This kind of cross-examination may even be inadmissible.
 - It is a good tactic to end the cross-examination on a high note. The high note may be agreement by the witness with a number of your side's facts, put as propositions to the witness, or it could be the exposure of a glaring discrepancy, or raging bias against your side. The high note is best achieved when you can parade those of your side's facts the witness can, and will, confirm. When you have hit the high note, sit down.
+
 ---
 
 ## 18.7 Examination-in-chief and cross-examination compared
 
 **Table 18.6** Examination-in-chief and cross-examination compared
 
-|  Examination-in-chief | Cross-examination  |
+| Examination-in-chief | Cross-examination |
 | --- | --- |
-|  Inquisitive questions are used, with the answers known or expected by the questioner. | Insinuating (suggestive) questions are used, with the answers not necessarily known to the cross-examiner.  |
-|  Questions may not be leading and are aimed at getting the witness to give his or her own version. | Mostly leading questions, designed to elicit the desired answer, are asked.  |
-|  Interrogative words are used to introduce questions: 'Who', 'what', 'where', 'how', 'which', 'why' and 'Please describe . . .'. | The tone is suggestive and accusatory: 'You went to the house, didn't you?' or 'Didn't you . . . ?'  |
-|  There is a chronological arrangement, except when a particular topic needs to be dealt with out of turn. | The arrangement is topical, with chronological sequencing within themes or topics.  |
-|  Strict sequencing allows witness to be at ease. | A mixed approach is followed to keep the witness off balance.  |
-|  The aim is to keep the case simple. | The aim is to sow suspicion and confusion.  |
-|  Comprehensive, covering all the material facts on which the witness can contribute evidence. | Selective, covering only the material fact or facts in issue, and attacking selected items of evidence.  |
-|  It is not required to put the opponent's version, but you may do so in anticipation. | You are required to put your side's version of disputed facts to appropriate witnesses.  |
-|  Questions progress from open questions to closed but non-leading questions. | Questions progress from open questions introducing the topic, to closed, leading questions.  |
+| Inquisitive questions are used, with the answers known or expected by the questioner. | Insinuating (suggestive) questions are used, with the answers not necessarily known to the cross-examiner. |
+| Questions may not be leading and are aimed at getting the witness to give his or her own version. | Mostly leading questions, designed to elicit the desired answer, are asked. |
+| Interrogative words are used to introduce questions: 'Who', 'what', 'where', 'how', 'which', 'why' and 'Please describe . . .'. | The tone is suggestive and accusatory: 'You went to the house, didn't you?' or 'Didn't you . . . ?' |
+| There is a chronological arrangement, except when a particular topic needs to be dealt with out of turn. | The arrangement is topical, with chronological sequencing within themes or topics. |
+| Strict sequencing allows witness to be at ease. | A mixed approach is followed to keep the witness off balance. |
+| The aim is to keep the case simple. | The aim is to sow suspicion and confusion. |
+| Comprehensive, covering all the material facts on which the witness can contribute evidence. | Selective, covering only the material fact or facts in issue, and attacking selected items of evidence. |
+| It is not required to put the opponent's version, but you may do so in anticipation. | You are required to put your side's version of disputed facts to appropriate witnesses. |
+| Questions progress from open questions to closed but non-leading questions. | Questions progress from open questions introducing the topic, to closed, leading questions. |
 
 ## 18.8 Examples of cross-examination to a theme
 
@@ -598,6 +603,7 @@ A. *Yes.*
 Q. *Their faces must have been in the shadow?*
 
 A. *...*
+
 ### 18.8.2 Cross-examining to Memory
 
 The witness is called as an alibi witness.
@@ -620,7 +626,7 @@ Q. And you then had to try to remember precisely what weekend that was, and what
 
 A. . . .
 
-### **18.8.3 Cross-examining to Recounting**
+### 18.8.3 Cross-examining to Recounting
 
 The witness was provided with information by the police.
 
@@ -636,7 +642,7 @@ Q. So you went to the identity parade expecting there to be an Indian man with b
 
 A. . . .
 
-### **18.8.4 Cross-examining to Bias**
+### 18.8.4 Cross-examining to Bias
 
 The witness was a passenger in the same car as the plaintiff when they were stopped by the police.
 
@@ -652,7 +658,7 @@ Q. You don't like the police, do you?
 
 A. . . .
 
-### **18.8.5 Cross-examining to Interest**
+### 18.8.5 Cross-examining to Interest
 
 The witness has a claim against the same defendant arising from the same collision.
 
@@ -667,7 +673,8 @@ A. Yes.
 Q. And if the RAF were found liable in this action, your prospects of obtaining a favourable settlement would improve, would they not?
 
 A. . . .
-### **18.8.6 Cross-examining to Prejudice**
+
+### 18.8.6 Cross-examining to Prejudice
 
 The witness has suffered at the hands of criminals before. Now she gives identification evidence in a housebreaking matter.
 
@@ -683,7 +690,7 @@ Q. So you would like to see this accused being brought to book?
 
 A. . . .
 
-### **18.8.7 Cross-examining to Corruption**
+### 18.8.7 Cross-examining to Corruption
 
 The witness has been paid to give evidence.
 
@@ -701,7 +708,7 @@ Q. Yes, but that was only after your response that your evidence would be very u
 
 A. . . .
 
-### **18.8.8 Cross-examining to Prior convictions**
+### 18.8.8 Cross-examining to Prior convictions
 
 The witness has prior convictions.
 
@@ -709,7 +716,7 @@ Q. You were convicted of theft by shoplifting on [date] in the Magistrates' Cour
 
 A. . . .
 
-### **18.8.9 Cross-examining to Prior bad acts**
+### 18.8.9 Cross-examining to Prior bad acts
 
 The witness has submitted false VAT returns to the South African Revenue Service.
 
@@ -725,11 +732,11 @@ Q. You either rendered false returns to SARS or you deceived the plaintiff. Whic
 
 A. . . .
 
-### **18.8.10 Cross-examining to Prior inconsistent statement**
+### 18.8.10 Cross-examining to Prior inconsistent statement
 
 See paragraph 20.4
 
-### **18.8.11 Cross-examining to Reputation**
+### 18.8.11 Cross-examining to Reputation
 
 You intend calling a witness who will say that the witness under [[Page-145|cross-examination]] has a reputation for untruthfulness.
 
@@ -744,7 +751,7 @@ Q. What would you say if a member of that community were to give evidence to the
 
 A. . . .
 
-### **18.8.12 Cross-examining to Put your case**
+### 18.8.12 Cross-examining to Put your case
 
 Your case is that the witness had not been present during the events concerned.
 
@@ -757,8 +764,8 @@ Q. In fact, you were living in [town] at the time the deceased was killed here i
 A. No.
 
 > [!warning] **18.9 Protocol and ethics**
-
-> [!warning] Attacking the character of a witness is not to be undertaken unless you have firm instructions and good grounds for such a course. There are limits to the extent to which the character of witnesses can be attacked. They are set out in the Bar's Rules of Ethics and the Law Society's Rules and Rulings. If you attack the character of an opposing witness, your own client's character may be attacked.
+>
+> Attacking the character of a witness is not to be undertaken unless you have firm instructions and good grounds for such a course. There are limits to the extent to which the character of witnesses can be attacked. They are set out in the Bar's Rules of Ethics and the Law Society's Rules and Rulings. If you attack the character of an opposing witness, your own client's character may be attacked.
 > It is unethical for counsel to attribute fraud, dishonesty or other improper behaviour to third parties in open court when they are not witnesses or parties at the trial and don't have a chance to respond to the allegations. When such allegations have to be made the names of the persons against whom they are to be made should be written on a note and given to the judge instead.
 
 ---
@@ -767,7 +774,7 @@ A. No.
 - It is unethical for counsel to misstate prior evidence in [[Page-145|cross-examination]]. Don't twist or interpret what the witness has said. If prior evidence has to be repeated, use the exact words the witness used. (You should have made notes of them for precisely this purpose.)
 - It is unbecoming of counsel to abuse witnesses. Keep sarcasm and sneering in check.
 
-### 18.10 Checklist and assessment guide
+## 18.10 Checklist and assessment guide
 
 If this book were to be used as a teaching guide or prescribed work for advocacy exercises, the following checklist may be used to prepare for the exercises, to serve as an assessment guide, or to serve as a marking guide.
 
@@ -778,33 +785,35 @@ C = Competent (meaning that the performer has attained the desired standard of c
 NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
 Table 18.7 Checklist for cross-examination
 
-|   | Skill involved | Competent/ Not yet competent  |
+| | Skill involved | Competent/ Not yet competent |
 | --- | --- | --- |
-|  1 | Preparing themes for the cross-examination of each witness |   |
-|  2 | Asking short, leading questions |   |
-|  3 | Asking clear questions |   |
-|  4 | Asking one question at a time and allowing the witness to answer |   |
-|  5 | Avoiding arguing with the witness |   |
-|  6 | Avoiding questions resulting in inadmissible evidence |   |
-|  7 | Asking simple as opposed to compound or multiple questions |   |
-|  8 | Ensuring that all gestures and demonstrations out are recorded |   |
-|  9 | Listening to the answers and responding appropriately |   |
-|  10 | Avoiding commenting on the answers |   |
-|  11 | Exploring one theme at a time |   |
-|  12 | Eliciting favourable evidence where appropriate |   |
-|  13 | Following the correct procedure for putting a prior inconsistent statement |   |
-|  14 | Avoiding repeating adverse evidence |   |
-|  15 | Questioning only on topics relevant to the cross-examiner's [[Page-115|theory of the case]] |   |
-|  16 | Challenging the witness on all disputed facts within the witness's knowledge |   |
-|  17 | Putting the cross-examiner's case to the appropriate witnesses |   |
-|  18 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |   |
+| 1 | Preparing themes for the cross-examination of each witness | |
+| 2 | Asking short, leading questions | |
+| 3 | Asking clear questions | |
+| 4 | Asking one question at a time and allowing the witness to answer | |
+| 5 | Avoiding arguing with the witness | |
+| 6 | Avoiding questions resulting in inadmissible evidence | |
+| 7 | Asking simple as opposed to compound or multiple questions | |
+| 8 | Ensuring that all gestures and demonstrations out are recorded | |
+| 9 | Listening to the answers and responding appropriately | |
+| 10 | Avoiding commenting on the answers | |
+| 11 | Exploring one theme at a time | |
+| 12 | Eliciting favourable evidence where appropriate | |
+| 13 | Following the correct procedure for putting a prior inconsistent statement | |
+| 14 | Avoiding repeating adverse evidence | |
+| 15 | Questioning only on topics relevant to the cross-examiner's [[Page-115\|theory of the case]] | |
+| 16 | Challenging the witness on all disputed facts within the witness's knowledge | |
+| 17 | Putting the cross-examiner's case to the appropriate witnesses | |
+| 18 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections | |
 
 ---
 
 ---
 
 ## Concepts in this lecture
+
 [[Cross-examination]]
 
 ## Navigation
+
 Prev: [[L17 - Examination-in-chief|← Previous Chapter]] · Next: [[L19 - Re-examination|Next Chapter →]]

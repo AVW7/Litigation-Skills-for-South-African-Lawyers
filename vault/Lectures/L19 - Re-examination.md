@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L19
 tags: [lecture, litigation-skills]
+
 ---
 # L19 — Re-examination
 
@@ -18,15 +20,14 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
 ## Chapter Content Walkthrough
 
-# Chapter 19
-## Re-examination
+## Chapter 19: Re-examination
 
 CONTENTS
 
@@ -39,7 +40,8 @@ CONTENTS
 19.4 Technique in re-examination
 19.5 Protocol and ethics
 19.6 Checklist and assessment guide
-### 19.1 Introduction
+
+## 19.1 Introduction
 
 Parties are entitled to re-examine their own witnesses after the completion of cross-examination. Re-examination is done -
 
@@ -50,7 +52,7 @@ Parties are entitled to re-examine their own witnesses after the completion of c
 
 It follows that there is no need for re-examination if none of these purposes will be served by re-examining the witness.
 
-### 19.2 Restrictions on re-examination
+## 19.2 Restrictions on re-examination
 
 There are three restrictions on the right to re-examine:
 
@@ -58,9 +60,9 @@ There are three restrictions on the right to re-examine:
 2 Leading questions are not allowed; you are subject to the same rules with regard to the form of the questions as you are when leading the evidence-in-chief.
 3 The re-examination is not to be a mere repetition of the evidence-in-chief.
 
-### 19.3 Purpose of re-examination
+## 19.3 Purpose of re-examination
 
-#### 19.3.1 Repairing damage to the evidence-in-chief
+### 19.3.1 Repairing damage to the evidence-in-chief
 
 If the evidence-in-chief of your witness has been undermined in cross-examination, you may be able to repair the damage in re-examination. However, this situation is pregnant with risk. An unsuccessful attempt to repair the damage is likely to remind the judge of the success of the cross-examination. It is therefore important to weigh up the risks against the possible benefits before you embark on this course.
 
@@ -158,7 +160,9 @@ NYC = Not yet competent (meaning that the performer has not yet reached the desi
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L18 - Cross-examination|← Previous Chapter]] · Next: [[L20 - Special procedures|Next Chapter →]]

@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L5
 tags: [lecture, litigation-skills]
+
 ---
 # L05 — Function, form and style of pleadings
 
@@ -20,14 +22,13 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
 
 their point of departure will always be the material collected and collated in the attorney's trial folder.
 
-#### 4.6 Fees
+## 4.6 Fees
 
 Lawyers do not enjoy talking about the cost of their services. This is a natural phenomenon. The truth is that clients are apprehensive about the cost of litigation and deserve to be told in advance what they can expect. This forms part of the lawyer's duty to advise the client fully about the available options and the lawyer's recommendation with regard to the most appropriate course to follow. Clients should be advised what their options are with regard to fees and disbursements. Your advice will depend on the policy of your firm and the nature of the case. It is essential in all types of cases that clients should know that they are ultimately liable for fees and disbursements. Clients should be advised of the following, at least:
 
@@ -40,7 +41,7 @@ Lawyers do not enjoy talking about the cost of their services. This is a natural
 
 The best way to ensure that there is no room for misunderstanding is to have a booklet spelling out all the alternatives and to couple that with a letter to the client confirming the instruction and what has been agreed with regard to fees. For advocates the process is different. They do not as a rule discuss fees with the lay client. Nevertheless, it is sound practice for advocates (and the attorneys who make use of their services) to ensure that there is agreement on the computation of counsel's fees before the brief is sent to counsel. The discussion should include such aspects as counsel's hourly rate, an estimate of the amount of time the particular brief would take, and any agreed fee.
 
-### Chapter 5 Function, form and style of pleadings
+## Chapter 5: Function, form and style of pleadings
 
 #### CONTENTS
 
@@ -55,7 +56,8 @@ The best way to ensure that there is no room for misunderstanding is to have a b
 - 5.5 Form, format and style
 - 5.6 Examples of the citation of plaintiffs and defendants
 - 5.7 Protocol and ethics
-#### 5.1 Introduction
+
+## 5.1 Introduction
 
 Pleadings are written statements in which the parties to an action set out the material facts supporting their respective claims or defences. What a party prefers to call 'facts' in his or her pleading are not facts until they are proved to the satisfaction of the court or admitted by the other party. Until then they are merely 'allegations', or 'averments', as they are called in the rules. You may think of them as propositions of fact.
 
@@ -126,14 +128,14 @@ In criminal cases a summons serves exactly the same function as in civil cases. 
 
 **Table 5.2** Legal Elements and Material Facts
 
-|  Stage 3 | Stage 4  |
+| Stage 3 | Stage 4 |
 | --- | --- |
-|  Legal elements | (Material) Facts  |
-|  1. Ownership of car | 1. Plaintiff owned car X  |
-|  2. *Actus reus* | 2. Defendant performed an act which damaged the car  |
-|  3. Negligence (including unlawfulness) | 3. Defendant was negligent  |
-|  4. Causation | 4. The negligence caused the damage . . .  |
-|  5. Loss | 5. and the loss  |
+| Legal elements | (Material) Facts |
+| 1. Ownership of car | 1. Plaintiff owned car X |
+| 2. *Actus reus* | 2. Defendant performed an act which damaged the car |
+| 3. Negligence (including unlawfulness) | 3. Defendant was negligent |
+| 4. Causation | 4. The negligence caused the damage . . . |
+| 5. Loss | 5. and the loss |
 
 ---
 
@@ -162,6 +164,7 @@ The material facts have to be set out in the pleadings in compliance with the ru
 3 It is customary (according to convention) to give details of any demand in the statement of claim but it is generally not required by law or under the rules for a claim to be enforceable.
 
 The distinction between these sources of the obligations to provide certain details in a pleading is emphasised by the different consequences for non-compliance with the obligations imposed by them.
+
 ---
 
 *Firstly*, if the statement of claim or plea does not contain all the material facts for the particular claim or defence, as the case may be, the opposing party may note an [[Page-75|exception]], which, if successful, has the effect of [[Page-75|striking out]] the defective claim or defence.
@@ -170,7 +173,7 @@ The distinction between these sources of the obligations to provide certain deta
 
 *Thirdly*, if custom or convention requires that particular details have to be pleaded and they are omitted, the court may penalise the guilty party by making an adverse order for costs.
 
-#### 5.4.1 First example: A claim under the *rei vindicatio*
+### 5.4.1 First example: A claim under the *rei vindicatio*
 
 It frequently happens that the owner of property claims that property from another person who has possession of the owner's property but refuses to return possession to the owner. Such a claim is made by way of a [[Page-54|cause of action]] known as the *rei vindicatio*. The action is based on the principle that the owner of a thing is entitled to possession of that thing unless the defendant has a valid ground justifying his possession. The legal elements for a claim under the *rei vindicatio* are -
 
@@ -181,7 +184,7 @@ These elements have to be converted into the material facts of the case and plea
 
 Consider in how many different ways one could prove ownership of a thing, a car for example, and how many different sets of circumstances there could be where one person has possession of another person's car. Change the nature of the thing concerned, (a farm or a gold mine or even a space satellite), and it soon becomes clear that the individual circumstances under which a claim under the *rei vindicatio* can be made are almost without limit. The "evidential facts" in all these different cases will differ but the legal elements to be satisfied remain constant.
 
-#### 5.4.2 Second example: A claim based on a contract
+### 5.4.2 Second example: A claim based on a contract
 
 The legal requirements or material facts for a claim based upon a breach of contract are -
 
@@ -199,21 +202,21 @@ Let's put this in a table using the proof-making model of [[Page-115|fact analys
 
 **Table 5.3:** Using the proof-making model to identify the material facts
 
-|  Stage 1 | Stage 2 | Stage 3 | Stage 4  |
+| Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 | --- | --- | --- | --- |
-|  Area of law | Cause of action | Legal elements | (Material) Facts  |
-|  Contract | Claim for damages | 1. Party A with contractual capacity 2. Party B with contractual capacity 3. Conclusion of contract Offer Acceptance *Animus contrahendi* 4. Terms | 1. The plaintiff is A + capacity (adult, etc) 2. The defendant is B + capacity (company, etc) 3. A and B concluded a contract on [date] at [place] in terms of which A sold [thing] to B for [price]. 4. Terms:  |
+| Area of law | Cause of action | Legal elements | (Material) Facts |
+| Contract | Claim for damages | 1. Party A with contractual capacity 2. Party B with contractual capacity 3. Conclusion of contract Offer Acceptance *Animus contrahendi* 4. Terms | 1. The plaintiff is A + capacity (adult, etc) 2. The defendant is B + capacity (company, etc) 3. A and B concluded a contract on [date] at [place] in terms of which A sold [thing] to B for [price]. 4. Terms: |
 
 ---
 
-|   |  | A's undertakings B's undertakings | A was to deliver by [date] B was to pay by [date]  |
+| | | A's undertakings B's undertakings | A was to deliver by [date] B was to pay by [date] |
 | --- | --- | --- | --- |
-|   |  | 5. A's performance | 5. A delivered on [date]  |
-|   |  | 6. B's breach | 6. B failed to pay by [date]  |
-|   |  | 7. Causation | 7. B's failure caused  |
-|   |  | 8. Loss | 8. Loss in amount of [R. . .]  |
+| | | 5. A's performance | 5. A delivered on [date] |
+| | | 6. B's breach | 6. B failed to pay by [date] |
+| | | 7. Causation | 7. B's failure caused |
+| | | 8. Loss | 8. Loss in amount of [R. . .] |
 
-#### 5.4.3 Third example: The defence of estoppel
+### 5.4.3 Third example: The defence of estoppel
 
 The same principles apply to any defence that amounts to a confession and avoidance. Estoppel is such a defence. The legal elements are that -
 
@@ -225,7 +228,7 @@ The same principles apply to any defence that amounts to a confession and avoida
 
 Imagine under how many different circumstances an estoppel can arise. (See the cases referred to in the Noter-up under the heading Estoppel.) They range from the obvious to the outrageous. We can only speculate on the wide range of evidence that could be available in some of the cases. Yet, the legal elements are the same for all of them.
 
-#### 5.4.4 Fourth example: The charge of murder
+### 5.4.4 Fourth example: The charge of murder
 
 In a criminal case the legal elements to be proved on a charge of murder could be treated similarly. For reasons which are canvassed in more detail in chapter 14, the identity of the offender and the date when and place where the offence was committed have to be proved by the prosecution. The legal elements or material facts to be proved on a murder charge are thus as follows -
 
@@ -245,13 +248,13 @@ There are several formal requirements with which all pleadings must comply, apar
 
 - Every pleading must have the title of the action and the case number allocated by the Registrar on its first page (Rule 18(2)). The title contains the name of the court, the names of the parties with their descriptions and the name of the pleading. For example:
 
-|  [COURT DESCRIPTION as prescribed]  |   |
+| [COURT DESCRIPTION as prescribed] | |
 | --- | --- |
-|  Between | Case no 1/[year]  |
-|  ABC Limited | Plaintiff  |
-|  and |   |
-|  Joe Smith | Defendant  |
-|  PLAINTIFF'S DECLARATION  |   |
+| Between | Case no 1/[year] |
+| ABC Limited | Plaintiff |
+| and | |
+| Joe Smith | Defendant |
+| PLAINTIFF'S DECLARATION | |
 
 - The paragraphs of the pleading must be numbered. Each paragraph should deal with only one fact or allegation. If necessary, sub-paragraphs should be used to keep related facts or allegations together (Rule 18(3)).
 
@@ -268,10 +271,10 @@ There are several formal requirements with which all pleadings must comply, apar
 - It is not enough to plead conclusions, for example, "The marriage has broken down irretrievably." The main facts upon which that conclusion is based have to be set out too (Rule 18(4)).
 - The device of "Particulars" can be used when a rule or a Practice Directive (issued by the Judge President concerned) or general practice requires that more detailed information be given to the other party. For example:
 
-|  PARTICULARS (of negligence) (of the plaintiff's damages) (of the breakdown of the marriage)  |
+| PARTICULARS (of negligence) (of the plaintiff's damages) (of the breakdown of the marriage) |
 | --- |
-|  (a) . . .  |
-|  (b) . . . etc.  |
+| (a) . . . |
+| (b) . . . etc. |
 
 - The paragraphs of the pleading should deal with the material logically. The sequence is usually determined by the approach followed by the plaintiff in the particulars of claim or declaration. The parties are introduced and the material facts are set out in chronological order. In the plea the defendant deals with the plaintiff's allegations in paragraph order and adds additional allegations at each appropriate stage until the prayer is set out.
 - Every pleading except further particulars must contain a prayer for relief. It is sometimes held that further particulars cannot be a pleading because it does not contain a prayer, but nothing seems to turn on this distinction. The prayer is usually commenced with the phrase, "Wherefore the plaintiff claims judgment . . ." or, "In the premises the defendant prays for judgment . . .", followed by the precise orders the court will be asked to grant.
@@ -279,16 +282,16 @@ There are several formal requirements with which all pleadings must comply, apar
 - The document ends with the signature, capacity and address of the pleader and usually contains the names and addresses of the Registrar and the party to whom the pleading is addressed.
 This is done as follows:
 
-|  (Signature) | (Signature)  |
+| (Signature) | (Signature) |
 | --- | --- |
-|  JJ Buthelezi | Plaintiff's Attorney  |
-|  Plaintiff's Counsel | H Soma and Co  |
-|  [address and details as per Rule 6(5)(b)]  |   |
-|  To: The Registrar  |   |
-|  [address]  |   |
-|  And to: Messrs X, Y and Z  |   |
-|  Defendant's Attorneys  |   |
-|  [address and details as per Rule 6(5)(d)]  |   |
+| JJ Buthelezi | Plaintiff's Attorney |
+| Plaintiff's Counsel | H Soma and Co |
+| [address and details as per Rule 6(5)(b)] | |
+| To: The Registrar | |
+| [address] | |
+| And to: Messrs X, Y and Z | |
+| Defendant's Attorneys | |
+| [address and details as per Rule 6(5)(d)] | |
 
 - Pleadings can be amended but it is better to get them right the first time as an incorrect allegation in a pleading could affect the credibility of the party at fault. A pleading which does not comply with the rules of pleading may be set aside as an irregular proceeding (Rule 30).
 
@@ -311,15 +314,16 @@ This is done as follows:
 
 The heading of a criminal case follows the same pattern:
 
-|  [COURT DESCRIPTION as prescribed]  |   |
+| [COURT DESCRIPTION as prescribed] | |
 | --- | --- |
-|   | Case no (if any)/[year]  |
-|  The State |   |
-|  versus |   |
-|  1. [name of accused number 1] [+ details such as nationality, gender, age and address] |   |
-|  and |   |
-|  2. [name of accused number 2] [+ details such as nationality, gender, age and address] |   |
-|  INDICTMENT  |   |
+| | Case no (if any)/[year] |
+| The State | |
+| versus | |
+| 1. [name of accused number 1] [+ details such as nationality, gender, age and address] | |
+| and | |
+| 2. [name of accused number 2] [+ details such as nationality, gender, age and address] | |
+| INDICTMENT | |
+
 ## 5.6 Examples of the citation of plaintiffs and defendants
 
 The description of a party in the pleadings is partly determined by the rules and partly by the substantive law. Rules 14 and 17 have a number of provisions that affect the way parties such as individuals, married women, partnerships, firms and associations are cited (described). Over and above these technical requirements, there is a duty on the pleader to set out facts that demonstrate that the party concerned has the capacity to sue or be sued. We call this capacity "*[[Page-41|locus standi]] in judicio*" or "*locus standi*" for short. This capacity has nothing to do with the [[Page-54|cause of action]]. It is the capacity to be a party to legal proceedings without assistance or representation. Minors have to be assisted by their guardian parents if they are to sue or be sued. A trust cannot sue or be sued in its own name; it has to be represented by its trustees.
@@ -329,23 +333,23 @@ The term "*locus standi*" is also used to describe the relationship between a pa
 The following table contains some examples of the citation of parties:
 **Table 5.4** Examples of the citation of plaintiffs and defendants
 
-|  Plaintiff | Defendant | Comment  |
+| Plaintiff | Defendant | Comment |
 | --- | --- | --- |
-|  The plaintiff is Joe Soap, an adult male, architect, who resides at [street address]. | The defendant is Peter Pan, a male, architect who resides at [street address], who is sued herein in his capacity as father and natural guardian of Paul Pan, a boy born on the [date]), of the same address. | (a) Plaintiff's *locus standi* is apparent from the fact that he is an adult. (b) Defendant's *locus standi* does not depend on his being an adult but on his being the guardian of the minor.  |
-|  The plaintiff is Joanne Soap, an adult unmarried female, | The defendant is ABC Limited, a company with limited liability, duly incorporated and registered according to law and having its registered office | (a) The marital status of a woman has to be given under Rule 17(4)(b). (b) The address of a company is its registered office.  |
+| The plaintiff is Joe Soap, an adult male, architect, who resides at [street address]. | The defendant is Peter Pan, a male, architect who resides at [street address], who is sued herein in his capacity as father and natural guardian of Paul Pan, a boy born on the [date]), of the same address. | (a) Plaintiff's *locus standi* is apparent from the fact that he is an adult. (b) Defendant's *locus standi* does not depend on his being an adult but on his being the guardian of the minor. |
+| The plaintiff is Joanne Soap, an adult unmarried female, | The defendant is ABC Limited, a company with limited liability, duly incorporated and registered according to law and having its registered office | (a) The marital status of a woman has to be given under Rule 17(4)(b). (b) The address of a company is its registered office. |
 
 ---
 
-|  insurance broker, who resides at [street address]. | at [street address] and its principal place of business within the jurisdiction of this Court at [street address]. | (c) Service may, in some cases, be effected at a company's principal place of business within the jurisdiction, which may not be its registered office.  |
+| insurance broker, who resides at [street address]. | at [street address] and its principal place of business within the jurisdiction of this Court at [street address]. | (c) Service may, in some cases, be effected at a company's principal place of business within the jurisdiction, which may not be its registered office. |
 | --- | --- | --- |
-|  The plaintiff is the ABC Partnership, a partnership carrying on business as architects at [street address], the partners in which are Joe Soap, an adult male, architect who resides at (street address) and Peter Pan, an adult male, architect who resides at (street address). | The defendant is Singh's Superette, a firm carrying on business as a supermarket at [street address]. | (a) Rule 14 allows you to cite a firm or partnership under its own name even though, under the common law, neither is a person in the eyes of the law. (b) Once a partnership has been dissolved you have to cite the individual partners.  |
-|  The plaintiffs are Gavin Collins and Mike Morley, both adult males and attorneys at [street address], who sue herein as trustees of the ABC Trust (further referred to as 'the plaintiff'). | The defendant is the Singh's Superette, a firm carrying on business as a supermarket at [street address] and whose proprietor is Leander Singh, an adult male of [street address]. | (a) Trustees have to sue or be sued in their capacity as trustees as a trust does not have a separate legal personality. (b) Where the proprietor of a firm has been named in the summons, execution may be levied against his or her assets if judgment is granted against the firm. (See Rule 14 and the commentary on it.)  |
-|  Plaintiff | Defendant | Comment  |
+| The plaintiff is the ABC Partnership, a partnership carrying on business as architects at [street address], the partners in which are Joe Soap, an adult male, architect who resides at (street address) and Peter Pan, an adult male, architect who resides at (street address). | The defendant is Singh's Superette, a firm carrying on business as a supermarket at [street address]. | (a) Rule 14 allows you to cite a firm or partnership under its own name even though, under the common law, neither is a person in the eyes of the law. (b) Once a partnership has been dissolved you have to cite the individual partners. |
+| The plaintiffs are Gavin Collins and Mike Morley, both adult males and attorneys at [street address], who sue herein as trustees of the ABC Trust (further referred to as 'the plaintiff'). | The defendant is the Singh's Superette, a firm carrying on business as a supermarket at [street address] and whose proprietor is Leander Singh, an adult male of [street address]. | (a) Trustees have to sue or be sued in their capacity as trustees as a trust does not have a separate legal personality. (b) Where the proprietor of a firm has been named in the summons, execution may be levied against his or her assets if judgment is granted against the firm. (See Rule 14 and the commentary on it.) |
+| Plaintiff | Defendant | Comment |
 | --- | --- | --- |
-|  The plaintiff is the State President of the Republic of South Africa, who is sued in that capacity, of Union Buildings, Pretoria. | The defendant is the Minister of Safety and Security, who is sued in his capacity as Minister, of Union Buildings, Pretoria and whose address for the purpose of service of process in these proceedings is that of the State Attorney [street address]. | (a) The State President as the head of the Executive branch of government may sue or be sued in that capacity. (b) In most cases there will be a Minister in the Cabinet responsible for the State Department concerned. That Minister can equally be sued in his or her capacity as such. (c) Service on the State may be effected at the State Attorney's office by virtue of Rule 4(9).  |
-|  The plaintiff is Transnet Limited, a public company formed and incorporated under section 2 of Act 9 of 1989, of [registered office of principal place of business]. |  | Transnet is an example of a commercial enterprise of the State conducted through the device of a company. It is cited like any other company.  |
-|  The plaintiffs are the owners of the cargo lately laden on board the mv Claire Tsavliris, whose address for the purposes of these proceedings is that of their attorneys, Messrs X, Y and Z of [street address]. | The defendant is the mv Claire Tsavliris which is berthed at present in the port of [name of port]. | Admiralty Proceedings Rule 2 allows the owner of a ship, cargo or other property in respect of which a maritime claim is made to be cited as such, that is, without naming the individuals who own them.  |
-|  The plaintiff is Paul Wallace, an attorney at [street address], who sues in this action in his capacity as executor of the estate of the late A under letters of executorship issued by the Master of the High Court, [name of division]. | The defendants are Josephi Casaregis and Paul Santerna who are sued in this action in their capacities as lead underwriters of Lloyds Syndicates 101 and 303 respectively, whose address is care of A . . . an attorney and partner in the firm of X, Y and Z, of [street address]. | (a) A deceased estate has to sue or be sued through its executor. (b) Lloyds underwriters have had to nominate an agent in South Africa who will accept service of legal process on them. (c) The nominated agent does not become the defendant. The relevant syndicates who underwrote the policy have to be cited.  |
+| The plaintiff is the State President of the Republic of South Africa, who is sued in that capacity, of Union Buildings, Pretoria. | The defendant is the Minister of Safety and Security, who is sued in his capacity as Minister, of Union Buildings, Pretoria and whose address for the purpose of service of process in these proceedings is that of the State Attorney [street address]. | (a) The State President as the head of the Executive branch of government may sue or be sued in that capacity. (b) In most cases there will be a Minister in the Cabinet responsible for the State Department concerned. That Minister can equally be sued in his or her capacity as such. (c) Service on the State may be effected at the State Attorney's office by virtue of Rule 4(9). |
+| The plaintiff is Transnet Limited, a public company formed and incorporated under section 2 of Act 9 of 1989, of [registered office of principal place of business]. | | Transnet is an example of a commercial enterprise of the State conducted through the device of a company. It is cited like any other company. |
+| The plaintiffs are the owners of the cargo lately laden on board the mv Claire Tsavliris, whose address for the purposes of these proceedings is that of their attorneys, Messrs X, Y and Z of [street address]. | The defendant is the mv Claire Tsavliris which is berthed at present in the port of [name of port]. | Admiralty Proceedings Rule 2 allows the owner of a ship, cargo or other property in respect of which a maritime claim is made to be cited as such, that is, without naming the individuals who own them. |
+| The plaintiff is Paul Wallace, an attorney at [street address], who sues in this action in his capacity as executor of the estate of the late A under letters of executorship issued by the Master of the High Court, [name of division]. | The defendants are Josephi Casaregis and Paul Santerna who are sued in this action in their capacities as lead underwriters of Lloyds Syndicates 101 and 303 respectively, whose address is care of A . . . an attorney and partner in the firm of X, Y and Z, of [street address]. | (a) A deceased estate has to sue or be sued through its executor. (b) Lloyds underwriters have had to nominate an agent in South Africa who will accept service of legal process on them. (c) The nominated agent does not become the defendant. The relevant syndicates who underwrote the policy have to be cited. |
 
 **Note:** Regard these addresses as fictitious.
 5.7 Protocol and ethics
@@ -355,7 +359,9 @@ The following table contains some examples of the citation of parties:
 ---
 
 ## Concepts in this lecture
+
 [[Facta Probanda]] · [[Facta Probantia]]
 
 ## Navigation
+
 Prev: [[L04 - Preparing to commence action|← Previous Chapter]] · Next: [[L06 - Drafting statements of claim|Next Chapter →]]

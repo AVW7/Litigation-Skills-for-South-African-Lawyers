@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L20
 tags: [lecture, litigation-skills]
+
 ---
 # L20 — Special procedures
 
@@ -20,20 +22,19 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
 
-|   | Skill involved | Competent/Not yet competent  |
+| | Skill involved | Competent/Not yet competent |
 | --- | --- | --- |
-|  1 | Re-examining only when necessary |   |
-|  2 | Using the three-step process of asking questions: - [ ] Remind the witness what he or she has said under [[Page-145|cross-examination]] - [ ] Give the witness a moment to remember - [ ] Ask the question |   |
-|  3 | Asking clear questions |   |
-|  4 | Asking non-leading questions |   |
-|  5 | Avoiding argumentative matter |   |
-|  6 | Avoiding unnecessary repetition |   |
-|  7 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |   |
+| 1 | Re-examining only when necessary | |
+| 2 | Using the three-step process of asking questions: - [ ] Remind the witness what he or she has said under [[Page-145\|cross-examination]] - [ ] Give the witness a moment to remember - [ ] Ask the question | |
+| 3 | Asking clear questions | |
+| 4 | Asking non-leading questions | |
+| 5 | Avoiding argumentative matter | |
+| 6 | Avoiding unnecessary repetition | |
+| 7 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections | |
 
 ## Chapter 20
 
@@ -62,7 +63,8 @@ CONTENTS
 20.9.3 Defence counsel
 20.10 Common admissibility issues
 20.11 Protocol and ethics
-### 20.1 Introduction
+
+## 20.1 Introduction
 
 Special techniques are necessary for certain incidents of the trial. Examination-in-chief and cross-examination skills
 
@@ -108,25 +110,26 @@ Whether an exhibit which is otherwise admissible may be used during the trial, d
 
 **Table 20.1** Handling an exhibit which has already been proved
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Show the exhibit to the witness. | Q. *Could you please look at the letter, exhibit A14? Mr Usher, could you please take the exhibit to the witness?* A. *I have it. What do you want to know?*  |
-|  **Step 2:** Allow the witness to become familiar with it. | Q. *Please read the letter and tell Her Ladyship whether you wrote that letter.* A. *Yes, I recognise it. I wrote it.*  |
-|  **Step 3:** Ask the witness such questions as you have with regard to the exhibit or its contents. | Q. *In that letter you said . . .*  |
+| **Step 1:** Show the exhibit to the witness. | Q. *Could you please look at the letter, exhibit A14? Mr Usher, could you please take the exhibit to the witness?* A. *I have it. What do you want to know?* |
+| **Step 2:** Allow the witness to become familiar with it. | Q. *Please read the letter and tell Her Ladyship whether you wrote that letter.* A. *Yes, I recognise it. I wrote it.* |
+| **Step 3:** Ask the witness such questions as you have with regard to the exhibit or its contents. | Q. *In that letter you said . . .* |
+
 Questions of the nature used in this example could be asked either in [[Page-136|examination-in-chief]] or in [[Page-145|cross-examination]]. You should identify the exhibit and give the witness an opportunity to get acquainted with it before asking further questions about it. That way the accuracy of the record is maintained and the evidence is more likely to flow naturally.
 
 If the exhibit is disputed (or not admitted) and needs to be proved, a different procedure would have to be followed. Generally speaking, the witness should first describe the exhibit, from memory, before being shown the exhibit. The evidence should also prove the chain of custody. How did the exhibit get from the place where the events occurred to the courtroom? Who had custody of it? Is it still in the same condition? If the witness did not have possession of the exhibit throughout that period, other witnesses may have to be called to establish the chain of custody.
 
 **Table 20.2** Proving an exhibit formally, through a witness
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Ask the witness to describe the item. | A. *The accused then ran away but he left the knife he had used behind. It was still in the complainant's side.* Q. *Did you do anything about the knife?* A. *Yes, I pulled it out.* Q. *Describe the knife please?* A. *It was an Okapi knife with a brown handle and a blade of about 8 centimetres. It had the accused's initials carved on the handle.*  |
-|  **Step 2:** Ask the witness what happened to the item after the incident. (Did the police take possession of it? Did someone else keep it? Who? How did it get from there (where the incident occurred) to here (in court)?) | Q. *What happened to the knife after that?* A. *I handed it to the investigating officer when he came to the house that evening.*  |
-|  **Step 3:** Show the exhibit to the witness. | Q. *Could you please look at the item I show you now? Mr Usher, could you please show the witness this item?* A. *(Witness looks at item placed on the witness box.)*  |
-|  **Step 4:** Ask the witness to describe it. (The description should match the earlier description.) | Q. *Please describe the item handed to you.* A. *It is an Okapi knife just as I have described. Look, here are the accused's initials on the handle.*  |
-|  **Step 5:** Give the exhibit the next number for exhibits. Use a letter of the alphabet for a document and a number for other things. | Q. *May the exhibit be marked as Exhibit 1, M' Lord? I intend calling the investigating officer to give evidence that this is the knife the witness handed over to him and that it is still in the same condition.* By the Court: *Proceed.*  |
-|  **Step 6:** Ask the witness the questions you want to ask about the exhibit. | Q. *Had you ever seen the knife, Exhibit 1, before that night when the accused stabbed the complainant?* A. *Yes, many times. The accused always used it when we went fishing.*  |
+| **Step 1:** Ask the witness to describe the item. | A. *The accused then ran away but he left the knife he had used behind. It was still in the complainant's side.* Q. *Did you do anything about the knife?* A. *Yes, I pulled it out.* Q. *Describe the knife please?* A. *It was an Okapi knife with a brown handle and a blade of about 8 centimetres. It had the accused's initials carved on the handle.* |
+| **Step 2:** Ask the witness what happened to the item after the incident. (Did the police take possession of it? Did someone else keep it? Who? How did it get from there (where the incident occurred) to here (in court)?) | Q. *What happened to the knife after that?* A. *I handed it to the investigating officer when he came to the house that evening.* |
+| **Step 3:** Show the exhibit to the witness. | Q. *Could you please look at the item I show you now? Mr Usher, could you please show the witness this item?* A. *(Witness looks at item placed on the witness box.)* |
+| **Step 4:** Ask the witness to describe it. (The description should match the earlier description.) | Q. *Please describe the item handed to you.* A. *It is an Okapi knife just as I have described. Look, here are the accused's initials on the handle.* |
+| **Step 5:** Give the exhibit the next number for exhibits. Use a letter of the alphabet for a document and a number for other things. | Q. *May the exhibit be marked as Exhibit 1, M' Lord? I intend calling the investigating officer to give evidence that this is the knife the witness handed over to him and that it is still in the same condition.* By the Court: *Proceed.* |
+| **Step 6:** Ask the witness the questions you want to ask about the exhibit. | Q. *Had you ever seen the knife, Exhibit 1, before that night when the accused stabbed the complainant?* A. *Yes, many times. The accused always used it when we went fishing.* |
 
 The first phase of the process involves a description by the witness of the item he or she saw at the scene. The second phase involves the identification of that item in court. It is crucial to get a full description from the witness
 
@@ -139,12 +142,12 @@ If the exhibit is a document, you should ensure that a good copy is available to
 
 **Table 20.3** Proving a demonstrative exhibit, a medical report
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Refer the witness to the relevant exhibit. | Q. *Doctor, did you make any notes when you examined the complainant?* A. *Yes.*  |
-|  **Step 2:** Allow the witness to produce the exhibit (or show it to the witness). | Q. *Where did you make the notes and where are they now?* A. *I made them on the form we know as a JBB and I have it here with me now.*  |
-|  **Step 3:** Ensure that the exhibit is proved properly and give it the next exhibit number. | Q. *When did you make those notes?* A. *As the examination progressed.* Counsel. *M' Lord, I have given my learned friend a copy and I ask leave to hand a copy to Your Lordship. I have taken the liberty to mark it as Exhibit 'F'.* By the court: *Proceed.*  |
-|  **Step 4:** Ask such questions as you have with regard to the exhibit. | Q. *Could you please read your notes to the court?*  |
+| **Step 1:** Refer the witness to the relevant exhibit. | Q. *Doctor, did you make any notes when you examined the complainant?* A. *Yes.* |
+| **Step 2:** Allow the witness to produce the exhibit (or show it to the witness). | Q. *Where did you make the notes and where are they now?* A. *I made them on the form we know as a JBB and I have it here with me now.* |
+| **Step 3:** Ensure that the exhibit is proved properly and give it the next exhibit number. | Q. *When did you make those notes?* A. *As the examination progressed.* Counsel. *M' Lord, I have given my learned friend a copy and I ask leave to hand a copy to Your Lordship. I have taken the liberty to mark it as Exhibit 'F'.* By the court: *Proceed.* |
+| **Step 4:** Ask such questions as you have with regard to the exhibit. | Q. *Could you please read your notes to the court?* |
 
 The original should be handed in as the exhibit to be kept as part of the trial record because it is the primary or best evidence. The witness may read from a true copy or may hand the original in as an exhibit at the end of his or her evidence.
 
@@ -152,20 +155,20 @@ Witnesses are frequently asked to point out features on an exhibit or to mark po
 
 **Table 20.4** Recording a demonstration by the witness
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Allow the witness to give the demonstration (or make the pointing out or mark the exhibit). | Q. *Please look at the police plan, Exhibit 'A'. Mr Usher, could you please show the witness Exhibit 'A'? (Pause while the witness studies the plan.) Do you understand what the plan depicts?* A. *Yes, I recognise the scene.*  |
-|   | Q. *Are you able to mark the point where the two cars collided with each other?* A. *Yes.* Q. *Please mark the point of impact as accurately as you can with an X.* A. *(The witness marks the plan.)*  |
-|  What to do | How to do it  |
+| **Step 1:** Allow the witness to give the demonstration (or make the pointing out or mark the exhibit). | Q. *Please look at the police plan, Exhibit 'A'. Mr Usher, could you please show the witness Exhibit 'A'? (Pause while the witness studies the plan.) Do you understand what the plan depicts?* A. *Yes, I recognise the scene.* |
+| | Q. *Are you able to mark the point where the two cars collided with each other?* A. *Yes.* Q. *Please mark the point of impact as accurately as you can with an X.* A. *(The witness marks the plan.)* |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 2:** Show opposing counsel and the court what the witness has demonstrated, pointed out or marked. | Q. *Mr Usher, could you please take the exhibit to my learned friend and show him where the witness has put the mark?* (The plan is shown to counsel.) Q. *Could you also show Her Ladyship where the witness has marked the plan?* (The plan is shown to the Judge.)  |
+| **Step 2:** Show opposing counsel and the court what the witness has demonstrated, pointed out or marked. | Q. *Mr Usher, could you please take the exhibit to my learned friend and show him where the witness has put the mark?* (The plan is shown to counsel.) Q. *Could you also show Her Ladyship where the witness has marked the plan?* (The plan is shown to the Judge.) |
 
 ---
 
-|  **Step 3:** Place the demonstration 'on the record' by putting it in words. | Q. *M' Lady, the witness has marked a point on the eastern side of [street], within the intersection.* By the Court: *Yes, carry on.*  |
+| **Step 3:** Place the demonstration 'on the record' by putting it in words. | Q. *M' Lady, the witness has marked a point on the eastern side of [street], within the intersection.* By the Court: *Yes, carry on.* |
 | --- | --- |
 
-### 20.3 Inspections in loco
+## 20.3 Inspections in loco
 
 While the main purpose of an inspection *in loco* before the trial is to enable counsel to become fully acquainted with the facts in order to present them persuasively, an inspection *in loco* during the trial has dual purposes. The first is to acquaint the judge with the facts for a better understanding. (Inspections prior to trial are dealt with in chapter 12.) The second is to allow witnesses to give demonstrations and to point out things that form part of their own observations during the events giving rise to the trial.
 
@@ -178,13 +181,13 @@ Witnesses may be examined and cross-examined on the features of the scene and an
 
 **Table 20.5** Confirming a demonstration given at an inspection
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Ask the witness a closed but non-leading question to set the stage. | Q. *You were present at the scene this morning when the court inspected it?* A. *Yes.*  |
-|  **Step 2:** Refer the witness to the observation, demonstration or aspect pointed out. Make sure you state the facts correctly. | Q. *You were asked to indicate where you were when the two cars collided with each other?* A. *Yes.* Q. *And you pointed out a spot in front of the restaurant?* A. *Yes.*  |
-|  **Step 3:** Ask the questions you have for the witness on that score. | Q. *Could you tell the court what you noticed while you were at that spot?* A. *...*  |
+| **Step 1:** Ask the witness a closed but non-leading question to set the stage. | Q. *You were present at the scene this morning when the court inspected it?* A. *Yes.* |
+| **Step 2:** Refer the witness to the observation, demonstration or aspect pointed out. Make sure you state the facts correctly. | Q. *You were asked to indicate where you were when the two cars collided with each other?* A. *Yes.* Q. *And you pointed out a spot in front of the restaurant?* A. *Yes.* |
+| **Step 3:** Ask the questions you have for the witness on that score. | Q. *Could you tell the court what you noticed while you were at that spot?* A. *...* |
 
-### 20.4 Prior inconsistent statements
+## 20.4 Prior inconsistent statements
 
 The prior statements of a witness are not generally admissible as evidence, subject to one or two exceptions. If the witness has made a prior statement that is consistent with his or her evidence, that statement may not be used as evidence unless it is suggested in [[Page-145|cross-examination]] that the version given by the witness is a recent fabrication. The statement may then be used to counter that suggestion. On the other hand, the rule that the answers given by the witness on matters of credit are final is subject to this [[Page-75|exception]]: if the witness can be shown to have made a prior inconsistent statement, that statement may be proved to attack the credibility of the witness.
 
@@ -197,20 +200,21 @@ witness. If such a prior inconsistent statement is admitted (or proved when the 
 A prior inconsistent statement may have been made orally or in writing. In either case, the witness may be cross-examined on that statement and if the witness denies having made the statement concerned, evidence may be led in rebuttal to prove the statement. The opportunity typically arises in criminal cases but it is not limited to criminal cases, where the defence has copies of the statements of prosecution witnesses and a witness departs from his or her statement. The technique for the use of a prior inconsistent statement to discredit the witness requires a lot of concentration, a bit of guile and a degree of assertiveness. You have to know the case materials well enough to recognise that there is a discrepancy; you may even have elicited the discrepancy with intelligent [[Page-145|cross-examination]].
 **Table 20.6** Using a prior inconsistent statement to discredit the witness
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Commit the witness to the version which departs from the statement. This closes all escape routes and pins the witness down. | Q. *So the man you saw holding up the teller wore glasses and had a beard and a ponytail?* A. *Yes.*  |
-|  **Step 2:** Contrast that version with the version previously given by the witness. | Q. *Wasn't it a clean-shaven man with short hair?* A. *No.*  |
-|  **Step 3:** Suggest the witness has previously given a different description. | Q. *Didn't you previously describe the man as clean-shaven with short hair?* A. *No.*  |
-|  **Step 4:** Establish that the witness has made a prior statement and identify that statement. | Q. *You made a written statement to the police immediately after the robbery?* A. *Yes.* Q. *Please look at the document the usher shows you now. Look at the signature at the foot of the last page. Is this the statement you made to the police?* A. *Yes.* Q. *And you made this statement the same day of the incident when the facts were still fresh in your mind?* A. *Yes.*  |
-|  **Step 5:** Confront the witness with the conflicting passage. | Q. *Please read the passage starting with 'I got a good look at the man'.* A. *It says: 'I got a good look at the man. It was a white man, about 30 years old, about 80 kilograms and 1,75 metres. He was clean-shaven with short hair and wore glasses.'*  |
-|  **Step 6:** Resist asking a question too many. You might prefer not to ask this last question and to leave the point for argument. | Q. *In your evidence today you said the man had a beard and a ponytail. In your statement you said he was clean-shaven and had short hair. One of those statements must be untrue, mustn't it?* A. *Well . . .*  |
+| **Step 1:** Commit the witness to the version which departs from the statement. This closes all escape routes and pins the witness down. | Q. *So the man you saw holding up the teller wore glasses and had a beard and a ponytail?* A. *Yes.* |
+| **Step 2:** Contrast that version with the version previously given by the witness. | Q. *Wasn't it a clean-shaven man with short hair?* A. *No.* |
+| **Step 3:** Suggest the witness has previously given a different description. | Q. *Didn't you previously describe the man as clean-shaven with short hair?* A. *No.* |
+| **Step 4:** Establish that the witness has made a prior statement and identify that statement. | Q. *You made a written statement to the police immediately after the robbery?* A. *Yes.* Q. *Please look at the document the usher shows you now. Look at the signature at the foot of the last page. Is this the statement you made to the police?* A. *Yes.* Q. *And you made this statement the same day of the incident when the facts were still fresh in your mind?* A. *Yes.* |
+| **Step 5:** Confront the witness with the conflicting passage. | Q. *Please read the passage starting with 'I got a good look at the man'.* A. *It says: 'I got a good look at the man. It was a white man, about 30 years old, about 80 kilograms and 1,75 metres. He was clean-shaven with short hair and wore glasses.'* |
+| **Step 6:** Resist asking a question too many. You might prefer not to ask this last question and to leave the point for argument. | Q. *In your evidence today you said the man had a beard and a ponytail. In your statement you said he was clean-shaven and had short hair. One of those statements must be untrue, mustn't it?* A. *Well . . .* |
 
 **Note:** If the witness at any stage of this series of questions admits that he or she has given a different version previously, you should carefully consider whether there is anything to be gained by asking any more questions. The purpose of the questions is to demonstrate that the witness has given contradictory versions. Once that has been established, any further questions you put may allow the witness to give an acceptable explanation for the apparent discrepancy.
 
 If the witness denies having made the prior statement or having said what is recorded in it, you will be allowed to lead evidence in rebuttal. You should then call the person who took the statement (or heard the words being spoken if you are relying on an oral statement) to prove that the witness had made the prior statement and that it accurately reflects what he had said.
 
 Note that section 190(2) of the Criminal Procedure Act 51 of 1977 allows the parties to a criminal case to prove a prior inconsistent statement in respect of their own witnesses. It is not necessary to go the length of proving the witness to be hostile to the party calling him or her in such a case.
+
 ---
 
 ## 20.5 Refreshing memory
@@ -227,20 +231,20 @@ There are some evidential requirements to be met before a witness will be allowe
 - Fourth, the note or statement or other recording must have been made reasonably contemporaneously, meaning during or shortly after the relevant observation or incident and when the witness still had an independent and accurate recollection of the fact concerned.
 Table 20.7 Refreshing memory
 
-|  What to do | How to do it  |
+| What to do | How to do it |
 | --- | --- |
-|  **Step 1:** Exhaust the witness's memory of the fact required first. | A. *When the robbers drove off, I saw the registration number of their car and wrote it on the palm of my hand.* Q. *What was the number you saw and wrote down?* A. *I can't remember any more.*  |
-|  **Step 2:** Establish that there exists a record of the fact he or she cannot recall. | Q. *Is there anything that might help you remember the number?* A. *Yes. I made a statement at the police station and the number was written down in the statement.*  |
-|  **Step 3:** Establish that the note or statement was made when the events were still fresh in the mind of the witness. | Q. *When did you make that statement?* A. *The same morning.* Q. *Where was the note you had written on your hand when you made that statement?* A. *It was still visible on the palm of my hand.* Q. *What did you do with the information written on the palm of your hand when you made the statement?* A. *I copied it to the statement.*  |
-|  **Step 4:** Ask the witness whether he would like to refresh his or her memory. | Q. *Would you like to refresh your memory from the statement?* A. *Yes, please.*  |
-|  **Step 5:** Ask the judge for permission to use the statement before the statement is shown to the witness. Your opponent has to be given an opportunity to object. | Q. *M' Lord, may the statement be shown to the witness?* By the Court: *Does counsel for the defence have any objection?* Defence counsel: *No, I don't M' Lord.* By the Court: *Carry on.*  |
-|   | Q. *Mr S, could you please look at this*  |
+| **Step 1:** Exhaust the witness's memory of the fact required first. | A. *When the robbers drove off, I saw the registration number of their car and wrote it on the palm of my hand.* Q. *What was the number you saw and wrote down?* A. *I can't remember any more.* |
+| **Step 2:** Establish that there exists a record of the fact he or she cannot recall. | Q. *Is there anything that might help you remember the number?* A. *Yes. I made a statement at the police station and the number was written down in the statement.* |
+| **Step 3:** Establish that the note or statement was made when the events were still fresh in the mind of the witness. | Q. *When did you make that statement?* A. *The same morning.* Q. *Where was the note you had written on your hand when you made that statement?* A. *It was still visible on the palm of my hand.* Q. *What did you do with the information written on the palm of your hand when you made the statement?* A. *I copied it to the statement.* |
+| **Step 4:** Ask the witness whether he would like to refresh his or her memory. | Q. *Would you like to refresh your memory from the statement?* A. *Yes, please.* |
+| **Step 5:** Ask the judge for permission to use the statement before the statement is shown to the witness. Your opponent has to be given an opportunity to object. | Q. *M' Lord, may the statement be shown to the witness?* By the Court: *Does counsel for the defence have any objection?* Defence counsel: *No, I don't M' Lord.* By the Court: *Carry on.* |
+| | Q. *Mr S, could you please look at this* |
 
 ---
 
-|  **Step 6:** Let the witness identify the note or statement. | *document. Is this the statement you were referring to?* A. Yes.  |
+| **Step 6:** Let the witness identify the note or statement. | *document. Is this the statement you were referring to?* A. Yes. |
 | --- | --- |
-|  **Step 7:** Give the witness a chance to find the relevant part. Then ask the witness about the relevant fact. | Q. *Please find the passage where the car's registration number is reflected and tell us what the number was.* A. *The number was ...*  |
+| **Step 7:** Give the witness a chance to find the relevant part. Then ask the witness about the relevant fact. | Q. *Please find the passage where the car's registration number is reflected and tell us what the number was.* A. *The number was ...* |
 
 If a witness has refreshed his or her memory from a privileged document or statement, the whole of that document becomes available to the other side for [[Page-145|cross-examination]]; in other words, the privilege is lost. The document itself does not become evidence. If the document is handed in as an exhibit, it becomes evidence not of the truth of its contents but for the purpose of confirming or undermining the credibility of the witness. It appears that a witness may refer only to part of a document and, if necessary, cover up the rest of it, in which event the privilege attaching to the rest of the document may be protected. (This question has not been finally resolved.)
 
@@ -331,6 +335,7 @@ A. *Yes.*
 Q. *And the same experts have attacked the ABC device, in and out of court, as being unreliable and inaccurate, haven't they?*
 A. *Yes, but they are wrong.*
 Q. *It seems that each manufacturer supports its own device through evidence like your own and denigrates the devices of every competitor, doesn't it?*
+
 ---
 
 A. It might seem like that, but that is not the whole picture.
@@ -367,18 +372,19 @@ Objections have to be made in a calm, courteous and reasoned manner. Don't attac
 You should not use an objection as a tool to upset your opponent or a witness. Spurious objections to achieve those ends are not only irritating; they may also alienate the judge. It is also unethical to raise points without any merit knowingly.
 Table 20.9 Objections to questions and evidence, and phrasing the objection
 
-|  To the form of the question | To the subject-matter of the question | To inadmissible evidence | To evidence lacking foundation  |
+| To the form of the question | To the subject-matter of the question | To inadmissible evidence | To evidence lacking foundation |
 | --- | --- | --- | --- |
 
 ---
 
-|  The question is leading. | The question misstates the prior evidence. | This evidence is not the best evidence. | No foundation has been laid for this opinion.  |
+| The question is leading. | The question misstates the prior evidence. | This evidence is not the best evidence. | No foundation has been laid for this opinion. |
 | --- | --- | --- | --- |
-|  The question is argumentative. | The question assumes a fact not yet in evidence. | This evidence is [[Page-92|hearsay]]. | This exhibit is not admissible as evidence because the chain of custody has not been established.  |
-|  The question is confusing. | The question is hypothetical. | This evidence is not relevant to the issues (or credit). | It is not permissible for my learned friend to pursue this line of questioning because this version has not been put to my witnesses.  |
-|  The question is unintelligible. | My learned friend is cross-examining his own witness. | The prejudice the introduction of this evidence is likely to cause outweighs its probative value. | This evidence is not admissible because the records are computer records which have not been proved as required by the Electronic Communications and Transactions Act 25 of 2002.  |
-|  The question contains more than one proposition. This is a compound question. | The question calls for speculation on the part of the witness. | This evidence is inadmissible character evidence. | These documents are not admissible because the defendant has not discovered them in terms of Rule 35.  |
-|  There is no question here, only a statement. | The question calls for a conclusion the witness is not qualified to draw. | The witness is not an expert and an expert opinion is called for. | This evidence is in the nature of [[Page-100|expert evidence]]. I object because the plaintiff has not served a notice and summary as required by Rule 36(9).  |
+| The question is argumentative. | The question assumes a fact not yet in evidence. | This evidence is [[Page-92\|hearsay]]. | This exhibit is not admissible as evidence because the chain of custody has not been established. |
+| The question is confusing. | The question is hypothetical. | This evidence is not relevant to the issues (or credit). | It is not permissible for my learned friend to pursue this line of questioning because this version has not been put to my witnesses. |
+| The question is unintelligible. | My learned friend is cross-examining his own witness. | The prejudice the introduction of this evidence is likely to cause outweighs its probative value. | This evidence is not admissible because the records are computer records which have not been proved as required by the Electronic Communications and Transactions Act 25 of 2002. |
+| The question contains more than one proposition. This is a compound question. | The question calls for speculation on the part of the witness. | This evidence is inadmissible character evidence. | These documents are not admissible because the defendant has not discovered them in terms of Rule 35. |
+| There is no question here, only a statement. | The question calls for a conclusion the witness is not qualified to draw. | The witness is not an expert and an expert opinion is called for. | This evidence is in the nature of [[Page-100\|expert evidence]]. I object because the plaintiff has not served a notice and summary as required by Rule 36(9). |
+
 Some evidential issues relate to the weight of the evidence rather than its admissibility; in such a case there is no cause for an objection. On the contrary, objecting to such evidence may flatter its importance. It is perhaps wise to regard objections as interruptions of the proceedings to be avoided, if at all possible. Use your right to object sparingly; object only when you are certain that you are right and that there is something to gain.
 
 Responding to an objection requires a similar approach. If a question can legitimately be put in another way, do so, even if you think the question was a proper one. An argument over a single question is hardly worth the effort and can be very distracting. It is usually better to direct the attention to the evidence, even if it means asking the question in another way. Avoid questions that are likely to provoke an objection, if you can. But do not give up your right to put relevant evidence before the court simply because your opponent objects, or may object. Defend your position firmly but politely. Some objections can be dealt with by referring the court to an [[Page-75|exception]] to the general rule or principle. In other cases you may have to lay the foundation for the evidence objected to.
@@ -502,7 +508,7 @@ Was there any material discrepancy between the description given to the police b
 
 For defence counsel each of the items on the Turnbull-checklist is a potential theme for [[Page-145|cross-examination]].
 
-### 20.10 Common admissibility issues
+## 20.1 Introduction
 
 Evidential questions arise regularly during the [[Page-136|examination-in-chief]] and cross-examination of witnesses. The evidential questions that may arise can be anticipated during the preparation for trial so that you are ready to deal with them. However, not every point and not every answer given by a witness can be accurately predicted. For
 
@@ -526,7 +532,7 @@ Evidence may also be excluded because it has been obtained improperly, but that 
 
 Each of the exclusionary rules is subject to a number of exceptions. Evidence amounting to opinion, character or similar-fact evidence has to be excluded unless it falls within one of the exceptions. Hearsay evidence may be excluded, depending on whether the provisions of the Law of Evidence Amendment Act 45 of 1988 have been complied with. Previously hearsay evidence had to be excluded unless it fell within an [[Page-75|exception]]. In the case of highly prejudicial evidence of little probative value, the court has a discretion to allow or disallow such evidence, the decision in each case depending on the facts.
 
-### **20.10.1 Exceptions to the hearsay rule**
+### 20.10.1 Exceptions to the hearsay rule
 
 You have hearsay evidence when witness A tells the court what another person, B, who is not a witness or party in the proceedings, has observed or experienced. Thus A tells *(see page 373)* the court what B has told him he, B, has seen, heard, smelled, tasted or felt. Hearsay evidence is inadmissible only if it is tendered to prove the truth of what B has said to A. In short, in hearsay evidence the cogency of the evidence depends on the credibility of a person other than the witness. There is a lot to be said for the view that hearsay evidence is no longer excluded but is admissible subject to the provisions of section 34 of the Law of Evidence Amendment Act 45 of 1988. This Act has to be studied very carefully as it dramatically changed the traditional basis upon which hearsay evidence is treated.
 
@@ -542,7 +548,7 @@ There are many traditional exceptions to the hearsay rule. The most important on
 - Similarly, statements which fall within the exceptions allowed by the Criminal Procedure Act 51 of 1977 are admitted.
 - The Law of Evidence Amendment Act 45 of 1988 allows the court, in its discretion, to admit hearsay evidence under various circumstances and on compliance with certain basic safeguards.
 
-### **20.10.2 Exceptions to the opinion rule**
+### 20.10.2 Exceptions to the opinion rule
 
 The distinction between opinion evidence and evidence of an observation is somewhat blurred, but one could say that an opinion is a conclusion drawn from known or proven facts. The existence of another fact is deduced from the known or proven facts by a process involving logic, experience and special knowledge or skills. Thus a fingerprint expert can state, as a matter of opinion, that no two persons have the same fingerprints, not even identical twins. These experts can say this by virtue of their special training and experience; if the converse were true, why haven't
 
@@ -555,7 +561,8 @@ The traditional reason for not admitting opinion evidence is that it is for the 
 - the opinion of a suitably qualified expert;
 - the opinion of a lay person on a matter well within ordinary human experience, usually relating to the identity, emotional or physical state or character of a person; and
 - evidence of reputation.
-### 20.10.3 Exceptions to the character rule
+
+## 20.1 Introduction
 
 Character evidence is evidence about the nature and qualities of a person, as opposed to evidence of that person's actual conduct during the events under consideration. Character evidence is usually introduced to show a propensity to behave in a particular way, whether it is to commit crimes or simply to tell lies. Thus the boy who cried "Wolf!" was not believed because he had lied previously even though there really was a wolf on that occasion. As this fable demonstrates, it is illogical and even dangerous to try and determine the facts by giving undue weight to the character of the witnesses or participants. So character evidence is generally excluded except that -
 
@@ -565,7 +572,7 @@ Character evidence is evidence about the nature and qualities of a person, as op
 - in defamation cases the character of the plaintiff may be relevant to the quantum of damages to be awarded; and
 - in seduction cases the character of the plaintiff may be relevant to the question whether she was a virgin at the time and evidence on that score may be admitted to disprove the evidence (or to displace the presumption) of virginity. (It is doubtful whether seduction cases will survive the gender equality principles of the Constitution and you may never have a seduction case.)
 
-### 20.10.4 Exceptions to the similar-fact rule
+## 20.1 Introduction
 
 Similar-fact evidence is evidence of other events or acts which tend to prove that the event or act under scrutiny occurred in a similar way, or, put another way, it is evidence which shows a propensity to behave in a certain way. It is mostly used to rule out innocent explanations for suspicious events. This can perhaps be explained best with reference to Smith's case. Smith's wife (by a bigamous marriage - he was still married to another woman) drowned in her bath. Smith, when charged with her murder, contended that she had suffered an epileptic fit and then drowned. However, a number of Smith's previous wives had also died in their baths under similar circumstances shortly after marrying Smith. Each wife had property that fell to Smith upon her death. None had any prior history of epilepsy. Don't these circumstances suggest that the last Mrs Smith's death was not an accident? The similarities between the three cases were so striking that one had to conclude that there was something sinister in all of them.
 
@@ -580,22 +587,23 @@ Where similar-fact evidence is admitted, it usually tends to -
 A sound working knowledge of these basic rules of evidence allows you to respond quickly and appropriately when you have to make an objection or have to respond to one. Here are some examples of responses to objections:
 Table 20.10 Examples of responses to objections
 
-|  Facts | Objection | Response | Comment  |
+| Facts | Objection | Response | Comment |
 | --- | --- | --- | --- |
 
 ---
 
-|  A policeman gives evidence that he stopped the car in which the accused was travelling after receiving information that the bank robbers were fleeing in a particular car. | [[Page-92|Hearsay]]. | *"M' Lord, the evidence is not adduced to prove the truth of the statement, but to establish the sequence of events and also the state of mind of the witness."* | Evidence tendered to prove something other than the truth of the statement is allowed where it is relevant to the state of mind of the person receiving the statement or to the sequence of events.  |
+| A policeman gives evidence that he stopped the car in which the accused was travelling after receiving information that the bank robbers were fleeing in a particular car. | [[Page-92\|Hearsay]]. | *"M' Lord, the evidence is not adduced to prove the truth of the statement, but to establish the sequence of events and also the state of mind of the witness."* | Evidence tendered to prove something other than the truth of the statement is allowed where it is relevant to the state of mind of the person receiving the statement or to the sequence of events. |
 | --- | --- | --- | --- |
-|  A witness gives evidence that the bank teller said, "Please don't shoot me", to the person in the front of the queue. The witness did not see any firearm. | Hearsay. | *"M' Lady, the statement was a spontaneous exclamation forming part of the res gestae."* | Spontaneous exclamations forming part of the events don't fall under the hearsay rule. The spoken word forms part of our every day conduct and cannot logically be excluded from our description of relevant events.  |
-|   | Relevance. | *"M' Lord, in my submission the evidence is relevant because . . ."* | If an objection is made on the basis that the evidence is not relevant (to the issues or to credit) you should be ready to explain why the evidence is relevant.  |
-|  The witness refers to a copy of a document. | Not the best evidence. | *"M' Lady, the original has been lost. I will establish a proper foundation for the evidence."* | A copy of the document may be used if the original has been lost (or destroyed) and cannot be found after a diligent search. The provisions of the Civil Proceedings Evidence Act 25 of 1965 may also apply.  |
-|  The prosecutor attacks the character of the accused. | Character evidence. | *"M' Lord, the defence opened the accused's character to scrutiny when it suggested, in cross-examining the prosecution witnesses, that the accused was of good character."* | Evidence of the accused's bad character may be led if the accused suggests that he is of good character or attacks the character of prosecution witnesses.  |
-|  Facts | Objection | Response | Comment  |
+| A witness gives evidence that the bank teller said, "Please don't shoot me", to the person in the front of the queue. The witness did not see any firearm. | Hearsay. | *"M' Lady, the statement was a spontaneous exclamation forming part of the res gestae."* | Spontaneous exclamations forming part of the events don't fall under the hearsay rule. The spoken word forms part of our every day conduct and cannot logically be excluded from our description of relevant events. |
+| | Relevance. | *"M' Lord, in my submission the evidence is relevant because . . ."* | If an objection is made on the basis that the evidence is not relevant (to the issues or to credit) you should be ready to explain why the evidence is relevant. |
+| The witness refers to a copy of a document. | Not the best evidence. | *"M' Lady, the original has been lost. I will establish a proper foundation for the evidence."* | A copy of the document may be used if the original has been lost (or destroyed) and cannot be found after a diligent search. The provisions of the Civil Proceedings Evidence Act 25 of 1965 may also apply. |
+| The prosecutor attacks the character of the accused. | Character evidence. | *"M' Lord, the defence opened the accused's character to scrutiny when it suggested, in cross-examining the prosecution witnesses, that the accused was of good character."* | Evidence of the accused's bad character may be led if the accused suggests that he is of good character or attacks the character of prosecution witnesses. |
+| Facts | Objection | Response | Comment |
 | --- | --- | --- | --- |
-|  The witness gives evidence that the driver of the insured bus had been intoxicated in a case where the issue is negligence. | Opinion, the witness not being an expert. | *"M' Lady, this is a conclusion which lay persons are capable of drawing. The factual basis and reasons for the opinion will be given."* | Many of our observations are really opinions we have formed on the basis of particular facts and some experience. The court may or may not allow this type of opinion evidence, depending on the circumstances.  |
-|  The witness refers to something you want to hand in as an exhibit. | The chain of custody has not been established. | *"M' Lord, I intend to call X as my next witness. He will say that he received the item from the witness at the scene, has kept it ever since, brought it to court today, and that it is still in its original condition."* | If an exhibit is to be used as real evidence, it has to be shown that it is in the same condition it had been at the material time.  |
-|  Counsel re-examines on something that was not raised in [[Page-160|re-examination]]. | The evidence does not arise from a matter raised in [[Page-145|cross-examination]]. | *"I beg M' Lady's pardon. I should have led this evidence in-chief. I ask for leave to adduce this evidence and concede that my learned friend would be entitled to cross-examine afresh."* | If you have made an error, concede it and try to retrieve the situation.  |
+| The witness gives evidence that the driver of the insured bus had been intoxicated in a case where the issue is negligence. | Opinion, the witness not being an expert. | *"M' Lady, this is a conclusion which lay persons are capable of drawing. The factual basis and reasons for the opinion will be given."* | Many of our observations are really opinions we have formed on the basis of particular facts and some experience. The court may or may not allow this type of opinion evidence, depending on the circumstances. |
+| The witness refers to something you want to hand in as an exhibit. | The chain of custody has not been established. | *"M' Lord, I intend to call X as my next witness. He will say that he received the item from the witness at the scene, has kept it ever since, brought it to court today, and that it is still in its original condition."* | If an exhibit is to be used as real evidence, it has to be shown that it is in the same condition it had been at the material time. |
+| Counsel re-examines on something that was not raised in [[Page-160\|re-examination]]. | The evidence does not arise from a matter raised in [[Page-145\|cross-examination]]. | *"I beg M' Lady's pardon. I should have led this evidence in-chief. I ask for leave to adduce this evidence and concede that my learned friend would be entitled to cross-examine afresh."* | If you have made an error, concede it and try to retrieve the situation. |
+
 > [!warning] 20.11 Protocol and ethics
 
 The protocol and ethics for the special techniques and skills discussed in this chapter are essentially the same as for [[Page-136|examination-in-chief]] and cross-examination. The following points may be emphasised:
@@ -608,7 +616,9 @@ The protocol and ethics for the special techniques and skills discussed in this 
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L19 - Re-examination|← Previous Chapter]] · Next: [[L21 - Closing argument|Next Chapter →]]

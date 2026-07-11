@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L23
 tags: [lecture, litigation-skills]
+
 ---
 # L23 — Persuasive advocacy
 
@@ -18,8 +20,8 @@ graph LR
     B --> C["Advocacy & Drafting Strategy"]
     C --> D["Successful Courtroom Execution"]
 ```
-*Figure: The problem-to-execution chain in this chapter.*
 
+*Figure: The problem-to-execution chain in this chapter.*
 
 ---
 
@@ -41,19 +43,20 @@ C = Competent (meaning that the performer has attained the desired standard of c
 NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
 Table 22.12 Checklist for opposed motion
 
-|   | Skill involved | Competent/ Not yet competent  |
+| | Skill involved | Competent/ Not yet competent |
 | --- | --- | --- |
-|  1 | Making appropriate use of heads of argument |   |
-|  2 | Speaking without reading |   |
-|  3 | Stating the issues clearly |   |
-|  4 | Dealing with each issue in turn by - - [ ] Stating the issue - [ ] Stating the submission - [ ] Stating the argument in support of the submission - [ ] Stating the opposing argument - [ ] Disposing of the opposing argument |   |
-|  5 | Providing concise references to the papers and to authorities in support of the argument |   |
-|  6 | Stating the order or orders to be granted |   |
-|  7 | Dealing appropriately with questions by the court |   |
-|  8 | Dealing appropriately with the opponent's oral argument |   |
-|  9 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the judge - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom |   |
+| 1 | Making appropriate use of heads of argument | |
+| 2 | Speaking without reading | |
+| 3 | Stating the issues clearly | |
+| 4 | Dealing with each issue in turn by - - [ ] Stating the issue - [ ] Stating the submission - [ ] Stating the argument in support of the submission - [ ] Stating the opposing argument - [ ] Disposing of the opposing argument | |
+| 5 | Providing concise references to the papers and to authorities in support of the argument | |
+| 6 | Stating the order or orders to be granted | |
+| 7 | Dealing appropriately with questions by the court | |
+| 8 | Dealing appropriately with the opponent's oral argument | |
+| 9 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the judge - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom | |
 
 ## Chapter 23
+
 [[Page-186|Persuasive advocacy]]: Substance and style
 
 ---
@@ -62,24 +65,25 @@ Skill is my luck and courage is my friend.
 
 George Crabbe, 1754-1832
 
-# CONTENTS
+### CONTENTS
 
-|  23.1 | Introduction  |
+| 23.1 | Introduction |
 | --- | --- |
-|  23.1.1 | Substance  |
-|  23.1.2 | Style (or oratory)  |
-|  23.2 | Basic language and communication skills  |
-|  23.2.1 | Words  |
-|  23.2.2 | Sentences  |
-|  23.2.3 | Paragraphs  |
-|  23.2.4 | The document as a whole  |
-|  23.3 | Organisational skills: Creating a structure  |
-|  23.4 | Presentation skills  |
-|  23.4.1 | Basic principles  |
-|  23.4.2 | Speaking in court  |
-|  23.4.2.1 | Protocol  |
-|  23.4.2.2 | Voice, posture, speech  |
-|  23.4.2.3 | Making submissions  |
+| 23.1.1 | Substance |
+| 23.1.2 | Style (or oratory) |
+| 23.2 | Basic language and communication skills |
+| 23.2.1 | Words |
+| 23.2.2 | Sentences |
+| 23.2.3 | Paragraphs |
+| 23.2.4 | The document as a whole |
+| 23.3 | Organisational skills: Creating a structure |
+| 23.4 | Presentation skills |
+| 23.4.1 | Basic principles |
+| 23.4.2 | Speaking in court |
+| 23.4.2.1 | Protocol |
+| 23.4.2.2 | Voice, posture, speech |
+| 23.4.2.3 | Making submissions |
+
 ## 23.1 Introduction
 
 The degree of persuasion with which an argument can be presented depends on its substantive content and the manner in which the material is presented. The substantive content of a legal argument is based on evidence, facts, logic and legal principles. The manner in which it is presented depends on the arguer's skills in the art of oratory or public speaking. The one is a matter of substance; the other a matter of style. These are the two main components of [[Page-186|persuasive advocacy]]. They are inter-dependent. An argument that is supported by the evidence and the law but is badly presented is unlikely to persuade. By the same token, not even brilliant oratory can save an argument that is devoid of substance.
@@ -96,13 +100,13 @@ Our ability to persuade depends on our ability to communicate. We communicate wi
 
 What then, you might ask, are the tools or devices we use to persuade? I sat pondering this question while listening to a class of sixteen students making speeches. Each student wrote a topic for a two-minute speech down on a piece of paper. These were then placed in a hat and each student drew one from it. They then had five minutes to prepare a short speech on their randomly allocated topics. As they were speaking, one after the other, the realisation gradually dawned upon me that they were using different devices and tricks to make their arguments persuasive and, more importantly, that they were doing so instinctively. They had not been taught these tricks; they just knew them! Here are some of the devices they employed:
 
-|  Intrigue | Ridicule | Emotion  |
+| Intrigue | Ridicule | Emotion |
 | --- | --- | --- |
-|  Anecdotes | Gestures | Animation  |
-|  Humour | Flattery | Acting  |
-|  Surprise | Logic | Personality  |
-|  Demonstration | A diagram | Tragedy  |
-|  Explanation | Experience | Passion  |
+| Anecdotes | Gestures | Animation |
+| Humour | Flattery | Acting |
+| Surprise | Logic | Personality |
+| Demonstration | A diagram | Tragedy |
+| Explanation | Experience | Passion |
 
 At the same time, I could not help noticing how unconvincing they were in their posture and general demeanour, how clumsy they were in making these devices work efficiently for them. Some were hopping about, with their weight now on the one leg and then on the other. Others made no effort to make eye contact with their audience. Some swallowed the words at the end of their sentences. All of them were nervous in the beginning; surprisingly their nerves improved after only a few seconds of speaking. None had been given a reasonable amount of time to prepare, so their speeches were lacking in *(see page 419)* clear structure and the content was rather superficial. Each of them lost something in the way they presented the message.
 
@@ -131,7 +135,7 @@ Assuming that you have mastered the case materials, you will still have to prese
 - Presentation skills: The manner of presentation is equally important. Does the speaker have the appearance of someone who believes what he is saying? Does the non-verbal communication of the speaker detract from the central message? We make eye contact. We speak audibly. We vary the pace and tone of our speech. We pause every now and then. We regulate or adjust our speech to lend emphasis to a particular word or idea. We use gestures. Where we stand and how we stand could also detract from the message. The manner of presentation carries the materials with impact; it lends conviction to the message.
 These skills are general speaking skills, the art of oratory, and they co-exist. For example, part of the clarity of the message is determined by the manner of presentation. The structure of the message also contributes to its precise meaning and persuasion. It does not matter how well you can speak or how well you can organise your materials; if the wrong words are used, your message will still be confusing and unconvincing.
 
-### 23.2 Basic language and communication skills
+## 23.2 Basic language and communication skills
 
 "The law has not the need of special language most laymen think it has. The law has not the need - but lawyers tend to act as though it has. This is in part incompetence - it is easier to repeat a baggy formula than find words that really fit - and in part exploitation of man's liability to magic. For centuries our lawyers, a priestly caste, used a mysterious tongue, composed in Latin, French, English, incantation and a bit of mumbling. These continue. More or less to the present day - Latin less, English more, French absorbed, incantation down a bit, mumbling steadily."
 
@@ -208,38 +212,39 @@ The document has to comply with some of the rules for its sentences and paragrap
 Here is a random collection of words and phrases often used by lawyers, together with alternatives to use instead of those words or phrases.
 Table 23.1 List of bad habits
 
-|  Avoid | Use | Reason | Avoid | Use | Reason  |
+| Avoid | Use | Reason | Avoid | Use | Reason |
 | --- | --- | --- | --- | --- | --- |
-|  aid and abet | assist | tautologous | at this point in time | now | padding  |
-|  each and every | each | tautologous | gave evidence that | said | padding  |
-|  give, make over and bequeath | bequeath | tautologous | prior to | before | keep it simple  |
-|  null, void and of no effect | void | tautologous | subsequently | later | keep it simple  |
+| aid and abet | assist | tautologous | at this point in time | now | padding |
+| each and every | each | tautologous | gave evidence that | said | padding |
+| give, make over and bequeath | bequeath | tautologous | prior to | before | keep it simple |
+| null, void and of no effect | void | tautologous | subsequently | later | keep it simple |
 
 ---
 
-|  right, title and interest | rights | tautologous | until such time as | until | padding  |
+## 23.3 Organisational skills: Creating a structure
+
+| right, title and interest | rights | tautologous | until such time as | until | padding |
 | --- | --- | --- | --- | --- | --- |
-|  safe and sound | safe | tautologous | whatsoever | (omit) | unnecessary  |
-|  save and except | except | tautologous | chairman | chair, chairperson | gender bias  |
-|  terms and conditions | terms | tautologous | policeman | police officer | gender bias  |
-|  aforesaid, the said | (create a definition) | jargon | Anton Piller order | search and seizure order | legalese  |
-|  contained in | in | jargon | culpa | negligence | Latin  |
-|  give consideration to | consider | padding | Mareva Injunction | freezing order | (anti dissipation order is just as bad!)  |
-|  hereinafter | later | jargon | mens rea | intention, state of mind | Latin/legalese  |
-|  hereinbefore | earlier | jargon | res ipsa loquitur | it speaks for itself | legalese  |
-|  in the event of | if | jargon | with regard to | about | padding  |
-|  respectfully suggest/disagree etc | suggest, disagree etc | false modesty | shoes must be worn on the escalator | you must wear shoes | passive voice  |
-|  Avoid | Use | Reason | Avoid | Use | Reason  |
+| safe and sound | safe | tautologous | whatsoever | (omit) | unnecessary |
+| save and except | except | tautologous | chairman | chair, chairperson | gender bias |
+| terms and conditions | terms | tautologous | policeman | police officer | gender bias |
+| aforesaid, the said | (create a definition) | jargon | Anton Piller order | search and seizure order | legalese |
+| contained in | in | jargon | culpa | negligence | Latin |
+| give consideration to | consider | padding | Mareva Injunction | freezing order | (anti dissipation order is just as bad!) |
+| hereinafter | later | jargon | mens rea | intention, state of mind | Latin/legalese |
+| hereinbefore | earlier | jargon | res ipsa loquitur | it speaks for itself | legalese |
+| in the event of | if | jargon | with regard to | about | padding |
+| respectfully suggest/disagree etc | suggest, disagree etc | false modesty | shoes must be worn on the escalator | you must wear shoes | passive voice |
+| Avoid | Use | Reason | Avoid | Use | Reason |
 | --- | --- | --- | --- | --- | --- |
-|  facilitate | help, assist | big word | opening gambit | gambit | tautologous  |
-|  utilise | use | big word | temper tantrum | tantrum | tautologous  |
-|  bona fide | in good faith, genuine, honestly | Latin | an act of insolvency was committed | he committed an act of insolvency | passive voice  |
-|  brevitatis causa | for the sake of brevity (omit if you can) | Latin/usually no shorter anyway | propos | about | pretentious, legalese  |
-|  inter alia | amongst others | Latin | infra | below | Latin  |
-|  ipso facto | automatic | Latin | ultimo | last | pretentious, Latin  |
-|  mutatis mutandis | with the necessary changes | Latin | it is not uncommon, unusual | it is common, usually | turn negative into positive  |
-|  endeavour to | try to | big word | paragraph 2 is admitted (by whom, you might ask?) | the defendant admits paragraph 2 | passive voice  |
-### 23.3 Organisational skills: Creating a structure
+| facilitate | help, assist | big word | opening gambit | gambit | tautologous |
+| utilise | use | big word | temper tantrum | tantrum | tautologous |
+| bona fide | in good faith, genuine, honestly | Latin | an act of insolvency was committed | he committed an act of insolvency | passive voice |
+| brevitatis causa | for the sake of brevity (omit if you can) | Latin/usually no shorter anyway | propos | about | pretentious, legalese |
+| inter alia | amongst others | Latin | infra | below | Latin |
+| ipso facto | automatic | Latin | ultimo | last | pretentious, Latin |
+| mutatis mutandis | with the necessary changes | Latin | it is not uncommon, unusual | it is common, usually | turn negative into positive |
+| endeavour to | try to | big word | paragraph 2 is admitted (by whom, you might ask?) | the defendant admits paragraph 2 | passive voice |
 
 Throughout this book we have created or used structures to carry our messages more effectively and more persuasively. We used big or general structures for big or general operations and we used little structures for smaller ones. Each time our chosen structure helped us to communicate more effectively with our target audience or reader. Each time our purpose was to advance our client's case. We did that by presenting our client's case in a better light or by heaping scorn on the opposition's case. The general structures can be used time and again for the same exercises, like our scheme for interviewing a new client. The smaller schemes can be called up as we need them, for example, when we are suddenly faced with a prior inconsistent statement while we are cross-examining a witness or when our own witness suddenly forgets a crucial detail and needs to refresh his or her memory. These structures separate the different parts of the message to make the message clearer. ('Structure' = the arrangement of parts; the inter-relationship between parts; the manner of organisation of parts.)
 
@@ -256,32 +261,34 @@ You might want to change your style so that you do not become too predictable. Y
 I mentioned that we have to organise the materials so that we can communicate more effectively and be more persuasive when we present the material. Let me explain what I mean by reminding you of some of the structures we used in prior chapters. We used some general structures for general operations and special structures for special operations.
 **Table 23.2** General structures for persuasive communication
 
-|  Interviewing a new client Chapter 1 | Written opinion Chapter 2 | Statements of Claim Chapter 6 | [[Page-131|Opening Statement]] Chapter 16 | [[Page-136|Examination in Chief]] Chapter 17 | Closing Address Chapter 21  |
+| Interviewing a new client Chapter 1 | Written opinion Chapter 2 | Statements of Claim Chapter 6 | [[Page-131\|Opening Statement]] Chapter 16 | [[Page-136\|Examination in Chief]] Chapter 17 | Closing Address Chapter 21 |
 | --- | --- | --- | --- | --- | --- |
-|  Initial meeting and exchanging pleasantries. | Introduction. | Introducing the parties. | State the [[Page-54|cause of action]]. | Introduce the witness. | Isolate the issues or questions of law involved.  |
-|  Problem and goal identification. | Discussion of the facts. | Their *[[Page-41|locus standi]]*. | State the material facts of the claim. | Qualify the witness. | Mention where the onus of proof lies.  |
-|  Dealing with preliminary matters. | Analysis of the legal principles involved. | Jurisdiction. | Identify the issues as they are on the pleadings. | Deal with pre-arranged topics. | State briefly the evidence that supports your [[Page-115|theory of the case]]. Elaborate.  |
-|  Establishing the facts in chronological order. | Conclusion or opinion. | Reciting the material facts and conclusions to be drawn from them. | Indicate how the issues were reduced by subsequent agreement. | Lead the evidence on each topic in chronological order. | Expose weaknesses in the opposition's case. Elaborate.  |
-|  Developing a preliminary theory of the case. | The way forward - practical advice. | Compliance with special procedural requirements. | Indicate where the onus of proof lies on each issue. | Complete the main evidence the witness can give. | Apply the law to the facts.  |
-|  Giving preliminary advice. |  | The prayer. | Summarise the facts (as contended for by your client). | Deal with the other side's version, if necessary. | Discuss the relief claimed.  |
-|  Concluding the interview. |  |  | Identify the witnesses you intend to call and summarise the evidence each will give. |  |   |
-|   |  |  | Explain the relevance of any documentary evidence. |  |   |
+| Initial meeting and exchanging pleasantries. | Introduction. | Introducing the parties. | State the [[Page-54\|cause of action]]. | Introduce the witness. | Isolate the issues or questions of law involved. |
+| Problem and goal identification. | Discussion of the facts. | Their *[[Page-41\|locus standi]]*. | State the material facts of the claim. | Qualify the witness. | Mention where the onus of proof lies. |
+| Dealing with preliminary matters. | Analysis of the legal principles involved. | Jurisdiction. | Identify the issues as they are on the pleadings. | Deal with pre-arranged topics. | State briefly the evidence that supports your [[Page-115\|theory of the case]]. Elaborate. |
+| Establishing the facts in chronological order. | Conclusion or opinion. | Reciting the material facts and conclusions to be drawn from them. | Indicate how the issues were reduced by subsequent agreement. | Lead the evidence on each topic in chronological order. | Expose weaknesses in the opposition's case. Elaborate. |
+| Developing a preliminary theory of the case. | The way forward - practical advice. | Compliance with special procedural requirements. | Indicate where the onus of proof lies on each issue. | Complete the main evidence the witness can give. | Apply the law to the facts. |
+| Giving preliminary advice. | | The prayer. | Summarise the facts (as contended for by your client). | Deal with the other side's version, if necessary. | Discuss the relief claimed. |
+| Concluding the interview. | | | Identify the witnesses you intend to call and summarise the evidence each will give. | | |
+| | | | Explain the relevance of any documentary evidence. | | |
+
 **Table 23.3** Special structures for special tasks
 
-|  Refreshing memory Chapter 20 | Handling a real exhibit Chapter 20 | Objections Chapter 20 | Submissions of fact Chapter 21 | Submissions of law Chapter 22 | Submissions on appeal Chapter 25  |
+| Refreshing memory Chapter 20 | Handling a real exhibit Chapter 20 | Objections Chapter 20 | Submissions of fact Chapter 21 | Submissions of law Chapter 22 | Submissions on appeal Chapter 25 |
 | --- | --- | --- | --- | --- | --- |
-|  Exhaust the witness's memory. | Ask the witness to describe the item. | Stand up. | State the fact to be proved. | State the main submission. | Specify the finding to be challenged.  |
-|  Establish that there is a note of the now forgotten fact. | Deal with the 'chain of custody'. | Say that you have an objection. | Tell the court what you are going to submit. | Refer to the authority supporting it. | Indicate, in the form of a submission, the basis for the challenge.  |
-|   |  |  |  |  | Law: Formulate the propositions  |
+| Exhaust the witness's memory. | Ask the witness to describe the item. | Stand up. | State the fact to be proved. | State the main submission. | Specify the finding to be challenged. |
+| Establish that there is a note of the now forgotten fact. | Deal with the 'chain of custody'. | Say that you have an objection. | Tell the court what you are going to submit. | Refer to the authority supporting it. | Indicate, in the form of a submission, the basis for the challenge. |
+| | | | | | Law: Formulate the propositions |
 
 ---
 
-|  Establish that the note was made soon after the relevant events. | Show the item to the witness. | Give a brief explanation of the ground for the objection. | Marshal the evidence to support your submission. | (Mention analogous cases, if necessary.) | on which the submission is based. Fact: Summarise the evidence relevant to the challenged findings.  |
+| Establish that the note was made soon after the relevant events. | Show the item to the witness. | Give a brief explanation of the ground for the objection. | Marshal the evidence to support your submission. | (Mention analogous cases, if necessary.) | on which the submission is based. Fact: Summarise the evidence relevant to the challenged findings. |
 | --- | --- | --- | --- | --- | --- |
-|  Ask the witness if he or she would like to refresh his or her memory from the note. | Ask the witness to describe the item shown to him/her. | Sit down and listen to your opponent's answer. If necessary, give a short reply. | Deal with adverse facts or evidence. | State the conclusion. | Law: Identify the authorities supporting the submission. Fact: Specify any misdirection and deal with it as a submission of law.  |
-|  Ask the judge's permission to use the note (to show it to the witness). | Give the exhibit a number. | Wait for the ruling. | Allude to the onus of proof. |  | Fact: Summarise the relevant evidence in support of the result contended for.  |
-|  Show the note to the witness and ask him or her to identify it. | Ask your questions with regard to the exhibit. | Acknowledge the ruling. | State the conclusion. |  |   |
-|  Let the witness read the relevant part of the note and proceed with your questioning. |  | Act on the ruling. | Tell the court what order should be made. |  | Note: Points of fact and law have been combined for this exercise.  |
+| Ask the witness if he or she would like to refresh his or her memory from the note. | Ask the witness to describe the item shown to him/her. | Sit down and listen to your opponent's answer. If necessary, give a short reply. | Deal with adverse facts or evidence. | State the conclusion. | Law: Identify the authorities supporting the submission. Fact: Specify any misdirection and deal with it as a submission of law. |
+| Ask the judge's permission to use the note (to show it to the witness). | Give the exhibit a number. | Wait for the ruling. | Allude to the onus of proof. | | Fact: Summarise the relevant evidence in support of the result contended for. |
+| Show the note to the witness and ask him or her to identify it. | Ask your questions with regard to the exhibit. | Acknowledge the ruling. | State the conclusion. | | |
+| Let the witness read the relevant part of the note and proceed with your questioning. | | Act on the ruling. | Tell the court what order should be made. | | Note: Points of fact and law have been combined for this exercise. |
+
 ## 23.4 Presentation skills
 
 ### 23.4.1 Basic principles
@@ -309,7 +316,7 @@ When you make submissions to the court, you alone are responsible for their cont
 
 You are allowed to make submissions arising from the evidence before the court or relating to matters of law. Now and then a judge might ask a question which cannot be answered with the material that you have before the court. In such an instance you may have to take instructions from your client and convey the answer to the court. Because these instructions are not evidence and because they are not produced by counsel as an assurance or as a guarantee of their correctness, you would convey them to the court as follows: "M' Lady, I am instructed that . . ."
 
-### 23.4.2.2 Voice, posture, speech
+#### 23.4.2.2 Voice, posture, speech
 
 The effectiveness of your speaking in court will depend on three main factors. The first is the speaking voice you inherited from your ancestors. No one can change that. The second is your posture, meaning how you project yourself. The third relates to your speaking habits.
 
@@ -338,7 +345,7 @@ Good speaking habits are equally important. Advocacy is about persuasion. While 
 - Speak with authority and conviction: You have the right to ask questions and to address the court. So speak firmly when it is your turn.
 - Don't interrupt anyone: Do not interrupt - not the judge, not your opponent and least of all a witness: Remember that the witness is under oath. How can the witness "tell the whole truth" if you keep interrupting?
 
-### 23.4.2.3 Making submissions
+#### 23.4.2.3 Making submissions
 
 What follows is supplementary to the discussion in chapter 21, where some advice is given on the way to make submissions of fact and of law. There are many little devices you can use to present your argument in a more favourable light. Here are some of them:
 
@@ -358,7 +365,7 @@ What follows is supplementary to the discussion in chapter 21, where some advice
 - State what you want: Tell the court what you want it to do before you sit down, for example, "I therefore ask for judgment . . ." or "I therefore submit that the appeal should be dismissed with costs."
 Table 23.4 What works and what doesn't
 
-|  What doesn't work | What works | Comment  |
+| What doesn't work | What works | Comment |
 | --- | --- | --- |
 
 ---
@@ -366,7 +373,9 @@ Table 23.4 What works and what doesn't
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L22 - Motion Court|← Previous Chapter]] · Next: [[L24 - Reviews|Next Chapter →]]

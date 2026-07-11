@@ -1,7 +1,9 @@
 ---
+
 type: lecture
 lecture: L15
 tags: [lecture, litigation-skills]
+
 ---
 # L15 — The protocol and etiquette of the courtroom
 
@@ -20,7 +22,6 @@ graph LR
 ```
 *Figure: The problem-to-execution chain in this chapter.*
 
-
 ---
 
 ## Chapter Content Walkthrough
@@ -38,10 +39,9 @@ To be fully prepared means having to inspect these documents with great care and
 
 The converse applies to the prosecutor. You should be so well prepared that you could conduct the case as defence counsel. Only then will you have a complete understanding of the case. If you are a prosecutor reading this, go to the trial preparation exercise at the end of this book and ask yourself these questions: (a) What is the central issue here? (b) What would be my submission to the court? (That the accused is guilty, of course.) (c) What would I submit to the court as my best points? (d) What does the accused say? (That he made a mistake, of course.) (e) Why should the court reject that version? (We've heard that defence before, haven't we? Every second shoplifter uses it.) Then conduct a complete (8 stages) trial-preparation exercise for the prosecution.
 
-## Chapter 15
-### The protocol and etiquette of the courtroom
+## Chapter 15: The protocol and etiquette of the courtroom
 
-# CONTENTS
+### CONTENTS
 
 15.1 Introduction
 15.2 Counsel's primary duty and essential rights
@@ -61,6 +61,7 @@ The converse applies to the prosecutor. You should be so well prepared that you 
 15.8 Mode of citation of legal authorities
 15.9 Practical advice
 15.10 How to deal with mistakes
+
 ---
 
 ## 15.1 Introduction
@@ -100,6 +101,7 @@ Counsel also has important rights that flow naturally from counsel's duties to t
 ---
 
 address the court on every point or issue which appears to counsel to be relevant. In exercising this right, which is part and parcel of the duty to provide fearless advocacy to the client, counsel may have to offer some resistance to a judge who tries to force the hearing in a direction which does not suit the client's case. Counsel's special position as an officer of the court and the representative of the client, also entitles counsel to be treated with courtesy and respect, particularly by the judge.
+
 ### 15.3 Counsel's relationship with the judge
 
 You will encounter judges in court, in their chambers and in public. You may even play tennis or golf with a judge. How do you behave towards the judge in these different circumstances? How do you address him or her? How do you introduce yourself to the judge?
@@ -125,7 +127,7 @@ your back on the judge.
 
 - You should not leave the court before the judge if you are the last counsel in the court. In some divisions you are expected to stay even when there is one other lawyer left. The reason is that there should always be two counsel in court so that the judge can call for any assistance he or she may need from the second counsel present, even if they have nothing to do with the case being heard. Find out what the protocol is in your division and in every other division in which you are due to appear.
 
-### **15.3.2 In chambers**
+#### 15.3.2 In chambers
 
 Some judges remain strictly formal in their chambers while others are far more relaxed than you would expect. It is best to err on the side of formality. Don't call the judge by his or her first name unless you are invited to do so. Here are a few of the unwritten protocols for visits to a judge's chambers:
 
@@ -136,11 +138,11 @@ Some judges remain strictly formal in their chambers while others are far more r
 - Some judges do not allow counsel to discuss anything relating to the case in chambers. They take the view that anything you have to say to the judge should be said in court in full view of the parties and the public. There is merit in this stance. Make sure that the purpose of your visit is legitimate. If in doubt, say what needs to be said in court.
 - Do not say anything in the judge's chambers that may compromise your client's case or embarrass you in court. In fact, you should not really discuss anything in the judge's chambers that you cannot discuss openly in court.
 
-### **15.3.3 Away from court**
+#### 15.3.3 Away from court
 
 You could meet judges almost anywhere; at the supermarket or the opera, at the golf course or halfway up Polly Shortts in the Comrades Marathon. How you interact will depend on the situation and how well you know each other. There are only a few guiding principles. The first is to leave your client's cases at the office. Don't talk to the judge about them. He or she may be allocated the trial. The second is to be unfailingly polite. Remember you may have to face the same judge on Monday when you have a tricky point to argue. Make an effort to engage them in the activities of the Bar or Law Society and your annual golf day or road relay. Getting to know judges socially is one way of overcoming your natural fear of them. And your efforts will be appreciated. Don't forget the retired judges. There is a wealth of experience there that could be tapped for the Bar and the Law Society's training programmes and for [[Page-30|mediation]] and [[Page-30|arbitration]] procedures.
 
-### **15.3.4 Dealing with difficult judges**
+#### 15.3.4 Dealing with difficult judges
 
 A subject you should not have to read about in a book like this is how to deal with a difficult judge. Unfortunately there are judges who bully counsel, not realising that by doing so they are unlikely to get the best out of counsel. One biographer described a certain American Supreme Court Justice as the "loudest, most cantankerous, sarcastic, aggressive, intemperate, and reactionary representative" of a particular grouping within the Court. When I read that description, I immediately and quite involuntarily thought of three judges I knew, two from my own division and one from another jurisdiction. An appearance before them was always an ordeal, even when the abuse was being heaped on my opponent's head rather than mine.
 
@@ -213,7 +215,7 @@ These principles apply with a few small adjustments to the relationship between 
 
 composure on the part of the lawyers. You need to be especially careful to maintain your objectivity and your composure when dealing with your opponent in a criminal case. Remember that the complainant and the accused may have strong feelings and may express them or behave badly towards defence counsel or the prosecutor, as the case may be. Calm them down when that happens and explain to them that defence counsel or the prosecutor 'is just doing their job'.
 
-### 15.5 Counsel's relationship with witnesses
+## 15.5 Counsel's relationship with witnesses
 
 All witnesses are to be treated with respect. In some ways witnesses are guests of the legal profession when they come to court to give evidence. Make your own witnesses comfortable. Be courteous to opposition witnesses. All witnesses should be addressed formally, as 'Mister', 'Mrs' or 'Ms', or as 'Sergeant', 'Professor' or 'Doctor' for people with ranks or titles. Children may be addressed by their first names, but only after permission has been obtained from the judge.
 
@@ -227,12 +229,12 @@ Judge: 'I'll stop speaking to you like that when you stop bullying the witness.'
 
 It is hardly ever appropriate (or good advocacy) to call a witness a liar. *Firstly*, if the witness is a liar, he will deny it. If he is not, he will also deny it. *Secondly*, experienced trial lawyers know that you can get away with calling one witness a liar, and in a bad case maybe two. But by the time you call the third witness a liar, the probability is that the court is going to find that your client is the liar and that the other three witnesses were telling the truth.
 
-### 15.6 Counsel's relationship with court staff
+## 15.6 Counsel's relationship with court staff
 
 Courts are staffed by a variety of officials without whom the wheels of justice would grind to a halt very fast; the registrar and all his or her staff in the General Office, ushers, security officers, stenographers and the judges' secretaries, also referred to as registrars. Most of the time these people melt into the background. At some stage you are going to need help from the court staff, so I suggest you get to know them. Get to know their names, greet them when you encounter them at court and elsewhere, make small-talk. You would be surprised at the returns for such a simple investment.
 The court's staff are not your personal lackeys, there to make phone calls or photocopies for you. If you need a favour, they will be sure to help, but approach them with the attitude of one needing a favour, not one giving orders.
 
-### 15.7 The dress code for different courts
+## 15.7 The dress code for different courts
 
 In some instances lawyers wear robes (or gowns) and in others they wear suits. At an inspection *in loco* you may even see a lawyer crawling around in the engine room of a ship wearing overalls. Your dress code is determined by the occasion.
 
@@ -291,7 +293,9 @@ You could make some serious mistakes too. It isn't easy to state a general rule 
 ---
 
 ## Concepts in this lecture
+
 None
 
 ## Navigation
+
 Prev: [[L14 - Preparation for trial: Fact analysis and strategy|← Previous Chapter]] · Next: [[L16 - Opening statement|Next Chapter →]]
