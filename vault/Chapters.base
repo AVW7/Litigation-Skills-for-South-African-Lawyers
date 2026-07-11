@@ -1,19 +1,19 @@
-filters: 'file.folder == "Litigation Skills"'
+filters: file.folder == "Litigation Skills"
 properties:
   file.name:
-    displayName: "Chapter Title"
+    displayName: Chapter Title
   pageRange:
-    displayName: "PDF Page Range"
+    displayName: PDF Page Range
   topics:
-    displayName: "Topics Covered"
+    displayName: Topics Covered
 views:
   - type: table
-    name: "Chapters Overview Table"
+    name: Chapters Overview Table
     order:
       - file.name
       - pageRange
       - topics
   - type: list
-    name: "Chapters List"
+    name: Chapters List
     order:
       - file.name

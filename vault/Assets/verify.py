@@ -18,7 +18,17 @@ import os, re, glob, sys
 ROOT = "."
 def md(*parts): return glob.glob(os.path.join(ROOT, *parts))
 
-note_files = md('Terms','*.md')+md('Formulas','*.md')+md('Lectures','*.md')+md('Indexes','*.md')
+note_files = []
+for root, dirs, files in os.walk(ROOT):
+    # Exclude dot directories
+    dirs[:] = [d for d in dirs if not d.startswith('.')]
+    # Exclude Assets directory
+    if "Assets" in dirs:
+        dirs.remove("Assets")
+    for f in files:
+        if f.endswith('.md') and f not in ['README.md', 'README-template.md', 'templates.md', 'scripts.md']:
+            note_files.append(os.path.join(root, f))
+
 notes = {os.path.basename(p)[:-3] for p in note_files}
 if os.path.exists(os.path.join(ROOT,'Home.md')): notes.add('Home')
 gifs = {f for f in os.listdir(os.path.join(ROOT,'Assets'))} if os.path.isdir(os.path.join(ROOT,'Assets')) else set()
@@ -27,7 +37,7 @@ problems, warnings = [], []
 broken_links, broken_gifs = set(), set()
 all_link_targets = set()
 
-for p in glob.glob(os.path.join(ROOT,'**','*.md'), recursive=True):
+for p in note_files:
     raw = open(p, encoding='utf-8').read()
     nocode = re.sub(r'```.*?```', '', raw, flags=re.S)
     for m in re.finditer(r'!?\[\[([^\]]+)\]\]', nocode):

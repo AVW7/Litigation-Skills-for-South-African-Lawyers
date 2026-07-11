@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/L00 - Introduction & Prefaces.md",
-                "mode": "source",
+                "file": "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L00 - Introduction & Prefaces"
+              "title": "Chapter 01 - Interviewing clients and witnesses"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/rule-5.md",
+                "file": "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rule-5"
+              "title": "Backlinks for Chapter 01 - Interviewing clients and witnesses"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/rule-5.md",
+                "file": "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from rule-5"
+              "title": "Outgoing links from Chapter 01 - Interviewing clients and witnesses"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/rule-5.md",
+                "file": "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rule-5"
+              "title": "Outline of Chapter 01 - Interviewing clients and witnesses"
+            }
+          },
+          {
+            "id": "20ee1b06b08210b0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,20 +190,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "mindelixir-mindmap:Open as mind map": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "51203417fbc67ef7",
   "lastOpenFiles": [
+    "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
+    "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
+    "Assets/MindElixir.js",
+    "Assets/mind-elixir.css",
+    "Excalidraw/Drawing 2026-07-11 13.22.44.excalidraw.md",
+    "Excalidraw",
+    "Lectures/L01 - Interviewing clients and witnesses.md",
+    "Assets/chapter_01_mindmap.html",
+    "Dashboard.md",
+    "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
+    "Terms/Cause of Action.md",
+    "Lectures/L00 - Introduction & Prefaces.md",
+    "Indexes/All Lectures.md",
+    "Home.md",
+    "Chapters.base",
+    "Rules/rule-1.md",
+    "Assets/anim_urgent_application.gif",
+    "Assets/anim_pleadings.gif",
+    "Assets/anim_onus_of_proof.gif",
+    "Assets/anim_locus_standi.gif",
+    "Assets/anim_facta_probantia.gif",
+    "Assets/anim_facta_probanda.gif",
+    "Assets/anim_cross_examination.gif",
+    "Assets/anim_cause_of_action.gif",
+    "Rules.base",
+    "README.md",
+    "Pages.base",
     "Indexes/All Formulas.md",
     "Assets/templates.md",
     "Assets/scripts.md",
     "Assets/README-template.md",
     "Assets/anim_trial_timeline.gif",
     "Assets/anim_motion_exchange.gif",
-    "Assets/anim_burden_proof.gif",
-    "Dashboard.md",
-    "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
     "Pages/Page-1.md",
     "Litigation Skills/Chapter 28 - Index.md",
     "Litigation Skills/Chapter 27 - Appendices.md",
@@ -202,18 +242,6 @@
     "Litigation Skills/Chapter 24 - Reviews.md",
     "Litigation Skills/Chapter 23 - Persuasive advocacy Substance and style.md",
     "Litigation Skills/Chapter 22 - Motion Court.md",
-    "Litigation Skills/Chapter 21 - Closing argument.md",
-    "Litigation Skills/Chapter 20 - Special procedures.md",
-    "Litigation Skills/Chapter 19 - Re-examination.md",
-    "Litigation Skills/Chapter 18 - Cross-examination.md",
-    "Litigation Skills/Chapter 17 - Examination-in-chief.md",
-    "Litigation Skills/Chapter 16 - Opening statement.md",
-    "Litigation Skills/Chapter 15 - The protocol and etiquette of the courtroom.md",
-    "Litigation Skills/Chapter 14 - Preparation for trial Fact analysis and strategy.md",
-    "Litigation Skills/Chapter 13 - Preparation for trial Legal research.md",
-    "Litigation Skills/Chapter 12 - Preparing the case for trial Assembling the evidence.md",
-    "Litigation Skills/Chapter 11 - Preparing the case for trial Advice on evidence.md",
-    "Litigation Skills/Chapter 10 - Drafting applications.md",
-    "Chapters.base"
+    "Litigation Skills/Chapter 21 - Closing argument.md"
   ]
 }

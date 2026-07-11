@@ -1,13 +1,51 @@
 {
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    { "query": "path:Terms",    "color": { "a": 1, "rgb": 5431378 } },
-    { "query": "path:Formulas", "color": { "a": 1, "rgb": 14079702 } },
-    { "query": "path:Lectures", "color": { "a": 1, "rgb": 3120273 } },
-    { "query": "path:Indexes",  "color": { "a": 1, "rgb": 11621088 } }
+    {
+      "query": "path:Terms",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Formulas",
+      "color": {
+        "a": 1,
+        "rgb": 14079702
+      }
+    },
+    {
+      "query": "path:Lectures",
+      "color": {
+        "a": 1,
+        "rgb": 3120273
+      }
+    },
+    {
+      "query": "path:Indexes",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
   ],
-  "scale": 1
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5773596520321446,
+  "close": false
 }

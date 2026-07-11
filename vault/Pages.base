@@ -1,18 +1,18 @@
-filters: 'file.folder == "Pages"'
+filters: file.folder == "Pages"
 properties:
   file.name:
-    displayName: "Note Name"
+    displayName: Note Name
   pdfPage:
-    displayName: "PDF Page"
+    displayName: PDF Page
   printedPage:
-    displayName: "Printed Page"
+    displayName: Printed Page
   chapter:
-    displayName: "Chapter"
+    displayName: Chapter
   topics:
-    displayName: "Topics"
+    displayName: Topics
 views:
   - type: table
-    name: "Pages Table"
+    name: Pages Table
     order:
       - pdfPage
       - file.name

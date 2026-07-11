@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter 1: Interviewing Clients & Witnesses - Mind Map</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./mind-elixir.css">
+  
+  <style>
+    :root {
+      --bg-color: #0b0f19;
+      --text-color: #f8fafc;
+      --card-bg: rgba(30, 41, 59, 0.4);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --accent-primary: #6366f1;
+      --accent-secondary: #a855f7;
+      --glow-color: rgba(99, 102, 241, 0.15);
+      --font-heading: 'Outfit', sans-serif;
+      --font-body: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: var(--font-body);
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Header Bar */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 1.5rem;
+      background: rgba(15, 23, 42, 0.6);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--card-border);
+      z-index: 10;
+    }
+
+    .title-area h1 {
+      font-family: var(--font-heading);
+      font-size: 1.25rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #a5b4fc, #c084fc);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .title-area p {
+      font-size: 0.75rem;
+      color: #94a3b8;
+      margin-top: 0.1rem;
+    }
+
+    .controls-top {
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--card-border);
+      color: var(--text-color);
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .btn:hover {
+      background: var(--accent-primary);
+      border-color: var(--accent-primary);
+      box-shadow: 0 0 12px rgba(99, 102, 241, 0.4);
+    }
+
+    /* Main Container */
+    .app-container {
+      display: flex;
+      flex: 1;
+      height: calc(100vh - 65px);
+      position: relative;
+    }
+
+    /* Map container */
+    #map-wrapper {
+      flex: 1;
+      height: 100%;
+      position: relative;
+      background-image: radial-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 24px 24px;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Details Panel */
+    .details-panel {
+      width: 320px;
+      background: rgba(15, 23, 42, 0.8);
+      backdrop-filter: blur(20px);
+      border-left: 1px solid var(--card-border);
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      z-index: 5;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      overflow-y: auto;
+    }
+
+    .panel-header {
+      padding: 1.25rem;
+      border-bottom: 1px solid var(--card-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .panel-header h2 {
+      font-family: var(--font-heading);
+      font-size: 1rem;
+      font-weight: 600;
+      color: #cbd5e1;
+    }
+
+    .panel-content {
+      padding: 1.25rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .node-title-card {
+      background: rgba(99, 102, 241, 0.1);
+      border: 1px solid rgba(99, 102, 241, 0.2);
+      border-radius: 8px;
+      padding: 0.85rem;
+    }
+
+    .node-title-card h3 {
+      font-family: var(--font-heading);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #818cf8;
+      line-height: 1.3;
+    }
+
+    .desc-section {
+      font-size: 0.825rem;
+      line-height: 1.6;
+      color: #94a3b8;
+    }
+
+    .alert-card {
+      background: rgba(239, 68, 68, 0.08);
+      border-left: 3px solid #ef4444;
+      border-radius: 4px;
+      padding: 0.75rem;
+      font-size: 0.75rem;
+      line-height: 1.5;
+      color: #fca5a5;
+    }
+
+    .alert-card.tip {
+      background: rgba(16, 185, 129, 0.08);
+      border-left-color: #10b981;
+      color: #a7f3d0;
+    }
+
+    .alert-card.info {
+      background: rgba(99, 102, 241, 0.08);
+      border-left-color: #6366f1;
+      color: #c7d2fe;
+    }
+
+    /* Mind Elixir Node Style Overrides */
+    .map-canvas {
+      background-color: transparent !important;
+    }
+    
+    me-node {
+      font-family: var(--font-body) !important;
+      border-radius: 6px !important;
+      border: 1px solid rgba(255, 255, 255, 0.1) !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+      transition: all 0.2s ease !important;
+      color: #e2e8f0 !important;
+      background: #1e293b !important;
+    }
+
+    me-node.selected {
+      outline: 2px solid var(--accent-primary) !important;
+      box-shadow: 0 0 15px var(--glow-color) !important;
+    }
+
+    /* Custom scrollbar */
+    ::-webkit-scrollbar {
+      width: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.1);
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 3px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="title-area">
+      <h1>Chapter 1: Interviewing Clients & Witnesses</h1>
+      <p>Litigation Skills for South African Lawyers — Interactive Mind Map</p>
+    </div>
+    <div class="controls-top">
+      <button class="btn" id="btn-center">Center Map</button>
+      <button class="btn" id="btn-side">Toggle Panel</button>
+    </div>
+  </header>
+
+  <div class="app-container">
+    <div id="map-wrapper">
+      <div id="map"></div>
+    </div>
+
+    <div class="details-panel" id="details-panel">
+      <div class="panel-header">
+        <h2>Study Details</h2>
+      </div>
+      <div class="panel-content" id="panel-content">
+        <div class="desc-section" style="text-align: center; margin-top: 3rem;">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="color: #475569; margin: 0 auto 1rem auto; display: block;">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.042 21.672 13.684 16.6m0 0-2.51 2.225.569-9.47 5.227 7.917-3.286.728zM12 2.25V4.5m5.303.197-1.591 1.591M21.75 12h-2.25m-.197 5.303-1.591-1.591M12 19.5v2.25m-5.303-.197 1.591-1.591M2.25 12h2.25m-.197-5.303 1.591 1.591" />
+          </svg>
+          Select any node in the mind map to view detailed study notes, ethical duties, and legal requirements.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mind Elixir JS ES module -->
+  <script type="module">
+    import MindElixir from './MindElixir.js';
+
+    // Detailed metadata for selected nodes to be displayed in the side panel
+    const nodeDetails = {
+      'root': {
+        title: 'Chapter 1: Interviewing Clients & Witnesses',
+        description: 'This chapter details the fundamental process of conducting interviews with new clients and witnesses in South African litigation. It covers the structure of consultations, gathering chronological facts, and establishing professional relationships while adhering to ethical standards.',
+        alert: {
+          type: 'info',
+          text: '<strong>Key Ethic:</strong> Counsel has a higher duty to the court than to the client. If a conflict arises between these duties, counsel must refuse to act.'
+        }
+      },
+      'client_stages': {
+        title: 'Client Interview Stages',
+        description: 'A structured, 8-stage interviewing framework ensures that the lawyer gathers complete, chronological, and legally relevant facts while establishing empathy and professional rapport.',
+        alert: {
+          type: 'tip',
+          text: 'Resist the urge to give premature legal advice in the early stages. Focus first on active listening and building rapport.'
+        }
+      },
+      'stage_1': {
+        title: 'Stage 1: Meeting & Pleasantries',
+        description: 'First impressions are lasting. Meet the client in reception promptly, introduce yourself by first name and surname (no titles), and personally escort them to your office. Ensure surroundings are comfortable and clear of other work.',
+        alert: {
+          type: 'tip',
+          text: 'Make pleasantries (weather, parking) to break the ice and help an anxious client relax.'
+        }
+      },
+      'stage_2': {
+        title: 'Stage 2: Problem & Goal Identification',
+        description: 'Listen to the client\'s narrative to identify their perceived problem and desired outcome. Subconsciously map these to areas of law (e.g. delict, RAF, contracts), but remain flexible as the details unfold.',
+        alert: {
+          type: 'tip',
+          text: '<strong>Note-taking rule:</strong> Maintain eye contact and show empathy; do not take notes at this stage.'
+        }
+      },
+      'stage_3': {
+        title: 'Stage 3: Dealing with Preliminary Matters',
+        description: 'Before entering fact investigation, discuss essential rules. Assure the client of confidentiality (attorney-client privilege), explain the fee structure (initial consultation is free), and check for potential conflicts of interest. Ask permission to take notes.',
+        alert: {
+          type: 'info',
+          text: '<strong>Privilege:</strong> Reassure the client that everything disclosed is protected by attorney-client privilege.'
+        }
+      },
+      'stage_4': {
+        title: 'Stage 4: Chronological Fact Finding',
+        description: 'Cases are won on facts. Lead the client chronologically through events. Collect crucial documents (marriage/birth certificates, medical records, repair invoices). Use active listening and proper questioning techniques.',
+        alert: {
+          type: 'info',
+          text: '<strong>Funnelling:</strong> Ask open questions to introduce a topic, then narrow down using closed, non-leading questions.'
+        }
+      },
+      'stage_5': {
+        title: 'Stage 5: Fact Analysis & Case Theory',
+        description: 'Develop a preliminary, dynamic theory of the case. Map the facta probanda (material facts to be proved) against the facta probantia (evidence proving them) using the proof-making model.',
+        alert: {
+          type: 'info',
+          text: '<strong>Case Theory:</strong> Your theory must be coherent, comprehensive, and accommodate all known facts, including adverse ones.'
+        }
+      },
+      'stage_6': {
+        title: 'Stage 6: Giving Preliminary Advice',
+        description: 'Provide provisional advice on potential claims, estimated timelines, and costs. Suggest a plan of action but emphasize that it is subject to thorough fact verification.',
+        alert: {
+          type: 'warning',
+          text: '<strong>Warning:</strong> Be conservative. Avoid overly optimistic predictions which may come back to haunt you. If unsure, reserve your opinion for research.'
+        }
+      },
+      'stage_7': {
+        title: 'Stage 7: Concluding the Interview',
+        description: 'Ensure all concerns are addressed. Obtain explicit authority (e.g., signed Power of Attorney, consents for medical records). Walk the client to the exit, and confirm advice and instructions in a post-interview letter.',
+        alert: {
+          type: 'tip',
+          text: 'The client must leave knowing exactly what will happen next and when to expect feedback.'
+        }
+      },
+      'stage_8': {
+        title: 'Stage 8: After the Interview',
+        description: 'Immediately write up detailed interview notes, formulate the preliminary theory, draft the client letter, check for factual gaps, and devise a plan to secure missing evidence.',
+        alert: {
+          type: 'tip',
+          text: 'Play "devil\'s advocate" with the case. Argue both sides to identify vulnerabilities.'
+        }
+      },
+      'witnesses': {
+        title: 'Witness Interviews',
+        description: 'Unlike clients, witnesses must be interviewed with strict safeguards to avoid contamination of evidence. Witnesses do not belong to either party.',
+        alert: {
+          type: 'warning',
+          text: '<strong>Ethical Guard:</strong> Never suggest facts or answers. Restrict questions to open or non-leading closed formats.'
+        }
+      },
+      'gcb_rules': {
+        title: 'Opponent Witnesses (Rule 4.3.1)',
+        description: 'A lawyer may interview an opponent\'s witness, but if they have been subpoenaed or statement-taken by the opponent: (1) Notify the opponent before the interview (they cannot block it, nor attend); (2) If they have already testified, the opponent\'s lawyer must be present unless they decline.',
+        alert: {
+          type: 'info',
+          text: 'Witnesses do not "belong" to any party. Any person in possession of information may be interviewed.'
+        }
+      },
+      'criminal_practice': {
+        title: 'Interviewing in Criminal Practice',
+        description: 'Criminal practice has unique statutory constraints. Prosecutors represent the state objectively; defence lawyers protect the accused\'s constitutional rights.',
+        alert: {
+          type: 'info',
+          text: '<strong>Prosecutor Duty:</strong> Must be fair and must not withhold evidence that may exonerate the accused.'
+        }
+      },
+      'sex_crimes': {
+        title: 'Sex Crimes & CPA Section 227',
+        description: 'Section 227 of the Criminal Procedure Act renders evidence of a complainant\'s prior sexual experience inadmissible unless the court grants leave. Prosecutors must conduct sensitive, structured interviews following strict protocols.',
+        alert: {
+          type: 'warning',
+          text: 'Maintain strict privacy. Explain the legal process without offering unsolicited non-legal advice.'
+        }
+      },
+      'accused_interview': {
+        title: 'Interviewing the Accused',
+        description: 'Always interview the accused in private. Obtain written, signed instructions for all steps and record all advice given. Provide empathetic, objective representation.',
+        alert: {
+          type: 'warning',
+          text: 'Ensure the accused client acknowledges advice in writing. This protects both client and counsel.'
+        }
+      },
+      'interpreter': {
+        title: 'Interpreter Protocol',
+        description: 'Interpreters convey meaning, not just words. Brief them in advance with technical terms. Introduce them to the witness, use short questions, and allow time for interpretation.',
+        alert: {
+          type: 'tip',
+          text: 'Watch body language and gestures. Speak directly to the witness, not to the interpreter.'
+        }
+      },
+      'ethics': {
+        title: 'General Etiquette & Ethics',
+        description: 'Professionalism dictates punctuality, courtesy, and respect for all parties. Do not denigrate the courts or other lawyers. Protect client confidences and avoid interruptions.',
+        alert: {
+          type: 'info',
+          text: 'Maintain the highest professional standards in all consultations.'
+        }
+      }
+    };
+
+    // Mind map data structure
+    const data = {
+      nodeData: {
+        topic: 'Chapter 1: Interviewing Clients & Witnesses',
+        id: 'root',
+        style: {
+          background: '#6366f1',
+          color: '#ffffff',
+          fontSize: '18px',
+          fontWeight: 'bold'
+        },
+        children: [
+          {
+            topic: '1. Client Interview Stages',
+            id: 'client_stages',
+            style: { background: '#a855f7', color: '#ffffff' },
+            children: [
+              {
+                topic: 'Stage 1: **Meeting & Pleasantries**',
+                id: 'stage_1',
+                children: [
+                  { topic: 'Meet in reception promptly' },
+                  { topic: 'Introduce by name (no titles)' },
+                  { topic: 'Ensure comforting office setup' }
+                ]
+              },
+              {
+                topic: 'Stage 2: **Problem & Goal Identification**',
+                id: 'stage_2',
+                children: [
+                  { topic: 'Identify legal issues' },
+                  { topic: 'No note-taking initially' },
+                  { topic: 'Determine client goals' }
+                ]
+              },
+              {
+                topic: 'Stage 3: **Dealing with Preliminary Matters**',
+                id: 'stage_3',
+                children: [
+                  { topic: 'Explain fee structure' },
+                  { topic: 'Confidentiality & privilege' },
+                  { topic: 'Disclose conflicts of interest' }
+                ]
+              },
+              {
+                topic: 'Stage 4: **Chronological Facts**',
+                id: 'stage_4',
+                children: [
+                  { topic: 'Funnelling: open to closed questions' },
+                  { topic: 'Collect documents & certificates' },
+                  { topic: 'Active listening & chronology' }
+                ]
+              },
+              {
+                topic: 'Stage 5: **Case Theory Development**',
+                id: 'stage_5',
+                children: [
+                  { topic: 'Proof-making fact analysis model' },
+                  { topic: 'Averments vs evidence' }
+                ]
+              },
+              {
+                topic: 'Stage 6: **Giving Preliminary Advice**',
+                id: 'stage_6',
+                children: [
+                  { topic: 'Provisional claims, costs, times' },
+                  { topic: 'Conservative outlook' }
+                ]
+              },
+              {
+                topic: 'Stage 7: **Concluding the Interview**',
+                id: 'stage_7',
+                children: [
+                  { topic: 'Address outstanding concerns' },
+                  { topic: 'Obtain POAs & medical consents' },
+                  { topic: 'Formal post-interview letter' }
+                ]
+              },
+              {
+                topic: 'Stage 8: **After the Interview**',
+                id: 'stage_8',
+                children: [
+                  { topic: 'Write up notes' },
+                  { topic: 'Devise detailed action plan' }
+                ]
+              }
+            ]
+          },
+          {
+            topic: '2. Witness Interviews',
+            id: 'witnesses',
+            style: { background: '#2563eb', color: '#ffffff' },
+            children: [
+              {
+                topic: 'Ethical Safeguards',
+                children: [
+                  { topic: 'Do not suggest facts or answers' },
+                  { topic: 'Interview witnesses separately' },
+                  { topic: 'Take, read, and sign notes' },
+                  { topic: 'Advocate interviews with attorney present' }
+                ]
+              },
+              {
+                topic: 'Opponent Witnesses (Rule 4.3.1)',
+                id: 'gcb_rules',
+                children: [
+                  { topic: 'Witnesses do not "belong" to anyone' },
+                  { topic: 'Notify opponent before interviewing' },
+                  { topic: 'Attend rule post-testimony' }
+                ]
+              }
+            ]
+          },
+          {
+            topic: '3. Criminal Practice',
+            id: 'criminal_practice',
+            style: { background: '#0d9488', color: '#ffffff' },
+            children: [
+              {
+                topic: 'Prosecutors',
+                children: [
+                  { topic: 'Identify charge elements' },
+                  { topic: 'Complainant protocol' },
+                  { topic: 'Sex crimes: CPA s 227 sensitivity', id: 'sex_crimes' },
+                  { topic: 'Minors & intermediaries' }
+                ]
+              },
+              {
+                topic: 'Defence Lawyers',
+                id: 'accused_interview',
+                children: [
+                  { topic: 'Private consultation' },
+                  { topic: 'Acknowledge advice in writing' },
+                  { topic: 'Prosecution witness: requires permission' }
+                ]
+              }
+            ]
+          },
+          {
+            topic: '4. Protocols & Ethics',
+            id: 'special_protocols',
+            style: { background: '#ea580c', color: '#ffffff' },
+            children: [
+              {
+                topic: 'Interpreter Protocol',
+                id: 'interpreter',
+                children: [
+                  { topic: 'Brief in advance' },
+                  { topic: 'Ask short questions' },
+                  { topic: 'Watch body language' }
+                ]
+              },
+              {
+                topic: 'Etiquette & Ethics',
+                id: 'ethics',
+                children: [
+                  { topic: 'Punctual & courteous' },
+                  { topic: 'No distractions or interruptions' }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    };
+
+    // Initialize Mind Elixir with option overrides
+    let mind = new MindElixir({
+      el: '#map',
+      direction: MindElixir.SIDE,
+      draggable: true,
+      toolBar: true,
+      keypress: true,
+      locale: 'en',
+      // Customized Markdown parsing from SKILL 2
+      markdown: text => {
+        if (!text) return '';
+        return text
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*(.*?)\*/g, '<em>$1</em>')
+          .replace(/`(.*?)`/g, '<code>$1</code>')
+          .replace(/\[\[(.*?)(?:\|(.*?))?\]\]/g, (m, target, label) => {
+            let display = label || target;
+            return `<span style="color:#a5b4fc;text-decoration:underline;">${display}</span>`;
+          })
+          .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank" style="color:#a5b4fc;text-decoration:none;font-weight:600;">$1</a>');
+      }
+    });
+
+    mind.init(data);
+
+    // Sidebar Interactive Logic
+    const detailsPanel = document.getElementById('details-panel');
+    const panelContent = document.getElementById('panel-content');
+
+    function updateDetails(nodeId) {
+      const details = nodeDetails[nodeId];
+      if (details) {
+        let alertHTML = '';
+        if (details.alert) {
+          alertHTML = `<div class="alert-card ${details.alert.type}">${details.alert.text}</div>`;
+        }
+
+        panelContent.innerHTML = `
+          <div class="node-title-card">
+            <h3>${details.title}</h3>
+          </div>
+          <div class="desc-section">
+            <p>${details.description}</p>
+          </div>
+          ${alertHTML}
+        `;
+      } else {
+        // Fallback for sub-nodes that don't have explicit entries
+        panelContent.innerHTML = `
+          <div class="node-title-card">
+            <h3>Sub-concept</h3>
+          </div>
+          <div class="desc-section">
+            <p>This node is a supporting detail under the parent branch. Review the parent branch details for context.</p>
+          </div>
+        `;
+      }
+    }
+
+    // Bind event listener for selecting nodes
+    mind.bus.addListener('selectNode', function(node) {
+      if (node && node.id) {
+        updateDetails(node.id);
+      }
+    });
+
+    // Button controls
+    document.getElementById('btn-center').addEventListener('click', () => {
+      mind.focusNode(mind.root);
+    });
+
+    const sidePanel = document.getElementById('details-panel');
+    document.getElementById('btn-side').addEventListener('click', () => {
+      if (sidePanel.style.display === 'none') {
+        sidePanel.style.display = 'flex';
+      } else {
+        sidePanel.style.display = 'none';
+      }
+    });
+  </script>
+</body>
+</html>
