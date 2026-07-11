@@ -2,7 +2,7 @@
 title: "Page 298"
 pdfPage: 298
 printedPage: 296
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,18 +10,6 @@ tags:
 aliases:
   - "Page 298"
   - "PDF Page 298"
-topics:
-  - admissions
-  - affidavits
-  - appeals
-  - burden-of-proof
-  - evidence
-  - expert-evidence
-  - fact-analysis
-  - persuasion
-  - pleadings
-  - protocol-and-ethics
-  - reviews
 ---
 
 [[Page-297|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-299|Next Page →]]
@@ -48,7 +36,7 @@ exclusionary rules, 304-305, 372
 
 expert opinion, 220
 
-[[Page-115|fact analysis]] and strategy, 257-260
+fact analysis and strategy, 257-260
 
 fundamental rule, 304, 372
 
@@ -66,13 +54,13 @@ criminal case, 250
 
 pleading, 129
 
-[[Page-92|Advice on evidence]]
+Advice on evidence
 
 criminal case, 204-207
 
 date and place of signature, 199
 
-discussion of [[Page-92|burden of proof]] and duty to begin, 194
+discussion of burden of proof and duty to begin, 194
 
 discussion of documentary evidence available, 195-196
 
@@ -132,7 +120,7 @@ Advocacy
 
 appellate advocacy see Appeal
 
-[[Page-186|persuasive advocacy]] see Persuasive advocacy
+persuasive advocacy see Persuasive advocacy
 
 Advocate
 

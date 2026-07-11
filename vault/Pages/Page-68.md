@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 68"
   - "PDF Page 68"
-topics:
-  - damages
-  - locus-standi
-  - negligence
-  - pleadings
 ---
 
 [[Page-67|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-69|Next Page →]]
@@ -26,14 +21,17 @@ topics:
 |   | Dated at [place] this [date] | These details are given customarily.  |
 |   | Signature Counsel's name (printed) PLAINTIFF'S COUNSEL | Counsel, or an attorney with the right of audience in the High Court, or an individual party personally, must sign the pleading.  |
 |   | Signature Attorney's name (printed) X, Y & Z Partnership Plaintiff's Attorneys [address and details as per Rule 6(5)(b).] Ref: S.101 |   |
+
+[[[Page-68|page 103]]]
+
 The particulars of claim should now be -
 
-- clear;
-- concise;
-- complete;
-- accurate;
-- consistent in its terminology; and
-- in compliance with the rules in both form and content.
+- [ ] clear;
+- [ ] concise;
+- [ ] complete;
+- [ ] accurate;
+- [ ] consistent in its terminology; and
+- [ ] in compliance with the rules in both form and content.
 
 With a bit of luck and effort they could even be eloquent and elegant.
 
@@ -42,7 +40,7 @@ Mrs Smith has other unliquidated claims. They are the claims for the loss of sup
 A first plaintiff + her date of birth (required by Rule 18(11))
 second plaintiff + date of birth (represented by first plaintiff as guardian)
 third plaintiff + date of birth (also represented by first plaintiff)
-defendant and its *[[Page-41|locus standi]]*
+defendant and its *locus standi*
 B deceased + his date of birth
 the marriage between the first plaintiff and the deceased
 the second and third plaintiffs were born of that marriage
@@ -58,6 +56,9 @@ they have lost that support as a result of his death
 the amount of each plaintiff's loss + particulars to enable defendant to assess the quantum
 E the insured driver's negligence (if a material fact) caused the first plaintiff to suffer bodily injuries
 she suffered damages + Rule 18(10) particulars to enable the defendant to assess them
+
+[[[Page-68|page 104]]]
+
 F the insured driver's negligence (if a material fact) caused the second plaintiff to suffer bodily injuries
 and he suffered damages + Rule 18(10) particulars
 G the insured driver's negligence caused the third plaintiff to suffer bodily injuries

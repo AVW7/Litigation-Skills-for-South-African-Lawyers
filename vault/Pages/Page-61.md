@@ -10,28 +10,22 @@ tags:
 aliases:
   - "Page 61"
   - "PDF Page 61"
-topics:
-  - argumentation
-  - cause-of-action
-  - evidence
-  - locus-standi
-  - pleadings
 ---
 
 [[Page-60|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-62|Next Page →]]
 
 ---
 
-- In its *content*, a pleading should -
+- [ ] In its *content*, a pleading should -
 - reflect the client's instructions accurately;
 - apply the law correctly; and
 - comply with the prescribed requirements of the rules in form and content.
-- In its *style* a pleading should -
+- [ ] In its *style* a pleading should -
 - be clear;
 - concise;
 - complete; and
 - consistent in its terminology.
-- A pleading *should not contain* -
+- [ ] A pleading *should not contain* -
 - evidence;
 - irrelevant matter;
 - vexatious or scandalous matter; or
@@ -48,13 +42,19 @@ The heading of a criminal case follows the same pattern:
 |  and |   |
 |  2. [name of accused number 2] [+ details such as nationality, gender, age and address] |   |
 |  INDICTMENT  |   |
+
+[[[Page-61|page 91]]]
+
 ## 5.6 Examples of the citation of plaintiffs and defendants
 
-The description of a party in the pleadings is partly determined by the rules and partly by the substantive law. Rules 14 and 17 have a number of provisions that affect the way parties such as individuals, married women, partnerships, firms and associations are cited (described). Over and above these technical requirements, there is a duty on the pleader to set out facts that demonstrate that the party concerned has the capacity to sue or be sued. We call this capacity "*[[Page-41|locus standi]] in judicio*" or "*locus standi*" for short. This capacity has nothing to do with the [[Page-54|cause of action]]. It is the capacity to be a party to legal proceedings without assistance or representation. Minors have to be assisted by their guardian parents if they are to sue or be sued. A trust cannot sue or be sued in its own name; it has to be represented by its trustees.
+The description of a party in the pleadings is partly determined by the rules and partly by the substantive law. Rules 14 and 17 have a number of provisions that affect the way parties such as individuals, married women, partnerships, firms and associations are cited (described). Over and above these technical requirements, there is a duty on the pleader to set out facts that demonstrate that the party concerned has the capacity to sue or be sued. We call this capacity "*locus standi in judicio*" or "*locus standi*" for short. This capacity has nothing to do with the cause of action. It is the capacity to be a party to legal proceedings without assistance or representation. Minors have to be assisted by their guardian parents if they are to sue or be sued. A trust cannot sue or be sued in its own name; it has to be represented by its trustees.
 
 The term "*locus standi*" is also used to describe the relationship between a party and the subject-matter of the dispute. A plaintiff who claims money will have to plead facts to show that the debt is owed to him or her.
 
 The following table contains some examples of the citation of parties:
+
+[[[Page-61|page 92]]]
+
 **Table 5.4** Examples of the citation of plaintiffs and defendants
 
 |  Plaintiff | Defendant | Comment  |

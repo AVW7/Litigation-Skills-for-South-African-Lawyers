@@ -10,21 +10,13 @@ tags:
 aliases:
   - "Page 38"
   - "PDF Page 38"
-topics:
-  - applications
-  - cause-of-action
-  - consent-to-judgment
-  - contract
-  - mediation
-  - negotiation
-  - settlement
 ---
 
 [[Page-37|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-39|Next Page →]]
 
 ---
 
-- You should advise the client fully on the issues and the alternatives which are available to resolve them. The client has to understand the consequences of any settlement. The client also has to be advised on the further means to resolve the dispute in the event of the [[Page-30|mediation]] not being successful in producing a settlement.
+- You should advise the client fully on the issues and the alternatives which are available to resolve them. The client has to understand the consequences of any settlement. The client also has to be advised on the further means to resolve the dispute in the event of the mediation not being successful in producing a settlement.
 - A strategy for the mediation has to be developed with the client. The client has to know precisely what to expect and what to do at each stage, especially in a mediation that is to take place behind closed doors and without lawyers. If you are allowed to be present and to take part, your mandate to settle should be clarified in advance.
 - You have to provide the mediator with such material as the latter requires, including a summary of the issues, a concise statement of the client's main points, a paginated bundle of the client's documents and relevant case or statute law.
 - The mediation process is controlled by the mediator. Your principal function is to act as advisor to the client. You therefore have to assist the client to put his or her views across, to listen to the other side's views and to remain focused on seeking a solution which will allow for the views, interests and concerns of both parties to be taken into account. Where necessary, the lawyer will give the client legal advice. You also have to help the client to find new options, to reconsider existing options and to proceed in a dynamic fashion, rather than to stick slavishly to pre-determined views and options. The process is by nature dynamic and requires the will and ability on the part of everyone involved to change their initial stances in order to meet each other's concerns. The process relies heavily on goodwill, a good-natured attitude and a lot of give-and-take. It is the lawyers' function to assist in maintaining these. Throughout the mediation you should continuously re-assess the client's position in order to advise the client whether any alternatives to a negotiated settlement (such as litigation) should be invoked instead of proceeding with the mediation.
@@ -33,7 +25,10 @@ topics:
 
 Court-supervised mediation is the norm in many countries and it is likely that South Africa will soon follow suit. (By the time this book is published, it might have done so.) The draft mediation rules which have been published -
 
-- recognise that mediation facilitates an expeditious and cost effective resolution of a dispute between litigants;
+- [ ] recognise that mediation facilitates an expeditious and cost effective resolution of a dispute between litigants;
+
+[[[Page-38|page 53]]]
+
 - contemplate the appointment of a *dispute resolution officer* to whom the clerk of the court or the registrar (as the case may be) must refer a dispute whenever an appearance to defend is entered in action proceedings or a notice to oppose is delivered in application proceedings;
 - provide that the court may at any stage of the litigation refer a matter to a dispute resolution officer to facilitate mediation;
 - provide that a litigant may at any stage during the litigation apply to court for the referral of a dispute to mediation;
@@ -44,7 +39,7 @@ Court-supervised mediation is the norm in many countries and it is likely that S
 
 ### 3.5 Negotiation
 
-A dispute can be settled by the conclusion of a contract called a compromise or settlement. A compromise is a contract by which an existing or potential dispute is resolved by the creation of new rights and obligations. When the new contract is concluded, it replaces (novates) the original rights and obligations the parties had, unless they agree otherwise. In some cases it may be necessary to keep the original [[Page-54|cause of action]] alive in order to enforce a party's rights, as occurs frequently when the compromise includes a consent to judgment in the original action.
+A dispute can be settled by the conclusion of a contract called a compromise or settlement. A compromise is a contract by which an existing or potential dispute is resolved by the creation of new rights and obligations. When the new contract is concluded, it replaces (novates) the original rights and obligations the parties had, unless they agree otherwise. In some cases it may be necessary to keep the original cause of action alive in order to enforce a party's rights, as occurs frequently when the compromise includes a consent to judgment in the original action.
 
 A compromise is usually reached by the process known as 'negotiation'. While commercial agreements are usually concluded by the parties themselves, it is inevitable for lawyers to be involved when clients attempt to resolve their dispute by concluding a further contract as the purpose is to avoid or settle litigation. For that reason alone, every lawyer should know how to negotiate a compromise. However, negotiation skills are also necessary for other purposes. Not all cases involve a dispute. Sometimes a client may want the help of a lawyer when negotiating
 

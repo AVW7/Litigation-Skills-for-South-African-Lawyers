@@ -10,22 +10,19 @@ tags:
 aliases:
   - "Page 56"
   - "PDF Page 56"
-topics:
-  - applications
-  - cause-of-action
-  - exceptions
-  - negligence
-  - pleadings
 ---
 
 [[Page-55|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-57|Next Page →]]
 
 ---
 
-an [[Page-75|exception]] to the defendant's plea on the basis that it does not disclose a defence to the claim.
+an exception to the defendant's plea on the basis that it does not disclose a defence to the claim.
 
-- A defendant may also respond by making a counterclaim. A counterclaim is dealt with as if it is a claim by a plaintiff, except, of course, that it is made by a defendant in existing proceedings where someone else is already being referred to as the plaintiff. A counterclaim has to be delivered at the same time as the plea.
-- The defendant or the plaintiff may join further parties by making a third-party claim against them. Claims against third parties have the same format as particulars of claim and third parties set out their defences in their plea. Third parties may join further third parties.
+- [ ] A defendant may also respond by making a counterclaim. A counterclaim is dealt with as if it is a claim by a plaintiff, except, of course, that it is made by a defendant in existing proceedings where someone else is already being referred to as the plaintiff. A counterclaim has to be delivered at the same time as the plea.
+
+[[[Page-56|page 83]]]
+
+- [ ] The defendant or the plaintiff may join further parties by making a third-party claim against them. Claims against third parties have the same format as particulars of claim and third parties set out their defences in their plea. Third parties may join further third parties.
 
 In criminal cases the founding document is the charge sheet or indictment and the plea explanation, if one is submitted to the court. In practice the plea explanation is either given orally or in writing. In both instances the court is required by section 115(3) of the Act to ask the accused where he or she confirms the plea explanation. Where the plea explanation includes admissions of fact the court usually asks the defence whether those may be recorded as admissions in terms of section 220 of the Act. In the absence of such a record all the facts concerned remain in issue and must be proved by the prosecution.
 
@@ -45,7 +42,7 @@ In criminal cases a summons serves exactly the same function as in civil cases. 
 
 **Defence** - A defence is an answer to a charge (in a criminal case) or a claim (in a civil case). If the defence is accepted, it has the effect of defeating the charge or claim. The defence can be a denial of a material fact or rely on additional facts to avoid liability for the claim. Many defences have their own specific legal elements, for example, an estoppel. (See the discussion in paragraph 5.4.3.)
 
-**Prayer** - The prayer is a request for judgment. The plaintiff 'prays' for judgment for the money, property or remedy claimed. The defendant *prays* for judgment in his or her *(see page 84)* favour or dismissal of the plaintiff's claims. Both sides usually include a prayer for their costs. The prayer appears at the end of the pleading. In application proceedings the prayer is set out in the Notice of Motion or Notice of Application. It is not customary to set out the prayer in the summons, charge sheet or indictment in criminal cases although that used to be the practice.
+**Prayer** - The prayer is a request for judgment. The plaintiff 'prays' for judgment for the money, property or remedy claimed. The defendant *prays* for judgment in his or her [[[Page-56|page 84]]] favour or dismissal of the plaintiff's claims. Both sides usually include a prayer for their costs. The prayer appears at the end of the pleading. In application proceedings the prayer is set out in the Notice of Motion or Notice of Application. It is not customary to set out the prayer in the summons, charge sheet or indictment in criminal cases although that used to be the practice.
 
 **Material facts** - The material facts of a cause of action are the legal elements of the cause of action (or the charge in a criminal matter) as applied to the facts of the particular matter. In the example of the claim based on the *action legis Aquiliae*, the legal elements and material facts would stand side by side like this:
 

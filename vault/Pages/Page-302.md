@@ -2,7 +2,7 @@
 title: "Page 302"
 pdfPage: 302
 printedPage: 300
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,17 +10,6 @@ tags:
 aliases:
   - "Page 302"
   - "PDF Page 302"
-topics:
-  - applications
-  - courtroom-etiquette
-  - credibility
-  - cross-examination
-  - evidence
-  - examination-in-chief
-  - expert-evidence
-  - pleadings
-  - protocol-and-ethics
-  - witnesses
 ---
 
 [[Page-301|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-303|Next Page →]]
@@ -80,7 +69,7 @@ relationship with witnesses, 281
 
 Credibility evidence, 210
 
-[[Page-145|Cross-examination]]
+Cross-examination
 
 aims, 325-325
 ballistics expert, 334
@@ -94,8 +83,8 @@ discrediting witness, 327-328
 duty to put own version, 329
 eliciting favourable evidence, 326
 evidence in rebuttal, 331
-[[Page-136|examination-in-chief]] compared, 341
-[[Page-100|expert witness]], 364-366
+examination-in-chief compared, 341
+expert witness, 364-366
 failure to cross-examine, 331
 for gain or for duty, 325-326
 hostile witness, 362-363

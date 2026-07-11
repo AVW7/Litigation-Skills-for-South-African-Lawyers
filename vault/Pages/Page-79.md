@@ -10,15 +10,6 @@ tags:
 aliases:
   - "Page 79"
   - "PDF Page 79"
-topics:
-  - admissions
-  - contract
-  - delict
-  - fraud
-  - jurisdiction
-  - negligence
-  - pleadings
-  - protocol-and-ethics
 ---
 
 [[Page-78|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-80|Next Page →]]
@@ -29,13 +20,13 @@ Hiemstra's Criminal Procedure LexisNexis.
 
 6.10 Protocol and ethics
 
-- It is a lawyer's professional duty to draft statements of claim which are accurate and complete. Accuracy is required so that the plaintiff's entitlement to relief should be judged on the true facts, as the plaintiff contends they are. Completeness is required so that all the legal remedies that are theoretically available to the plaintiff are actually available on the pleadings. A failure to achieve accuracy or completeness could deny the plaintiff justice and could result in the lawyer being sued for professional negligence. The final product should be checked very carefully for errors.
-- It is unethical to plead a false claim knowingly. The pleader may in a proper case be sued for fraud.
-- The same applies to overstated claims.
-- Make sure that the proposed court has jurisdiction. It is very embarrassing to lose a case simply because you have taken it to the wrong court.
+- [ ] It is a lawyer's professional duty to draft statements of claim which are accurate and complete. Accuracy is required so that the plaintiff's entitlement to relief should be judged on the true facts, as the plaintiff contends they are. Completeness is required so that all the legal remedies that are theoretically available to the plaintiff are actually available on the pleadings. A failure to achieve accuracy or completeness could deny the plaintiff justice and could result in the lawyer being sued for professional negligence. The final product should be checked very carefully for errors.
+- [ ] It is unethical to plead a false claim knowingly. The pleader may in a proper case be sued for fraud.
+- [ ] The same applies to overstated claims.
+- [ ] Make sure that the proposed court has jurisdiction. It is very embarrassing to lose a case simply because you have taken it to the wrong court.
 
 # Chapter 7
-Drafting pleas and [[Page-66|special pleas]]
+Drafting pleas and special pleas
 
 CONTENTS
 
@@ -53,6 +44,9 @@ CONTENTS
 7.4 Special pleas
 7.5 Plea explanation in a criminal case
 7.6 Protocol and ethics
+
+[[[Page-79|page 125]]]
+
 7.1 Introduction
 
 The plea is the defendant's answer to the plaintiff's statement of claim (for example, particulars of claim and declaration). The main function and aim of the plea is to state the grounds of the defence to the plaintiff's claims and the material facts upon which the defendant relies to defeat or oppose those claims. The plea can, of course, only be drafted once the defendant has investigated the facts, considered them carefully, taken advice and so on.

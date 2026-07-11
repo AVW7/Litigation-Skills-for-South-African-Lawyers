@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 106"
   - "PDF Page 106"
-topics:
-  - affidavits
-  - evidence
-  - pleadings
-  - urgent-applications
 ---
 
 [[Page-105|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-107|Next Page →]]
@@ -31,6 +26,9 @@ topics:
 |  18 | I further submit that the respondent's conduct was so patently unlawful and that his attitude when I complained and when my attorney wrote to it so contemptuous that a special costs order would be justified. |   |
 |  19 | In the premises I humbly pray for an order as set out in the Notice of Motion. |   |
 |   | *Signature* Deponent's name (printed) +Attestation clause signed by the Commissioner of Oaths and full details as required by the regulation. |   |
+
+[[[Page-106|page 176]]]
+
 Opposing affidavits are usually filed under cover of a notice listing the affidavits filed on behalf of the respondent and gives details of the respondent's attorneys. Such a notice could easily be adapted to include the respondent's grounds of opposition, as follows:
 
 **Table 10.6** Notice of opposition

@@ -2,7 +2,7 @@
 title: "Page 311"
 pdfPage: 311
 printedPage: 309
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,18 +10,6 @@ tags:
 aliases:
   - "Page 311"
   - "PDF Page 311"
-topics:
-  - applications
-  - cross-examination
-  - evidence
-  - expert-evidence
-  - negotiation
-  - opening-statement
-  - protocol-and-ethics
-  - reviews
-  - settlement
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-310|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-312|Next Page →]]
@@ -31,9 +19,9 @@ topics:
 plea, 135-137
 propositions of fact, 249-250
 evidence proving, 251-254
-[[Page-115|theory of the case]], 73, 74, 263
+theory of the case, 73, 74, 263
 
-[[Page-30|Negotiation]]
+Negotiation
 
 advantages, 54
 agreement following, 60-61
@@ -79,13 +67,13 @@ responses to, 375-377
 
 Observation
 
-[[Page-145|cross-examination]], 327, 341
+cross-examination, 327, 341
 
 Office décor, 5
 
 Open questions, 9, 308-309
 
-[[Page-131|Opening statement]]
+Opening statement
 
 checklist and assessment guide, 300-302
 civil case, 296-299
@@ -105,7 +93,7 @@ Opinion evidence
 meaning, 210
 exceptions to rule, 373
 exclusionary rule, 305, 372
-[[Page-100|expert witness]] see Expert witness
+expert witness see Expert witness
 lay witness, 220
 
 Opposed application, 409-410

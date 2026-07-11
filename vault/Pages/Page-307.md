@@ -2,7 +2,7 @@
 title: "Page 307"
 pdfPage: 307
 printedPage: 305
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,19 +10,6 @@ tags:
 aliases:
   - "Page 307"
   - "PDF Page 307"
-topics:
-  - affidavits
-  - applications
-  - cross-examination
-  - discovery
-  - evidence
-  - expert-evidence
-  - fact-analysis
-  - interdicts
-  - motion-court
-  - pleadings
-  - protocol-and-ethics
-  - witnesses
 ---
 
 [[Page-306|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-308|Next Page →]]
@@ -40,14 +27,14 @@ Insurance claim
 
 Interest in outcome of trial
 
-- [[Page-145|cross-examination]], 327, 342
+- cross-examination, 327, 342
 
 Interim interdict, 178
 
 Interlocutory application
 
 - examples, 162, 398
-- [[Page-179|Motion Court]], 398
+- Motion Court, 398
 - notice of application, 164
 - procedural application
   - application to compel discovery, 178-183
@@ -68,7 +55,7 @@ Interpleader claim
 
 Interpreter
 
-- [[Page-92|advice on evidence]], 199
+- advice on evidence, 199
 - interviewing through, 27-28
 
 Interview by defence in criminal case
@@ -81,7 +68,7 @@ Interview by prosecution in criminal case
 - complainant/victim of crime, 23-24
 - minors, 25
 - overview, 22-23
-- police and [[Page-100|expert witness]]es, 24
+- police and expert witnesses, 24
 - sex crimes, 24-25
 - supporting witnesses, 24
 
@@ -99,7 +86,7 @@ Interviewing client in civil case
 - fees, 7
 - funnelling technique, 9-10
 - giving preliminary advice, 16-17
-- initial [[Page-115|fact analysis]] and preliminary theory of case, 10-16
+- initial fact analysis and preliminary theory of case, 10-16
 - initial problem and goal identification, 5-6
 - meeting and exchanging pleasantries, 5
 - note-taking, 7

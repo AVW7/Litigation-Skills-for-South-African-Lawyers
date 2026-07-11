@@ -2,7 +2,7 @@
 title: "15.4 Counsel's relationship with other lawyers"
 pdfPage: 167
 printedPage: 279
-chapter: "Chapter 15: The protocol and etiquette of the courtroom"
+chapter: "Chapter 15: ### The protocol and etiquette of the courtroom"
 tags:
   - page
   - litigation-skills
@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 167"
   - "PDF Page 167"
-topics:
-  - admissions
-  - appeals
-  - applications
-  - argumentation
-  - contract
-  - courtroom-etiquette
 ---
 
 [[Page-166|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-168|Next Page →]]
@@ -33,19 +26,22 @@ There are some fairly simple rules for your conduct towards other lawyers during
 
 ### 15.4.1 In court
 
-- Play the ball, not the man (or woman). Your opponent is not the enemy. Treat him or her as you expect them to treat you.
-- Don't address your opponent directly in court. Don't say, "Hey, stop leading, will you!" All your remarks have to be addressed to the court. Stand up and say, "M' Lord, I object. The question is leading."
-- Do not make sotto voce remarks while your opponent is speaking. If your opponent does it to you, say to the judge, "M' Lady, my learned friend apparently has an objection", and sit down. Let your opponent explain what he or she has been up to.
-- During the hearing of a matter the lawyers (advocates, attorney-advocates and prosecutors) refer to each other as "my learned friend", "my learned friends" or "our learned friends" as the circumstances require. Referring to an opponent by name alone is regarded as a breach of etiquette and may in some cases be taken to be a deliberate slight.
-- Lawyers disagree with each other's case or argument all the time. It is what we do. The way you do it should not be offensive and should make your points without snide remarks or allusions against the opponent. "My learned friend's argument demonstrates a lack of understanding of the basic principles of the law of contract", is not acceptable, no matter how many times you say, "with respect". If you said, "I disagree, with respect, with the construction placed on clause 11 of the contract", you could still make your point firmly while remaining courteous. Conversely, an attack upon the point you have made is not an attack on you. Don't be tempted to retaliate on a personal level.
-- Try to attack the point without attacking counsel who made it. Phrase the argument subtly so that the point of attack shifts away from the opponent to the issue. "I object M' Lord, on the ground that my learned friend is leading", concentrates the attack on your opponent. "I object M' Lady, on the ground that the question is leading", shifts the attack to the form of the question instead.
-- Try to make your points with moderation and without excessive use of adjectives and adverbs. Calling your opponent's points "catty", "silly", "petty" and so on, is catty, silly and petty. It is quite in order to say, "I submit that the respondent's contentions are untenable." Avoid words like "clearly", "obviously" and "without doubt". Exaggeration won't win the argument for you; on the contrary, it will expose your argument to greater scrutiny.
+- [ ] Play the ball, not the man (or woman). Your opponent is not the enemy. Treat him or her as you expect them to treat you.
+- [ ] Don't address your opponent directly in court. Don't say, "Hey, stop leading, will you!" All your remarks have to be addressed to the court. Stand up and say, "M' Lord, I object. The question is leading."
+- [ ] Do not make sotto voce remarks while your opponent is speaking. If your opponent does it to you, say to the judge, "M' Lady, my learned friend apparently has an objection", and sit down. Let your opponent explain what he or she has been up to.
+- [ ] During the hearing of a matter the lawyers (advocates, attorney-advocates and prosecutors) refer to each other as "my learned friend", "my learned friends" or "our learned friends" as the circumstances require. Referring to an opponent by name alone is regarded as a breach of etiquette and may in some cases be taken to be a deliberate slight.
+
+[[[Page-167|page 279]]]
+
+- [ ] Lawyers disagree with each other's case or argument all the time. It is what we do. The way you do it should not be offensive and should make your points without snide remarks or allusions against the opponent. "My learned friend's argument demonstrates a lack of understanding of the basic principles of the law of contract", is not acceptable, no matter how many times you say, "with respect". If you said, "I disagree, with respect, with the construction placed on clause 11 of the contract", you could still make your point firmly while remaining courteous. Conversely, an attack upon the point you have made is not an attack on you. Don't be tempted to retaliate on a personal level.
+- [ ] Try to attack the point without attacking counsel who made it. Phrase the argument subtly so that the point of attack shifts away from the opponent to the issue. "I object M' Lord, on the ground that my learned friend is leading", concentrates the attack on your opponent. "I object M' Lady, on the ground that the question is leading", shifts the attack to the form of the question instead.
+- [ ] Try to make your points with moderation and without excessive use of adjectives and adverbs. Calling your opponent's points "catty", "silly", "petty" and so on, is catty, silly and petty. It is quite in order to say, "I submit that the respondent's contentions are untenable." Avoid words like "clearly", "obviously" and "without doubt". Exaggeration won't win the argument for you; on the contrary, it will expose your argument to greater scrutiny.
 
 ### 15.4.2 Outside court
 
 There is another lawyer on the other side of almost every case you are going to handle. That lawyer may be a prosecutor, someone from one of the other firms in town, or a colleague at the Bar. It might even be your brother or your best friend. If you are going to make an enemy of every lawyer who appears against you, you are going to run out of friends very soon. You should therefore conduct yourself in exemplary fashion when dealing with other lawyers, in and out of court. There are some protocols to help you steer clear of trouble:
 
-- Respect seniority without being overawed by it. Senior advocates rank according to the ranking set out in their Letters Patent. Other advocates have three different ranking regimes, depending on the purpose of the business at hand. They rank generally according to their date of admission as advocates. In practice matters they rank according to the date of their becoming a member of the relevant Society of Advocates. This ranking
+- [ ] Respect seniority without being overawed by it. Senior advocates rank according to the ranking set out in their Letters Patent. Other advocates have three different ranking regimes, depending on the purpose of the business at hand. They rank generally according to their date of admission as advocates. In practice matters they rank according to the date of their becoming a member of the relevant Society of Advocates. This ranking
 
 ---
 

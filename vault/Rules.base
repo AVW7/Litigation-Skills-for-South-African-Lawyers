@@ -1,21 +1,15 @@
-filters: file.folder == "Rules"
+filters: 'file.folder == "Rules"'
 properties:
   file.name:
-    displayName: Rule Title
+    displayName: "Rule Title"
   category:
-    displayName: Rule Category
-  tags:
-    displayName: Tags
+    displayName: "Rule Category"
+  source:
+    displayName: "Source"
 views:
   - type: cards
-    name: Rules Gallery
+    name: "Rules Gallery"
     order:
       - file.name
       - category
-      - tags
-  - type: table
-    name: Rules Table
-    order:
-      - file.name
-      - category
-      - tags
+      - source

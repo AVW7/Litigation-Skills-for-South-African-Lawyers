@@ -2,7 +2,7 @@
 title: "Page 312"
 pdfPage: 312
 printedPage: 310
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,15 +10,6 @@ tags:
 aliases:
   - "Page 312"
   - "PDF Page 312"
-topics:
-  - admissions
-  - applications
-  - evidence
-  - exceptions
-  - persuasion
-  - pleadings
-  - protocol-and-ethics
-  - sentencing
 ---
 
 [[Page-311|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-313|Next Page →]]
@@ -27,7 +18,7 @@ topics:
 
 Oral evidence
 
-[[Page-92|advice on evidence]], 194-195
+advice on evidence, 194-195
 nature of, 69
 
 Oratory, 420-421
@@ -56,7 +47,7 @@ Personal injuries claim
 Road Accident Fund claim see Road Accident Fund claim
 special procedural requirements, 97
 
-[[Page-186|Persuasive advocacy]]
+Persuasive advocacy
 
 meaning, 417, 418
 devices, 418
@@ -85,11 +76,11 @@ nature and purpose, 125
 prayer, 133-134
 preliminary matters to consider, 126-127
 protocol and ethics, 141
-[[Page-66|special pleas]], 138-140
+special pleas, 138-140
 steps when drafting, 127-128
 text of pleading, 135-137
 
-[[Page-30|Plea and sentence agreement]], 64-65
+Plea and sentence agreement, 64-65
 
 Plea explanation in criminal case, 83, 140-141
 
@@ -106,7 +97,7 @@ close of pleadings, 147
 counterclaim see Counterclaim
 criminal case, 83, 90, 140-141
 documents constituting, 149-150
-exceptions see [[Page-75|Exception]]
+exceptions see Exception
 form and contents, 88-90
 functions, 81-82
 language and style, 88-90

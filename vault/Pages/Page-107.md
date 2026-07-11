@@ -10,14 +10,6 @@ tags:
 aliases:
   - "Page 107"
   - "PDF Page 107"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - argumentation
-  - discovery
-  - pleadings
-  - urgent-applications
 ---
 
 [[Page-106|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-108|Next Page →]]
@@ -31,6 +23,9 @@ topics:
 |   | to be signed Attorney (name printed) Respondent's Attorneys GUMEDE & PARTNER [address and details as per Rule 6(5)(d)] |   |
 
 If an application were to be brought as a matter of urgency, the practice of the particular court with regard to urgent applications will have to be followed. (A different form might also be required for the notice of application.) In KwaZulu-Natal a certificate of urgency signed by counsel (or an attorney with the right of audience in the High Court) has to be filed when the application papers are issued. Naturally, counsel should sign the certificate only after the affidavits have been signed. A certificate should only be provided if a hearing in due course would not give the applicant substantive redress or protection. The standard format for such a certificate is the same as for the notice of application, with the case heading being followed by the description of the document as "Certificate of Urgency" in the title bar. This is then followed by the text of the certificate. The text of the certificate will depend on the circumstances but a simple case may have a certificate in this form:
+
+[[[Page-107|page 177]]]
+
 **Table 10.7** Certificate of urgency
 
 |  I, [full names], an advocate (or attorney with the right of audience in the High Court) of the High Court of South Africa, declare that I have read the papers in this matter and certify that, in my opinion, the papers disclose matters of such urgency that the application may be heard as an urgent application as provided by Rule 6(12) and that the ordinary rules relating to service, notice and time limits be dispensed with.  |
@@ -49,9 +44,9 @@ Procedural applications serve three main purposes. The *first* is to obtain dire
 
 Applications for the court's directions or permission are usually made *ex parte* and without notice to any other party. They could also be made before an action is actually instituted. Three common cases where such applications are made are -
 
-- where the appointment of a *curator ad litem* is required to assist persons who lack the capacity to sue or be sued on their own, for example, where minors who have been orphaned wish to sue for loss of support arising from the death of their parents;
-- where a plaintiff has to obtain leave to serve a summons by way of edictal citation because the defendant is resident overseas; and
-- where a party needs permission to serve any process in the action by substituted service, that is, by way of a mode of service not specifically allowed by the rules, for example, by publication in a newspaper.
+- - [ ] where the appointment of a *curator ad litem* is required to assist persons who lack the capacity to sue or be sued on their own, for example, where minors who have been orphaned wish to sue for loss of support arising from the death of their parents;
+- - [ ] where a plaintiff has to obtain leave to serve a summons by way of edictal citation because the defendant is resident overseas; and
+- - [ ] where a party needs permission to serve any process in the action by substituted service, that is, by way of a mode of service not specifically allowed by the rules, for example, by publication in a newspaper.
 
 Compliance applications are made when a party wishes to enforce his or her procedural rights against another party (for example, to force the other party to file a discovery affidavit or to provide further particulars), or when a party seeks an order from the court to excuse its own breach of a procedural obligation (for example, lifting a bar and condoning the late filing of heads of argument in an appeal). These applications invariably have to be made on notice to the other side.
 

@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 86"
   - "PDF Page 86"
-topics:
-  - admissions
-  - damages
-  - negligence
-  - pleadings
 ---
 
 [[Page-85|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-87|Next Page →]]
@@ -32,6 +27,9 @@ topics:
 A plea could comply with all the requirements of the rules but still be in bad style.
 
 You should strive for simplicity, clarity, precision and elegance in the plea.
+
+[[[Page-86|page 135]]]
+
 **Table 7.9** An inelegant plea
 
 |  Par | Text of pleading | Comment  |
@@ -42,10 +40,13 @@ You should strive for simplicity, clarity, precision and elegance in the plea.
 |  2 | The DEFENDANT admits paragraphs 1 and 2 of the PLAINTIFF'S PARTICULARS OF CLAIM. | A definition ('the claim') could shorten the plea considerably.  |
 |  3 | The DEFENDANT has no knowledge of the allegations in paragraph 3 of the PLAINTIFF'S PARTICULARS OF CLAIM and therefore denies them as if specifically traversed herein and puts the PLAINTIFF to the proof thereof. | All the words after 'them' serve no purpose. When the defendant denies the allegations concerned, it follows as a matter of law that the plaintiff has to prove each of them.  |
 |  4 | The DEFENDANT admits paragraphs 4.1 and 4.2 of the PLAINTIFF'S PARTICULARS OF CLAIM but denies each allegation in paragraphs 5, 6 and 7 thereof. | 1 Rule 18(3) requires separately numbered paragraphs, each containing a 'distinct averment'. 2 The admission of some paragraphs should not be joined to the denial of allegations in other paragraphs. 3 Stilted language, 'thereof'. 4 Can the defendant honestly deny that the plaintiff's car had been damaged in the light of what the defendant says in the counterclaim in Table 6.3 in chapter 6?  |
+
+[[[Page-86|page 136]]]
+
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 |  5 | The DEFENDANT admits paragraph 8 but denies being liable. | 1 Paragraph 8 of what? It seems even the defendant's counsel got tired of repeating the 'PLAINTIFF'S PARTICULARS OF CLAIM'. 2 A definition would have prevented tedious repetition.  |
-|  6 | 6.1 The collision was caused by the [[Page-66|contributory negligence]] of the PLAINTIFF, who was negligent in the following respects: (a) She drove at a speed which was excessive in the circumstances. (b) She failed to accelerate, swerve aside, stop, slow down or take any other reasonable steps she could and should have taken to avoid the | 1 Notwithstanding the problems with the style of this paragraph, it does contain the material facts for a reduction of the damages by reason of contributory negligence. 2 This defence could have been introduced in the alternative to the denial of negligence in paragraph 4.  |
+|  6 | 6.1 The collision was caused by the contributory negligence of the PLAINTIFF, who was negligent in the following respects: (a) She drove at a speed which was excessive in the circumstances. (b) She failed to accelerate, swerve aside, stop, slow down or take any other reasonable steps she could and should have taken to avoid the | 1 Notwithstanding the problems with the style of this paragraph, it does contain the material facts for a reduction of the damages by reason of contributory negligence. 2 This defence could have been introduced in the alternative to the denial of negligence in paragraph 4.  |
 
 ---
 

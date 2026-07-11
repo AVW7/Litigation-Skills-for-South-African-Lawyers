@@ -2,7 +2,7 @@
 title: "Cross-examination"
 pdfPage: 194
 printedPage: 192
-chapter: "Chapter 18: Cross-examination"
+chapter: "Chapter 17: Examination-in-chief"
 tags:
   - page
   - litigation-skills
@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 194"
   - "PDF Page 194"
-topics:
-  - courtroom-protocol
-  - cross-examination
-  - evidence
-  - examination-in-chief
-  - protocol-and-ethics
-  - witnesses
 ---
 
 [[Page-193|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-195|Next Page →]]
@@ -55,7 +48,7 @@ topics:
  18.6.2 Probing  
  18.6.3 Suggestion (insinuation)  
  18.6.4 Undermining  
- 18.6.5 Special techniques18.7 [[Page-136|Examination-in-chief]] and cross-examination compared18.8 Examples of cross-examination to a theme  
+ 18.6.5 Special techniques18.7 Examination-in-chief and cross-examination compared18.8 Examples of cross-examination to a theme  
  18.8.1 Cross-examining to Observation  
  18.8.2 Cross-examining to Memory  
  18.8.3 Cross-examining to Recounting

@@ -10,27 +10,24 @@ tags:
 aliases:
   - "Page 64"
   - "PDF Page 64"
-topics:
-  - arbitration
-  - cause-of-action
-  - jurisdiction
-  - locus-standi
-  - sentencing
 ---
 
 [[Page-63|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-65|Next Page →]]
 
 ---
 
-"who" is claiming "what", "from whom" and "why". You will encounter statements of claim in different forms in the litigation process. They have been given different names according to their purpose. In this book the term "statement of claim" is used in the generic sense; it applies to all the various forms of claim documents and can also be used for [[Page-30|arbitration]] claims.
+"who" is claiming "what", "from whom" and "why". You will encounter statements of claim in different forms in the litigation process. They have been given different names according to their purpose. In this book the term "statement of claim" is used in the generic sense; it applies to all the various forms of claim documents and can also be used for arbitration claims.
 
-- A liquidated claim is made in a "simple summons", which has to comply with the requirements of Rule 17(1) and be in the form prescribed in Form 9 of the First Schedule to the rules. Although a simple summons states the claim in abbreviated form, it should contain a complete [[Page-54|cause of action]].
-- When an action for a liquidated claim is defended a "declaration", which sets out the full details of the claim, has to be delivered (filed and served) in terms of Rule 20.
-- An unliquidated claim is made by way of "particulars of claim", which is a separate document and is attached to a "combined summons". The combined summons has to comply with the requirements of Rule 17(2) and be in the form prescribed in Form 10 of the First Schedule. A declaration and particulars of claim are practically identical in their content and style.
-- A "counterclaim" (or "claim in reconvention") is a claim made by a defendant against a plaintiff in an existing action and follows the form of a declaration. It is made under Rule 22.
-- A "third-party claim" under Rule 13 and Form 7 is used to join additional parties to an existing action. A third party may join further third parties. (In order to avoid confusion, third parties are given numbers like plaintiffs and defendants, in the order in which they are joined, for example, "first third party", "second third party", and so on.)
-- An "interpleader claim" under Rule 58 is made by an interpleader claimant in the form of particulars of claim.
-- A "provisional sentence summons" under Rule 8 and Form 3 is used for claims based on liquid documents.
+- [ ] A liquidated claim is made in a "simple summons", which has to comply with the requirements of Rule 17(1) and be in the form prescribed in Form 9 of the First Schedule to the rules. Although a simple summons states the claim in abbreviated form, it should contain a complete cause of action.
+- [ ] When an action for a liquidated claim is defended a "declaration", which sets out the full details of the claim, has to be delivered (filed and served) in terms of Rule 20.
+- [ ] An unliquidated claim is made by way of "particulars of claim", which is a separate document and is attached to a "combined summons". The combined summons has to comply with the requirements of Rule 17(2) and be in the form prescribed in Form 10 of the First Schedule. A declaration and particulars of claim are practically identical in their content and style.
+- [ ] A "counterclaim" (or "claim in reconvention") is a claim made by a defendant against a plaintiff in an existing action and follows the form of a declaration. It is made under Rule 22.
+- [ ] A "third-party claim" under Rule 13 and Form 7 is used to join additional parties to an existing action. A third party may join further third parties. (In order to avoid confusion, third parties are given numbers like plaintiffs and defendants, in the order in which they are joined, for example, "first third party", "second third party", and so on.)
+- [ ] An "interpleader claim" under Rule 58 is made by an interpleader claimant in the form of particulars of claim.
+
+[[[Page-64|page 96]]]
+
+- [ ] A "provisional sentence summons" under Rule 8 and Form 3 is used for claims based on liquid documents.
 
 In a criminal case the foundational document is a summons, charge sheet or indictment. The principles involved for these documents are discussed in paragraph 6.9.
 
@@ -40,12 +37,12 @@ The form of a statement of claim is regulated by the rules and the Forms prescri
 
 A statement of claim gives details of the following -
 
-- the parties;
-- their *[[Page-41|locus standi]]*;
-- the jurisdiction of the particular court in which the action is brought;
-- the material facts of the claim (with the particulars required by Rule 18);
-- compliance with any special procedural requirements; and
-- the relief or orders claimed.
+- [ ] the parties;
+- [ ] their *locus standi*;
+- [ ] the jurisdiction of the particular court in which the action is brought;
+- [ ] the material facts of the claim (with the particulars required by Rule 18);
+- [ ] compliance with any special procedural requirements; and
+- [ ] the relief or orders claimed.
 
 ### 6.2.1 The parties
 

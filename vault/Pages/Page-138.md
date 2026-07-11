@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 138"
   - "PDF Page 138"
-topics:
-  - contract
-  - damages
-  - delict
-  - interdicts
 ---
 
 [[Page-137|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-139|Next Page →]]
@@ -26,6 +21,9 @@ you were to be tested. Clients are not so considerate. They don't know what cour
 Getting from a jumble of facts and documents to the appropriate legal classification of the problem is not too difficult. The breadth of the subjects taken at a university for an LLB degree is such that a law graduate could spot the area of law concerned reasonably easily. From that initial classification one could move to an appropriate textbook and research the legal principles from there.
 
 The starting point is to categorize the relevant relationship. The law is there to regulate relationships between people. If you were alone on a deserted island, you would have no need for law. It is for this reason that Robinson Crusoe could say that he was master of everything he could see on the island, a law unto himself. It was only when a second person came to the island (the man Friday) that a legal relationship could exist. The relationship between Robinson Crusoe and Friday was dynamic and complex. They were friends and partners, master and servant, protector and ward, and above all, allies against a common foe. The changing circumstances determined what their respective rights and obligations were. Such underlying relationships can be used to identify the broad area of the law to apply to a given factual setting.
+
+[[[Page-138|page 227]]]
+
 **Table 13.1** Identifying the relevant area of law
 
 |  Relationship | General field of law | Special field of law | Remedies | Comment  |
@@ -35,6 +33,9 @@ The starting point is to categorize the relevant relationship. The law is there 
 |  The parties are bound together by a marriage or by children or by a common ancestry. | Family law | Husband and wife Children Succession | Divorce Division of assets Custody or access Maintenance Inheritance |   |
 |  The parties stand in the relationship of employer and employee. | Labour law |  | Performance (payment, work) Re-instatement Damages | This branch is kept separate, although it belongs under the law of contract (the contract of service).  |
 |  An unjust transfer of money or property has taken place between the parties. | Enrichment | Various enrichment actions | Payment Restitution |   |
+
+[[[Page-138|page 228]]]
+
 |  Relationship | General field of law | Special field of law | Remedies | Comment  |
 | --- | --- | --- | --- | --- |
 |  The parties make adverse claims to property. | The law of property | Movable property Immovable property Intellectual property | Delivery Possession Damages Interdict | These claims could be based on the law of contract, family law, the law partnership or the law of property.  |

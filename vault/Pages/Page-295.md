@@ -2,7 +2,7 @@
 title: "2.4 Theory of the case"
 pdfPage: 295
 printedPage: 489
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 295"
   - "PDF Page 295"
-topics:
-  - cross-examination
-  - evidence
-  - expert-evidence
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-294|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-296|Next Page →]]
@@ -27,6 +21,9 @@ searched at the police station. Should not be in issue. See #3.
 #5 and 6 Establish precise colours before appearance and confirm in cross-examination of prosecution witnesses.
 
 **Note:** A character witness could help the accused's case somewhat, but we should look for someone who is not a friend or a relative. Perhaps a friend or classmate from his school days; someone who knows he is colour-blind and can recount incidents where this has resulted in embarrassment for the accused. Ask the attorney to make inquiries. Make doubly sure that the accused does not have previous convictions or some other skeletons in his cupboard. The prosecution may retaliate if character evidence is given.
+
+[[[Page-295|page 489]]]
+
 ## 2.4 Theory of the case
 
 (1) The issue is going to be whether the accused had the necessary *mens rea* for theft.
@@ -65,6 +62,9 @@ Justin Graham (accused)
 Dr Stone (expert)
 
 Character witness?
+
+[[[Page-295|page 490]]]
+
 ### Timelines
 
 As indicated in the margins of the statements of:

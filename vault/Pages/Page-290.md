@@ -2,7 +2,7 @@
 title: "1.2 Annexure to Form J15"
 pdfPage: 290
 printedPage: 482
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -23,6 +23,9 @@ Anne-Elise Quayle
 Attorney for the accused
 
 [date]
+
+[[[Page-290|page 482]]]
+
 ## 1.2 Annexure to Form J15
 
 *The State v Justin Graham*
@@ -66,6 +69,9 @@ Accused
 ## 1.4 Statement of Irene Delamere
 
 I am an adult female, store detective, and I am employed by Three Rings Sports in [town or city].
+
+[[[Page-290|page 483]]]
+
 On 12 December [year] at about 10:15 in the morning I was on duty in the store. I saw the accused, whom I now know to be Mr Justin Graham, arrive. He was carrying an old backpack over his shoulder. I followed him around in the store and saw him taking a backpack from the display rack. He looked around furtively and then walked over to another rack where different types of bags were being displayed and, after handling one or two of them, he started walking out of the store. I noticed that he was still carrying the store's backpack and that the price tag was no longer visible. He walked straight past the cashier at the till point without paying for the backpack.
 
 When the accused had left the store, I stopped him and asked him if he had paid for the backpack. He said: "I am sorry, it's a mistake." I asked the accused to accompany me back into the store. He came with me and I went to the rack where I found his own backpack on the floor. I opened it in his presence. It contained an old newspaper. I told him that I was going to call the police and told him to sit down in the manager's office. I handed the two backpacks and the accused over to the police.

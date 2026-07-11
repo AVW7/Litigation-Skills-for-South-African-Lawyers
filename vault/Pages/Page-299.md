@@ -2,7 +2,7 @@
 title: "Page 299"
 pdfPage: 299
 printedPage: 297
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,23 +10,6 @@ tags:
 aliases:
   - "Page 299"
   - "PDF Page 299"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - arbitration
-  - argumentation
-  - constitutional-law
-  - cross-examination
-  - evidence
-  - expert-evidence
-  - mediation
-  - motion-court
-  - negotiation
-  - persuasion
-  - protocol-and-ethics
-  - reviews
-  - sentencing
 ---
 
 [[Page-298|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-300|Next Page →]]
@@ -37,20 +20,20 @@ spoliation application, 173-176
 
 Alibi
 
-[[Page-92|advice on evidence]], 206-207
-[[Page-145|cross-examination]], 335-336
+advice on evidence, 206-207
+cross-examination, 335-336
 notice requirement, 207
 
 Alternative dispute resolution
 
 advantages, 45-46
-[[Page-30|arbitration]], 46-48
+arbitration, 46-48
 determination by independent third party or expert, 48-49
 doing nothing, 61-62
-[[Page-30|mediation]], 49-53
+mediation, 49-53
 methods, 46
-[[Page-30|negotiation]], 53-61
-[[Page-30|plea and sentence agreement]], 64-65
+negotiation, 53-61
+plea and sentence agreement, 64-65
 protocol and ethics, 65-66
 table of comparative merits, 63-64
 
@@ -111,7 +94,7 @@ supporting affidavit, 450
 Supreme Court of Appeal appeal, 450
 whether judgment or order appealable, 448-449
 
-Application procedure see also [[Page-179|Motion Court]]
+Application procedure see also Motion Court
 
 action procedure distinguished, 161
 affidavits, 165-168

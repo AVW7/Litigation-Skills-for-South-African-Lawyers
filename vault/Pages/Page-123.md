@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 123"
   - "PDF Page 123"
-topics:
-  - damages
-  - evidence
-  - expert-evidence
-  - negotiation
-  - reviews
-  - witnesses
 ---
 
 [[Page-122|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-124|Next Page →]]
@@ -51,6 +44,9 @@ The summary should always give the expert's reasons separately.
 ### 11.7.1 Introduction
 
 Defence lawyers and prosecutors underestimate the value of an advice on the evidence in criminal matters. In four decades in practice I never saw an advice on the evidence in a criminal case. The fact of the matter is that there is no reason why the advantages a well-constructed advice of the evidence contribute or can contribute to a successful outcome in a criminal case should be brushed aside.
+
+[[[Page-123|page 205]]]
+
 Remember the purposes of an advice on the evidence: It ensures that the necessary procedural steps have been taken. It allows you to assess the sufficiency of the evidence. It allows you to determine whether further evidence should be obtained. It enables you to give practical advice with regard to the handling of the matter. These purposes combine to enhance your chances of winning.
 
 The defence starts with an advantage in the sense that they will have copies of the statements in the police docket. The prosecutor may have a statement by the accused but usually doesn't know in advance who will be called as defence witnesses. Different strategies are therefore required for prosecutors in their preparation for the trial.

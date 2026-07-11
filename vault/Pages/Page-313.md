@@ -2,7 +2,7 @@
 title: "Page 313"
 pdfPage: 313
 printedPage: 311
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,16 +10,6 @@ tags:
 aliases:
   - "Page 313"
   - "PDF Page 313"
-topics:
-  - affidavits
-  - applications
-  - cross-examination
-  - discovery
-  - evidence
-  - fact-analysis
-  - pleadings
-  - prescription
-  - protocol-and-ethics
 ---
 
 [[Page-312|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-314|Next Page →]]
@@ -54,20 +44,20 @@ wording, 89
 
 Prejudice
 
-[[Page-145|cross-examination]], 327, 242
+cross-examination, 327, 242
 
 Preparation for trial
 
-[[Page-92|advice on evidence]] see Advice on evidence  
+advice on evidence see Advice on evidence  
 assembling evidence see Assembling evidence  
-[[Page-115|fact analysis]] and strategy see Fact analysis and strategy  
+fact analysis and strategy see Fact analysis and strategy  
 legal research see Legal research  
 protocol and ethics, 207-208  
 stages, 191
 
 Preparing to commence action
 
-[[Page-100|demonstrative exhibit]]s, 75  
+demonstrative exhibits, 75  
 fact analysis and preliminary theory of case, 72-76  
 fees, 78  
 finding and retaining experts, 75-76  
@@ -79,7 +69,7 @@ trial folder, 76-78
 Prescription
 
 interruption, 144  
-[[Page-66|special plea]], 138-140  
+special plea, 138-140  
 *text of pleading*, 139
 
 Preservation of evidence
@@ -93,7 +83,7 @@ President
 
 citation, 93
 
-[[Page-100|Pre-trial conference]] see Rule 37 conference
+Pre-trial conference see Rule 37 conference
 
 Price of goods claimed, 94
 

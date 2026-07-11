@@ -10,10 +10,6 @@ tags:
 aliases:
   - "Page 77"
   - "PDF Page 77"
-topics:
-  - admissions
-  - cause-of-action
-  - sentencing
 ---
 
 [[Page-76|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-78|Next Page →]]
@@ -29,15 +25,21 @@ And to:
 [address]
 [third claimant]
 [address]
+
+[[[Page-77|page 121]]]
+
 ## 6.8 Provisional sentence summons
 
 A provisional sentence summons is used in provisional sentence (or *namptissement*) proceedings. This process can only be used where the plaintiff relies on a liquid document for his or her claim. A liquid document is a document in which the defendant has admitted or acknowledged his or her indebtedness to the plaintiff. There are many different kinds of liquid documents but the most common ones are cheques, acknowledgments of debt and mortgage bonds. Provisional sentence proceedings are therefore available to enforce such a debt quickly.
 
 A liquid document must (a) be written; (b) have been signed by the defendant or his agent; (c) be unconditional; and (d) demonstrate an admission or acknowledgment of the indebtedness by the defendant for a fixed amount.
 
-There is a prescribed form (Form 3) for a provisional sentence summons. The form makes provision for the [[Page-54|cause of action]] to be set out. The way the form is set out requires the cause of action to be set out in summary form and the whole cause of action is usually (but not always) set out in one paragraph.
+There is a prescribed form (Form 3) for a provisional sentence summons. The form makes provision for the cause of action to be set out. The way the form is set out requires the cause of action to be set out in summary form and the whole cause of action is usually (but not always) set out in one paragraph.
 
 Paragraph 1 of a typical provisional sentence summons based on a cheque reads as follows:
+
+[[[Page-77|page 122]]]
+
 **Table 6.6** Provisional sentence summons
 
 |  Text of summons | Comment  |
@@ -47,6 +49,9 @@ Paragraph 1 of a typical provisional sentence summons based on a cheque reads as
 **Note:** The case heading and introductory part will follow the format of Form 3 with the necessary detail inserted.
 
 The rest of the document follows the wording of Form 3 with the necessary detail inserted in the appropriate places.
+
+[[[Page-77|page 123]]]
+
 ## 6.9 The charge (in a summons, charge sheet or indictment)
 
 These three documents have different formats but serve the same purpose and must comply with the same

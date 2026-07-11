@@ -10,15 +10,6 @@ tags:
 aliases:
   - "Page 92"
   - "PDF Page 92"
-topics:
-  - applications
-  - cause-of-action
-  - contract
-  - evidence
-  - exceptions
-  - interdicts
-  - jurisdiction
-  - pleadings
 ---
 
 [[Page-91|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-93|Next Page →]]
@@ -27,27 +18,30 @@ topics:
 
 which either contains scandalous, vexatious or irrelevant allegations or constitutes an irregular proceeding because it does not comply with certain technical requirements of the rules. An application to strike out scandalous, vexatious or irrelevant matter is made under Rule 23(2). An application to strike out a pleading as an irregular proceeding is made under Rule 30.
 
-In criminal proceedings an objection similar to an [[Page-75|exception]] may be made to a charge in terms of section 85 of the Criminal Procedure Act 51 of 1977 ("the Act").
+In criminal proceedings an objection similar to an exception may be made to a charge in terms of section 85 of the Criminal Procedure Act 51 of 1977 ("the Act").
 
 ## 9.2 Exceptions
 
 An exception can only be taken to a pleading. The following documents are pleadings -
 
-- particulars of claim (attached to a combined summons);
-- declaration;
-- counterclaim;
-- third-party claim (attached to a third-party notice);
-- interpleader claim;
-- plea, with or without a [[Page-66|special plea]];
-- replication;
-- further pleadings such as a rejoinder, surrejoinder, rebutter and surrebutter; and
-- exception.
+- [ ] particulars of claim (attached to a combined summons);
+- [ ] declaration;
+- [ ] counterclaim;
+- [ ] third-party claim (attached to a third-party notice);
+- [ ] interpleader claim;
+- [ ] plea, with or without a special plea;
+- [ ] replication;
 
-These documents are distinguished as pleadings by two main features, namely: (a) they set out the material facts of a claim (statements of claim) or a defence (pleas, [[Page-66|special pleas]] and exceptions) or an answer to a defence (replications and further pleadings); and (b) they specify the relief in the prayer.
+[[[Page-92|page 150]]]
+
+- [ ] further pleadings such as a rejoinder, surrejoinder, rebutter and surrebutter; and
+- [ ] exception.
+
+These documents are distinguished as pleadings by two main features, namely: (a) they set out the material facts of a claim (statements of claim) or a defence (pleas, special pleas and exceptions) or an answer to a defence (replications and further pleadings); and (b) they specify the relief in the prayer.
 
 ### 9.2.1 The purpose of an exception
 
-The purpose of an exception is to obtain a speedy and inexpensive decision on a question of law. The question of law is whether the pleading concerned contains the necessary allegations of fact, which if proved, would sustain a [[Page-54|cause of action]] or defence.
+The purpose of an exception is to obtain a speedy and inexpensive decision on a question of law. The question of law is whether the pleading concerned contains the necessary allegations of fact, which if proved, would sustain a cause of action or defence.
 
 Exceptions are mostly the result of sloppy pleading, but in rare cases an exception is set up to test a question of law when the facts of the case are not in dispute. Two well-known cases can be cited as examples where important principles of law were decided on exception. In the famous English case, *Donoghue v Stevenson* [1932] AC 562 (HL) - the snail in the bottle case - the question was whether the manufacturer owed the public a duty of care independent of any obligations owed by it in contract. The answer given by the House of Lords was in the affirmative and English law was set upon a new course. In the South African case, *Malherbe v Ceres Municipality* 1951 (4) SA 510 (A), the question was whether the owner of a building had a valid cause of action (for an interdict) against the municipality whose trees dropped leaves in the gutters of the building and thus caused damage. The court held that he did. These were not cases of sloppy pleading. They were cases testing the limits of known legal remedies.
 
@@ -59,8 +53,8 @@ An exception can only be taken in two circumstances. The *first* is where the pl
 
 An exception can be taken, for example, where -
 
-- there is a question of law which can be decided on the pleading as it stands, that is, without evidence;
-- it is clear from the pleadings that the court does not have jurisdiction over the defendant or over the cause of
+- [ ] there is a question of law which can be decided on the pleading as it stands, that is, without evidence;
+- [ ] it is clear from the pleadings that the court does not have jurisdiction over the defendant or over the cause of
 
 ---
 

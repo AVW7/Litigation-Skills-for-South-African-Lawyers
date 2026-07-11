@@ -10,16 +10,6 @@ tags:
 aliases:
   - "Page 188"
   - "PDF Page 188"
-topics:
-  - affidavits
-  - applications
-  - circumstantial-evidence
-  - direct-evidence
-  - evidence
-  - examination-in-chief
-  - persuasion
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-187|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-189|Next Page →]]
@@ -34,13 +24,16 @@ I put the suspect in my car, drove to the police station and charged him with ro
 
 I later traced the complainant to the hospital. He identified his wallet, Visa card and the photograph of his family. After the complainant had been released from hospital, I arranged a voice ID parade. The complainant identified the voice of the suspect I had arrested (the accused) as the voice of the man who had robbed and stabbed him. I then charged the accused.
 
-With these two statements you can now prepare the [[Page-136|examination-in-chief]] of our main witness, Mr Weir. You should cover the material facts relating to the incident itself as well as the anticipated defence, namely that the accused was not the attacker and had been identified by mistake. Your [[Page-115|theory of the case]] is that the accused was the robber. You have direct evidence - voice identification - as well as [[Page-100|circumstantial evidence]] - he fits the description of the attacker, was in the vicinity of the attack shortly after the attack, had possession of the stolen items, had a knife with human blood on it and did not deny his involvement. The material facts (legal requirements) for the crime of robbery are that:
+With these two statements you can now prepare the examination-in-chief of our main witness, Mr Weir. You should cover the material facts relating to the incident itself as well as the anticipated defence, namely that the accused was not the attacker and had been identified by mistake. Your theory of the case is that the accused was the robber. You have direct evidence - voice identification - as well as circumstantial evidence - he fits the description of the attacker, was in the vicinity of the attack shortly after the attack, had possession of the stolen items, had a knife with human blood on it and did not deny his involvement. The material facts (legal requirements) for the crime of robbery are that:
 
 1 the accused
 2 on [date]
 3 at [place]
 4 unlawfully
 5 and intentionally
+
+[[[Page-188|page 315]]]
+
 6 and by means of an assault (the application of force to the person)
 7 upon Mr Weir
 8 stole (the taking of a movable, corporeal thing owned or possessed by another with the intention to deprive him permanently of it)
@@ -50,10 +43,10 @@ There could be a debate about whether "assault" and "stole" shouldn't be broken 
 
 The first step in preparing the evidence-in-chief is to create a timeline or outline which lists the important facts we want the witness to cover in order to establish the material facts, with some emphasis on the identification of the robber. (The events which form part of this timeline are material in the sense of being important items of evidence needed to make the prosecution version persuasive.) You can list or highlight the key words or phrases in the margin of the statement as -
 
-- date, time and place (factory parking lot)
-- grabbed from behind
-- struggled
-- arms pinned to sides
+- [ ] date, time and place (factory parking lot)
+- [ ] grabbed from behind
+- [ ] struggled
+- [ ] arms pinned to sides
 
 ---
 

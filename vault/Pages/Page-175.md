@@ -2,7 +2,7 @@
 title: "Page 175"
 pdfPage: 175
 printedPage: 291
-chapter: "Chapter 16: Opening statement"
+chapter: "Chapter 16: ## Opening statement"
 tags:
   - page
   - litigation-skills
@@ -10,10 +10,6 @@ tags:
 aliases:
   - "Page 175"
   - "PDF Page 175"
-topics:
-  - evidence
-  - opening-statement
-  - witnesses
 ---
 
 [[Page-174|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-176|Next Page →]]
@@ -22,17 +18,26 @@ topics:
 
 |   |  | presence. It contained an old newspaper. The police were called and he was taken away by them. When he was charged at the police station, the accused handed over his possessions and he was found to have only R45.00 in cash on him.'  |
 | --- | --- | --- |
+
+[[[Page-175|page 291]]]
+
 |  What to do | Comment | How to do it  |
 | --- | --- | --- |
 |  State the anticipated defence and the facts disproving it or casting doubt upon it. | 1 Do not over-emphasise the defence. Emphasise the facts undermining it instead. 2 Don't argue the case! You can do that later. | 'The defence appears to be that the accused had accidentally slung the wrong backpack over his shoulder. It is anticipated that the element in issue is going to be mens rea, the intent to steal. Evidence will be led to show that, the two backpacks are quite dissimilar and that the accused also apologised as soon as he was stopped outside the store.'  |
 |  Name the witnesses to be called. | 1 Give the names of the witnesses you intend to call in the order you will call them. 2 Stick to an order that will maintain the sequence of events. 3 Try to give the occupation or standing of each witness. | 'I intend to call two witnesses. They are Miss Irene Delamere, a store detective employed by Three Rings Sports, and constable Simon Reddy of the [name] Police Station.'  |
 |  Briefly summarise the evidence to be given by each witness. | 1 Give a brief summary of what each witness will say. 2 Understate. Promise less with the intention of delivering more. 3 Be accurate or your witness will be discredited. 4 Keep it short and sweet. | 'Miss Delamere will say that she was in the store, circulating among customers, keeping an eye out for shoplifters, when she saw the accused entering the store. She watched the accused from beginning to end, and saw the things I have already alluded to. It was to her that the accused apologised. She will further tell the court that the accused offered no further explanation for his conduct. Constable Reddy will tell the court that he took the accused into custody and charged him at the police station. As part of the booking procedures the accused's possessions had to be surrendered for safekeeping. The accused had a watch and a small wallet containing R45.00. These were listed and put in the safe with other prisoners' possessions. The two backpacks were marked and entered in the Exhibits Register.'  |
+
+[[[Page-175|page 292]]]
+
 |  What to do | Comment | How to do it  |
 | --- | --- | --- |
 |  Tell the court what admissions have been made (or are to be made) under section 220 by the defence. | 1 Admissions should preferably be written out and signed by the accused or his or her counsel. 2 Give defence counsel an opportunity to confirm that the relevant facts are admitted. | 'The defence has made certain admissions under section 220 of the Act. They have been reduced to writing in the section 115 statement and are that - 1 the backpack, to be introduced as Exhibit 2 in these proceedings, is the property of Three Rings Sports; 2 its value is R150.00; 3 the accused had no right to remove it from the store.'  |
 |  Tell the court what exhibits will be produced by consent or through a witness. | If agreement has been reached, make sure that you state accurately what has been agreed. It is not enough to tell the court that a particular exhibit is going in by consent. Describe the exhibit and tell the court on what basis it is going in. | 'There are two exhibits to be produced by consent. The first is the accused's backpack. It is common cause that the accused entered the store with this backpack and left it behind. It is brown, made of polyester fibre, about 45 cm by 30 cm by 20 cm, and has two separate compartments which are closed with zippers. The backpack is torn in several places. May it be marked as Exhibit 1? The second is the backpack belonging to Three Rings Sports and which the accused left the store with. It is red, about 45 cm by 30 cm by 20 cm and has two main compartments and two side pockets, all closing with drawstrings. It has the store's price tag attached to one of the shoulder straps. May it be marked as Exhibit 2?'  |
 |  Call your first witness. |  | 'May it please Your Worship, I now call my first witness, Miss Irene Delamere.'  |
-Is the prosecution case now relatively clear? Do you know what the issues are? Do you know what evidence to expect from the prosecution witnesses? Do you have an idea of the significance of the exhibits? If the answer is 'Yes' to each of these questions, the [[Page-131|opening statement]] will have achieved its aims.
+
+[[[Page-175|page 293]]]
+
+Is the prosecution case now relatively clear? Do you know what the issues are? Do you know what evidence to expect from the prosecution witnesses? Do you have an idea of the significance of the exhibits? If the answer is 'Yes' to each of these questions, the opening statement will have achieved its aims.
 
 ---
 

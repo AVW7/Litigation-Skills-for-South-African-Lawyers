@@ -10,17 +10,6 @@ tags:
 aliases:
   - "Page 63"
   - "PDF Page 63"
-topics:
-  - cause-of-action
-  - contract
-  - evidence
-  - fraud
-  - jurisdiction
-  - locus-standi
-  - motion-court
-  - pleadings
-  - protocol-and-ethics
-  - sentencing
 ---
 
 [[Page-62|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-64|Next Page →]]
@@ -32,8 +21,8 @@ topics:
 - □ It is equally wrong to plead facts for which you have no foundation in your instructions.
 - □ It is unethical to overstate claims. In compensation cases (such as personal injuries or expropriation cases) where the assessment of the compensation has to be made by the court, there is room for differences of opinion. It will be appropriate to make your own assessment and then to claim slightly more than that amount to be on the safe side.
 - □ A so-called 'tactical denial' is as dishonest as a false denial. If the party does not know whether an allegation pleaded by the other party is true or can be proved by him or her, the appropriate way to plead to that allegation is to decline to admit it. If so inclined, you may plead: 'The defendant has no knowledge of the allegations in paragraph 5 of the particulars of claim and therefore does not admit them.' You should not deny allegations unless you intend to lead evidence supporting the denial. Remember that a denial is in itself a positive statement; its effect is that the opposite of the factual allegation which it denies is true.
-- □ The use of precedents is fraught with danger. The facts of the case should not be forced into a pleading drafted for another set of facts. It is better to use a good book with examples of different causes of action and defences like *Amler's Precedents of Pleadings* LexisNexis (latest edition) (known as '*Amler*') than to blindly follow a pleading drafted by you or someone else for another case. *Amler* has a good summary of the legal requirements for each [[Page-54|cause of action]] or defence in the book. That should be your starting point.
-- □ Nevertheless, in cases which occur frequently, the 'known' and 'understood' formulae may be used for the sake of brevity. You may find some examples of the known and understood formulae in the cases that find their way to the Registrar or the [[Page-179|Motion Court]] for default or summary judgment orders. For example, the price of goods is often claimed as 'the purchase price of goods sold and delivered at the defendant's special instance and request'. What this means is that there was a contract of sale between the parties and the defendant has failed to pay the purchase price.
+- □ The use of precedents is fraught with danger. The facts of the case should not be forced into a pleading drafted for another set of facts. It is better to use a good book with examples of different causes of action and defences like *Amler's Precedents of Pleadings* LexisNexis (latest edition) (known as '*Amler*') than to blindly follow a pleading drafted by you or someone else for another case. *Amler* has a good summary of the legal requirements for each cause of action or defence in the book. That should be your starting point.
+- □ Nevertheless, in cases which occur frequently, the 'known' and 'understood' formulae may be used for the sake of brevity. You may find some examples of the known and understood formulae in the cases that find their way to the Registrar or the Motion Court for default or summary judgment orders. For example, the price of goods is often claimed as 'the purchase price of goods sold and delivered at the defendant's special instance and request'. What this means is that there was a contract of sale between the parties and the defendant has failed to pay the purchase price.
 
 ## Chapter 6 Drafting statements of claim
 
@@ -42,7 +31,7 @@ topics:
 - 6.1 Introduction
 - 6.2 Form and content of claims
   - 6.2.1 The parties
-  - 6.2.2 [[Page-41|Locus standi]]
+  - 6.2.2 Locus standi
   - 6.2.3 Jurisdiction
   - 6.2.4 Setting out the cause of action
   - 6.2.5 Compliance with any special procedural requirements
@@ -55,6 +44,9 @@ topics:
 - 6.8 Provisional sentence summons
 - 6.9 The charge (in a summons, charge sheet or indictment)
 - 6.10 Protocol and ethics
+
+[[[Page-63|page 95]]]
+
 ### 6.1 Introduction
 
 Every legal proceeding is based on a foundational document which sets out what claims are being made against the party who is being sued. In criminal cases the accused receives a summons, a charge sheet or an indictment which sets out particulars of the charge. In civil cases the statement of claim constitutes the fundamental document on which the proceedings are based. Claims are made in the form of written statements of claim which should set out

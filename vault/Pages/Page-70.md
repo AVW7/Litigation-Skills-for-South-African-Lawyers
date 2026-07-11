@@ -10,10 +10,6 @@ tags:
 aliases:
   - "Page 70"
   - "PDF Page 70"
-topics:
-  - contract
-  - evidence
-  - pleadings
 ---
 
 [[Page-69|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-71|Next Page →]]
@@ -27,6 +23,9 @@ topics:
 |  7 | The deceased died on [date]. A copy of the death certificate to that effect is attached, marked "C". | 1 The death certificate is evidence and should not be pleaded. 2 A death certificate is an official document that may provide *prima facie* proof of its contents (see the Births, Marriages and Deaths Registration Act 81 of 1963). 3 The defendant may perhaps be persuaded to settle when confronted by these documents.  |
 |  8 | In the premises the defendant is liable to pay the sum of R750 000.00 to the plaintiff. | The legal conclusion arising from the material facts has to be pleaded.  |
 |  9 | Notwithstanding a written demand delivered to the defendant with copies of the policy, cession and death certificate on [date], the defendant has failed to pay the sum claimed to the plaintiff. | 1 Pleading a demand is customary, but if you want interest from the time of demand you have to plead the precise date of the demand. 2 You should provide details of the demand to furnish the court and the defendant with the facts upon which the client relies for her interest claim.  |
+
+[[[Page-70|page 107]]]
+
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 |  (a) | Wherefore the plaintiff claims judgment against the defendant for: |   |
@@ -36,6 +35,9 @@ topics:
 |   | *Signature* Counsel's name (printed) PLAINTIFF'S COUNSEL |   |
 |   | *Signature* Attorney's name (printed) X, Y & Z Partnership Plaintiff's Attorneys [street address] Care of Messrs M, N & O [address and details as per Rule 6(5)(b)] |   |
 |   | To: The Registrar [street address] And to: Messrs J, A & K Inc Defendant's Attorneys [address and details as per Rule 6(5)(d)] | Since there is already a firm of attorneys on record for the defendant, (they have delivered a notice of intention to defend), a copy of the declaration has to be served on them. The original goes to the registrar.  |
+
+[[[Page-70|page 108]]]
+
 ---
 
 [[Page-69|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-71|Next Page →]]

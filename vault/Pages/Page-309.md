@@ -2,7 +2,7 @@
 title: "M"
 pdfPage: 309
 printedPage: 307
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,16 +10,6 @@ tags:
 aliases:
   - "Page 309"
   - "PDF Page 309"
-topics:
-  - affidavits
-  - applications
-  - discovery
-  - evidence
-  - fraud
-  - locus-standi
-  - mediation
-  - negligence
-  - pleadings
 ---
 
 [[Page-308|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-310|Next Page →]]
@@ -46,7 +36,7 @@ Liquidated claim, 95
 
 *Litis contestatio*, 147
 
-*[[Page-41|Locus standi]]*
+*Locus standi*
 
 *meaning*, 91, 96
 
@@ -92,7 +82,7 @@ drafting plea, 127-128
 
 estoppel, 87
 
-*[[Page-47|facta probanda]]* and *probantia* distinguished, 84
+*facta probanda* and *probantia* distinguished, 84
 
 failure to plead, 85-86, 88, 127
 
@@ -120,7 +110,7 @@ Materiality of evidence, 304
 
 Matrimonial claim for primary care of children, 264
 
-[[Page-30|Mediation]], 49-53
+Mediation, 49-53
 
 Medical examination, 196
 

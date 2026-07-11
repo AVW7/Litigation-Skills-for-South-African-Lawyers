@@ -2,7 +2,7 @@
 title: "Page 215"
 pdfPage: 215
 printedPage: 355
-chapter: "Chapter 20: Special procedures"
+chapter: "Chapter 20: ## Special procedures"
 tags:
   - page
   - litigation-skills
@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 215"
   - "PDF Page 215"
-topics:
-  - courtroom-protocol
-  - cross-examination
-  - evidence
-  - examination-in-chief
-  - witnesses
 ---
 
 [[Page-214|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-216|Next Page →]]
@@ -29,7 +23,10 @@ topics:
 |  **Step 1:** Show the exhibit to the witness. | Q. *Could you please look at the letter, exhibit A14? Mr Usher, could you please take the exhibit to the witness?* A. *I have it. What do you want to know?*  |
 |  **Step 2:** Allow the witness to become familiar with it. | Q. *Please read the letter and tell Her Ladyship whether you wrote that letter.* A. *Yes, I recognise it. I wrote it.*  |
 |  **Step 3:** Ask the witness such questions as you have with regard to the exhibit or its contents. | Q. *In that letter you said . . .*  |
-Questions of the nature used in this example could be asked either in [[Page-136|examination-in-chief]] or in [[Page-145|cross-examination]]. You should identify the exhibit and give the witness an opportunity to get acquainted with it before asking further questions about it. That way the accuracy of the record is maintained and the evidence is more likely to flow naturally.
+
+[[[Page-215|page 355]]]
+
+Questions of the nature used in this example could be asked either in examination-in-chief or in cross-examination. You should identify the exhibit and give the witness an opportunity to get acquainted with it before asking further questions about it. That way the accuracy of the record is maintained and the evidence is more likely to flow naturally.
 
 If the exhibit is disputed (or not admitted) and needs to be proved, a different procedure would have to be followed. Generally speaking, the witness should first describe the exhibit, from memory, before being shown the exhibit. The evidence should also prove the chain of custody. How did the exhibit get from the place where the events occurred to the courtroom? Who had custody of it? Is it still in the same condition? If the witness did not have possession of the exhibit throughout that period, other witnesses may have to be called to establish the chain of custody.
 

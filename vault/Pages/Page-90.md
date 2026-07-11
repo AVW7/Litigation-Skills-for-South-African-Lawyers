@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 90"
   - "PDF Page 90"
-topics:
-  - contract
-  - negligence
-  - pleadings
-  - prescription
 ---
 
 [[Page-89|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-91|Next Page →]]
@@ -36,6 +31,9 @@ WHEREFORE the plaintiff joins issue. (This is the customary prayer to a replicat
 * This is an instance where the *ad paragraph* style of signposting is useful.
 
 Estoppel is a defence which is often raised in a replication. Let us assume that the plea in a claim for the purchase price of goods denies that a contract was concluded between the parties on the basis that the person alleged to have represented the defendant lacked the authority to represent the defendant. The plaintiff may wish to respond to that defence by pleading that the defendant is estopped from denying the authority of that person. The estoppel will then have to be raised in the replication. This could be done as follows:
+
+[[[Page-90|page 145]]]
+
 **Table 8.1** Replication
 
 |  Par | Text of pleading | Comment  |
@@ -43,6 +41,9 @@ Estoppel is a defence which is often raised in a replication. Let us assume that
 |   | CASE HEADING |   |
 |   | PLAINTIFF'S REPLICATION |   |
 |  1 | 1.1 Over a period of eighteen months immediately preceding the conclusion of the contract and in a number of transactions, Alan Smith ('Smith') with the knowledge of the defendant, represented the defendant in concluding similar contracts to that relied upon in the particulars of claim with the plaintiff. 1.2 The defendant honoured those contracts as if Smith had been authorised to represent it in concluding contracts of such a nature. 1.3 The defendant by its conduct thus represented to the plaintiff that Smith had the necessary authority to conclude contracts with the plaintiff on its behalf. 1.4 The plaintiff, relying upon the truth of that representation, acted to its detriment by concluding the contract sued upon with the defendant and delivering the goods sold thereby to Smith. | 1 The facts in answer to the plea have to be set out in the style of all pleadings. That means separate paragraphs for distinct allegations. The paragraphs have to be numbered. (See Rule 18.) 2 A certain amount of legal research would have had to be done before the replication could be drafted. 3 Is negligence a requirement for an estoppel of this nature? Legal research will supply the answer.  |
+
+[[[Page-90|page 146]]]
+
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 |  2 | In the premises the defendant is estopped from denying that Smith had been duly authorised by it to conclude the contract sued upon. |   |

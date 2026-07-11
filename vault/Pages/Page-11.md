@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 11"
   - "PDF Page 11"
-topics:
-  - circumstantial-evidence
-  - cross-examination
-  - direct-evidence
-  - evidence
-  - examination-in-chief
-  - witnesses
 ---
 
 [[Page-10|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-12|Next Page →]]
@@ -26,9 +19,12 @@ topics:
 |  because it allows the client or witness to answer in any way he or she thinks appropriate. The witness can decide what subject to tell you about and also how much or how little information to provide. Open questions of this nature elicit general rather than specific information. Open questions do not give the client much guidance as to precisely what information is required. An open question is always inquisitive (asking for information) rather than suggestive (giving information). | 'How can I help you?' 'What happened on the day of the accident?' 'What happened next?'  |
 | --- | --- |
 |  **The closed question:** This type of question is put in such a way that it directs the client or witness to the specific information required. Closed questions seek specific information and are usually preceded by interrogative words (words we expect to be followed by a question mark when we write) like 'when', 'where', 'who', 'what' and 'why'. Closed questions starting with 'when', 'where', 'who', 'what' and 'why' do not usually suggest the answer and are therefore not leading questions. A technique employed to ensure that a closed question is not leading is to graft the question onto a prior answer given by the client or witness. This is called piggy-backing. | Say the client says: 'The other car then came over to our side of the road.' A closed question employing the piggy-back technique would be: 'How did you react when the other car came over to your side of the road?' Asking, 'What happened next?' is an open question and does not indicate to the client precisely what information you require.  |
-|  **The leading question:** This type of question is also a closed question but it suggests the answer. It is the kind of question you will predominantly ask in [[Page-145|cross-examination]]. (Leading questions are generally not allowed in [[Page-136|examination-in-chief]], but more about that later.) It is not sensible to ask leading questions in the initial stages of fact investigation because clients often bow to the suggestion and give the answers they think they are expected to give rather than their own, uncontaminated version of the events. | 'So when the other car came over to your side of the road you applied the brakes, didn't you?' This question suggests a fact to the witness, namely that she had applied the brakes before the collision.  |
+|  **The leading question:** This type of question is also a closed question but it suggests the answer. It is the kind of question you will predominantly ask in cross-examination. (Leading questions are generally not allowed in examination-in-chief, but more about that later.) It is not sensible to ask leading questions in the initial stages of fact investigation because clients often bow to the suggestion and give the answers they think they are expected to give rather than their own, uncontaminated version of the events. | 'So when the other car came over to your side of the road you applied the brakes, didn't you?' This question suggests a fact to the witness, namely that she had applied the brakes before the collision.  |
 
 In an interview with a client, open questions will be used to direct the client to a general topic while closed, non-leading questions will be used to gather, or clarify, specific information. A technique called 'funnelling' is used to move from general to specific topics. It works as follows: The lawyer asks an open question directing the client or witness to a broad or general topic. When the witness answers, the lawyer employs closed questions to direct the witness down an ever narrower funnel, hence the word 'funnelling'. The idea is to control the flow of information so that the important facts are flushed out. This technique, using Mrs Smith's case, could be used as follows:
+
+[[[Page-11|page 10]]]
+
 **Table 1.2** Funnelling technique
 
 |  What to do | How to do it  |

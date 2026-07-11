@@ -10,15 +10,6 @@ tags:
 aliases:
   - "Page 4"
   - "PDF Page 4"
-topics:
-  - admissions
-  - affidavits
-  - applications
-  - damages
-  - exceptions
-  - pleadings
-  - sentencing
-  - striking-out
 ---
 
 [[Page-3|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-5|Next Page →]]
@@ -60,11 +51,11 @@ A book like this is based on experience and lessons learned and taught in the pa
 |  15 Plea: pleading an explanation or qualification | 7 | 133  |
 |  16 Plea: the prayer | 7 | 134  |
 |  17 Plea: an inelegant plea | 7 | 139  |
-|  18 Plea: a [[Page-66|special plea]] | 7 | 139  |
+|  18 Plea: a special plea | 7 | 139  |
 |  19 Plea explanation in a criminal case | 7 | 141  |
 |  20 Replication | 8 | 145  |
-|  21 [[Page-75|Exception]] | 9 | 153  |
-|  22 [[Page-75|Striking out]] order under Rule 23(2) | 9 | 156  |
+|  21 Exception | 9 | 153  |
+|  22 Striking out order under Rule 23(2) | 9 | 156  |
 |  23 Objection to criminal charge | 9 | 158  |
 |  24 Applications: Notice of motion in spoliation application | 10 | 171  |
 |  25 Applications: Founding affidavit in spoliation application | 10 | 173  |

@@ -2,7 +2,7 @@
 title: "Exception"
 pdfPage: 305
 printedPage: 303
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,19 +10,6 @@ tags:
 aliases:
   - "Page 305"
   - "PDF Page 305"
-topics:
-  - appeals
-  - applications
-  - cross-examination
-  - evidence
-  - examination-in-chief
-  - exceptions
-  - expert-evidence
-  - fact-analysis
-  - pleadings
-  - protocol-and-ethics
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-304|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-306|Next Page →]]
@@ -59,7 +46,7 @@ when taken, 150-151
 
 # Exhibits
 
-[[Page-100|demonstrative exhibit]]s, 71, 75
+demonstrative exhibits, 71, 75
 
 documentary and real exhibits distinguished, 71
 
@@ -97,13 +84,13 @@ acceptance or rejection of evidence, 220
 
 admissibility of evidence, 220
 
-[[Page-92|advice on evidence]], 196-197
+advice on evidence, 196-197
 
 briefing, 76, 221
 
-[[Page-145|cross-examination]], 364-366
+cross-examination, 364-366
 
-[[Page-136|examination-in-chief]], 364
+examination-in-chief, 364
 
 expert notices and summaries, 197, 201-204
 
@@ -131,7 +118,7 @@ selection, 220-221
 
 text of summary, 202-204
 
-types of [[Page-100|expert evidence]], 75, 219-220
+types of expert evidence, 75, 219-220
 
 Explanation or qualification, 133, 143, 144
 
@@ -169,7 +156,7 @@ shoplifting exercise, 487-488
 
 strategy, 242
 
-[[Page-115|theory of the case]] see Theory of the case
+theory of the case see Theory of the case
 
 ---
 

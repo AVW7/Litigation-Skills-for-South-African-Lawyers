@@ -2,7 +2,7 @@
 title: "18.10 Checklist and assessment guide"
 pdfPage: 209
 printedPage: 345
-chapter: "Chapter 18: Cross-examination"
+chapter: "Chapter 17: Examination-in-chief"
 tags:
   - page
   - litigation-skills
@@ -10,23 +10,15 @@ tags:
 aliases:
   - "Page 209"
   - "PDF Page 209"
-topics:
-  - courtroom-protocol
-  - credibility
-  - cross-examination
-  - evidence
-  - protocol-and-ethics
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-208|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-210|Next Page →]]
 
 ---
 
-- Counsel should not argue against the credibility of a witness without having cross-examined the witness on the disputed version.
-- It is unethical for counsel to misstate prior evidence in [[Page-145|cross-examination]]. Don't twist or interpret what the witness has said. If prior evidence has to be repeated, use the exact words the witness used. (You should have made notes of them for precisely this purpose.)
-- It is unbecoming of counsel to abuse witnesses. Keep sarcasm and sneering in check.
+- [ ] Counsel should not argue against the credibility of a witness without having cross-examined the witness on the disputed version.
+- [ ] It is unethical for counsel to misstate prior evidence in cross-examination. Don't twist or interpret what the witness has said. If prior evidence has to be repeated, use the exact words the witness used. (You should have made notes of them for precisely this purpose.)
+- [ ] It is unbecoming of counsel to abuse witnesses. Keep sarcasm and sneering in check.
 
 ### 18.10 Checklist and assessment guide
 
@@ -37,6 +29,9 @@ If the checklist were to be used as a marking guide, the best way to go about th
 C = Competent (meaning that the performer has attained the desired standard of competency in respect of the skill involved).
 
 NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
+
+[[[Page-209|page 345]]]
+
 Table 18.7 Checklist for cross-examination
 
 |   | Skill involved | Competent/ Not yet competent  |
@@ -55,7 +50,7 @@ Table 18.7 Checklist for cross-examination
 |  12 | Eliciting favourable evidence where appropriate |   |
 |  13 | Following the correct procedure for putting a prior inconsistent statement |   |
 |  14 | Avoiding repeating adverse evidence |   |
-|  15 | Questioning only on topics relevant to the cross-examiner's [[Page-115|theory of the case]] |   |
+|  15 | Questioning only on topics relevant to the cross-examiner's theory of the case |   |
 |  16 | Challenging the witness on all disputed facts within the witness's knowledge |   |
 |  17 | Putting the cross-examiner's case to the appropriate witnesses |   |
 |  18 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |   |

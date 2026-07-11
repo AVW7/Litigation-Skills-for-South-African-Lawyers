@@ -2,7 +2,7 @@
 title: "15.5 Counsel's relationship with witnesses"
 pdfPage: 169
 printedPage: 282
-chapter: "Chapter 15: The protocol and etiquette of the courtroom"
+chapter: "Chapter 15: ### The protocol and etiquette of the courtroom"
 tags:
   - page
   - litigation-skills
@@ -10,10 +10,6 @@ tags:
 aliases:
   - "Page 169"
   - "PDF Page 169"
-topics:
-  - courtroom-protocol
-  - evidence
-  - witnesses
 ---
 
 [[Page-168|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-170|Next Page →]]
@@ -39,6 +35,9 @@ It is hardly ever appropriate (or good advocacy) to call a witness a liar. *Firs
 ### 15.6 Counsel's relationship with court staff
 
 Courts are staffed by a variety of officials without whom the wheels of justice would grind to a halt very fast; the registrar and all his or her staff in the General Office, ushers, security officers, stenographers and the judges' secretaries, also referred to as registrars. Most of the time these people melt into the background. At some stage you are going to need help from the court staff, so I suggest you get to know them. Get to know their names, greet them when you encounter them at court and elsewhere, make small-talk. You would be surprised at the returns for such a simple investment.
+
+[[[Page-169|page 282]]]
+
 The court's staff are not your personal lackeys, there to make phone calls or photocopies for you. If you need a favour, they will be sure to help, but approach them with the attitude of one needing a favour, not one giving orders.
 
 ### 15.7 The dress code for different courts

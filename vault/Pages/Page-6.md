@@ -10,24 +10,6 @@ tags:
 aliases:
   - "Page 6"
   - "PDF Page 6"
-topics:
-  - affidavits
-  - applications
-  - arbitration
-  - argumentation
-  - closing-argument
-  - cross-examination
-  - evidence
-  - examination-in-chief
-  - expert-evidence
-  - fact-analysis
-  - mediation
-  - negotiation
-  - opening-statement
-  - persuasion
-  - pleadings
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-5|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-7|Next Page →]]
@@ -39,9 +21,9 @@ topics:
 |  4 | Letter of advice | 2 | 34  |
 |  5 | Advice per memorandum | 2 | 35  |
 |  6 | Written opinion | 2 | 36  |
-|  7 | [[Page-30|Arbitration]] | 3 | 46  |
-|  8 | [[Page-30|Mediation]] | 3 | 49  |
-|  9 | [[Page-30|Negotiation]] | 3 | 53  |
+|  7 | Arbitration | 3 | 46  |
+|  8 | Mediation | 3 | 49  |
+|  9 | Negotiation | 3 | 53  |
 |  10 | Comparative table for alternative dispute resolution methods | 3 | 63  |
 |  11 | Letter of demand | 4 | 68  |
 |  12 | Letter of repudiation | 4 | 69  |
@@ -57,12 +39,12 @@ topics:
 |  22 | Advising on the evidence for defence counsel | 11 | 207  |
 |  23 | Scheme for organising documentary evidence | 12 | 214  |
 |  24 | Captions for photographs | 12 | 217  |
-|  25 | [[Page-131|Opening statement]] | 16 | 290  |
-|  26 | [[Page-136|Examination-in-chief]] | 17 | 305  |
-|  27 | [[Page-145|Cross-examination]] | 18 | 331  |
-|  28 | [[Page-174|Closing argument]] | 21 | 381  |
+|  25 | Opening statement | 16 | 290  |
+|  26 | Examination-in-chief | 17 | 305  |
+|  27 | Cross-examination | 18 | 331  |
+|  28 | Closing argument | 21 | 381  |
 |  29 | *Curator ad litem's* report | 22 | 411  |
-|  30 | [[Page-186|Persuasive advocacy]]: What works and what doesn't | 23 | 434  |
+|  30 | Persuasive advocacy: What works and what doesn't | 23 | 434  |
 
 ## Interviewing clients and witnesses
 
@@ -79,7 +61,7 @@ topics:
 |  1.2.2 | Stage 2: Initial problem and goal identification  |
 |  1.2.3 | Stage 3: Dealing with preliminary matters  |
 |  1.2.4 | Stage 4: Establishing the facts in chronological order  |
-|  1.2.5 | Stage 5: Initial [[Page-115|fact analysis]] and developing a preliminary [[Page-115|theory of the case]]  |
+|  1.2.5 | Stage 5: Initial fact analysis and developing a preliminary theory of the case  |
 |  1.2.6 | Stage 6: Giving preliminary advice  |
 |  1.2.7 | Stage 7: Concluding the interview  |
 |  1.2.8 | After the interview  |
@@ -90,7 +72,7 @@ topics:
 |  1.5.2 | Interviewing for prosecutors  |
 |  1.5.2.1 | General  |
 |  1.5.2.2 | Complainant  |
-|  1.5.2.3 | Other witnesses (police, supporting witnesses, [[Page-100|expert witness]]es)  |
+|  1.5.2.3 | Other witnesses (police, supporting witnesses, expert witnesses)  |
 |  1.5.2.4 | Sex crimes  |
 |  1.5.2.5 | Minors  |
 |  1.5.3 | Interviewing for defence lawyers  |

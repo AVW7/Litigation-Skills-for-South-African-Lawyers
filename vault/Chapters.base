@@ -1,19 +1,15 @@
-filters: file.folder == "Litigation Skills"
+filters: 'file.name.contains("Page-") && (chapter != "")'
 properties:
-  file.name:
-    displayName: Chapter Title
-  pageRange:
-    displayName: PDF Page Range
-  topics:
-    displayName: Topics Covered
+  chapter:
+    displayName: "Chapter Name"
+  pdfPage:
+    displayName: "Starting Page"
 views:
-  - type: table
-    name: Chapters Overview Table
-    order:
-      - file.name
-      - pageRange
-      - topics
   - type: list
-    name: Chapters List
+    name: "Chapters View"
+    groupBy:
+      property: chapter
+      direction: ASC
     order:
-      - file.name
+      - chapter
+      - pdfPage

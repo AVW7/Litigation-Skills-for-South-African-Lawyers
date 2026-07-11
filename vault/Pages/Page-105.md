@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 105"
   - "PDF Page 105"
-topics:
-  - affidavits
-  - applications
-  - evidence
-  - jurisdiction
-  - locus-standi
-  - witnesses
 ---
 
 [[Page-104|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-106|Next Page →]]
@@ -27,12 +20,15 @@ topics:
 | --- | --- | --- | --- |
 |   | FOUNDING AFFIDAVIT OF SIPHO BUTHELEZI  |   |   |
 |   | I, SIPHO BUTHELEZI, declare under oath:  |   |   |
-|  1 | I am the applicant in these proceedings. I am an adult male, teacher. I reside at [address] and I teach at [school and address]. |  | Paragraph 1 gives the customary details to establish the applicant's [[Page-41|locus standi]] and paragraph 2 establishes the fact that he can give first hand evidence.  |
+|  1 | I am the applicant in these proceedings. I am an adult male, teacher. I reside at [address] and I teach at [school and address]. |  | Paragraph 1 gives the customary details to establish the applicant's locus standi and paragraph 2 establishes the fact that he can give first hand evidence.  |
 |  2 | The facts set out in this affidavit are within my personal knowledge. |  |   |
 |  3 | The respondent is Mno (Pty) Limited, a company duly registered and incorporated according to law, and having its registered head office and principal place of business within this court's jurisdiction at [address]. |  | The locus standi of the respondent and the jurisdiction of the court are covered by these paragraphs.  |
 |  4 | The respondent carries on business as dealers in used cars. |  |   |
 |  5 | This is an application for a spoliation order and ancillary relief. |  | Signposting is used to identify the type of application to make it easier for the judge to follow the evidence.  |
 |  6 | On [date] I bought a used [year] model BMW 528i with registration number XYZ 2001 ("the car") from the respondent for R225 000 00. The transaction was based on a standard hire-purchase agreement which both the respondent's manager, a Mr Ian Jones, and I signed. I attach a copy of the agreement, marked "A". |  | 1 It is necessary to set out the material facts we have identified earlier and I start that process in these paragraphs.  |
+
+[[[Page-105|page 174]]]
+
 |  Par | Text of affidavit | Comment  |
 | --- | --- | --- |
 |  7 | In terms of the agreement I was to pay an initial deposit of R50 000.00 and thirty-six monthly instalments thereafter. Ownership of the car was reserved to the respondent until the final instalment is paid. | 2 Documentary exhibits have to be identified and numbered. (They can be numbered according to the initials of the witness, for example, "SB1".)  |
@@ -43,6 +39,9 @@ topics:
 |  12 | I disputed his allegation and said that my instalments were deducted from my bank account by way of a stop order. Mr Jones said I was talking nonsense and told me to get out. I said I wanted my car and he said I should get out of his office before he had me thrown out. |   |
 |  13 | I had to return to school for my next class and told Mr Jones that I did not think he was entitled to do what he had done. He said I should go to the police if I was unhappy and that they had told him he could repossess the car. |   |
 |  14 | After school I went to see my attorney and he advised me to bring this application. |   |
+
+[[[Page-105|page 175]]]
+
 ---
 
 [[Page-104|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-106|Next Page →]]

@@ -10,8 +10,6 @@ tags:
 aliases:
   - "Page 31"
   - "PDF Page 31"
-topics:
-  - sentencing
 ---
 
 [[Page-30|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-32|Next Page →]]
@@ -25,6 +23,9 @@ Prosecutors give advice in their course of their daily duties as much as lawyers
 ### 2.7.1 Written opinion
 
 Prosecutors are not called upon to provide written opinions. That function is performed by the State Attorney, or counsel briefed by the State Attorney, or by someone employed at a higher office, for example, the National Prosecuting Authority.
+
+[[[Page-31|page 41]]]
+
 ### 2.7.2 Memorandum and minute
 
 From time to time prosecutors do, however, have to provide advice in the form of a memorandum or a minute. A minute is a letter addressed to another public official and it has a special format which is discussed below. A memorandum prepared by a prosecutor will also be directed to another public official. Memoranda of this kind and minutes resemble the memoranda and letters respectively that lawyers in private practice would write and for that reason the principles discussed earlier in this chapter would apply with equal force to them. The differences need to be emphasised here.
@@ -41,17 +42,20 @@ The third difference is that there may be local, provincial or national directiv
 
 In the absence of applicable directives or guidelines, you may adopt the following approach:
 
-- Use the correct letterhead. Since the communication emanates from the prosecutor's office, the letterhead applicable to the magistrates' office should not be used.
-- Use the correct postal address (including the postal code) of the intended recipient.
-- Name the recipient correctly, and include their title where appropriate.
-- Provide the correct reference number and details.
-- Provide the name (initials and surname), email address (if in use) and telephone number of the official to whom enquiries should be directed.
-- When using the format of a minute, omit the usual "Dear Sir/Madam" and "Yours faithfully" one would find in a business letter.
-- The heading should include (where they are available) the case number and police station and RCI number.
-- Neither a minute nor a memorandum uses the style in business letters by alluding to the subject-matter in a line commencing with the word, "re".
-- The heading or the first paragraph should refer to the reference number and date of the most recent correspondence of the addressee (where those details are available).
-- If the memorandum or minute consists of more than one paragraph, the paragraphs should be numbered.
-- Deal with the subject-matter in a logical manner, using short words, short sentences and short paragraphs.
+- [ ] Use the correct letterhead. Since the communication emanates from the prosecutor's office, the letterhead applicable to the magistrates' office should not be used.
+- [ ] Use the correct postal address (including the postal code) of the intended recipient.
+- [ ] Name the recipient correctly, and include their title where appropriate.
+- [ ] Provide the correct reference number and details.
+- [ ] Provide the name (initials and surname), email address (if in use) and telephone number of the official to whom enquiries should be directed.
+- [ ] When using the format of a minute, omit the usual "Dear Sir/Madam" and "Yours faithfully" one would find in a business letter.
+- [ ] The heading should include (where they are available) the case number and police station and RCI number.
+
+[[[Page-31|page 42]]]
+
+- [ ] Neither a minute nor a memorandum uses the style in business letters by alluding to the subject-matter in a line commencing with the word, "re".
+- [ ] The heading or the first paragraph should refer to the reference number and date of the most recent correspondence of the addressee (where those details are available).
+- [ ] If the memorandum or minute consists of more than one paragraph, the paragraphs should be numbered.
+- [ ] Deal with the subject-matter in a logical manner, using short words, short sentences and short paragraphs.
 
 ---
 

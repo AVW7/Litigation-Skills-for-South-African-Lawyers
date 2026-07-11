@@ -7,6 +7,7 @@ This document provides essential style guidelines, behavioral constraints, and l
 ## 1. Professional Conduct & Ethical Duties
 
 In the South African litigation process, counsel (whether an advocate, attorney-advocate, or prosecutor) serves two interests: **the court** and **the client**.
+
 * **Precedence of Duties:** Counsel has a higher duty to the court than to the client. If a conflict arises (e.g., a client refuses to allow counsel to disclose adverse authority), counsel **must** refuse to act or continue acting.
 * **Duty to the Court (Do Not Mislead):**
   * Do not advise the client to pursue litigation unless there is a reasonable case.
@@ -25,7 +26,9 @@ In the South African litigation process, counsel (whether an advocate, attorney-
 ## 2. Courtroom Protocol & Etiquette
 
 ### 2.1 Modes of Address
+
 Correct judicial titles must be strictly maintained in all oral and written communication:
+
 * **High Court / Supreme Court of Appeal / Constitutional Court:**
   * Address the judge as **"My Lord"**, **"My Lady"**, **"M'Lord"**, or **"M'Lady"** (or in the third person: *"Your Lordship"* or *"Her Ladyship"*).
   * Never address a judge in the second person as "you" or "yourself" (*Incorrect: "Could you look at Exhibit A, M'Lord?"* $\rightarrow$ *Correct: "May I ask Your Lordship to look at Exhibit A?"*).
@@ -36,11 +39,13 @@ Correct judicial titles must be strictly maintained in all oral and written comm
   * Address the judge as **"Judge"**, not as "My Lord" or "My Lady".
 
 ### 2.2 Announcing Appearance
+
 * When the case is called, get up and state your representation clearly:
   * *High Court / Motion Court:* "I appear for the applicant, My Lord." / "I appear for the respondent, My Lady. My name is Sishuba, initials X.E."
   * *Magistrates' Court:* Customary for advocates to state their instructing attorney: "I appear for the accused, Your Worship. My name is Samuels, initials A.B., and I am instructed by Mr Paul Smith of Smith and Partners."
 
 ### 2.3 Respecting the Bench
+
 * **Robing Rules:**
   * Advocates robe for the High Court, Courts Martial, or higher status courts. Dress consists of a dark suit (or dark trousers/skirt with white shirt/blouse), black shoes, bands, court jacket (worn buttoned up), and robes.
   * Attorneys wear their distinctive attorney robes in all courts where they appear, but *do not* robe when acting purely as instructing attorney.
@@ -57,6 +62,7 @@ Correct judicial titles must be strictly maintained in all oral and written comm
   * Acknowledge court rulings by rising (or performing the "semi bum-lift" if sitting) and saying: **"As the Court pleases"** or **"As Your Lordship pleases"**.
 
 ### 2.4 Interaction with Opponents & Witnesses
+
 * **Opposing Counsel:**
   * Refer to opposing counsel exclusively as **"my learned friend"** or **"my learned friends"**.
   * Never address opponents directly in court (*"Hey, stop leading!"* $\rightarrow$ *Correct: Rise and address the court: "My Lord, I object on the ground that the question is leading."*).
@@ -70,6 +76,7 @@ Correct judicial titles must be strictly maintained in all oral and written comm
 ## 3. Rules of Pleadings & Drafting
 
 ### 3.1 Substantive Pleadings Rules
+
 * **Facta Probanda vs. Facta Probantia:**
   * Plead only the **facta probanda** (the material facts which must be proved to establish the cause of action).
   * Exclude the **facta probantia** (the evidence by which those material facts are proved).
@@ -80,11 +87,13 @@ Correct judicial titles must be strictly maintained in all oral and written comm
   * Each allegation must be admitted, denied, or confessed and avoided. Any allegation not denied is deemed admitted.
 
 ### 3.2 Exceptions & Striking Out
+
 * **Exceptions:** Taken in terms of Rule 23 if a pleading lacks averments necessary to sustain an action/defence, or if it is vague and embarrassing.
 * **Striking Out:** Used to remove scandalous, vexatious, or irrelevant matter from pleadings.
 
 ### 3.3 Motion Court (Applications)
-* *"The Motion Court is a paper court. But it is no paper tiger!"*
+
+* *"The Motion Court is a paper court. But it is no paper tiger!"**
 * Applications are decided entirely on affidavits: Founding, Answering, and Replying.
 * To succeed in an urgent application, counsel must set forth explicitly the circumstances rendering the matter urgent and the reasons why the applicant could not be afforded substantial redress at a hearing in due course.
 
@@ -93,10 +102,12 @@ Correct judicial titles must be strictly maintained in all oral and written comm
 ## 4. Trial Advocacy & Courtroom Strategies
 
 ### 4.1 Chronology & Case Theory
+
 * **Fact Analysis:** Arrange all facts and documents in strict chronological order. It aids witness memory, ensures completeness, and helps a compelling case theory emerge.
 * **Theory of the Case:** Start early with a preliminary theory and refine it as information accumulates. Do not cling to a hopeless theory.
 
 ### 4.2 Trial Phases
+
 1. **Opening Statement:** Outlines what the party intends to prove.
 2. **Examination-in-Chief:**
    * Elicit evidence in a logical, chronological sequence.
@@ -117,5 +128,6 @@ Correct judicial titles must be strictly maintained in all oral and written comm
 ## 5. Citations of Legal Authorities
 
 All authorities must be cited clearly, consistently, and accurately:
+
 * **Statutes:** Refer to the statute by its full name and number on the first occasion (e.g., *the Prescription Act 68 of 1969*), and by a shortened title (e.g., *the Prescription Act* or *Act 68 of 1969*) subsequently.
 * **Case Law:** Cite cases using their standard law report references (e.g., *S v Makwanyane 1995 (3) SA 391 (CC)*). Specify the page and paragraph when citing a particular passage.

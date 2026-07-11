@@ -10,33 +10,25 @@ tags:
 aliases:
   - "Page 57"
   - "PDF Page 57"
-topics:
-  - applications
-  - burden-of-proof
-  - cause-of-action
-  - contract
-  - evidence
-  - negligence
-  - pleadings
 ---
 
 [[Page-56|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-58|Next Page →]]
 
 ---
 
-**Issues** - We use this term to refer to points of disagreement between parties. When we say we "take issue", we mean we "disagree". When the plaintiff makes an allegation in the particulars of claim and the defendant denies that allegation, an issue arises between the parties. The plaintiff ordinarily has the [[Page-92|burden of proof]] on an issue arising from an allegation the plaintiff has made in his or her pleadings. The issues between the parties could be issues of fact, or of law, or of mixed fact and law. An issue is said to be an *issue of fact* when it concerns the existence of some fact or event ascertainable by our senses. Issues of fact are determined by reference to evidence and the conclusions we can draw from them by using logic. An *issue of law* concerns the existence, formulation or application of a rule of the legal system. An issue of law is determined by reference to authoritative sources of the law. A couple of examples will clarify the distinction:
+**Issues** - We use this term to refer to points of disagreement between parties. When we say we "take issue", we mean we "disagree". When the plaintiff makes an allegation in the particulars of claim and the defendant denies that allegation, an issue arises between the parties. The plaintiff ordinarily has the burden of proof on an issue arising from an allegation the plaintiff has made in his or her pleadings. The issues between the parties could be issues of fact, or of law, or of mixed fact and law. An issue is said to be an *issue of fact* when it concerns the existence of some fact or event ascertainable by our senses. Issues of fact are determined by reference to evidence and the conclusions we can draw from them by using logic. An *issue of law* concerns the existence, formulation or application of a rule of the legal system. An issue of law is determined by reference to authoritative sources of the law. A couple of examples will clarify the distinction:
 
-- Whether you went through an intersection against a red light or not is a question of fact; whether your conduct in going through the red light in the circumstances that prevailed amounts to negligence, is a question of law.
+- [ ] Whether you went through an intersection against a red light or not is a question of fact; whether your conduct in going through the red light in the circumstances that prevailed amounts to negligence, is a question of law.
 
-- Whether the accused did certain things or not is a question of fact; whether the accused's conduct amounts to a crime, is a question of law.
+- [ ] Whether the accused did certain things or not is a question of fact; whether the accused's conduct amounts to a crime, is a question of law.
 
 An *issue of mixed fact and law* arises when the decision requires both the facts and the legal principles to be taken into account. If the issue is whether the accused is guilty of the crime of murder, the decision will require both the facts and the legal requirements for the crime of murder to be taken into account in order to answer that question. The distinctions between issues of fact and law are not always absolute or clear. Fortunately it is not often that one is required to explain the distinction to a judge.
 
 ## 5.4 The material facts
 
-Lawyers find it difficult in their early years in practice to distinguish between the facts which have to be pleaded, the "material facts" (or *[[Page-47|facta probanda]]*), and the facts constituting the supporting evidence (the *[[Page-47|facta probantia]]*). We can say that the *elements* of a charge of murder are (1) an unlawful (2) act, (3) performed by the accused (4) with the intention *(see page 85)* to kill, (5) causing (6) the death (7) of a human being. These *elements* are *essential* for every murder charge. They are *requirements of the law*.
+Lawyers find it difficult in their early years in practice to distinguish between the facts which have to be pleaded, the "material facts" (or *facta probanda*), and the facts constituting the supporting evidence (the *facta probantia*). We can say that the *elements* of a charge of murder are (1) an unlawful (2) act, (3) performed by the accused (4) with the intention [[[Page-57|page 85]]] to kill, (5) causing (6) the death (7) of a human being. These *elements* are *essential* for every murder charge. They are *requirements of the law*.
 
-The material facts are therefore the essential legal elements of the particular [[Page-54|cause of action]], charge or defence, stated in such a way that the legal elements are made applicable to the facts of the case concerned. Thus an indictment for murder will charge that "A, on X date at Y place unlawfully and intentionally killed Z, a human being." The details inserted in the place of A, X, Y and Z will be those of the particular case; without those details the indictment contains no more than an academic definition of murder. In other words, the legal elements are not dealt with in an intellectual or academic vacuum. They have to be stated as applying to the particular case you are dealing with; hence the term "material facts". They are *material* because they are legal requirements. They are *facts* because they are applied to a particular case.
+The material facts are therefore the essential legal elements of the particular cause of action, charge or defence, stated in such a way that the legal elements are made applicable to the facts of the case concerned. Thus an indictment for murder will charge that "A, on X date at Y place unlawfully and intentionally killed Z, a human being." The details inserted in the place of A, X, Y and Z will be those of the particular case; without those details the indictment contains no more than an academic definition of murder. In other words, the legal elements are not dealt with in an intellectual or academic vacuum. They have to be stated as applying to the particular case you are dealing with; hence the term "material facts". They are *material* because they are legal requirements. They are *facts* because they are applied to a particular case.
 
 The supporting evidence, also called the evidential facts, consists of the individual pieces of evidence necessary to establish or prove the material facts. The supporting evidence is to be found in the facts and circumstances of the individual case. Naturally the evidence differs from case to case.
 
@@ -49,6 +41,9 @@ The material facts have to be set out in the pleadings in compliance with the ru
 3 It is customary (according to convention) to give details of any demand in the statement of claim but it is generally not required by law or under the rules for a claim to be enforceable.
 
 The distinction between these sources of the obligations to provide certain details in a pleading is emphasised by the different consequences for non-compliance with the obligations imposed by them.
+
+[[[Page-57|page 86]]]
+
 ---
 
 [[Page-56|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-58|Next Page →]]

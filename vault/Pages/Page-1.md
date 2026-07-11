@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 1"
   - "PDF Page 1"
-topics:
-  - constitutional-law
-  - courtroom-protocol
-  - negotiation
-  - protocol-and-ethics
-  - reviews
 ---
 
 ← Start | [[Dashboard|Dashboard]] | [[Page-2|Next Page →]]
@@ -42,10 +36,10 @@ August 2003
 
 The training of advocates has made considerable progress since the publication of the second edition of this book. Consider the following facts:
 
-- In the five or so years up to 2003 the failure rate at the Bar exams was in the region of 40% each year;
-- The people who wrote those examinations were all LLB graduates;
-- The vast majority of those who failed came from disadvantaged backgrounds and the former "homeland" universities;
-- This occurred against the background of an under-representation of black advocates - particularly African advocates - at the Bar.
+- [ ] In the five or so years up to 2003 the failure rate at the Bar exams was in the region of 40% each year;
+- [ ] The people who wrote those examinations were all LLB graduates;
+- [ ] The vast majority of those who failed came from disadvantaged backgrounds and the former "homeland" universities;
+- [ ] This occurred against the background of an under-representation of black advocates - particularly African advocates - at the Bar.
 
 The continuing failure of the Bar's training methods to produce an acceptable pass rate stirred many members of the profession into action. The first edition of this book was my effort to bring our training methods into line with international practice and was published in 2002. It advocated and used, as this edition still does, the "learning-by-doing" method I had learned while teaching in New Zealand. In 2003 the General Council of the Bar (GCB) resolved to extend pupillage from six months to one year and to put greater effort and resources into the training of pupil advocates. In 2004 it implemented the Workbook Programme I had written - taking the "learning-by-doing" method a step further - and it stepped up its advocacy training programme at the same time. The GCB also organised annual training for its advocacy trainers and academic tutors in order to facilitate their teaching. In the space of a year or two everything came together and the failure rate at the Bar exams fell from 40% in 2003 to 20% in 2004, and then it reduced incrementally each year until it stood at below 2% in 2011.
 

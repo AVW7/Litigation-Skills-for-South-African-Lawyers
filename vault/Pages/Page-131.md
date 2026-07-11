@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 131"
   - "PDF Page 131"
-topics:
-  - appeals
-  - evidence
-  - expert-evidence
-  - persuasion
-  - witnesses
 ---
 
 [[Page-130|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-132|Next Page →]]
@@ -33,6 +27,9 @@ Let's assume we are to inspect the scene where our client, Mrs Anne Smith, was i
 - Ask the client to point out where the collision occurred. Mark this as the point of impact on your drawing. Measure the distance from the side of the road to the point of impact. Then measure the distance from the other side to the point of impact. Make sure that your measurements are perpendicular to the side of the road.
 - Make a note of the phasing of the traffic lights. Are there any turning arrows? Make a note and record the duration of each phase of the lights, for example, for how long the turning arrow flashes.
 - Note all obstructions such as trees, shrubs, and bus shelters.
+
+[[[Page-131|page 217]]]
+
 Back at the office or chambers, create as accurate a plan as you can with the information you have obtained at the scene. Measurements and other features or observations may be recorded on a separate document, commonly known as the 'key to the plan'. You should also draft a statement for Mrs Smith incorporating the plan, the key and the photographs you have taken. Remember that she is going to be the witness, not you.
 
 Plans are usually drawn to present a bird's eye view of the scene. Many witnesses have difficulty in dealing with plans of this nature, so care has to be taken to ensure that they know how to deal with your plan. North is always at the top of the page. While plans drawn to scale are not necessary for ordinary matters such as RAF or other motor-collision cases, the use of graph paper may still help you to draw a plan which has things more or less in proportion. If a drawing to scale is required, you will have to employ an expert such as an architect or land surveyor.
@@ -51,7 +48,7 @@ A key should be prepared for each photograph. This should initially be done at t
 
 If the case is about a collision, say, an elderly pensioner living in a rural area was knocked down by a bus, your client may need a lot of help to be able to give his evidence coherently and persuasively. In such a case I would suggest the following process for a set of helpful photographs:
 
-- If it is safe, ask the client to stand at the point of impact, facing the same way he was facing at the moment he was struck by the bus, then take a photograph in the direction from which the bus approached. The photograph should show the client in the road (or wherever he was at the moment of impact) with a view in the direction from which the bus approached. This photograph should show the scene as through the eyes of
+- - [ ] If it is safe, ask the client to stand at the point of impact, facing the same way he was facing at the moment he was struck by the bus, then take a photograph in the direction from which the bus approached. The photograph should show the client in the road (or wherever he was at the moment of impact) with a view in the direction from which the bus approached. This photograph should show the scene as through the eyes of
 
 ---
 

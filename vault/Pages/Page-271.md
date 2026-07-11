@@ -10,14 +10,6 @@ tags:
 aliases:
   - "Page 271"
   - "PDF Page 271"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - argumentation
-  - constitutional-law
-  - evidence
-  - pleadings
 ---
 
 [[Page-270|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-272|Next Page →]]
@@ -39,10 +31,13 @@ The judgment to be taken on appeal should be subjected to close scrutiny before 
 
 Whether leave to appeal is required, depends on the status of the court appealed from. Leaving aside special courts like the Land Claims Court, the Labour Court and the Court of the Patents Commissioner, there are four general levels of appeals:
 
-- A judgment of the Magistrates' Court may be taken on appeal to the High Court. Such an appeal is known as a "Magistrates' Court appeal". The right to appeal is not subject to leave to appeal. The rules relating to time limits and the contents of the notice of appeal can be found in the Magistrates' Courts Act 32 of 1944 and the Magistrates' Courts Rules (mainly Rule 51), but the appeal itself is dealt with according to High Court Rule 49.
-- A judgment of the High Court may be taken on appeal to a Full Court of the division which heard the case. Full Court appeals are regulated by section 20(4) of the Act and High Court Rule 49. Leave to appeal is required from the judge whose decision is to be taken on appeal, or if that judge is unavailable, another judge of the same division. The procedural requirements of Rule 49 have to be complied with.
-- A judgment of the High Court may also be taken on appeal to the Supreme Court of Appeal. These are referred to as "SCA appeals". An appeal to the Supreme Court of Appeal is regulated by section 20(2)(a) and (4) of the Act and Supreme Court of Appeal ("SCA") Rules 4 and 5. This means that leave to appeal is required and that the procedural matters referred to in the SCA Rules have to be complied with. Appeals to the Supreme Court of Appeal are limited by the provision in section 20(2)(a) of the Act. This section is to the effect that an appeal from a single judge has to be referred to the Full Court unless the judge granting leave is of the view that the appeal deserves the attention of the Supreme Court of Appeal.
-- An appeal in a matter involving constitutional principles may be taken to the Constitutional Court directly, that is by way of special leave (a certificate under Constitutional Court Rule 18(6)), or on appeal from the Supreme Court of Appeal. The special rules, functions and procedures of the Constitutional Court are beyond the scope of this book.
+- - [ ] A judgment of the Magistrates' Court may be taken on appeal to the High Court. Such an appeal is known as a "Magistrates' Court appeal". The right to appeal is not subject to leave to appeal. The rules relating to time limits and the contents of the notice of appeal can be found in the Magistrates' Courts Act 32 of 1944 and the Magistrates' Courts Rules (mainly Rule 51), but the appeal itself is dealt with according to High Court Rule 49.
+
+[[[Page-271|page 450]]]
+
+- - [ ] A judgment of the High Court may be taken on appeal to a Full Court of the division which heard the case. Full Court appeals are regulated by section 20(4) of the Act and High Court Rule 49. Leave to appeal is required from the judge whose decision is to be taken on appeal, or if that judge is unavailable, another judge of the same division. The procedural requirements of Rule 49 have to be complied with.
+- - [ ] A judgment of the High Court may also be taken on appeal to the Supreme Court of Appeal. These are referred to as "SCA appeals". An appeal to the Supreme Court of Appeal is regulated by section 20(2)(a) and (4) of the Act and Supreme Court of Appeal ("SCA") Rules 4 and 5. This means that leave to appeal is required and that the procedural matters referred to in the SCA Rules have to be complied with. Appeals to the Supreme Court of Appeal are limited by the provision in section 20(2)(a) of the Act. This section is to the effect that an appeal from a single judge has to be referred to the Full Court unless the judge granting leave is of the view that the appeal deserves the attention of the Supreme Court of Appeal.
+- - [ ] An appeal in a matter involving constitutional principles may be taken to the Constitutional Court directly, that is by way of special leave (a certificate under Constitutional Court Rule 18(6)), or on appeal from the Supreme Court of Appeal. The special rules, functions and procedures of the Constitutional Court are beyond the scope of this book.
 
 The test for leave to appeal - whether there are reasonable prospects of success on appeal - has an influence on the way the application would be phrased. The points raised in the application would not suggest that the judge was wrong; merely that another court could reasonably come to a different conclusion.
 

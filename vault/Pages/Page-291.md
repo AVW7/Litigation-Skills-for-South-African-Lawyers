@@ -2,7 +2,7 @@
 title: "1.5 Statement of Simon Reddy"
 pdfPage: 291
 printedPage: 484
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -35,6 +35,9 @@ I warned the accused in terms of the Judge's Rules and he elected not to say any
 At the police station I searched the accused before placing him in the cells. I found R45.00 in banknotes in his trousers pocket. He had no other money on him.
 
 I entered the two backpacks in the SAP 13 register and opened a docket.
+
+[[[Page-291|page 484]]]
+
 I warned the accused in terms of the Judges Rules and after he had indicated that he understood his rights, he elected not to make a statement.
 
 Later the same day I took a statement from Ms Delamere, entered in the docket as 'A1'.

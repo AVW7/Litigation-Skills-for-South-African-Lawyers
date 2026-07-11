@@ -10,8 +10,6 @@ tags:
 aliases:
   - "Page 8"
   - "PDF Page 8"
-topics:
-  - theory-of-case
 ---
 
 [[Page-7|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-9|Next Page →]]
@@ -28,11 +26,14 @@ Stage 3: Dealing with preliminary matters
 
 Stage 4: Establishing the facts in chronological order
 
-Stage 5: Developing a preliminary [[Page-115|theory of the case]]
+Stage 5: Developing a preliminary theory of the case
 
 Stage 6: Giving preliminary advice
 
 Stage 7: Concluding the interview.
+
+[[[Page-8|page 5]]]
+
 ### 1.2.1 Stage 1: Meeting the client and exchanging pleasantries
 
 Now let's get back to the client who is waiting in our reception room. She has arrived in some distress. There are other clients present. Where do you think the client would prefer to be? What do you think good manners and sound business practice dictate? First impressions are usually lasting ones.
@@ -53,11 +54,11 @@ If you had advance notice of the client's appointment, you may have received som
 
 A client's problems and goals cannot always be identified with certainty at the beginning of an interview. The most you can hope for is that you may get a good idea of how the client sees the problem and what outcome the client would like to achieve. Suppose the client says:
 
-'I don't know what to do. My husband was killed in a collision. My children and I have been injured. They are still in hospital. The bills are mounting up. The hospital wants more *(see page 6)* money now and I just don't have any left. My brother-in-law is the executor of my husband's estate. He says he cannot let me have any money from my husband's life policy until the estate has been finalised, even though the policy belongs to me. I just don't know where to turn. I need money urgently.'
+'I don't know what to do. My husband was killed in a collision. My children and I have been injured. They are still in hospital. The bills are mounting up. The hospital wants more [[[Page-8|page 6]]] money now and I just don't have any left. My brother-in-law is the executor of my husband's estate. He says he cannot let me have any money from my husband's life policy until the estate has been finalised, even though the policy belongs to me. I just don't know where to turn. I need money urgently.'
 
 It is obvious that our client needs advice urgently. The interview will therefore have to be conducted with the aim of gathering enough information to enable you to give her some preliminary advice before the interview is concluded. There are quite a few problems apparent at first blush. For each problem you will be required to establish the legal principles involved, as well as the relevant facts, before you can give the client sensible advice. You may even wish to refer some questions to an advocate for advice or to a partner in your firm who specialises in a different branch of the law. So what problems do we see here? Consider the following:
 
-- There may be a loss of support claim against the Road Accident Fund (the RAF) for the widow and her children
+- [ ] There may be a loss of support claim against the Road Accident Fund (the RAF) for the widow and her children
 
 ---
 

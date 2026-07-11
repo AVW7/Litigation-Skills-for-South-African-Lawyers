@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 252"
   - "PDF Page 252"
-topics:
-  - appeals
-  - argumentation
-  - courtroom-protocol
-  - persuasion
-  - protocol-and-ethics
 ---
 
 [[Page-251|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-253|Next Page →]]
@@ -24,8 +18,8 @@ topics:
 
 matter down to the end of the unopposed list. In some divisions there is a dedicated court for opposed motions.
 
-- Counsel has the right and the duty to raise every question or point which could reasonably be advanced in favour of the client's case, whether the point appeals to counsel or not. Cases are often decided on points that appeal to the judge more than to counsel; conversely, judges are often not persuaded by points of great appeal to counsel arguing them.
-- As curator ad litem counsel carries a heavier burden than usual. The curator has to investigate the facts and the law on behalf of the court and present an objective appraisal of the matter to the court. Counsel who is briefed as curator, is not beholden to the party who sent them the brief; counsel instead acts as amicus curiae in the interests of the person suffering from the disability. When acting in this capacity, counsel would be entitled to place his or her own views before the court as well as to make submissions with regard to the facts and the law. In short, counsel has to make an independent assessment of whether the patient needs a curator bonis and place all the relevant material necessary for a decision on that score before the court if the applicant has not already done so. (See the checklist earlier in this chapter.)
+- [ ] Counsel has the right and the duty to raise every question or point which could reasonably be advanced in favour of the client's case, whether the point appeals to counsel or not. Cases are often decided on points that appeal to the judge more than to counsel; conversely, judges are often not persuaded by points of great appeal to counsel arguing them.
+- [ ] As curator ad litem counsel carries a heavier burden than usual. The curator has to investigate the facts and the law on behalf of the court and present an objective appraisal of the matter to the court. Counsel who is briefed as curator, is not beholden to the party who sent them the brief; counsel instead acts as amicus curiae in the interests of the person suffering from the disability. When acting in this capacity, counsel would be entitled to place his or her own views before the court as well as to make submissions with regard to the facts and the law. In short, counsel has to make an independent assessment of whether the patient needs a curator bonis and place all the relevant material necessary for a decision on that score before the court if the applicant has not already done so. (See the checklist earlier in this chapter.)
 
 ## 22.8 Checklist and assessment guide
 
@@ -36,6 +30,9 @@ If the checklist were to be used as a marking guide, the best way to go about th
 C = Competent (meaning that the performer has attained the desired standard of competency in respect of the skill involved).
 
 NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
+
+[[[Page-252|page 415]]]
+
 Table 22.12 Checklist for opposed motion
 
 |   | Skill involved | Competent/ Not yet competent  |
@@ -51,7 +48,7 @@ Table 22.12 Checklist for opposed motion
 |  9 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the judge - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom |   |
 
 ## Chapter 23
-[[Page-186|Persuasive advocacy]]: Substance and style
+Persuasive advocacy: Substance and style
 
 ---
 

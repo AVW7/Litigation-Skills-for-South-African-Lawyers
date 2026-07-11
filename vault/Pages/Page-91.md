@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 91"
   - "PDF Page 91"
-topics:
-  - applications
-  - cause-of-action
-  - exceptions
-  - pleadings
-  - protocol-and-ethics
 ---
 
 [[Page-90|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-92|Next Page →]]
@@ -23,6 +17,9 @@ topics:
 ---
 
 [ address and details as per Rule 6(5)(d)]
+
+[[[Page-91|page 147]]]
+
 ### 8.3 Further pleadings
 
 The most common replication introduces a confession and avoidance in response to allegations made in the plea. The result is that the 'avoidance' part of the replication may introduce new facts to justify the plaintiff's original claims, or to avoid the conclusion contended for by the defendant in the plea. When new facts are introduced in this way, there may be some scope for the new allegations in the replication to be met in turn by a confession and avoidance. Further pleadings may then be delivered. These are called, in the order that they may appear after the replication, a 'rejoinder', 'surrejoinder', 'rebutter' and 'surrebutter' respectively.
@@ -44,7 +41,7 @@ The same principles apply as for statements of claim and pleas.
 |  9.1 | Introduction  |
 | --- | --- |
 |  9.2 | Exceptions  |
-|  9.2.1 | The purpose of an [[Page-75|exception]]  |
+|  9.2.1 | The purpose of an exception  |
 |  9.2.2 | When an exception can and should be taken  |
 |  9.2.3 | The procedure for an exception  |
 |  9.2.4 | The form, format and style of an exception  |
@@ -56,9 +53,12 @@ The same principles apply as for statements of claim and pleas.
 |  9.5.3 | Responding to the objection to the charge  |
 |  9.5.4 | Sections 89 to 104  |
 |  9.6 | Protocol and ethics  |
+
+[[[Page-91|page 149]]]
+
 ### 9.1 Introduction
 
-An *exception* is a defence or answer of a legal nature; it does not rely on any new or additional facts. The exception procedure is used when a statement of claim or a plea is on the face of it defective. That means that the pleading concerned cannot on any reasonable interpretation deliver what it is supposed to deliver, namely, an identifiable and recognised [[Page-54|cause of action]] or defence. One can then take a legal point by way of an exception in order to bring an early end to the proceedings or to dispose of a substantial part of the matter without having to go to trial.
+An *exception* is a defence or answer of a legal nature; it does not rely on any new or additional facts. The exception procedure is used when a statement of claim or a plea is on the face of it defective. That means that the pleading concerned cannot on any reasonable interpretation deliver what it is supposed to deliver, namely, an identifiable and recognised cause of action or defence. One can then take a legal point by way of an exception in order to bring an early end to the proceedings or to dispose of a substantial part of the matter without having to go to trial.
 
 An *application to strike out*, on the other hand, is an interlocutory application designed to set aside a pleading
 

@@ -10,18 +10,6 @@ tags:
 aliases:
   - "Page 148"
   - "PDF Page 148"
-topics:
-  - cross-examination
-  - damages
-  - discovery
-  - evidence
-  - expert-evidence
-  - fact-analysis
-  - onus
-  - opening-statement
-  - pleadings
-  - theory-of-case
-  - witnesses
 ---
 
 [[Page-147|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-149|Next Page →]]
@@ -30,11 +18,14 @@ topics:
 
 |   | 'Not guilty'. 3 Ascertain the precise legal content or meaning of each material fact in issue. |   |
 | --- | --- | --- |
-|  4 | *Ascertain the propositions of fact to support each material fact in issue.* 1 These facts are arrived at as deductions from the available evidence. 2 Some facts may also be arrived at as valid deductions from other facts. | [[Page-115|Fact analysis]]. Analysis of legal documents.  |
+|  4 | *Ascertain the propositions of fact to support each material fact in issue.* 1 These facts are arrived at as deductions from the available evidence. 2 Some facts may also be arrived at as valid deductions from other facts. | Fact analysis. Analysis of legal documents.  |
 |  5 | *Determine what evidence is available for each proposition of fact by way of:* 1 oral evidence; 2 exhibits (including documents); and 3 admissions. | Fact analysis. Analysis of legal documents.  |
 |  6 | *Consider the admissibility, reliability and sufficiency of the evidence.* 1 Deal with all admissibility problems. 2 Consider the reliability of the evidence. 3 Consider whether the available evidence is sufficient, having regard to the incidence of the onus of proof and the standard of proof required (*prima facie*, balance of probability or beyond reasonable doubt). | Fact analysis. Legal research.  |
-|  7 | *Develop a [[Page-115|theory of the case]].* 1 Identify the central issue in the case. 2 State your position on that issue. 3 State the main facts supporting your position on the central issue. 4 Identify the opposition's theory. 5 Discredit the opposition's theory. | Logic  |
-|  8 | *Develop appropriate tactics to pursue the theory of the case.* 1 Decide which witnesses to call. 2 Decide which exhibits to prove. 3 Prepare a timeline for each witness. 4 Anticipate who the other side's witnesses will be. 5 Prepare themes for the [[Page-145|cross-examination]] of each opposition witness. 6 Prepare an [[Page-131|opening statement]]. 7 Prepare a closing address (in draft). | Trial tactics.  |
+|  7 | *Develop a theory of the case.* 1 Identify the central issue in the case. 2 State your position on that issue. 3 State the main facts supporting your position on the central issue. 4 Identify the opposition's theory. 5 Discredit the opposition's theory. | Logic  |
+|  8 | *Develop appropriate tactics to pursue the theory of the case.* 1 Decide which witnesses to call. 2 Decide which exhibits to prove. 3 Prepare a timeline for each witness. 4 Anticipate who the other side's witnesses will be. 5 Prepare themes for the cross-examination of each opposition witness. 6 Prepare an opening statement. 7 Prepare a closing address (in draft). | Trial tactics.  |
+
+[[[Page-148|page 244]]]
+
 The steps taken by counsel in his or her preparation for trial should be recorded in counsel's trial notebook. (See paragraph 14.8.) The use of computers makes it easy to do the analysis with the use of columns and tables. You could be faced with thousands of documents, hordes of witnesses, numerous issues and multiple parties. However, for the type of case that comes before the courts every day, a simple plan that is executed diligently will be sufficient. Remember, although personal computers and litigation support software can help you to record, organise and recall the available information, they cannot do the *thinking* for you. You still have to analyse the information yourself.
 
 The case of our client, Mrs Smith, can be used as our vehicle of instruction. She has sued for the damage to her car. The pleadings are closed, both sides have completed the discovery process and proper expert notices, summaries and other notices have been served. The brief to counsel contains written statements of potential witnesses as well as the police plan and some photographs of the scene and the plaintiff's car. The case is therefore ready to proceed.

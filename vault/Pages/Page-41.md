@@ -10,16 +10,6 @@ tags:
 aliases:
   - "Page 41"
   - "PDF Page 41"
-topics:
-  - contract
-  - discovery
-  - evidence
-  - expert-evidence
-  - negotiation
-  - pleadings
-  - protocol-and-ethics
-  - settlement
-  - theory-of-case
 ---
 
 [[Page-40|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-42|Next Page →]]
@@ -27,15 +17,18 @@ topics:
 ---
 
 evidence is there to support the client's claims, defences or objectives?
-- Your analysis of the law: What legal principles are involved? How do they affect the strength of the client's case?
+
+[[[Page-41|page 57]]]
+
+- [ ] Your analysis of the law: What legal principles are involved? How do they affect the strength of the client's case?
 
 These three elements are inextricably linked to each other; what the client wants determines what facts are relevant, and the same principle applies to the law. This analysis is done exactly as for a trial. One simply cannot conduct negotiations for a possible settlement of a dispute properly without knowing exactly how the same dispute could be dealt with by taking it to trial.
 
 ### 3.5.3 Anticipating the opposition's case
 
-There is one important caveat, however: where litigants enter into negotiations before the case is ready for trial, in a [[Page-30|negotiation]] neither side will have had the benefit of the other's pleadings, discovery, further particulars or expert reports. One enters the negotiations in these instances with less knowledge of the overall case than one would have in the litigation process. To overcome this shortcoming, one needs to anticipate the case for the opposition. What stance are they likely to take? What facts or evidence could they have that you do not have? What surprises could there be in store for you?
+There is one important caveat, however: where litigants enter into negotiations before the case is ready for trial, in a negotiation neither side will have had the benefit of the other's pleadings, discovery, further particulars or expert reports. One enters the negotiations in these instances with less knowledge of the overall case than one would have in the litigation process. To overcome this shortcoming, one needs to anticipate the case for the opposition. What stance are they likely to take? What facts or evidence could they have that you do not have? What surprises could there be in store for you?
 
-In some cases the prior events and exchanges between the parties will allow a fairly accurate assessment of the other side's case and their likely attitude at the negotiation. Where that is not the case, it might be advisable to insist on an exchange of information before the proposed negotiation takes place. In either event, the case for the other side should be carefully considered and ways found to answer it. This is again done in much the same way as when preparing for a trial; one has to find and develop a [[Page-115|theory of the case]] which is cohesive, comprehensive and convincing, taking account of all the known facts and circumstances, including those which favour the opposition. If one cannot find an answer for the opponent's case, it probably means that they have a good case and they will be unlikely to settle on terms that are unfavourable to them.
+In some cases the prior events and exchanges between the parties will allow a fairly accurate assessment of the other side's case and their likely attitude at the negotiation. Where that is not the case, it might be advisable to insist on an exchange of information before the proposed negotiation takes place. In either event, the case for the other side should be carefully considered and ways found to answer it. This is again done in much the same way as when preparing for a trial; one has to find and develop a theory of the case which is cohesive, comprehensive and convincing, taking account of all the known facts and circumstances, including those which favour the opposition. If one cannot find an answer for the opponent's case, it probably means that they have a good case and they will be unlikely to settle on terms that are unfavourable to them.
 
 ### 3.5.4 Preparing for the negotiation
 
@@ -43,14 +36,17 @@ The preparation up to this stage ought to enable you to devise a strategy for th
 
 Your plan or strategy for the negotiation should include notes on the following:
 
-- What is the client's bottom line, meaning what is the absolute minimum the client should accept or the maximum he or she should concede?
-- What concessions do you anticipate you are going to have to make in order to achieve your client's objectives?
-- What other concessions will you be prepared to make in order to achieve those objectives?
-- What concessions will you require the other side to make in exchange for the concessions you are to make?
-- Are you going to adopt a competitive or co-operative style? Or are you going to negotiate aggressively at the start but mellow into a more co-operative style during the negotiations if the competitive style does not work? Are you going to adopt the positional rather than the problem-solving approach? What possible response should you prepare for the style or approach the other side may adopt?
-- What are you going to do if your client's bottom line is not acceptable to the other side?
-- What tactical considerations can you bring to bear on this negotiation?
-- As you prepare through each of the preceding steps, you will become steadily better prepared for the negotiation meeting.
+- [ ] What is the client's bottom line, meaning what is the absolute minimum the client should accept or the maximum he or she should concede?
+- [ ] What concessions do you anticipate you are going to have to make in order to achieve your client's objectives?
+- [ ] What other concessions will you be prepared to make in order to achieve those objectives?
+- [ ] What concessions will you require the other side to make in exchange for the concessions you are to make?
+- [ ] Are you going to adopt a competitive or co-operative style? Or are you going to negotiate aggressively at the start but mellow into a more co-operative style during the negotiations if the competitive style does not work? Are you going to adopt the positional rather than the problem-solving approach? What possible response should you prepare for the style or approach the other side may adopt?
+
+[[[Page-41|page 58]]]
+
+- [ ] What are you going to do if your client's bottom line is not acceptable to the other side?
+- [ ] What tactical considerations can you bring to bear on this negotiation?
+- [ ] As you prepare through each of the preceding steps, you will become steadily better prepared for the negotiation meeting.
 
 ### 3.5.5 Conducting the negotiation
 

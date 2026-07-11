@@ -10,15 +10,6 @@ tags:
 aliases:
   - "Page 269"
   - "PDF Page 269"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - argumentation
-  - evidence
-  - persuasion
-  - protocol-and-ethics
-  - reviews
 ---
 
 [[Page-268|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-270|Next Page →]]
@@ -65,15 +56,18 @@ CONTENTS
 25.8.2 The seven deadly sins
 25.9 Protocol and ethics
 25.10 Checklist and assessment guide
+
+[[[Page-269|page 447]]]
+
 25.1 Introduction
 
 An appeal is the rehearing of the case by a higher court to determine whether the judgment (or order) appealed against, was correct. For counsel the appeal process starts with analysis of the judgment to be appealed against and ends with the presentation of oral argument in the court hearing the appeal. In between are a number of steps requiring special skills and techniques. The stages in the conduct of an appeal are -
 
-- analysing the judgment;
-- drafting an application for leave to appeal;
-- preparing and presenting argument on an application for leave to appeal;
-- drafting an application for special leave to appeal;
-- drafting a notice of appeal;
+- [ ] analysing the judgment;
+- [ ] drafting an application for leave to appeal;
+- [ ] preparing and presenting argument on an application for leave to appeal;
+- [ ] drafting an application for special leave to appeal;
+- [ ] drafting a notice of appeal;
 
 ---
 

@@ -10,13 +10,6 @@ tags:
 aliases:
   - "Page 275"
   - "PDF Page 275"
-topics:
-  - appeals
-  - argumentation
-  - contract
-  - evidence
-  - persuasion
-  - sentencing
 ---
 
 [[Page-274|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-276|Next Page →]]
@@ -29,6 +22,9 @@ topics:
 |  NOTICE OF APPEAL | You could add 'IN TERMS OF RULE 49(3)' to the title bar of the document.  |
 |  To: The Registrar [address] And to: Pillay and Co Respondent's Attorneys [address and details as per Rule 6(5)(d)] |   |
 |  TAKE NOTICE that the appellant, having been granted leave to appeal on the ... day of ..., [year] by His Lordship Mr Justice [name of judge] hereby notes an appeal to the Full Court of the [name of division] against the whole of the judgment of His Lordship granted in this action on the 1st day of May, [year] and in which judgment was granted in favour of the respondent for payment of the sum of R1 000 000.00, interest and costs. | 1 Rule 49(3) requires the appellant to state whether the whole of the judgment is appealed against, and if not, what part of the judgment. 2 In criminal cases the notice has to state whether the appeal is against the conviction or sentence or both.  |
+
+[[[Page-275|page 458]]]
+
 |  Text of notice of appeal | Comment  |
 | --- | --- |
 |  TAKE FURTHER NOTICE that the appeal is directed against the following findings of fact: 1 His Lordship's finding that PETER JONES had been properly authorised to represent the appellant in concluding the contract sued upon. 2 His Lordship's findings that - 2.1 the appellant had represented to the respondent that PETER JONES was its authorised agent; 2.2 that the respondent had acted on the said representation to its prejudice; and 2.3 that the appellant was therefore estopped from denying the authority of PETER JONES. | Rule 49(3) requires the findings of fact or law appealed against to be stated in the notice.  |
@@ -36,6 +32,9 @@ topics:
 |  DATED AT [place] this ... day of ..., [year]. |   |
 |  Signature Appellant's Attorney's name (printed) |   |
 |  Van der Merwe and Partners Appellant's Attorneys [address and details as per Rule 6(5)(b)] | **Note:** If this were an appeal to the Supreme Court of Appeal, a certified copy of the order granting leave should be attached in terms of SCA Rule 7(3). The rest of the notice would also have to be adapted where appropriate, particularly by stating what order should have been granted by the court *a quo*.  |
+
+[[[Page-275|page 459]]]
+
 ## 25.6 Preparing heads of argument
 
 Preparing heads of argument for an appeal inevitably requires counsel to prepare for the appeal itself as the heads of argument are a summary of the argument to be presented to the appeal court. Preparing an argument is a rather personal process. Every lawyer has his or her own way of doing this. However, there are certain formal requirements for heads of argument that could influence the way counsel prepares the argument and consequently the heads.

@@ -2,7 +2,7 @@
 title: "Page 301"
 pdfPage: 301
 printedPage: 299
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,21 +10,6 @@ tags:
 aliases:
   - "Page 301"
   - "PDF Page 301"
-topics:
-  - applications
-  - argumentation
-  - cause-of-action
-  - circumstantial-evidence
-  - closing-argument
-  - constitutional-law
-  - cross-examination
-  - evidence
-  - fraud
-  - motion-court
-  - negligence
-  - pleadings
-  - protocol-and-ethics
-  - witnesses
 ---
 
 [[Page-300|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-302|Next Page →]]
@@ -40,7 +25,7 @@ statutory requirements, 123, 159-160
 summons, charge sheet or indictment setting out, 83, 95, 123  
 theft, 124
 
-[[Page-100|Circumstantial evidence]], 10, 210
+Circumstantial evidence, 10, 210
 
 Citation of legal authorities, 282-283
 
@@ -52,7 +37,7 @@ Close of pleadings, 147
 
 Closed questions, 9, 308-309
 
-[[Page-174|Closing argument]]  
+Closing argument  
 checklist and assessment guide, 395-396  
 dealing with issues in turn, 382-384  
 discrediting opposition argument, 392  
@@ -91,7 +76,7 @@ Confronting witness, 333-334
 
 Constitution  
 just administrative action, 438  
-[[Page-179|Motion Court]] practices, 400-401  
+Motion Court practices, 400-401  
 notice of charge in criminal case, 123
 
 Consultation or conference with counsel, 21-22
@@ -99,19 +84,19 @@ Consultation or conference with counsel, 21-22
 Contemporaneous records, 362
 
 Contractual claim  
-[[Page-54|cause of action]], 97  
+cause of action, 97  
 fraud as defence, 125  
 material facts, 86-87  
 special procedural requirements, 97, 127
 
 Contribution third-party claim, 112-117
 
-[[Page-66|Contributory negligence]]  
+Contributory negligence  
 negligent driving claim, 136, 259  
 pleading, 136  
 request for further particulars, 199-200
 
-Corruption [[Page-145|cross-examination]], 327, 343
+Corruption cross-examination, 327, 343
 
 ---
 

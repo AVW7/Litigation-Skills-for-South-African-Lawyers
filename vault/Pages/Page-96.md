@@ -10,11 +10,6 @@ tags:
 aliases:
   - "Page 96"
   - "PDF Page 96"
-topics:
-  - applications
-  - evidence
-  - exceptions
-  - pleadings
 ---
 
 [[Page-95|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-97|Next Page →]]
@@ -22,9 +17,12 @@ topics:
 ---
 
 application with or without leave to the other party to amend the offending pleading.
+
+[[[Page-96|page 157]]]
+
 **Table 9.3** Comparing exceptions and applications to strike out under Rules 23(2) and 30
 
-|   | [[Page-75|Exception]] under Rule 23(1) | Application under Rule 23(2) | Application under Rule 30  |
+|   | Exception under Rule 23(1) | Application under Rule 23(2) | Application under Rule 30  |
 | --- | --- | --- | --- |
 |  **When to be made** | 1 When the pleading does not disclose a claim or defence. 2 When the pleading is vague and embarrassing and a notice to cure the defect has been ignored. | When the pleading contains scandalous, vexatious or irrelevant matter and the inclusion of that matter will cause prejudice. | When the pleading (or other proceeding) is irregular in form; when it fails to comply with the requirements of the rules and the irregularity or failure causes prejudice.  |
 |  **Purpose** | To obtain a decision without evidence on the question whether there is a *prima facie* claim or defence. | To remove the offending matter and prevent prejudice. | To force compliance with the rules of pleading in order to remove the prejudice.  |
@@ -32,6 +30,9 @@ application with or without leave to the other party to amend the offending plea
 |  **Its consequences if not opposed** | Claim or defence may be struck out. | Offending matter may be struck out. | The offending pleading (or other proceeding) may be struck out.  |
 |  **Response** | An amendment | An amendment. | An amendment.  |
 |  **Consequences of not pursuing it** | Adverse costs order at trial. | The prejudice remains. | The prejudice remains.  |
+
+[[[Page-96|page 158]]]
+
 ## 9.5 Objection to a charge in criminal proceedings
 
 ### 9.5.1 Introduction

@@ -2,7 +2,7 @@
 title: "Page 316"
 pdfPage: 316
 printedPage: 314
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,23 +10,6 @@ tags:
 aliases:
   - "Page 316"
   - "PDF Page 316"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - argumentation
-  - cause-of-action
-  - closing-argument
-  - cross-examination
-  - evidence
-  - jurisdiction
-  - locus-standi
-  - pleadings
-  - protocol-and-ethics
-  - sentencing
-  - settlement
-  - theory-of-case
-  - urgent-applications
 ---
 
 [[Page-315|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-317|Next Page →]]
@@ -53,7 +36,7 @@ Set-off, 127
 
 Settlement
 
-[[Page-92|advice on evidence]], 197-198
+advice on evidence, 197-198
 
 Sex crime
 
@@ -63,13 +46,13 @@ evidence of prior sexual experience or conduct, 24-25
 
 Shoplifting
 
-[[Page-174|closing argument]], 386-387
+closing argument, 386-387
 
-[[Page-145|cross-examination]], 336-337, 338
+cross-examination, 336-337, 338
 
 opening address for prosecution, 289-293
 
-[[Page-115|theory of the case]], 263
+theory of the case, 263
 
 trial preparation exercise, 481-492
 
@@ -99,7 +82,7 @@ what works and what does not, 434
 
 Special leave to appeal, 453-455
 
-[[Page-66|Special pleas]], 138-140
+Special pleas, 138-140
 
 Specific performance, 264
 
@@ -127,7 +110,7 @@ written opinion, 40
 
 Statement of claim
 
-[[Page-54|cause of action]], 97
+cause of action, 97
 
 compliance with special procedural requirements, 97-98
 
@@ -143,7 +126,7 @@ jurisdiction, 96-97
 
 liquidated claim, 95
 
-*[[Page-41|locus standi]]*, 96
+*locus standi*, 96
 
 material facts see Material facts
 

@@ -2,7 +2,7 @@
 title: "Application to strike out"
 pdfPage: 300
 printedPage: 298
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,20 +10,6 @@ tags:
 aliases:
   - "Page 300"
   - "PDF Page 300"
-topics:
-  - applications
-  - arbitration
-  - burden-of-proof
-  - cause-of-action
-  - cross-examination
-  - evidence
-  - exceptions
-  - expert-evidence
-  - pleadings
-  - protocol-and-ethics
-  - theory-of-case
-  - urgent-applications
-  - witnesses
 ---
 
 [[Page-299|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-301|Next Page →]]
@@ -43,23 +29,23 @@ urgent application see Urgent application
 
 # Application to strike out
 
-[[Page-75|exception]] distinguished, 149, 157  
+exception distinguished, 149, 157  
 irregular proceedings, 149, 156  
 scandalous, vexatious or irrelevant matter, 149, 155-156  
 table of comparison, 157
 
-[[Page-30|Arbitration]], 46-48
+Arbitration, 46-48
 
 Archaic words, 422
 
 # Assault
 
-[[Page-115|theory of the case]], 260, 263, 264
+theory of the case, 260, 263, 264
 
 # Assembling evidence
 
-[[Page-100|demonstrative exhibit]]s, 216-219  
-experts see [[Page-100|Expert witness]]  
+demonstrative exhibits, 216-219  
+experts see Expert witness  
 inspecting documents and examining exhibits, 213-214  
 inspections *in loco*, 215-216  
 medical file, 213  
@@ -80,7 +66,7 @@ Authority to act, 17
 
 # Ballistics expert
 
-[[Page-145|cross-examination]], 334
+cross-examination, 334
 
 # Bias
 
@@ -94,7 +80,7 @@ Bowing, rising, standing, 276
 
 # Burden of proof
 
-[[Page-92|advice on evidence]], 194
+advice on evidence, 194
 
 # **C**
 

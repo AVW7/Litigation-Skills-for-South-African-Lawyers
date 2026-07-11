@@ -2,7 +2,7 @@
 title: "1.7 Medico-legal report of Dr I Stone"
 pdfPage: 292
 printedPage: 485
-chapter: "Appendices"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -20,6 +20,9 @@ aliases:
 | --- | --- |
 |  I told her that I had thought it was my own backpack I was carrying but she was not interested in what I had to say. She said it was unfortunately the store's policy to prosecute and told me to wait for the police. | told me about store policy  |
 |  I don't really know how I made the mistake. I am colour-blind. My type of colour-blindness makes it impossible for me to get a driver's licence because I cannot distinguish between brown and red. Our family doctor knows all about it. His name is Dr Stone. I can get you his phone number. | colour-blind  |
+
+[[[Page-292|page 485]]]
+
 |  Statement | Timeline  |
 | --- | --- |
 |  To me the two backpacks look the same. I had a really good look at the police station and could not see any significant differences between them. I had not noticed any difference in weight or texture as the store's backpack was filled with crumpled paper. | comment on backpacks weight texture appearance  |

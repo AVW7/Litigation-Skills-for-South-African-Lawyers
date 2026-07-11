@@ -10,24 +10,17 @@ tags:
 aliases:
   - "Page 281"
   - "PDF Page 281"
-topics:
-  - appeals
-  - applications
-  - argumentation
-  - evidence
-  - fact-analysis
-  - persuasion
 ---
 
 [[Page-280|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-282|Next Page →]]
 
 ---
 
-- a complete understanding of the opposing argument;
-- flexibility;
-- insight and courage;
-- anticipation; and
-- tact.
+- [ ] a complete understanding of the opposing argument;
+- [ ] flexibility;
+- [ ] insight and courage;
+- [ ] anticipation; and
+- [ ] tact.
 
 ### **25.7.1 Mastery of the materials**
 
@@ -35,7 +28,7 @@ The primary material of the appeal is the record of the case and the judgment. S
 
 When the appeal is either obviously good or obviously bad, the judges are likely to find that out in the course of their own preparation. The result may well be that the argument for the one side in the appeal is going to be subjected to close scrutiny. That, in turn, might result in an uncomfortable time for the advocate on that side when he or she rises to face the judges. There is only one counter to this imbalance; you need to be thoroughly familiar with the material before the court.
 
-Familiarity with the material before the court enables counsel to respond quickly and persuasively when a judge asks a question. It might be that the appeal turns on a question which troubles the judges or a particular judge; if a persuasive answer can be given to that question counsel may have gone some way towards turning the appeal in his or her client's favour. This cannot be done unless counsel has the facts and the law of the case at his or her fingertips. This takes hard work, a good memory and good notes. This works starts with a careful reading of the record, making notes as you go and cross-referencing relevant parts of the evidence. A complete [[Page-115|fact analysis]] has to be done. Counsel should be able to put his or her finger on relevant evidence in the record at a moment's notice.
+Familiarity with the material before the court enables counsel to respond quickly and persuasively when a judge asks a question. It might be that the appeal turns on a question which troubles the judges or a particular judge; if a persuasive answer can be given to that question counsel may have gone some way towards turning the appeal in his or her client's favour. This cannot be done unless counsel has the facts and the law of the case at his or her fingertips. This takes hard work, a good memory and good notes. This works starts with a careful reading of the record, making notes as you go and cross-referencing relevant parts of the evidence. A complete fact analysis has to be done. Counsel should be able to put his or her finger on relevant evidence in the record at a moment's notice.
 
 ### **25.7.2 Mastery of your argument**
 
@@ -43,7 +36,7 @@ You need to understand the strengths and weaknesses of your case. You also need 
 
 The structure of your argument should be in the forefront of your mind throughout. You need to know at every stage of the argument how important the point you are making is in the overall context of the appeal. Keep the following questions in mind all the time: What is the point? Where are you going with it? What facts or principles are crucial for its acceptance? What happens if the court is against you on this point?
 
-In the presentation of the argument itself, the stepped processes for submissions of fact and submissions of law described earlier should be used. Each point should be *(see page 469)* developed separately. The suggested conclusion on each point or issue should be given to the court before you move on to the next point.
+In the presentation of the argument itself, the stepped processes for submissions of fact and submissions of law described earlier should be used. Each point should be [[[Page-281|page 469]]] developed separately. The suggested conclusion on each point or issue should be given to the court before you move on to the next point.
 
 The Supreme Court of Appeal attaches more importance to academic theses than other courts and often decides appeals on the strength of the research and recommendations in a doctoral thesis. A visit to the court's library can pay dividends.
 

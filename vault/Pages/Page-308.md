@@ -2,7 +2,7 @@
 title: "Page 308"
 pdfPage: 308
 printedPage: 306
-chapter: "Index"
+chapter: "Chapter 25: Appeals"
 tags:
   - page
   - litigation-skills
@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 308"
   - "PDF Page 308"
-topics:
-  - appeals
-  - argumentation
-  - jurisdiction
-  - protocol-and-ethics
-  - sentencing
 ---
 
 [[Page-307|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-309|Next Page →]]

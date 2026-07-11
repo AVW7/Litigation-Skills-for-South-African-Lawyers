@@ -10,9 +10,6 @@ tags:
 aliases:
   - "Page 74"
   - "PDF Page 74"
-topics:
-  - contract
-  - pleadings
 ---
 
 [[Page-73|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-75|Next Page →]]
@@ -21,6 +18,9 @@ topics:
 
 |  7.7 | purchase price, interest and costs from the defendant. |   |
 | --- | --- | --- |
+
+[[[Page-74|page 115]]]
+
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 |  8 | In the event of - |   |
@@ -31,6 +31,9 @@ topics:
 |  10 | In terms of the partnership agreement the defendant, the first third party and the second third party: (a) were to make equal contributions to the partnership business; (b) were to be entitled to equal shares of the profits made by it; and (c) were to be liable in equal shares for its expenses, debts and losses. |   |
 |  11 | The contract sued upon by the plaintiff was concluded and performed by the plaintiff during the currency of the partnership. |   |
 |  12 | In the premises the defendant will, upon payment of the amount awarded to the plaintiff, interest and costs, be entitled to an equal contribution from each of the third parties, namely one-third of the amount paid by the defendant to the plaintiff pursuant to the court's judgment. | 1 Further research into the law of partnership disclosed that a partner who pays a valid debt of the erstwhile partnership has a right to a contribution from the other erstwhile partners. There is no right to a contribution before payment. 2 The general principle is that debtors who are jointly and severally liable have a right of contribution amongst themselves. The contribution is determined according to their number. The principle differs in the law of partnership. 3 For example, debtors who are jointly and severally liable, are entitled to a contribution from each other on a simple basis. If there are three debtors, each is liable to contribute a third, and the one who pays the whole debt may recover a third from each of the others. If there are four, then the division is as to a fourth, and so on.  |
+
+[[[Page-74|page 116]]]
+
 |  Par | Text of pleading | Comment  |
 | --- | --- | --- |
 |   |  | 4 Partners have to contribute according to the proportion they have to share in the losses of the partnership in terms of the partnership agreement. This could, for example, be 40%, 30% and 30% respectively, instead of one third each.  |

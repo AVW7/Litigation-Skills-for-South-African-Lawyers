@@ -10,12 +10,6 @@ tags:
 aliases:
   - "Page 250"
   - "PDF Page 250"
-topics:
-  - affidavits
-  - applications
-  - evidence
-  - jurisdiction
-  - locus-standi
 ---
 
 [[Page-249|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-251|Next Page →]]
@@ -28,7 +22,7 @@ The following checklist may be used for the *curator ad litem*'s report in a Rul
 
 - Ensure that there is a valid order for your appointment and that you have a brief.
 - Check whether the applicant has complied with the requirements of Rule 57 generally and particularly with regard to the following, which should appear from the supporting affidavits -
-  - - the *[[Page-41|locus standi]]* of the applicant;
+  - - the *locus standi* of the applicant;
   - - the grounds for jurisdiction;
   - - the patient's personal details (age, gender);
   - - the patient's assets and liabilities;
@@ -41,6 +35,9 @@ The following checklist may be used for the *curator ad litem*'s report in a Rul
   - - a declaration by such person(s) of their interest, if any, in the application with full details of their interest, where applicable;
   - - the evidence of at least two medical practitioners, of whom at least one should be an alienist (a psychiatrist who specialises in the legal aspects of mental illness), who have recently examined the patient in order to ascertain his or her mental condition;
   - - whether the medical practitioners concerned are related to the patient or have an interest in the application; and
+
+[[[Page-250|page 412]]]
+
 - their opinions and reasons for suggesting the patient is of unsound mind and unable to manage his or her own affairs.
 
 The *curator ad litem* should make such independent inquiries as are necessary to establish whether the evidence set out in the founding affidavits is true and should report to the court if any discrepancies or shortcomings are detected in the evidence placed before the court by the applicant.

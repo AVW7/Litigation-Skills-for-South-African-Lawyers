@@ -10,24 +10,6 @@ tags:
 aliases:
   - "Page 5"
   - "PDF Page 5"
-topics:
-  - affidavits
-  - appeals
-  - applications
-  - argumentation
-  - cross-examination
-  - damages
-  - evidence
-  - examination-in-chief
-  - expert-evidence
-  - fact-analysis
-  - motion-court
-  - opening-statement
-  - re-examination
-  - reviews
-  - sentencing
-  - urgent-applications
-  - witnesses
 ---
 
 [[Page-4|← Previous Page]] | [[Dashboard|Dashboard]] | [[Page-6|Next Page →]]
@@ -38,7 +20,7 @@ topics:
 | --- | --- | --- | --- |
 |  30 | Request for further particulars for trial | 11 | 199  |
 |  31 | Further particulars for trial | 11 | 200  |
-|  32 | Summary of [[Page-100|expert evidence]] under Rule 36(9) | 11 | 202  |
+|  32 | Summary of expert evidence under Rule 36(9) | 11 | 202  |
 |  33 | Summary of expert evidence under Rule 36(9) (damages action) | 11 | 204  |
 |  34 | Heads of argument (Use Tables 1, 2, 3 and 4 in Chapter 21) | 21 | 392  |
 |  35 | Reviews: Notice of motion in review application under Rule 53 | 24 | 440  |
@@ -53,23 +35,23 @@ topics:
 | --- | --- | --- | --- |
 |  1 | Asking open, closed or leading questions | 1 | 9  |
 |  2 | Asking questions using the funnelling technique | 1 | 10  |
-|  3 | [[Page-131|Opening statement]] for the prosecution | 16 | 290  |
+|  3 | Opening statement for the prosecution | 16 | 290  |
 |  4 | Opening statement for the defence | 16 | 294  |
 |  5 | Opening statement in a civil case | 16 | 297  |
-|  6 | [[Page-136|Examination-in-chief]] | 17 | 316  |
+|  6 | Examination-in-chief | 17 | 316  |
 |  7 | Examination-in-chief: using a timeline | 17 | 322  |
-|  8 | [[Page-145|Cross-examination]]: confrontation | 18 | 334  |
+|  8 | Cross-examination: confrontation | 18 | 334  |
 |  9 | Cross-examination: probing | 18 | 334  |
 |  10 | Cross-examination: suggestion | 18 | 336  |
 |  11 | Cross-examination: undermining | 18 | 338  |
 |  12 | Cross-examination: a question too many | 18 | 340  |
 |  13 | Cross-examining to a theme | 18 | 341  |
-|  14 | [[Page-160|Re-examination]]: eliciting a favourable explanation | 19 | 348  |
+|  14 | Re-examination: eliciting a favourable explanation | 19 | 348  |
 |  15 | Re-examination: rehabilitating the witness | 19 | 348  |
 |  16 | Re-examination: clarifying evidence | 19 | 349  |
 |  17 | Handling an exhibit which has already been proved | 20 | 354  |
 |  18 | Proving an exhibit formally, through a witness | 20 | 355  |
-|  19 | Proving a [[Page-100|demonstrative exhibit]], a medical report | 20 | 356  |
+|  19 | Proving a demonstrative exhibit, a medical report | 20 | 356  |
 |  20 | Recording a demonstration by the witness | 20 | 356  |
 |  21 | Confirming a demonstration given at an inspection | 20 | 358  |
 |  22 | Using a prior inconsistent statement to discredit the witness | 20 | 359  |
@@ -82,7 +64,7 @@ topics:
 |  29 | Argument: Dealing with the issues in turn | 21 | 383  |
 |  30 | Argument on the facts | 21 | 386  |
 |  31 | Argument on a point of law | 21 | 390  |
-|  32 | [[Page-179|Motion Court]]: Provisional sentence | 22 | 401  |
+|  32 | Motion Court: Provisional sentence | 22 | 401  |
 |  33 | Motion Court: Default judgment without evidence | 22 | 402  |
 |  34 | Motion Court: Default judgment with evidence | 22 | 402  |
 |  35 | Motion Court: Summary judgment (unopposed) | 22 | 403  |
@@ -101,7 +83,7 @@ topics:
 
 |  *Process* |   | *Chapter* | *Page*  |
 | --- | --- | --- | --- |
-|  1 | Initial [[Page-115|fact analysis]] | 1 | 15  |
+|  1 | Initial fact analysis | 1 | 15  |
 |  2 | Interviewing a client | 1 | 18  |
 
 ---
