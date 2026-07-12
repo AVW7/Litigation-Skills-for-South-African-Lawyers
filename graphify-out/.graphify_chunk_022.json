@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "id": "vault_assets_anim_urgent_application_urgent_application_process",
+      "label": "Urgent Application Process",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/anim_urgent_application.gif",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -11,12 +11,14 @@
             "id": "6bfa7f46408a1eda",
             "type": "leaf",
             "state": {
-              "type": "html-file-view",
+              "type": "markdown",
               "state": {
-                "file": "Assets/interview-process-flow.html"
+                "file": "Lectures/L01 - Interviewing clients and witnesses.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "interview-process-flow"
+              "title": "L01 - Interviewing clients and witnesses"
             }
           }
         ]
@@ -200,13 +202,30 @@
   },
   "active": "6bfa7f46408a1eda",
   "lastOpenFiles": [
+    "Lectures/L00 - Introduction & Prefaces.md",
+    "Assets/pleadings_flow_visual.svg",
+    "Dashboard.md",
+    "Assets/burden_of_proof_visual.svg",
+    "Chapters.base",
+    "Rules.base",
+    "README.md",
+    "Pages.base",
+    "Litigation-Skills-Overview.canvas",
+    "Assets/mindmaps/chapter_18_mindmap.html",
+    "Assets/mindmaps/chapter_05_mindmap.html",
+    "Assets/mindmaps/chapter_01_mindmap.html",
+    "Assets/urgent_small2.jpg",
+    "Assets/urgent_small.jpg",
+    "Assets/urgent_frame_30.jpg",
+    "Assets/urgent_frame_15.jpg",
+    "Assets/urgent_frame_0.jpg",
+    "Assets/study-dashboard.html",
+    "Assets/rule-23-exceptions.html",
     "Assets/litigation-timeline.html",
+    "Assets/interview-process-flow.html",
     "Assets/anim_facta_probanda.gif",
     "Assets/anim_cross_examination.gif",
     "Assets/anim_cause_of_action.jpg",
-    "Assets/anim_cause_of_action.gif",
-    "Assets/anim_burden_proof.gif",
-    "Assets/adr-comparison.html",
     "Litigation Skills/Chapter 08 - Drafting replications and further pleadings.md",
     "Litigation Skills/Chapter 07 - Drafting pleas and special pleas.md",
     "Litigation Skills/Chapter 06 - Drafting statements of claim.md",
@@ -217,34 +236,17 @@
     "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
     "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
     "IMPROVEMENT_SUMMARY.md",
-    "Assets/appeals-workflow.html",
-    "Assets/rule-23-exceptions.html",
-    "Assets/proof-making-model.html",
-    "Assets/examination-techniques.html",
-    "Assets/interview-process-flow.html",
     "Lectures/00-MASTER-INDEX.md",
-    "Lectures/diagrams/theory-of-case.html",
     "Lectures/L11 - Preparing the case for trial: Advice on evidence.md",
     "Lectures/L12 - Preparing the case for trial: Assembling the evidence.md",
     "Lectures/L13 - Preparation for trial: Legal research.md",
     "Lectures/L10 - Drafting applications.md",
     "Lectures/L01 - Interviewing clients and witnesses.md",
-    "Lectures/L00 - Introduction & Prefaces.md",
     "Lectures/L18 - Cross-examination.md",
     "Lectures/L17 - Examination-in-chief.md",
     "Lectures/L16 - Opening statement.md",
     "Lectures/L15 - The protocol and etiquette of the courtroom.md",
     "Lectures/L14 - Preparation for trial: Fact analysis and strategy.md",
-    "Lectures/L09 - Drafting exceptions and striking out.md",
-    "Lectures/QUICK-REFERENCE-FLASHCARDS.md",
-    "Lectures/diagrams/rule-23-exceptions.html",
-    "Lectures/diagrams/appeals-workflow.html",
-    "Lectures/L02 - Advising and counselling clients.md",
-    "Litigation-Skills-Overview.canvas",
-    "Assets/motion_application_visual.svg",
-    "Assets/pleadings_flow_visual.svg",
-    "Assets/burden_of_proof_visual.svg",
-    "Assets/urgent_small2.jpg",
-    "Assets/urgent_small.jpg"
+    "Lectures/L09 - Drafting exceptions and striking out.md"
   ]
 }

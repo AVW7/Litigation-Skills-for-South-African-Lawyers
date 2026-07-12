@@ -7,8 +7,7 @@ tags: [moc, home, landing]
 # ⚖️ South African Litigation Skills
 
 > *Master the Art of Courtroom Advocacy*
-
-**Based on Chris Marnewick SC's Definitive Guide**
+> Based on Chris Marnewick SC's Definitive Guide
 
 ---
 
@@ -29,15 +28,19 @@ tags: [moc, home, landing]
 ## 🏛️ The Four Phases of Litigation
 
 ### I. Professional Conduct
+
 > **Chapters 1–3** | Client relationships, ethics, alternatives
 
 ### II. Pleadings & Drafting
+
 > **Chapters 4–10** | Summons, pleas, applications
 
 ### III. Trial Preparation
+
 > **Chapters 11–15** | Evidence, research, strategy
 
 ### IV. Trial & Advocacy
+
 > **Chapters 16–28** | Opening, examination, argument
 
 ---
@@ -95,4 +98,4 @@ tags: [moc, home, landing]
 
 ---
 
-*Vault v2.0 | Enhanced Visual Edition*
+Vault v2.0 | Enhanced Visual Edition

@@ -10,5 +10,10 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-charts",
+  "advanced-canvas",
+  "obsidian-chartsview-plugin",
+  "beautiful-mermaid-renderer",
+  "svg-viewer"
 ]

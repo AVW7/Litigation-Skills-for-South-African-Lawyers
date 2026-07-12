@@ -67,6 +67,7 @@ def process_chunk(chunk_idx, files):
     prompt = prompt.replace("FILE_LIST", file_list_str + file_contents_str)
     prompt = prompt.replace("DEEP_MODE", "False")
     prompt = prompt.replace("CHUNK_PATH", chunk_path)
+    prompt += "\n\nCRITICAL: Do NOT attempt to write this JSON to disk using any tool. Instead, output the raw JSON directly in your message response. Your entire response must be ONLY the JSON object, or a single markdown code block containing only the JSON."
     
     print(f"[{chunk_name}/{total_chunks}] Starting extraction for {len(files)} files...")
     
@@ -114,8 +115,8 @@ def process_chunk(chunk_idx, files):
 # Execute in parallel
 success_count = 0
 results = []
-print(f"Starting parallel extraction of {total_chunks} chunks with 4 workers...")
-with ThreadPoolExecutor(max_workers=4) as executor:
+print(f"Starting sequential extraction of {total_chunks} chunks (1 worker)...")
+with ThreadPoolExecutor(max_workers=1) as executor:
     futures = {executor.submit(process_chunk, idx, files): idx for idx, files in enumerate(chunks)}
     for future in as_completed(futures):
         idx = futures[future]

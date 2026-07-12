@@ -1,1 +1,381 @@
-{"nodes": [{"id": "dashboard_litigation_skills_overview", "label": "Litigation Skills for South African Lawyers - Digital Vault Dashboard", "file_type": "document", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Dashboard.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "home_moc_course_vault", "label": "South African Litigation Skills - Course Vault", "file_type": "document", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "readme_study_vault", "label": "Litigation Skills for South African Lawyers - Study Vault", "file_type": "document", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "readme_template_course", "label": "Course Name - Study Vault Template", "file_type": "document", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "mindmap_chapter_01_interviewing", "label": "Chapter 1: Interviewing Clients & Witnesses - Mind Map", "file_type": "image", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/chapter_01_mindmap.html", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "scripts_vault_build_tools", "label": "Reusable Scripts for Vault Building", "file_type": "code", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/scripts.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "templates_note_templates", "label": "Note Templates for Vault", "file_type": "document", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/templates.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}, {"id": "excalidraw_drawing_2026_07_11", "label": "Excalidraw Drawing 2026-07-11", "file_type": "image", "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Excalidraw/Drawing 2026-07-11 13.22.44.excalidraw.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [{"source": "home_moc_course_vault", "target": "dashboard_litigation_skills_overview", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md", "weight": 1.0}, {"source": "home_moc_course_vault", "target": "readme_study_vault", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md", "weight": 1.0}, {"source": "readme_study_vault", "target": "home_moc_course_vault", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/README.md", "weight": 1.0}, {"source": "readme_template_course", "target": "readme_study_vault", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md", "weight": 1.0}, {"source": "readme_template_course", "target": "home_moc_course_vault", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/README-template.md", "weight": 1.0}, {"source": "mindmap_chapter_01_interviewing", "target": "dashboard_litigation_skills_overview", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/chapter_01_mindmap.html", "weight": 1.0}, {"source": "scripts_vault_build_tools", "target": "templates_note_templates", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/scripts.md", "weight": 1.0}, {"source": "scripts_vault_build_tools", "target": "readme_study_vault", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/scripts.md", "weight": 1.0}, {"source": "templates_note_templates", "target": "dashboard_litigation_skills_overview", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/templates.md", "weight": 1.0}, {"source": "excalidraw_drawing_2026_07_11", "target": "dashboard_litigation_skills_overview", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.65, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Excalidraw/Drawing 2026-07-11 13.22.44.excalidraw.md", "weight": 1.0}, {"source": "mindmap_chapter_01_interviewing", "target": "templates_note_templates", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/chapter_01_mindmap.html", "weight": 1.0}], "hyperedges": [{"id": "vault_documentation_cluster", "label": "Vault Documentation and Navigation", "nodes": ["dashboard_litigation_skills_overview", "home_moc_course_vault", "readme_study_vault"], "relation": "participate_in", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Home.md"}, {"id": "vault_building_tools_cluster", "label": "Vault Building and Maintenance Tools", "nodes": ["scripts_vault_build_tools", "templates_note_templates"], "relation": "form", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/scripts.md"}, {"id": "visual_learning_aids_cluster", "label": "Interactive Visual Learning Aids", "nodes": ["mindmap_chapter_01_interviewing", "excalidraw_drawing_2026_07_11"], "relation": "participate_in", "confidence": "INFERRED", "confidence_score": 0.8, "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/chapter_01_mindmap.html"}]}
+{
+  "chunk_id": 1,
+  "total_chunks": 31,
+  "source_files": [
+    "vault/Assets/README-template.md",
+    "vault/Assets/chapter_01_mindmap.html",
+    "vault/Assets/scripts.md",
+    "vault/Assets/templates.md",
+    "vault/Dashboard.md",
+    "vault/Excalidraw/Drawing 2026-07-11 13.22.44.excalidraw.md",
+    "vault/Formulas/f- High Court Modes of Address.md",
+    "vault/Formulas/f- Negligence Test.md"
+  ],
+  "extraction": {
+    "entities": [
+      {
+        "id": "chapter_01",
+        "type": "chapter",
+        "label": "Chapter 1: Interviewing Clients & Witnesses",
+        "properties": {
+          "chapter_number": 1,
+          "phase": "Professional Conduct",
+          "description": "Fundamental process of conducting interviews with new clients and witnesses in South African litigation"
+        }
+      },
+      {
+        "id": "client_interview_stages",
+        "type": "concept",
+        "label": "Client Interview Stages",
+        "properties": {
+          "stage_count": 8
+        }
+      },
+      {
+        "id": "stage_1",
+        "type": "procedure",
+        "label": "Stage 1: Meeting & Pleasantries",
+        "properties": {
+          "order": 1
+        }
+      },
+      {
+        "id": "stage_2",
+        "type": "procedure",
+        "label": "Stage 2: Problem & Goal Identification",
+        "properties": {
+          "order": 2
+        }
+      },
+      {
+        "id": "stage_3",
+        "type": "procedure",
+        "label": "Stage 3: Dealing with Preliminary Matters",
+        "properties": {
+          "order": 3
+        }
+      },
+      {
+        "id": "stage_4",
+        "type": "procedure",
+        "label": "Stage 4: Chronological Fact Finding",
+        "properties": {
+          "order": 4
+        }
+      },
+      {
+        "id": "stage_5",
+        "type": "procedure",
+        "label": "Stage 5: Fact Analysis & Case Theory",
+        "properties": {
+          "order": 5
+        }
+      },
+      {
+        "id": "stage_6",
+        "type": "procedure",
+        "label": "Stage 6: Giving Preliminary Advice",
+        "properties": {
+          "order": 6
+        }
+      },
+      {
+        "id": "stage_7",
+        "type": "procedure",
+        "label": "Stage 7: Concluding the Interview",
+        "properties": {
+          "order": 7
+        }
+      },
+      {
+        "id": "stage_8",
+        "type": "procedure",
+        "label": "Stage 8: After the Interview",
+        "properties": {
+          "order": 8
+        }
+      },
+      {
+        "id": "facta_probanda",
+        "type": "legal_concept",
+        "label": "Facta Probanda",
+        "properties": {
+          "definition": "Material facts that must be proved"
+        }
+      },
+      {
+        "id": "facta_probantia",
+        "type": "legal_concept",
+        "label": "Facta Probantia",
+        "properties": {
+          "definition": "Evidence that proves the facts"
+        }
+      },
+      {
+        "id": "negligence",
+        "type": "legal_concept",
+        "label": "Negligence",
+        "properties": {
+          "area": "Delict"
+        }
+      },
+      {
+        "id": "delict",
+        "type": "legal_area",
+        "label": "Delict",
+        "properties": {}
+      },
+      {
+        "id": "courtroom_protocol",
+        "type": "legal_concept",
+        "label": "Courtroom Protocol",
+        "properties": {}
+      },
+      {
+        "id": "high_court",
+        "type": "court",
+        "label": "High Court",
+        "properties": {}
+      },
+      {
+        "id": "magistrates_court",
+        "type": "court",
+        "label": "Magistrates' Court",
+        "properties": {}
+      },
+      {
+        "id": "witness_interview",
+        "type": "procedure",
+        "label": "Witness Interviews",
+        "properties": {}
+      },
+      {
+        "id": "attorney_client_privilege",
+        "type": "legal_concept",
+        "label": "Attorney-Client Privilege",
+        "properties": {}
+      },
+      {
+        "id": "case_theory",
+        "type": "legal_concept",
+        "label": "Case Theory",
+        "properties": {}
+      },
+      {
+        "id": "formula_modes_address",
+        "type": "formula",
+        "label": "High Court Modes of Address",
+        "properties": {
+          "source": "Chapter 15 (Page 163)",
+          "equation": "Judicial Address = 'My Lord' OR 'My Lady' OR 'Your Lordship' OR 'Her Ladyship'"
+        }
+      },
+      {
+        "id": "formula_negligence_test",
+        "type": "formula",
+        "label": "Negligence Test",
+        "properties": {
+          "source": "Chapter 02 (Page 26), Kruger v Coetzee 1966 (2) SA 428 (A)",
+          "equation": "Liability = Foreseeability AND Preventability AND Failure"
+        }
+      },
+      {
+        "id": "case_kruger_v_coetzee",
+        "type": "case_authority",
+        "label": "Kruger v Coetzee",
+        "properties": {
+          "citation": "1966 (2) SA 428 (A)"
+        }
+      },
+      {
+        "id": "dashboard",
+        "type": "document",
+        "label": "South African Litigation Skills Dashboard",
+        "properties": {
+          "type": "dashboard"
+        }
+      },
+      {
+        "id": "obsidian_vault",
+        "type": "system",
+        "label": "Litigation Skills Vault",
+        "properties": {}
+      },
+      {
+        "id": "terms_folder",
+        "type": "collection",
+        "label": "Terms Folder",
+        "properties": {}
+      },
+      {
+        "id": "formulas_folder",
+        "type": "collection",
+        "label": "Formulas Folder",
+        "properties": {}
+      },
+      {
+        "id": "lectures_folder",
+        "type": "collection",
+        "label": "Lectures Folder",
+        "properties": {}
+      }
+    ],
+    "relationships": [
+      {
+        "from": "chapter_01",
+        "to": "client_interview_stages",
+        "label": "covers"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_1",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_2",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_3",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_4",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_5",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_6",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_7",
+        "label": "has_stage"
+      },
+      {
+        "from": "client_interview_stages",
+        "to": "stage_8",
+        "label": "has_stage"
+      },
+      {
+        "from": "stage_3",
+        "to": "attorney_client_privilege",
+        "label": "involves"
+      },
+      {
+        "from": "stage_4",
+        "to": "facta_probanda",
+        "label": "determines"
+      },
+      {
+        "from": "stage_5",
+        "to": "case_theory",
+        "label": "develops"
+      },
+      {
+        "from": "chapter_01",
+        "to": "witness_interview",
+        "label": "covers"
+      },
+      {
+        "from": "negligence",
+        "to": "delict",
+        "label": "belongs_to"
+      },
+      {
+        "from": "formula_negligence_test",
+        "to": "negligence",
+        "label": "defines_test_for"
+      },
+      {
+        "from": "formula_negligence_test",
+        "to": "case_kruger_v_coetzee",
+        "label": "established_by"
+      },
+      {
+        "from": "formula_modes_address",
+        "to": "courtroom_protocol",
+        "label": "defines"
+      },
+      {
+        "from": "courtroom_protocol",
+        "to": "high_court",
+        "label": "applies_to"
+      },
+      {
+        "from": "courtroom_protocol",
+        "to": "magistrates_court",
+        "label": "applies_to"
+      },
+      {
+        "from": "dashboard",
+        "to": "chapter_01",
+        "label": "links_to"
+      },
+      {
+        "from": "dashboard",
+        "to": "formula_negligence_test",
+        "label": "references"
+      },
+      {
+        "from": "dashboard",
+        "to": "formula_modes_address",
+        "label": "references"
+      },
+      {
+        "from": "obsidian_vault",
+        "to": "terms_folder",
+        "label": "contains"
+      },
+      {
+        "from": "obsidian_vault",
+        "to": "formulas_folder",
+        "label": "contains"
+      },
+      {
+        "from": "obsidian_vault",
+        "to": "lectures_folder",
+        "label": "contains"
+      },
+      {
+        "from": "formula_negligence_test",
+        "to": "formulas_folder",
+        "label": "stored_in"
+      },
+      {
+        "from": "formula_modes_address",
+        "to": "formulas_folder",
+        "label": "stored_in"
+      },
+      {
+        "from": "negligence",
+        "to": "terms_folder",
+        "label": "stored_in"
+      },
+      {
+        "from": "courtroom_protocol",
+        "to": "terms_folder",
+        "label": "stored_in"
+      },
+      {
+        "from": "facta_probanda",
+        "to": "facta_probantia",
+        "label": "contrasted_with"
+      }
+    ]
+  },
+  "metadata": {
+    "extraction_type": "knowledge_graph",
+    "domain": "south_african_litigation",
+    "source_material": "Litigation Skills for South African Lawyers by Chris Marnewick SC"
+  }
+}

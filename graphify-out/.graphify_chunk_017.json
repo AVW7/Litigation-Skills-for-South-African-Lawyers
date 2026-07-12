@@ -1,0 +1,432 @@
+{
+  "nodes": [
+    {
+      "id": "vault_terms_onus_of_proof_onus_of_proof",
+      "label": "Onus of Proof",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "source_location": "Chapter 11 (Page 117)",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_onus_of_proof_balance_of_probabilities",
+      "label": "Balance of Probabilities",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_onus_of_proof_beyond_reasonable_doubt",
+      "label": "Beyond Reasonable Doubt",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_pleadings",
+      "label": "Pleadings",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": "Chapter 05 (Page 54)",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_summons",
+      "label": "Summons",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_intent_to_defend",
+      "label": "Intent to Defend",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_plea",
+      "label": "Plea",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_replication",
+      "label": "Replication",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_urgent_application_urgent_application",
+      "label": "Urgent Application",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "source_location": "Chapter 10 (Page 99)",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_urgent_application_founding_affidavit",
+      "label": "Founding Affidavit",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_urgent_application_answering_affidavit",
+      "label": "Answering Affidavit",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_urgent_application_replying_affidavit",
+      "label": "Replying Affidavit",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_onus_of_proof_evidence",
+      "label": "Evidence",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_onus_of_proof_witnesses",
+      "label": "Witnesses",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_facta_probanda",
+      "label": "Facta Probanda",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_facta_probantia",
+      "label": "Facta Probantia",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_pleadings_cause_of_action",
+      "label": "Cause of Action",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_terms_urgent_application_affidavit",
+      "label": "Affidavit",
+      "file_type": "concept",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_assets_anim_burden_proof_gif",
+      "label": "anim_burden_proof.gif",
+      "file_type": "image",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/anim_burden_proof.gif",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_assets_anim_cause_of_action_gif",
+      "label": "anim_cause_of_action.gif",
+      "file_type": "image",
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Assets/anim_cause_of_action.gif",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "vault_terms_onus_of_proof_onus_of_proof",
+      "target": "vault_terms_onus_of_proof_balance_of_probabilities",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_onus_of_proof_onus_of_proof",
+      "target": "vault_terms_onus_of_proof_beyond_reasonable_doubt",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_summons",
+      "target": "vault_terms_pleadings_intent_to_defend",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_intent_to_defend",
+      "target": "vault_terms_pleadings_plea",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_plea",
+      "target": "vault_terms_pleadings_replication",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_founding_affidavit",
+      "target": "vault_terms_urgent_application_answering_affidavit",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_answering_affidavit",
+      "target": "vault_terms_urgent_application_replying_affidavit",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_onus_of_proof_onus_of_proof",
+      "target": "vault_terms_onus_of_proof_evidence",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_onus_of_proof_onus_of_proof",
+      "target": "vault_terms_onus_of_proof_witnesses",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_pleadings",
+      "target": "vault_terms_pleadings_facta_probanda",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_pleadings",
+      "target": "vault_terms_pleadings_facta_probantia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_pleadings",
+      "target": "vault_terms_pleadings_cause_of_action",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_urgent_application",
+      "target": "vault_terms_urgent_application_affidavit",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_onus_of_proof_onus_of_proof",
+      "target": "vault_assets_anim_burden_proof_gif",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_founding_affidavit",
+      "target": "vault_terms_urgent_application_affidavit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_answering_affidavit",
+      "target": "vault_terms_urgent_application_affidavit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_urgent_application_replying_affidavit",
+      "target": "vault_terms_urgent_application_affidavit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_terms_pleadings_facta_probanda",
+      "target": "vault_terms_pleadings_facta_probantia",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pleadings_flow_sequence",
+      "label": "Pleadings Exchange Flow",
+      "nodes": [
+        "vault_terms_pleadings_summons",
+        "vault_terms_pleadings_intent_to_defend",
+        "vault_terms_pleadings_plea",
+        "vault_terms_pleadings_replication"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Pleadings.md"
+    },
+    {
+      "id": "urgent_application_affidavit_sequence",
+      "label": "Urgent Application Affidavit Sequence",
+      "nodes": [
+        "vault_terms_urgent_application_founding_affidavit",
+        "vault_terms_urgent_application_answering_affidavit",
+        "vault_terms_urgent_application_replying_affidavit"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Urgent Application.md"
+    },
+    {
+      "id": "proof_standards",
+      "label": "Proof Standards",
+      "nodes": [
+        "vault_terms_onus_of_proof_onus_of_proof",
+        "vault_terms_onus_of_proof_balance_of_probabilities",
+        "vault_terms_onus_of_proof_beyond_reasonable_doubt"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/ajadvanwyk/Downloads/Litigation Skills for South African Lawyers.pdf/vault/Terms/Onus of Proof.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -29,6 +29,7 @@ prompt = prompt.replace("TOTAL_CHUNKS", "31")
 prompt = prompt.replace("FILE_LIST", file_list_str + file_contents_str)
 prompt = prompt.replace("DEEP_MODE", "False")
 prompt = prompt.replace("CHUNK_PATH", str(Path('graphify-out/.graphify_chunk_001.json').resolve()))
+prompt += "\n\nCRITICAL: Do NOT attempt to write this JSON to disk using any tool. Instead, output the raw JSON directly in your message response. Your entire response must be ONLY the JSON object, or a single markdown code block containing only the JSON."
 
 print("Running single_extract.py via internal venv python for 8 files...")
 cmd = ["/Users/ajadvanwyk/.hermes/hermes-agent/venv/bin/python3", "scripts/single_extract.py"]
