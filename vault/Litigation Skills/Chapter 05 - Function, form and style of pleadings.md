@@ -37,17 +37,17 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-54\|Page 54]] | 81 | 4.6 Fees |
-| [[Page-55\|Page 55]] | 82 | 5.2 Structure of a set of pleadings |
-| [[Page-56\|Page 56]] | 83 | 5.3 Terminology of pleadings |
-| [[Page-57\|Page 57]] | 85 | 5.4 The material facts |
-| [[Page-58\|Page 58]] | 87 | 5.4.1 First example: A claim under the *rei vindicatio* |
-| [[Page-59\|Page 59]] | 88 | 5.4.3 Third example: The defence of estoppel |
-| [[Page-60\|Page 60]] | 89 | Content |
-| [[Page-61\|Page 61]] | 91 | 5.6 Examples of the citation of plaintiffs and defendants |
-| [[Page-62\|Page 62]] | 93 | Content |
+| Page (PDF)           | Page (Printed) | Title / Key Content                                       |
+| -------------------- | -------------- | --------------------------------------------------------- |
+| [[Page-54\|Page 54]] | 81             | 4.6 Fees                                                  |
+| [[Page-55\|Page 55]] | 82             | 5.2 Structure of a set of pleadings                       |
+| [[Page-56\|Page 56]] | 83             | 5.3 Terminology of pleadings                              |
+| [[Page-57\|Page 57]] | 85             | 5.4 The material facts                                    |
+| [[Page-58\|Page 58]] | 87             | 5.4.1 First example: A claim under the *rei vindicatio*   |
+| [[Page-59\|Page 59]] | 88             | 5.4.3 Third example: The defence of estoppel              |
+| [[Page-60\|Page 60]] | 89             | Content                                                   |
+| [[Page-61\|Page 61]] | 91             | 5.6 Examples of the citation of plaintiffs and defendants |
+| [[Page-62\|Page 62]] | 93             | Content                                                   |
 
 ---
 

@@ -16,11 +16,11 @@ aliases:
 
 ---
 
-|  shareholders, directors or officers of a company. | Company law |  | Companies Act remedies | Some of these relationships are based on contract.  |
-| --- | --- | --- | --- | --- |
-|  The parties are principal and agent. | The law of agency | Mandate, brokers, agents | Contractual remedies | Generally a contractual relationship.  |
-|  The parties are, or were, engaged in a maritime adventure. | Maritime law | Carriage of goods by sea Marine insurance International finance/letters of credit Admiralty law | Contractual and delictual remedies Action in rem | Notwithstanding the confusing terminology and special admiralty procedure, maritime law is about some very ordinary contracts; sale, lease, agency, services, insurance etc.  |
-|  The parties have rights or obligations arising from a negotiable instrument. | The law of negotiable instruments | Cheques Letters of credit Banking | Contractual Special remedies | Provisional sentence procedure could be used to obtain quick payment.  |
+| shareholders, directors or officers of a company.                            | Company law                       |                                                                                                 | Companies Act remedies                           | Some of these relationships are based on contract.                                                                                                                           |
+| ---------------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The parties are principal and agent.                                         | The law of agency                 | Mandate, brokers, agents                                                                        | Contractual remedies                             | Generally a contractual relationship.                                                                                                                                        |
+| The parties are, or were, engaged in a maritime adventure.                   | Maritime law                      | Carriage of goods by sea Marine insurance International finance/letters of credit Admiralty law | Contractual and delictual remedies Action in rem | Notwithstanding the confusing terminology and special admiralty procedure, maritime law is about some very ordinary contracts; sale, lease, agency, services, insurance etc. |
+| The parties have rights or obligations arising from a negotiable instrument. | The law of negotiable instruments | Cheques Letters of credit Banking                                                               | Contractual Special remedies                     | Provisional sentence procedure could be used to obtain quick payment.                                                                                                        |
 
 [[[Page-139|page 229]]]
 

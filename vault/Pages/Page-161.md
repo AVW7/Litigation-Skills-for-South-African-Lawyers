@@ -32,10 +32,10 @@ The scheme for trial preparation using the proof-making model of fact analysis i
 
 **Table 14.9** Scheme for Preparation for Trial using the Proof-making model of fact analysis
 
-|  Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  Area of law | Cause of action | Legal elements | The facts | The evidence | Admissible? Reliable? Sufficient? | Theory of the case | Trial tactics  |
-|   |  |  |  |  |  |  | 1 Strengths and weaknesses 2 Further investigations 3 Witnesses to call 4 Exhibits to use 5 Timeline for each witness 6 Identify opposition witnesses 7 Themes for cross-examination of each opposing witness 8 Opening statement 9 Closing argument  |
+| Stage 1     | Stage 2         | Stage 3        | Stage 4   | Stage 5      | Stage 6                           | Stage 7            | Stage 8                                                                                                                                                                                                                                              |
+| ----------- | --------------- | -------------- | --------- | ------------ | --------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Area of law | Cause of action | Legal elements | The facts | The evidence | Admissible? Reliable? Sufficient? | Theory of the case | Trial tactics                                                                                                                                                                                                                                        |
+|             |                 |                |           |              |                                   |                    | 1 Strengths and weaknesses 2 Further investigations 3 Witnesses to call 4 Exhibits to use 5 Timeline for each witness 6 Identify opposition witnesses 7 Themes for cross-examination of each opposing witness 8 Opening statement 9 Closing argument |
 
 [[[Page-161|page 268]]]
 

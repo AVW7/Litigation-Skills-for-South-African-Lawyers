@@ -18,9 +18,10 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **re-examination** — the opportunity to rehabilitate a witness after cross-examination. Key rule: limited to matters arising from cross-examination.
-
+<!-- -->
 > [!important] The Restriction
 > Re-examination is NOT a second examination-in-chief. LIMITED to:
+>
 > - Matters arising from cross-examination
 > - Clarifying confusion
 > - Explaining damaging admissions
@@ -57,10 +58,11 @@ graph TB
 *Figure: Re-examination — limited but powerful.*
 
 > [!tip] The Three-Step Process
+>
 > 1. Remind witness what was said in cross-examination
 > 2. Give the witness a moment to remember
 > 3. Ask the clarifying question
-
+<!-- -->
 > [!tip] Connection
 > Follows [[L18 - Cross-examination|cross-examination]]. If needed, proceed to next witness or [[L21 - Closing argument|closing argument]]. Pre-exam structure in [[L17 - Examination-in-chief|examination-in-chief]].
 

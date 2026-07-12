@@ -17,8 +17,11 @@ Install from Settings → Community plugins. The vault works without them; these
 just light up extra features:
 
 - **Spaced Repetition** (`st3v3nmw`) — turns the `## Review` cards in each term
+
   note into a study queue. Cards are deck-tagged by lecture (`#flashcards/…`).
+
 - **Dataview** (`blacksmithgu`) — powers the live tables in the index notes
+
   (without it, those blocks show as plain code; the static link lists still work).
 
 Flashcards also export to Anki via `Obsidian_to_Anki` / Yanki if you prefer Anki.

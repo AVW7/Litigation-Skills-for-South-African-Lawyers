@@ -22,14 +22,14 @@ You could do this according to the following scheme:
 
 **Table 2.1** Scheme for advising a client
 
-|  Stage | Ask yourself . . .  |
-| --- | --- |
-|  1. Identify the problem and the client's objectives. | What is the problem? What does the client want to achieve?  |
-|  2. Investigate the facts to ensure you can identify the available options. | Against what factual background does this problem exist?  |
-|  3. Identify the legal issues and consider their application to the facts. | What legal principles apply to the facts? What is the effect of those legal principles on the problem and on the client's objectives?  |
-|  4. Identify the consequences of each option by considering the likely legal and non-legal consequences of each option. | What are the options? What are the likely consequences of each of them? Which is the best option? Why do I think so?  |
-|  5. Discuss the options and their consequences fully with the client. | What can the client do? What are the advantages and disadvantages of each option?  |
-|  6. Tell the client which option you regard as the best option and why you think so. | What should the client do?  |
+| Stage                                                                                                                  | Ask yourself . . .                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Identify the problem and the client's objectives.                                                                   | What is the problem? What does the client want to achieve?                                                                            |
+| 2. Investigate the facts to ensure you can identify the available options.                                             | Against what factual background does this problem exist?                                                                              |
+| 3. Identify the legal issues and consider their application to the facts.                                              | What legal principles apply to the facts? What is the effect of those legal principles on the problem and on the client's objectives? |
+| 4. Identify the consequences of each option by considering the likely legal and non-legal consequences of each option. | What are the options? What are the likely consequences of each of them? Which is the best option? Why do I think so?                  |
+| 5. Discuss the options and their consequences fully with the client.                                                   | What can the client do? What are the advantages and disadvantages of each option?                                                     |
+| 6. Tell the client which option you regard as the best option and why you think so.                                    | What should the client do?                                                                                                            |
 
 The counselling phase is not entirely separated from this process and is prominent during the next stage when the client, after having received your advice, has to make a decision. The different stages of the process should also not be applied in too strict a sequence as it may become necessary to return to prior stages before the whole process is finally completed. For example, when you have identified the legal principles and have considered their effect, it may become necessary to re-investigate the facts or even to reconsider the true nature of the problem. A confident lawyer will move between the different stages effortlessly while the solution to the client's problem becomes ever clearer. Like most processes used for solving legal problems, advising and counselling cannot be confined to a straitjacket. Each stage constitutes an essential step towards the finalisation of the process.
 

@@ -29,6 +29,7 @@ C. Counsel's analysis of the opponent's case.
 C. A formal proof checklist (an analysis which sets out the elements to be proved, the evidence in support of each and the source of that evidence).
 D. The opening statement.
 E. A witness section which includes -
+
 1. a list of witnesses (for both sides);
 2. a summary explaining where each witness fits into the greater scheme of the case;
 3. an outline or timeline for the evidence of each of your own witnesses;

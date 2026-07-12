@@ -23,8 +23,8 @@ The response was short and to the point:
 
 **Table 11.2** Further particulars
 
-|  1. AD PARAGRAPH 4(b) OF THE PLEA The plaintiff - (i) failed to look after the spare keys to the car; (ii) allowed the spare keys to the car to fall into the hands of the person who unlawfully removed it from the defendant's premises.  |
-| --- |
+| 1. AD PARAGRAPH 4(b) OF THE PLEA The plaintiff - (i) failed to look after the spare keys to the car; (ii) allowed the spare keys to the car to fall into the hands of the person who unlawfully removed it from the defendant's premises. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 The further particulars were signed by counsel and an attorney and addressed to the registrar and the plaintiff's attorneys. So everyone knew what to expect on this issue.
 
@@ -48,8 +48,8 @@ The following example of an expert summary relates to an expropriation action in
 
 **Table 11.3** Expert summary in terms of Rule 36(9)(b)
 
-|  Par | Text of summary | Comment  |
-| --- | --- | --- |
+| Par   | Text of summary | Comment |
+| ----- | --------------- | ------- |
 
 ---
 

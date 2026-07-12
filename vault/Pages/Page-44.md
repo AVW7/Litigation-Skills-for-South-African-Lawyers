@@ -26,19 +26,19 @@ It takes a conscious effort to sit back and let the problem stew for a while, wh
 
 **Table 3.2** The comparative merits of different forms of dispute resolution
 
-|   | Litigation | Arbitration | Expert determination | Mediation | Negotiation  |
-| --- | --- | --- | --- | --- | --- |
-|  **Adversarial?** | Yes | Yes | No | No | No  |
-|  **Formal?** | Yes | Yes | No | No | No  |
-|  **Flexible?** | No | A little | Yes | Yes | Yes  |
-|  **Delay in reaching finality?** | Long delays | Can be quick, often not | Can be quick | Can be quick | Can be very quick  |
-|  **Cost?** | Expensive | Can be very expensive | Not very costly | Relatively inexpensive | Least expensive  |
-|  **Legal aid available?** | Yes | No | No | Only in some cases | No  |
-|  **Finality of result?** | Subject to appeal | Subject to review | Subject to review | Final as any other contract | Final as any other contract  |
-|  **Proceedings confidential?** | Very limited confidentiality | May be agreed | May be agreed | Yes | Yes  |
-|  **Certainty of outcome?** | None | None | None | Agreement gives certainty | Agreement gives certainty  |
-|  **Meeting interests of both parties?** | No, winner takes all | No, winner takes all | No, winner takes all | Yes | Yes  |
-|  **Enforceable?** | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required  |
+|                                        | Litigation                      | Arbitration                  | Expert determination         | Mediation                       | Negotiation                     |
+| -------------------------------------- | ------------------------------- | ---------------------------- | ---------------------------- | ------------------------------- | ------------------------------- |
+| **Adversarial?**                       | Yes                             | Yes                          | No                           | No                              | No                              |
+| **Formal?**                            | Yes                             | Yes                          | No                           | No                              | No                              |
+| **Flexible?**                          | No                              | A little                     | Yes                          | Yes                             | Yes                             |
+| **Delay in reaching finality?**        | Long delays                     | Can be quick, often not      | Can be quick                 | Can be quick                    | Can be very quick               |
+| **Cost?**                              | Expensive                       | Can be very expensive        | Not very costly              | Relatively inexpensive          | Least expensive                 |
+| **Legal aid available?**               | Yes                             | No                           | No                           | Only in some cases              | No                              |
+| **Finality of result?**                | Subject to appeal               | Subject to review            | Subject to review            | Final as any other contract     | Final as any other contract     |
+| **Proceedings confidential?**          | Very limited confidentiality    | May be agreed                | May be agreed                | Yes                             | Yes                             |
+| **Certainty of outcome?**              | None                            | None                         | None                         | Agreement gives certainty       | Agreement gives certainty       |
+| **Meeting interests of both parties?** | No, winner takes all            | No, winner takes all         | No, winner takes all         | Yes                             | Yes                             |
+| **Enforceable?**                       | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required |
 
 [[[Page-44|page 64]]]
 

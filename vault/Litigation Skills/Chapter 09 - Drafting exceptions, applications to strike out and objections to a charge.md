@@ -34,15 +34,15 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-91\|Page 91]] | 147 | 8.3 Further pleadings |
-| [[Page-92\|Page 92]] | 150 | 9.2 Exceptions |
-| [[Page-93\|Page 93]] | 151 | 9.2.3 The procedure for an exception |
-| [[Page-94\|Page 94]] | 153 | 9.3 Applications to strike out under Rule 23(2) |
-| [[Page-95\|Page 95]] | 156 | 9.4 Applications to strike out under Rule 30 |
-| [[Page-96\|Page 96]] | 157 | 9.5 Objection to a charge in criminal proceedings |
-| [[Page-97\|Page 97]] | 159 | 9.5.3 Responding to the objection to the charge |
+| Page (PDF)           | Page (Printed) | Title / Key Content                               |
+| -------------------- | -------------- | ------------------------------------------------- |
+| [[Page-91\|Page 91]] | 147            | 8.3 Further pleadings                             |
+| [[Page-92\|Page 92]] | 150            | 9.2 Exceptions                                    |
+| [[Page-93\|Page 93]] | 151            | 9.2.3 The procedure for an exception              |
+| [[Page-94\|Page 94]] | 153            | 9.3 Applications to strike out under Rule 23(2)   |
+| [[Page-95\|Page 95]] | 156            | 9.4 Applications to strike out under Rule 30      |
+| [[Page-96\|Page 96]] | 157            | 9.5 Objection to a charge in criminal proceedings |
+| [[Page-97\|Page 97]] | 159            | 9.5.3 Responding to the objection to the charge   |
 
 ---
 

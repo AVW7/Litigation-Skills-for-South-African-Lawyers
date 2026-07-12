@@ -26,11 +26,11 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-210\|Page 210]] | 347 | Chapter 19 |
-| [[Page-211\|Page 211]] | 349 | 19.3.2 Rehabilitating the witness whose credibility has been impeached |
-| [[Page-212\|Page 212]] | 350 | 19.4 Technique in re-examination |
+| Page (PDF)             | Page (Printed) | Title / Key Content                                                    |
+| ---------------------- | -------------- | ---------------------------------------------------------------------- |
+| [[Page-210\|Page 210]] | 347            | Chapter 19                                                             |
+| [[Page-211\|Page 211]] | 349            | 19.3.2 Rehabilitating the witness whose credibility has been impeached |
+| [[Page-212\|Page 212]] | 350            | 19.4 Technique in re-examination                                       |
 
 ---
 

@@ -44,9 +44,9 @@ What we have been doing thus far is to engage in a process of fact analysis. The
 
 The proof-making model has five analytical stages and three tactical stages. The analytical stages deal with fact analysis. The tactical stages deal with trial tactics and are covered in more detail in chapter 14. The analytical stages can be presented as follows:
 
-|  Stage 1 Branch or area of law | Stage 2 Cause of action or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence  |
-| --- | --- | --- | --- | --- |
-|   |  |  |  | Identifies the  |
+| Stage 1 Branch or area of law | Stage 2 Cause of action or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence |
+| ----------------------------- | ---------------------------------- | -------------------------------------------------- | ----------------- | ---------------- |
+|                               |                                    |                                                    |                   | Identifies the   |
 
 ---
 

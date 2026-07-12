@@ -1,6 +1,4 @@
 ---
-
----
 type: lecture
 lecture: L18
 tags:
@@ -20,7 +18,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter is the **cornerstone of adversarial advocacy**—covers **cross-examination techniques**: Confrontation, probing, suggestion, undermining, and the **duty to put your version** to the witness.
-
+<!-- -->
 > [!quote] Core Principle
 > *"Cross-examination is beyond any doubt the greatest legal engine ever invented for the discovery of truth."* — Wigmore
 
@@ -91,21 +89,21 @@ graph LR
 
 ## Chapter Content Walkthrough
 
-| 2 | Ensuring that the witness has been briefed properly | |
-| --- | --- | --- |
-| 3 | Introducing the witness | |
-| 4 | Qualifying the witness | |
-| 5 | Controlling the witness by signposting and piggybacking | |
-| 6 | Asking clear questions | |
-| 7 | Asking non-leading questions | |
-| 8 | Asking simple questions eliciting one fact at a time (as opposed to compound questions) | |
-| 9 | Ensuring that all gestures and demonstrations are recorded | |
-| 10 | Listening to the answers and responding appropriately | |
-| 11 | Avoiding inadmissible evidence | |
-| 12 | Eliciting the evidence in a logical order | |
-| 13 | Eliciting all the relevant evidence | |
-| 14 | Handling exhibits appropriately | |
-| 15 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections | |
+| 2     | Ensuring that the witness has been briefed properly                                                                                                                                                                                                                                                                                                                                                                                                                                         |       |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 3     | Introducing the witness                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |       |
+| 4     | Qualifying the witness                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |       |
+| 5     | Controlling the witness by signposting and piggybacking                                                                                                                                                                                                                                                                                                                                                                                                                                     |       |
+| 6     | Asking clear questions                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |       |
+| 7     | Asking non-leading questions                                                                                                                                                                                                                                                                                                                                                                                                                                                                |       |
+| 8     | Asking simple questions eliciting one fact at a time (as opposed to compound questions)                                                                                                                                                                                                                                                                                                                                                                                                     |       |
+| 9     | Ensuring that all gestures and demonstrations are recorded                                                                                                                                                                                                                                                                                                                                                                                                                                  |       |
+| 10    | Listening to the answers and responding appropriately                                                                                                                                                                                                                                                                                                                                                                                                                                       |       |
+| 11    | Avoiding inadmissible evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                              |       |
+| 12    | Eliciting the evidence in a logical order                                                                                                                                                                                                                                                                                                                                                                                                                                                   |       |
+| 13    | Eliciting all the relevant evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                         |       |
+| 14    | Handling exhibits appropriately                                                                                                                                                                                                                                                                                                                                                                                                                                                             |       |
+| 15    | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |       |
 
 ## Chapter 18: Cross-examination
 
@@ -551,34 +549,34 @@ evidence or the witness.
 **Table 18.4** Undermining the witness
 
 | **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence [[Page-131\|opening statement]]. |
-| --- |
-| **The aim of the [[Page-145\|cross-examination]]:** To "parade" the prosecution case in order to undermine the defence case. |
-| Prosecutor. *So you put your own backpack on the floor?* |
-| A. Yes. |
-| Q. *And you then took a similar backpack from the rack?* |
-| A. Yes. |
-| Q. *One you were not going to buy because you actually wanted a different type of bag?* |
-| A. Yes. |
-| Q. *And then you slung the store's backpack over your shoulder?* |
-| A. Yes. |
-| Q. *And you left your own, tattered backpack on the floor?* |
-| A. Yes. |
-| Q. *The two bags are quite different, aren't they?* |
-| A. Yes, but I did not notice that at the time. I thought I was carrying my own. |
-| Q. *And you went to the rack where other types of bags were displayed?* |
-| A. Yes. |
-| Q. *But you did not select any of them?* |
-| A. Yes. |
-| Q. *You then walked out of the store without buying anything at all?* |
-| A. Yes. |
-| Q. *You did not have enough money on you to pay for the backpack, did you?* |
-| A. No. |
-| Q. *You've been embarrassed previously by your colour-blindness?* |
-| A. Often, and for a long time. |
-| Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?* |
-| A. I've tried. |
-| Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?* |
-| A. No. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The aim of the [[Page-145\|cross-examination]]:** To "parade" the prosecution case in order to undermine the defence case.                                                                                                                                        |
+| Prosecutor. *So you put your own backpack on the floor?*                                                                                                                                                                                                            |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *And you then took a similar backpack from the rack?*                                                                                                                                                                                                            |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *One you were not going to buy because you actually wanted a different type of bag?*                                                                                                                                                                             |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *And then you slung the store's backpack over your shoulder?*                                                                                                                                                                                                    |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *And you left your own, tattered backpack on the floor?*                                                                                                                                                                                                         |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *The two bags are quite different, aren't they?*                                                                                                                                                                                                                 |
+| A. Yes, but I did not notice that at the time. I thought I was carrying my own.                                                                                                                                                                                     |
+| Q. *And you went to the rack where other types of bags were displayed?*                                                                                                                                                                                             |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *But you did not select any of them?*                                                                                                                                                                                                                            |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *You then walked out of the store without buying anything at all?*                                                                                                                                                                                               |
+| A. Yes.                                                                                                                                                                                                                                                             |
+| Q. *You did not have enough money on you to pay for the backpack, did you?*                                                                                                                                                                                         |
+| A. No.                                                                                                                                                                                                                                                              |
+| Q. *You've been embarrassed previously by your colour-blindness?*                                                                                                                                                                                                   |
+| A. Often, and for a long time.                                                                                                                                                                                                                                      |
+| Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?*                                                                                                                                                           |
+| A. I've tried.                                                                                                                                                                                                                                                      |
+| Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?*                                                                                                                                                              |
+| A. No.                                                                                                                                                                                                                                                              |
 
 The prosecution's case is that the defendant's conduct is suspicious. The first part of the cross-examination is designed to undermine the defendant's version by parading the facts which make that version appear suspicious. The last three questions are designed to undermine it further by raising additional facts which reduce any sympathy the judge might feel towards the accused. The very last question may be the question that allows the witness to give a convincing explanation.
 
@@ -601,6 +599,7 @@ again, if necessary. Use the same words and the same tone of voice for impact. I
 - Don't flatter the witness by continuing an unrewarding cross-examination. You cannot cross-examine bullet-holes out of a corpse, entries out of books or fingerprints off a dressing table.
 - Stop when you have made sufficient gains. Bank the good answers. Many a good cross-examination has been ruined by a question too many, often a "Why . . ." question. Do not cross-examine on a favourable answer; the witness may retract it or reduce its value. Don't ask for explanations. Asking, "Why . . . ?" is just looking for trouble.
 - Keep the questions short, asking for or suggesting one fact at a time.
+
 Table 18.5 A question too many
 
 **The facts:** The issue was whether a tow truck operator had disconnected the drive-shaft of a Volvo truck before towing it after a breakdown. The driver of the Volvo and his assistant gave evidence to the effect that the tow operator started towing the Volvo and about 2 or 3 kilometres later stopped at the side of the road and disconnected the drive-shaft. By that time the gearbox of the Volvo had been damaged. The assistant gave evidence that the drive-shaft had been removed next to a sugar cane field. The defendant's version was that the drive-shaft had been disconnected at the commencement of the towing operation, not when the tow truck stopped next to the sugarcane and that the purpose of that stop had been to conduct a routine check to see if the tow was secure.
@@ -632,17 +631,17 @@ The last question undid all the good results the prior cross-examination had ach
 
 **Table 18.6** Examination-in-chief and cross-examination compared
 
-| Examination-in-chief | Cross-examination |
-| --- | --- |
-| Inquisitive questions are used, with the answers known or expected by the questioner. | Insinuating (suggestive) questions are used, with the answers not necessarily known to the cross-examiner. |
-| Questions may not be leading and are aimed at getting the witness to give his or her own version. | Mostly leading questions, designed to elicit the desired answer, are asked. |
-| Interrogative words are used to introduce questions: 'Who', 'what', 'where', 'how', 'which', 'why' and 'Please describe . . .'. | The tone is suggestive and accusatory: 'You went to the house, didn't you?' or 'Didn't you . . . ?' |
-| There is a chronological arrangement, except when a particular topic needs to be dealt with out of turn. | The arrangement is topical, with chronological sequencing within themes or topics. |
-| Strict sequencing allows witness to be at ease. | A mixed approach is followed to keep the witness off balance. |
-| The aim is to keep the case simple. | The aim is to sow suspicion and confusion. |
-| Comprehensive, covering all the material facts on which the witness can contribute evidence. | Selective, covering only the material fact or facts in issue, and attacking selected items of evidence. |
-| It is not required to put the opponent's version, but you may do so in anticipation. | You are required to put your side's version of disputed facts to appropriate witnesses. |
-| Questions progress from open questions to closed but non-leading questions. | Questions progress from open questions introducing the topic, to closed, leading questions. |
+| Examination-in-chief                                                                                                            | Cross-examination                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Inquisitive questions are used, with the answers known or expected by the questioner.                                           | Insinuating (suggestive) questions are used, with the answers not necessarily known to the cross-examiner. |
+| Questions may not be leading and are aimed at getting the witness to give his or her own version.                               | Mostly leading questions, designed to elicit the desired answer, are asked.                                |
+| Interrogative words are used to introduce questions: 'Who', 'what', 'where', 'how', 'which', 'why' and 'Please describe . . .'. | The tone is suggestive and accusatory: 'You went to the house, didn't you?' or 'Didn't you . . . ?'        |
+| There is a chronological arrangement, except when a particular topic needs to be dealt with out of turn.                        | The arrangement is topical, with chronological sequencing within themes or topics.                         |
+| Strict sequencing allows witness to be at ease.                                                                                 | A mixed approach is followed to keep the witness off balance.                                              |
+| The aim is to keep the case simple.                                                                                             | The aim is to sow suspicion and confusion.                                                                 |
+| Comprehensive, covering all the material facts on which the witness can contribute evidence.                                    | Selective, covering only the material fact or facts in issue, and attacking selected items of evidence.    |
+| It is not required to put the opponent's version, but you may do so in anticipation.                                            | You are required to put your side's version of disputed facts to appropriate witnesses.                    |
+| Questions progress from open questions to closed but non-leading questions.                                                     | Questions progress from open questions introducing the topic, to closed, leading questions.                |
 
 ## 18.8 Examples of cross-examination to a theme
 
@@ -849,26 +848,26 @@ C = Competent (meaning that the performer has attained the desired standard of c
 NYC = Not yet competent (meaning that the performer has not yet reached the desired standard).
 Table 18.7 Checklist for cross-examination
 
-| | Skill involved | Competent/ Not yet competent |
-| --- | --- | --- |
-| 1 | Preparing themes for the cross-examination of each witness | |
-| 2 | Asking short, leading questions | |
-| 3 | Asking clear questions | |
-| 4 | Asking one question at a time and allowing the witness to answer | |
-| 5 | Avoiding arguing with the witness | |
-| 6 | Avoiding questions resulting in inadmissible evidence | |
-| 7 | Asking simple as opposed to compound or multiple questions | |
-| 8 | Ensuring that all gestures and demonstrations out are recorded | |
-| 9 | Listening to the answers and responding appropriately | |
-| 10 | Avoiding commenting on the answers | |
-| 11 | Exploring one theme at a time | |
-| 12 | Eliciting favourable evidence where appropriate | |
-| 13 | Following the correct procedure for putting a prior inconsistent statement | |
-| 14 | Avoiding repeating adverse evidence | |
-| 15 | Questioning only on topics relevant to the cross-examiner's [[Page-115\|theory of the case]] | |
-| 16 | Challenging the witness on all disputed facts within the witness's knowledge | |
-| 17 | Putting the cross-examiner's case to the appropriate witnesses | |
-| 18 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections | |
+|       | Skill involved                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Competent/ Not yet competent |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1     | Preparing themes for the cross-examination of each witness                                                                                                                                                                                                                                                                                                                                                                                                                                  |                              |
+| 2     | Asking short, leading questions                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                              |
+| 3     | Asking clear questions                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                              |
+| 4     | Asking one question at a time and allowing the witness to answer                                                                                                                                                                                                                                                                                                                                                                                                                            |                              |
+| 5     | Avoiding arguing with the witness                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                              |
+| 6     | Avoiding questions resulting in inadmissible evidence                                                                                                                                                                                                                                                                                                                                                                                                                                       |                              |
+| 7     | Asking simple as opposed to compound or multiple questions                                                                                                                                                                                                                                                                                                                                                                                                                                  |                              |
+| 8     | Ensuring that all gestures and demonstrations out are recorded                                                                                                                                                                                                                                                                                                                                                                                                                              |                              |
+| 9     | Listening to the answers and responding appropriately                                                                                                                                                                                                                                                                                                                                                                                                                                       |                              |
+| 10    | Avoiding commenting on the answers                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                              |
+| 11    | Exploring one theme at a time                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                              |
+| 12    | Eliciting favourable evidence where appropriate                                                                                                                                                                                                                                                                                                                                                                                                                                             |                              |
+| 13    | Following the correct procedure for putting a prior inconsistent statement                                                                                                                                                                                                                                                                                                                                                                                                                  |                              |
+| 14    | Avoiding repeating adverse evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                              |
+| 15    | Questioning only on topics relevant to the cross-examiner's [[Page-115\|theory of the case]]                                                                                                                                                                                                                                                                                                                                                                                                |                              |
+| 16    | Challenging the witness on all disputed facts within the witness's knowledge                                                                                                                                                                                                                                                                                                                                                                                                                |                              |
+| 17    | Putting the cross-examiner's case to the appropriate witnesses                                                                                                                                                                                                                                                                                                                                                                                                                              |                              |
+| 18    | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the witness - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom - [ ] Responding appropriately to objections |                              |
 
 ---
 

@@ -35,7 +35,7 @@ The Inns of Court School of Law has identified eleven common mistakes in conduct
 **Table 3.1** Common mistakes in negotiation and remedies
 
 | Mistake                                                                                  | Remedy                                                                                        |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Underselling the client's case.                                                          | Do not settle for less than you think the client's case is worth.                             |
 | Dealing with the case superficially.                                                     | Prepare fully instead and get to grips with the true issues.                                  |
 | Adopting a set, inflexible view of the case.                                             | Be flexible to adapt to any kind of opponent and any argument the opposition may raise.       |

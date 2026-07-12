@@ -106,17 +106,18 @@ Start early with a preliminary theory of the case. The theory must be coherent, 
 
 #### Proof-Making Model Table (Mrs Smith's Loss of Support Claim)
 
-| Stage 3: Legal Element (*Facta Probanda*) | Stage 4: Proposition of Fact | Stage 5: Evidence (Oral / Exhibits) | Stage 6: Admissibility & Reliability | Source / Admin |
-| :--- | :--- | :--- | :--- | :--- |
-| **Duty of support owed by deceased** | Plaintiff and deceased were legally married. | *Oral:* "We were married on [date]." *Exhibit:* Marriage Certificate. | Admissible. Original certificate required. | Plaintiff |
-| | Plaintiff needed support. | *Oral:* "I was a homemaker looking after our children. I have no income or immediate employability." | Admissible. Confirmed by household budget. | Plaintiff |
-| | Deceased was able to support. | *Oral:* "Deceased earned a stable salary of R... pm." *Exhibits:* Salary slips, tax returns. | Admissible. Request from employer/executor. | Executor |
+| Stage 3: Legal Element (*Facta Probanda*) | Stage 4: Proposition of Fact                 | Stage 5: Evidence (Oral / Exhibits)                                                                  | Stage 6: Admissibility & Reliability        | Source / Admin |
+| ----------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------------- |
+| **Duty of support owed by deceased**      | Plaintiff and deceased were legally married. | *Oral:* "We were married on [date]." *Exhibit:* Marriage Certificate.                                | Admissible. Original certificate required.  | Plaintiff      |
+|                                           | Plaintiff needed support.                    | *Oral:* "I was a homemaker looking after our children. I have no income or immediate employability." | Admissible. Confirmed by household budget.  | Plaintiff      |
+|                                           | Deceased was able to support.                | *Oral:* "Deceased earned a stable salary of R... pm." *Exhibits:* Salary slips, tax returns.         | Admissible. Request from employer/executor. | Executor       |
 
 ### Stage 6: Giving Preliminary Advice
 
 Structure advice around the client's questions: claims available, timelines, costs, and strengths.
 
 * > [!WARNING] Be Conservative
+
   > Avoid overly optimistic predictions. Unqualified advice can come back to haunt you. If you are unsure about the merits, state that you need to conduct legal research or consult counsel before providing a final opinion.
 
 ### Stage 7: Concluding the Interview

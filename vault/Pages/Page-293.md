@@ -55,11 +55,11 @@ The sole issue is therefore whether the accused acted with requisite *mens rea* 
 
 ### 2.2 Fact analysis
 
-|  Stage 3 Material fact (legal element) | Stage 4 Propositions of fact | Stage 5 Evidence to prove each proposition of fact  |
-| --- | --- | --- |
-|  3. *mens rea* (the accused intended to deprive the owner permanently of the backpack and knew that he was acting unlawfully) | 3.A = Prosecution facts 3.B = Defence facts |   |
-|   | 3.A.1 The accused entered the store with an old backpack. | Delamere: "He was carrying an old backpack . . ." Exhibit: Old backpack  |
-|   | 3.A.2 He took a backpack from the store's display rack. | Delamere: "I . . . saw him taking a backpack from the display rack . . ." Exhibit: Store's backpack  |
+| Stage 3 Material fact (legal element)                                                                                        | Stage 4 Propositions of fact                              | Stage 5 Evidence to prove each proposition of fact                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 3. *mens rea* (the accused intended to deprive the owner permanently of the backpack and knew that he was acting unlawfully) | 3.A = Prosecution facts 3.B = Defence facts               |                                                                                                     |
+|                                                                                                                              | 3.A.1 The accused entered the store with an old backpack. | Delamere: "He was carrying an old backpack . . ." Exhibit: Old backpack                             |
+|                                                                                                                              | 3.A.2 He took a backpack from the store's display rack.   | Delamere: "I . . . saw him taking a backpack from the display rack . . ." Exhibit: Store's backpack |
 
 ---
 

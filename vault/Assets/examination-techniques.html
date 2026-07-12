@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Examination Techniques Comparison</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-secondary);
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    margin: 0 auto;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  
+  .c-blue > rect { fill: #E6F1FB; stroke: #185FA5; stroke-width: 0.5; }
+  .c-blue > .th { fill: #0C447C; }
+  .c-blue > .ts { fill: #185FA5; }
+  .c-coral > rect { fill: #FAECE7; stroke: #993C1D; stroke-width: 0.5; }
+  .c-coral > .th { fill: #712B13; }
+  .c-coral > .ts { fill: #993C1D; }
+  .c-purple > rect { fill: #EEEDFE; stroke: #534AB7; stroke-width: 0.5; }
+  .c-purple > .th { fill: #3C3489; }
+  .c-purple > .ts { fill: #534AB7; }
+  .c-green > rect { fill: #EAF3DE; stroke: #3B6D11; stroke-width: 0.5; }
+  .c-green > .th { fill: #27500A; }
+  .c-green > .ts { fill: #3B6D11; }
+  
+  @media (prefers-color-scheme: dark) {
+    .c-blue > rect { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th { fill: #B5D4F4; }
+    .c-blue > .ts { fill: #85B7EB; }
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; }
+    .c-coral > .ts { fill: #F0997B; }
+    .c-purple > rect { fill: #3C3489; stroke: #AFA9EC; }
+    .c-purple > .th { fill: #CECBF6; }
+    .c-purple > .ts { fill: #AFA9EC; }
+    .c-green > rect { fill: #27500A; stroke: #97C459; }
+    .c-green > .th { fill: #C0DD97; }
+    .c-green > .ts { fill: #97C459; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Examination-in-Chief vs Cross-Examination</h1>
+  <p class="subtitle">Comparing techniques, purposes, and constraints in South African trial practice</p>
+  
+  <svg width="100%" viewBox="0 0 680 750" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+    
+    <!-- Headers -->
+    <g class="c-blue">
+      <rect x="40" y="30" width="290" height="40" rx="8" stroke-width="0.5"/>
+      <text class="th" x="185" y="55" text-anchor="middle">Examination-in-Chief</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="350" y="30" width="290" height="40" rx="8" stroke-width="0.5"/>
+      <text class="th" x="495" y="55" text-anchor="middle">Cross-Examination</text>
+    </g>
+    
+    <!-- Purpose -->
+    <text class="ts" x="40" y="100" font-weight="500">Purpose</text>
+    
+    <g class="c-blue">
+      <rect x="40" y="110" width="290" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="185" y="135" text-anchor="middle">Elicit evidence</text>
+      <text class="ts" x="185" y="155" text-anchor="middle">Tell your client's story</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="350" y="110" width="290" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="495" y="135" text-anchor="middle">Test evidence</text>
+      <text class="ts" x="495" y="155" text-anchor="middle">Challenge credibility</text>
+    </g>
+    
+    <!-- Question Types -->
+    <text class="ts" x="40" y="195" font-weight="500">Question Types</text>
+    
+    <g class="c-blue">
+      <rect x="40" y="205" width="290" height="80" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="185" y="230" text-anchor="middle" font-weight="500">Open questions ONLY</text>
+      <text class="ts" x="185" y="250" text-anchor="middle">"Tell the court what happened"</text>
+      <text class="ts" x="185" y="270" text-anchor="middle">"What did you see next?"</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="350" y="205" width="290" height="80" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="495" y="230" text-anchor="middle" font-weight="500">Leading questions allowed</text>
+      <text class="ts" x="495" y="250" text-anchor="middle">"You were 80m away, correct?"</text>
+      <text class="ts" x="495" y="270" text-anchor="middle">"It was dark at 8pm, wasn't it?"</text>
+    </g>
+    
+    <!-- Key Constraint -->
+    <text class="ts" x="40" y="310" font-weight="500">Key Constraint</text>
+    
+    <g class="c-blue">
+      <rect x="40" y="320" width="290" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="185" y="345" text-anchor="middle">No leading questions</text>
+      <text class="ts" x="185" y="365" text-anchor="middle">on material/disputed facts</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="350" y="320" width="290" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="495" y="345" text-anchor="middle">Must put your case</text>
+      <text class="ts" x="495" y="365" text-anchor="middle">to the witness</text>
+    </g>
+    
+    <!-- Technique -->
+    <text class="ts" x="40" y="405" font-weight="500">Primary Technique</text>
+    
+    <g class="c-blue">
+      <rect x="40" y="415" width="290" height="70" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="185" y="440" text-anchor="middle" font-weight="500">Funnelling</text>
+      <text class="ts" x="185" y="460" text-anchor="middle">Broad open → Specific closed</text>
+      <text class="ts" x="185" y="480" text-anchor="middle">Chronological sequence</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="350" y="415" width="290" height="70" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="495" y="440" text-anchor="middle" font-weight="500">Confrontation</text>
+      <text class="ts" x="495" y="460" text-anchor="middle">Force witness to face facts</text>
+      <text class="ts" x="495" y="480" text-anchor="middle">Challenge inconsistencies</text>
+    </g>
+    
+    <!-- Memory Refresh -->
+    <g class="c-purple">
+      <rect x="40" y="505" width="600" height="50" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="530" text-anchor="middle">Refreshing Memory (Both examinations)</text>
+      <text class="ts" x="340" y="545" text-anchor="middle">Witness may refresh from contemporaneous notes with court's permission</text>
+    </g>
+    
+    <!-- DO box -->
+    <g class="c-green">
+      <rect x="40" y="580" width="290" height="90" rx="8" stroke-width="0.5"/>
+      <text class="th" x="60" y="605">✓ DO</text>
+      <text class="ts" x="60" y="625">• Establish rapport with witness</text>
+      <text class="ts" x="60" y="645">• Use chronological order</text>
+      <text class="ts" x="60" y="665">• Listen actively</text>
+    </g>
+    
+    <!-- DON'T box -->
+    <g class="c-coral">
+      <rect x="350" y="580" width="290" height="90" rx="8" stroke-width="0.5"/>
+      <text class="th" x="370" y="605">✗ DON'T</text>
+      <text class="ts" x="370" y="625">• Ask compound questions</text>
+      <text class="ts" x="370" y="645">• Argue with the witness</text>
+      <text class="ts" x="370" y="665">• Overreach on weak points</text>
+    </g>
+    
+    <!-- Key reminder -->
+    <g class="c-purple" opacity="0.15">
+      <rect x="40" y="695" width="600" height="30" rx="4" stroke-width="0"/>
+    </g>
+    <text class="ts" x="340" y="715" text-anchor="middle">Re-examination follows: limited to matters raised in cross-examination</text>
+  </svg>
+</div>
+</body>
+</html>

@@ -36,19 +36,19 @@ In the following example the plaintiff had sued a garage for the value of his ca
 
 **Table 11.1** Request for further particulars for trial
 
-|  Par | Text of request for particulars | Comment  |
-| --- | --- | --- |
-|   | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT |   |
-|   | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL |   |
+| Par   | Text of request for particulars                                                                                                          | Comment |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+|       | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT |         |
+|       | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL                                                         |         |
 
 [[[Page-120|page 200]]]
 
-|  Par | Text of request for particulars | Comment  |
-| --- | --- | --- |
-|  1 | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen? | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination!  |
-|   | Dated at [place] this .. day of .., [year]. |   |
-|   | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] |   |
-|   | To: The Registrar [address] |   |
+| Par   | Text of request for particulars                                                                                                                                  | Comment                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen?                               | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination! |
+|       | Dated at [place] this .. day of .., [year].                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                              |
+|       | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] |                                                                                                                                                                                                                                                                                                                                                                                                              |
+|       | To: The Registrar [address]                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ---
 

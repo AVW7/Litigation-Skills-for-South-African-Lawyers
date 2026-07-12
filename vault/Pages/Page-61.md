@@ -33,15 +33,15 @@ aliases:
 
 The heading of a criminal case follows the same pattern:
 
-|  [COURT DESCRIPTION as prescribed]  |   |
-| --- | --- |
-|   | Case no (if any)/[year]  |
-|  The State |   |
-|  versus |   |
-|  1. [name of accused number 1] [+ details such as nationality, gender, age and address] |   |
-|  and |   |
-|  2. [name of accused number 2] [+ details such as nationality, gender, age and address] |   |
-|  INDICTMENT  |   |
+| [COURT DESCRIPTION as prescribed]                                                      |                         |
+| -------------------------------------------------------------------------------------- | ----------------------- |
+|                                                                                        | Case no (if any)/[year] |
+| The State                                                                              |                         |
+| versus                                                                                 |                         |
+| 1. [name of accused number 1] [+ details such as nationality, gender, age and address] |                         |
+| and                                                                                    |                         |
+| 2. [name of accused number 2] [+ details such as nationality, gender, age and address] |                         |
+| INDICTMENT                                                                             |                         |
 
 [[[Page-61|page 91]]]
 
@@ -57,10 +57,10 @@ The following table contains some examples of the citation of parties:
 
 **Table 5.4** Examples of the citation of plaintiffs and defendants
 
-|  Plaintiff | Defendant | Comment  |
-| --- | --- | --- |
-|  The plaintiff is Joe Soap, an adult male, architect, who resides at [street address]. | The defendant is Peter Pan, a male, architect who resides at [street address], who is sued herein in his capacity as father and natural guardian of Paul Pan, a boy born on the [date]), of the same address. | (a) Plaintiff's *locus standi* is apparent from the fact that he is an adult. (b) Defendant's *locus standi* does not depend on his being an adult but on his being the guardian of the minor.  |
-|  The plaintiff is Joanne Soap, an adult unmarried female, | The defendant is ABC Limited, a company with limited liability, duly incorporated and registered according to law and having its registered office | (a) The marital status of a woman has to be given under Rule 17(4)(b). (b) The address of a company is its registered office.  |
+| Plaintiff                                                                             | Defendant                                                                                                                                                                                                     | Comment                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The plaintiff is Joe Soap, an adult male, architect, who resides at [street address]. | The defendant is Peter Pan, a male, architect who resides at [street address], who is sued herein in his capacity as father and natural guardian of Paul Pan, a boy born on the [date]), of the same address. | (a) Plaintiff's *locus standi* is apparent from the fact that he is an adult. (b) Defendant's *locus standi* does not depend on his being an adult but on his being the guardian of the minor. |
+| The plaintiff is Joanne Soap, an adult unmarried female,                              | The defendant is ABC Limited, a company with limited liability, duly incorporated and registered according to law and having its registered office                                                            | (a) The marital status of a woman has to be given under Rule 17(4)(b). (b) The address of a company is its registered office.                                                                  |
 
 ---
 

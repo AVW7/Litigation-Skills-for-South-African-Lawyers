@@ -28,14 +28,14 @@ publications and also of new or proposed legislation.
 
 **Table 13.2** Narrowing down the research
 
-|  Specific source | Narrowing it down  |
-| --- | --- |
-|  Statute (Act of Parliament, provincial ordinance, municipal by-law or regulation) | 1 What does the Act as a whole have in mind? 2 How have the Act and the section been interpreted? 3 How has the section been applied in other cases? 4 Check the *Noter-up* for case law.  |
-|  Decided case | 1 What authorities were relied on in this judgment? 2 What other judgments followed this one, or departed from it? (*Noter-up*) 3 Have there been any legislative changes to the law?  |
-|  Textbook | 1 Is there a supplement to this textbook or a later edition of the book? 2 Is there a loose-leaf service or current service? 3 Follow footnotes to other sources. 4 Check catchwords and phrases in the subject index.  |
-|  Journal | 1 Check subject index. 2 What other sources are identified by the author? Follow up.  |
-|  Thesis | 1 Check subject index for catchwords and phrases. 2 What other sources are identified by the author? Follow up.  |
-|  Roman-Dutch authorities | 1 What did *De Groot, Voet, Van der Linden and Van der Keessel* have to say on this subject? 2 To what extent have our courts or authors adopted their principles? 3 What sources do these authors rely on? 4 What do these sources disclose?  |
+| Specific source                                                                   | Narrowing it down                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Statute (Act of Parliament, provincial ordinance, municipal by-law or regulation) | 1 What does the Act as a whole have in mind? 2 How have the Act and the section been interpreted? 3 How has the section been applied in other cases? 4 Check the *Noter-up* for case law.                                                     |
+| Decided case                                                                      | 1 What authorities were relied on in this judgment? 2 What other judgments followed this one, or departed from it? (*Noter-up*) 3 Have there been any legislative changes to the law?                                                         |
+| Textbook                                                                          | 1 Is there a supplement to this textbook or a later edition of the book? 2 Is there a loose-leaf service or current service? 3 Follow footnotes to other sources. 4 Check catchwords and phrases in the subject index.                        |
+| Journal                                                                           | 1 Check subject index. 2 What other sources are identified by the author? Follow up.                                                                                                                                                          |
+| Thesis                                                                            | 1 Check subject index for catchwords and phrases. 2 What other sources are identified by the author? Follow up.                                                                                                                               |
+| Roman-Dutch authorities                                                           | 1 What did *De Groot, Voet, Van der Linden and Van der Keessel* have to say on this subject? 2 To what extent have our courts or authors adopted their principles? 3 What sources do these authors rely on? 4 What do these sources disclose? |
 
 [[[Page-141|page 233]]]
 

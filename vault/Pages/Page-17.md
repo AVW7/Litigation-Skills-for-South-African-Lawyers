@@ -50,6 +50,7 @@ Rule 4.3.1 of the Uniform Rules of Professional Ethics of the General Council of
 
 - [ ] The basic principle is that a witness does not "belong" to anyone. A lawyer is in principle entitled to interview any person whom they believe to be in possession of information that may help their client's case.
 - [ ] Where the lawyer discovers that the other side has subpoenaed the witness, or arranged for him or her to give evidence, or has interviewed the witness in connection with the litigation, or has obtained or arranged to obtain a statement from the witness, ("the opponent's witness") then to following principles must be adhered to:
+
 (i) Before the witness has given evidence: Once it becomes apparent that the witness is likely to be the opponent's witness, the interview may not be held or continued until the other side has been notified of the intention to hold or continue the interview. In this instance (a) there is a duty on the lawyer to ascertain whether the witness is the opponent's witness and (b) the other side is not entitled to attend or be represented at the interview. All the other side is entitled to is to be notified.
 
 ---

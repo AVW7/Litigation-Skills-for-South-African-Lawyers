@@ -22,9 +22,9 @@ Let us assume that the plaintiff (Mrs Smith) claims an amount for the repairs to
 
 **Table 7.5** Pleading that an allegation is not admitted
 
-|  Particulars of claim | Plea | Comment  |
-| --- | --- | --- |
-|  3 The plaintiff was at all material times the owner of a [year] Honda motorcar with registration number NPN 2001. | 2 The defendant does not admit any of the allegations in paragraph 3 of the particulars of claim. | 1 More than one fact is alleged in paragraph 3 of the particulars. Each one has to be dealt with. 2 It is enough not to admit the allegations; you do not need to 'put the plaintiff to the proof thereof'.  |
+| Particulars of claim                                                                                              | Plea                                                                                              | Comment                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 The plaintiff was at all material times the owner of a [year] Honda motorcar with registration number NPN 2001. | 2 The defendant does not admit any of the allegations in paragraph 3 of the particulars of claim. | 1 More than one fact is alleged in paragraph 3 of the particulars. Each one has to be dealt with. 2 It is enough not to admit the allegations; you do not need to 'put the plaintiff to the proof thereof'. |
 
 Read paragraph 3 of the particulars of claim very carefully. There are more than one 'fact' hidden in one rather innocuous sentence. The plaintiff may own a car, but it might not be a Honda. She might even own a Honda with a different registration number. Most importantly, there might be such a car but it may not be true that the plaintiff owns it. [[[Page-84|page 132]]] She may have possession of it under a hire purchase contract or lease, in which event it belongs to the seller or lessor. For that reason it is wise not to admit 'any of the allegations' in the relevant paragraph.
 
@@ -38,9 +38,9 @@ Rule 22(2) states clearly that the material facts upon which the defendant relie
 
 **Table 7.6** Pleading the material facts of the defence
 
-|  Particulars of claim | Plea | Comment  |
-| --- | --- | --- |
-|  5. The plaintiff duly delivered the [thing] to the defendant. | 2 The defendant admits paragraph 5 of the claim but avers that: (i) At the time of the conclusion of the contract the [thing] had a latent defect rendering it unfit for the purpose for which it was bought. Particulars: (a) . . . (b) . . . (ii) The defendant is entitled to resile from the contract and has done so. (iii) The defendant has tendered return of the [thing] to the plaintiff and repeats the tender. | The burden of proof in respect of these material facts will rest on the defendant.  |
+| Particulars of claim                                          | Plea                                                                                                                                                                                                                                                                                                                                                                                                                       | Comment                                                                            |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 5. The plaintiff duly delivered the [thing] to the defendant. | 2 The defendant admits paragraph 5 of the claim but avers that: (i) At the time of the conclusion of the contract the [thing] had a latent defect rendering it unfit for the purpose for which it was bought. Particulars: (a) . . . (b) . . . (ii) The defendant is entitled to resile from the contract and has done so. (iii) The defendant has tendered return of the [thing] to the plaintiff and repeats the tender. | The burden of proof in respect of these material facts will rest on the defendant. |
 
 ---
 

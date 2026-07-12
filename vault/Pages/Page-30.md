@@ -32,15 +32,21 @@ Use headings and sub-headings where you can to help separate (and clarify) your 
 
 A. Introduction - the question
 B. The facts
+
 1. The background
 2. The disputed facts
 3. The probabilities
+
 C. The law
+
 1. The first point - Prescription
 2. The second point - Estoppel
+
 D. Conclusion
+
 1. The answer
 2. The argument against it
+
 E. The way forward - some practical advice.
 
 Be careful not to express your views in absolute or arrogant terms. You may have some difficulty explaining to an irate client, who has just lost the case, what you meant when you said the defence had no merit whatsoever! It is far better to express your views with some circumspection, for example: On these facts I am of the view that the court will probably reject that defence.

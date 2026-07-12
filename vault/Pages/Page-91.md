@@ -38,21 +38,21 @@ The same principles apply as for statements of claim and pleas.
 
 ### CONTENTS
 
-|  9.1 | Introduction  |
-| --- | --- |
-|  9.2 | Exceptions  |
-|  9.2.1 | The purpose of an exception  |
-|  9.2.2 | When an exception can and should be taken  |
-|  9.2.3 | The procedure for an exception  |
-|  9.2.4 | The form, format and style of an exception  |
-|  9.3 | Applications to strike out under Rule 23(2)  |
-|  9.4 | Applications to strike out under Rule 30  |
-|  9.5 | Objection to a charge in criminal proceedings  |
-|  9.5.1 | Introduction  |
-|  9.5.2 | Objecting to the charge  |
-|  9.5.3 | Responding to the objection to the charge  |
-|  9.5.4 | Sections 89 to 104  |
-|  9.6 | Protocol and ethics  |
+| 9.1   | Introduction                                  |
+| ----- | --------------------------------------------- |
+| 9.2   | Exceptions                                    |
+| 9.2.1 | The purpose of an exception                   |
+| 9.2.2 | When an exception can and should be taken     |
+| 9.2.3 | The procedure for an exception                |
+| 9.2.4 | The form, format and style of an exception    |
+| 9.3   | Applications to strike out under Rule 23(2)   |
+| 9.4   | Applications to strike out under Rule 30      |
+| 9.5   | Objection to a charge in criminal proceedings |
+| 9.5.1 | Introduction                                  |
+| 9.5.2 | Objecting to the charge                       |
+| 9.5.3 | Responding to the objection to the charge     |
+| 9.5.4 | Sections 89 to 104                            |
+| 9.6   | Protocol and ethics                           |
 
 [[[Page-91|page 149]]]
 

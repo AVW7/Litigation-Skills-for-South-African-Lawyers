@@ -18,15 +18,15 @@ aliases:
 
 **Table 24.1** Reviews and appeals compared
 
-|  Appeals | Reviews  |
-| --- | --- |
-|  Full rehearing on the merits; was the decision right? | Limited rehearing; was the correct procedure followed?  |
-|  Limited to the material before the court *a quo*. | Extraneous material may be placed before the court.  |
-|  Strict time limits for noting and prosecuting the appeal. | Review must be brought within a reasonable period. There may nevertheless be prescribed time limits.  |
-|  Appeal procedure; see chapter 25. | Action, Rule 53 or, in urgent cases, Rule 6 procedures.  |
-|  Suspends operation of judgment unless the court orders otherwise. | Does not suspend the judgment unless the court orders otherwise.  |
-|  Generally limited to judgments of courts of law. | Also applies to decisions of public bodies and statutory bodies.  |
-|  Special leave to appeal (see chapter 25) required for a further appeal (to the Supreme Court of Appeal). | Leave of the High Court hearing the review required for an appeal to its Full Court or to the Supreme Court of Appeal.  |
+| Appeals                                                                                                  | Reviews                                                                                                                |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Full rehearing on the merits; was the decision right?                                                    | Limited rehearing; was the correct procedure followed?                                                                 |
+| Limited to the material before the court *a quo*.                                                        | Extraneous material may be placed before the court.                                                                    |
+| Strict time limits for noting and prosecuting the appeal.                                                | Review must be brought within a reasonable period. There may nevertheless be prescribed time limits.                   |
+| Appeal procedure; see chapter 25.                                                                        | Action, Rule 53 or, in urgent cases, Rule 6 procedures.                                                                |
+| Suspends operation of judgment unless the court orders otherwise.                                        | Does not suspend the judgment unless the court orders otherwise.                                                       |
+| Generally limited to judgments of courts of law.                                                         | Also applies to decisions of public bodies and statutory bodies.                                                       |
+| Special leave to appeal (see chapter 25) required for a further appeal (to the Supreme Court of Appeal). | Leave of the High Court hearing the review required for an appeal to its Full Court or to the Supreme Court of Appeal. |
 
 There are three main types of review under the common law. These were identified as such in the frequently cited case of *Johannesburg Consolidated Investments Co v Johannesburg Town Council* 1903 TS 111 as -
 
@@ -44,6 +44,7 @@ These categories have now been overtaken by the Constitution of the Republic of 
 33 (1) Everyone has the right to administrative action that is lawful, reasonable and procedurally fair.
 (2) Everyone whose rights have been adversely affected by administrative action has the right to be given written reasons.
 (3) National legislation must be enacted to give effect to these rights, and must -
+
 1. provide for the review of administrative action by a court or, where appropriate, an independent and impartial tribunal;
 2. impose a duty on the state to give effect to the rights in subsections (1) and (2); and
 3. promote an efficient administration."

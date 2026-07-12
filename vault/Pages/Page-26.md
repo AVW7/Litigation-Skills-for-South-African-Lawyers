@@ -37,12 +37,12 @@ Advice given by letter differs from advice by way of a memorandum or written opi
 
 Table 2.2 Format for a letter (or memorandum) of advice
 
-|  Subject-matter | Content  |
-| --- | --- |
-|  Executive summary | This is the initial part of the letter where the client's instructions, the answer to the question or problem and your recommendations are summarised.  |
-|  Body | The main part of the letter discusses the question or problem in more detail, outlines the conclusion reached and makes a recommendation with regard to further action.  |
-|  Reasoning or argument | The argument sets out the reasons for the conclusion with reference to the facts and the law applicable to those facts.  |
-|  Conclusion and practical advice | In the concluding part of the letter the recommendations and advice are repeated and the client is advised with regard to the practical implementation of the recommendation. This includes what further evidence or information may be needed before proceeding any further.  |
+| Subject-matter                  | Content                                                                                                                                                                                                                                                                       |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Executive summary               | This is the initial part of the letter where the client's instructions, the answer to the question or problem and your recommendations are summarised.                                                                                                                        |
+| Body                            | The main part of the letter discusses the question or problem in more detail, outlines the conclusion reached and makes a recommendation with regard to further action.                                                                                                       |
+| Reasoning or argument           | The argument sets out the reasons for the conclusion with reference to the facts and the law applicable to those facts.                                                                                                                                                       |
+| Conclusion and practical advice | In the concluding part of the letter the recommendations and advice are repeated and the client is advised with regard to the practical implementation of the recommendation. This includes what further evidence or information may be needed before proceeding any further. |
 
 Many lay clients are only interested in the first and last stages. They want to know what they can do and what their lawyer suggests they should do. Some clients may also want to know how their lawyer has arrived at the conclusion and on what grounds the recommendation is based. The result is that even the technical part of the
 

@@ -20,7 +20,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **ADR (Alternative Dispute Resolution)** — methods to resolve disputes without trial. Key topics: negotiation, mediation, and arbitration as alternatives to litigation.
-
+<!-- -->
 > [!quote] Core Principle
 > *"Clash and conflict are present in every community. We have the rule of law, including procedures for resolving disputes — conciliation, mediation, arbitration, settlement, and judicial determination."* — Justice William O. Douglas
 
@@ -46,10 +46,11 @@ graph LR
 *Figure: The ADR spectrum from party control to adjudication.*
 
 > [!tip] When to Use ADR
+>
 > - **Negotiation**: First step, before formal proceedings
 > - **Mediation**: Positions entrenched, need neutral facilitator
 > - **Arbitration**: Want binding decision without court delays
-
+<!-- -->
 > [!tip] Connection
 > ADR often follows client advice ([[L02 - Advising and counselling clients]]). If ADR fails, commence litigation ([[L04 - Preparing to commence action]]).
 
@@ -198,6 +199,7 @@ According to Chapman, the following questions may affect the client's decision w
 - How afraid am I of losing control of the outcome?
 - What could be the flow-on effects of this case?
 - Do I just want to get rid of this problem?
+
 If the client after considering these matters and your advice should agree to [[Page-30|mediation]], your role as lawyer is not over yet. Your client will need advice and assistance throughout the procedures that follow upon the decision.
 
 A properly structured mediation will usually include the -
@@ -382,19 +384,19 @@ The Inns of Court School of Law has identified eleven common mistakes in conduct
 
 **Table 3.1** Common mistakes in negotiation and remedies
 
-| Mistake | Remedy |
-| --- | --- |
-| Underselling the client's case. | Do not settle for less than you think the client's case is worth. |
-| Dealing with the case superficially. | Prepare fully instead and get to grips with the true issues. |
-| Adopting a set, inflexible view of the case. | Be flexible to adapt to any kind of opponent and any argument the opposition may raise. |
-| Lacking familiarity with the facts. | Do a detailed [[Page-115\|fact analysis]]. (See chapter 14.) |
-| Failing to prepare a logical structure for the negotiation. | Prepare to deal with the issues logically. |
-| A lack of practical planning. | Be prepared to consider the practical effects of any proposals on the client. |
-| Failing to take account of the opponent's case and being caught by surprise as a result. | Be prepared to deal with the situation if new facts were to be raised by the other side. |
-| Failing to plan concessions. | Concede only with good reason and only on the basis of what you have planned to concede. |
-| A lack of attention to detail. | Think ahead to the implementation of the deal offered or contemplated. |
-| Unreasonably blaming the opponent for the failure of the negotiation. | Your preparation needs to be so thorough that you are able to deal with any kind of opponent. |
-| Poor use of time. | Get to the real issues quickly. |
+| Mistake                                                                                  | Remedy                                                                                        |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Underselling the client's case.                                                          | Do not settle for less than you think the client's case is worth.                             |
+| Dealing with the case superficially.                                                     | Prepare fully instead and get to grips with the true issues.                                  |
+| Adopting a set, inflexible view of the case.                                             | Be flexible to adapt to any kind of opponent and any argument the opposition may raise.       |
+| Lacking familiarity with the facts.                                                      | Do a detailed [[Page-115\|fact analysis]]. (See chapter 14.)                                  |
+| Failing to prepare a logical structure for the negotiation.                              | Prepare to deal with the issues logically.                                                    |
+| A lack of practical planning.                                                            | Be prepared to consider the practical effects of any proposals on the client.                 |
+| Failing to take account of the opponent's case and being caught by surprise as a result. | Be prepared to deal with the situation if new facts were to be raised by the other side.      |
+| Failing to plan concessions.                                                             | Concede only with good reason and only on the basis of what you have planned to concede.      |
+| A lack of attention to detail.                                                           | Think ahead to the implementation of the deal offered or contemplated.                        |
+| Unreasonably blaming the opponent for the failure of the negotiation.                    | Your preparation needs to be so thorough that you are able to deal with any kind of opponent. |
+| Poor use of time.                                                                        | Get to the real issues quickly.                                                               |
 
 ## 3.6 Doing nothing
 
@@ -410,19 +412,19 @@ It takes a conscious effort to sit back and let the problem stew for a while, wh
 
 **Table 3.2** The comparative merits of different forms of dispute resolution
 
-| | Litigation | [[Page-30\|Arbitration]] | Expert determination | [[Page-30\|Mediation]] | [[Page-30\|Negotiation]] |
-| --- | --- | --- | --- | --- | --- |
-| **Adversarial?** | Yes | Yes | No | No | No |
-| **Formal?** | Yes | Yes | No | No | No |
-| **Flexible?** | No | A little | Yes | Yes | Yes |
-| **Delay in reaching finality?** | Long delays | Can be quick, often not | Can be quick | Can be quick | Can be very quick |
-| **Cost?** | Expensive | Can be very expensive | Not very costly | Relatively inexpensive | Least expensive |
-| **Legal aid available?** | Yes | No | No | Only in some cases | No |
-| **Finality of result?** | Subject to appeal | Subject to review | Subject to review | Final as any other contract | Final as any other contract |
-| **Proceedings confidential?** | Very limited confidentiality | May be agreed | May be agreed | Yes | Yes |
-| **Certainty of outcome?** | None | None | None | Agreement gives certainty | Agreement gives certainty |
-| **Meeting interests of both parties?** | No, winner takes all | No, winner takes all | No, winner takes all | Yes | Yes |
-| **Enforceable?** | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required |
+|                                        | Litigation                      | [[Page-30\|Arbitration]]     | Expert determination         | [[Page-30\|Mediation]]          | [[Page-30\|Negotiation]]        |
+| -------------------------------------- | ------------------------------- | ---------------------------- | ---------------------------- | ------------------------------- | ------------------------------- |
+| **Adversarial?**                       | Yes                             | Yes                          | No                           | No                              | No                              |
+| **Formal?**                            | Yes                             | Yes                          | No                           | No                              | No                              |
+| **Flexible?**                          | No                              | A little                     | Yes                          | Yes                             | Yes                             |
+| **Delay in reaching finality?**        | Long delays                     | Can be quick, often not      | Can be quick                 | Can be quick                    | Can be very quick               |
+| **Cost?**                              | Expensive                       | Can be very expensive        | Not very costly              | Relatively inexpensive          | Least expensive                 |
+| **Legal aid available?**               | Yes                             | No                           | No                           | Only in some cases              | No                              |
+| **Finality of result?**                | Subject to appeal               | Subject to review            | Subject to review            | Final as any other contract     | Final as any other contract     |
+| **Proceedings confidential?**          | Very limited confidentiality    | May be agreed                | May be agreed                | Yes                             | Yes                             |
+| **Certainty of outcome?**              | None                            | None                         | None                         | Agreement gives certainty       | Agreement gives certainty       |
+| **Meeting interests of both parties?** | No, winner takes all            | No, winner takes all         | No, winner takes all         | Yes                             | Yes                             |
+| **Enforceable?**                       | Yes, by court execution process | Yes, after applying to court | Yes, after applying to court | No, fresh court action required | No, fresh court action required |
 
 There is another, less obvious aspect to this table. Your ability to deal with or to expose fraud and deception increases steadily as you move from negotiation, where it may be difficult, towards litigation, where the tools of [[Page-145|cross-examination]] and the criminal sanction for perjury are available.
 

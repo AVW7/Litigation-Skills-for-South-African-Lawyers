@@ -25,9 +25,9 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-285\|Page 285]] | 475 | Epilogue |
+| Page (PDF)             | Page (Printed) | Title / Key Content |
+| ---------------------- | -------------- | ------------------- |
+| [[Page-285\|Page 285]] | 475            | Epilogue            |
 
 ---
 

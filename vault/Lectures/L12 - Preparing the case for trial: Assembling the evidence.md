@@ -19,7 +19,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **evidence assembly** — organizing documents and exhibits for trial. Key topics: trial bundles, documentary evidence, captioning photographs, and trial notebooks.
-
+<!-- -->
 > [!important] Trial Bundle
 > A complete set of documents for the court, including: pleadings, discovery documents, witness statements, expert reports, and relevant correspondence.
 
@@ -59,7 +59,7 @@ graph TB
 
 > [!tip] Organization Tip
 > Page-number every document. Create an index. The judge should find any document in seconds.
-
+<!-- -->
 > [!tip] Connection
 > Follows [[L11 - Preparing the case for trial: Advice on evidence|evidence advice]]. Proceeds to [[L13 - Preparation for trial: Legal research|legal research]] and [[L14 - Preparation for trial: Fact analysis and strategy|strategy]].
 
@@ -92,18 +92,18 @@ This is not a closed list of things for defence counsel to consider. Each case w
 
 CONTENTS
 
-| 12.1 | Introduction |
-| --- | --- |
-| 12.1.1 | Types of evidence |
-| 12.1.2 | The sources of evidence |
-| 12.1.3 | The need to preserve the evidence |
-| 12.2 | Consultations |
-| 12.3 | Inspecting documents and examining exhibits |
-| 12.4 | Inspections in loco |
-| 12.5 | Creating [[Page-100\|demonstrative exhibit]]s: Plans, photographs and models |
-| 12.5.1 | Plans |
-| 12.5.2 | Photographs |
-| 12.5.3 | Models |
+| 12.1   | Introduction                                                                 |
+| ------ | ---------------------------------------------------------------------------- |
+| 12.1.1 | Types of evidence                                                            |
+| 12.1.2 | The sources of evidence                                                      |
+| 12.1.3 | The need to preserve the evidence                                            |
+| 12.2   | Consultations                                                                |
+| 12.3   | Inspecting documents and examining exhibits                                  |
+| 12.4   | Inspections in loco                                                          |
+| 12.5   | Creating [[Page-100\|demonstrative exhibit]]s: Plans, photographs and models |
+| 12.5.1 | Plans                                                                        |
+| 12.5.2 | Photographs                                                                  |
+| 12.5.3 | Models                                                                       |
 
 ---
 
@@ -239,8 +239,8 @@ There are computer programmes available to help you keep track of all the docume
 
 Table 12.1 Scheme for organising documentary evidence
 
-| Date | Nature of document | Author | Recipient | Summary of contents | Notes or comments |
-| --- | --- | --- | --- | --- | --- |
+| Date                               | Nature of document                                         | Author                                                                       | Recipient                                     | Summary of contents                                                                                                            | Notes or comments                                                                                         |
+| ---------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | Documents should be in date order. | Letter? Contract? Receipt? Invoice? Plan? Photograph? etc. | Who wrote, signed or drafted it? (This person could be a necessary witness.) | Who received it? (Another potential witness.) | What does the document mean in the context of the case? Where does it fit in the story? Tell your story through the documents. | Cross-reference to other documents or evidence, make notes for [[Page-145\|cross-examination]] and so on. |
 
 This is by no means the only way to organise the documents. If you adopt this kind of process you will inevitably have to read and analyse each document and think about its role and use in the dispute. Most documents don't help at all, but then, in the miner's pan there are only a few flecks of gold to be found after all that sifting and swirling! Analysing the documents is an intensive and useful exercise for trial preparation and is also hard work, best done without distractions. You could use a scheme such as the one discussed in chapter 14 for this type of analysis.
@@ -298,6 +298,7 @@ Let's assume we are to inspect the scene where our client, Mrs Anne Smith, was i
 - Ask the client to point out where the collision occurred. Mark this as the point of impact on your drawing. Measure the distance from the side of the road to the point of impact. Then measure the distance from the other side to the point of impact. Make sure that your measurements are perpendicular to the side of the road.
 - Make a note of the phasing of the traffic lights. Are there any turning arrows? Make a note and record the duration of each phase of the lights, for example, for how long the turning arrow flashes.
 - Note all obstructions such as trees, shrubs, and bus shelters.
+
 Back at the office or chambers, create as accurate a plan as you can with the information you have obtained at the scene. Measurements and other features or observations may be recorded on a separate document, commonly known as the 'key to the plan'. You should also draft a statement for Mrs Smith incorporating the plan, the key and the photographs you have taken. Remember that she is going to be the witness, not you.
 
 Plans are usually drawn to present a bird's eye view of the scene. Many witnesses have difficulty in dealing with plans of this nature, so care has to be taken to ensure that they know how to deal with your plan. North is always at the top of the page. While plans drawn to scale are not necessary for ordinary matters such as RAF or other motor-collision cases, the use of graph paper may still help you to draw a plan which has things more or less in proportion. If a drawing to scale is required, you will have to employ an expert such as an architect or land surveyor.
@@ -310,9 +311,9 @@ A key should be prepared for each photograph. This should initially be done at t
 
 **Table 12.2** Providing captions for photographs
 
-| Number | Date | Legend | Compass | Comment |
-| --- | --- | --- | --- | --- |
-| 1 | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident. |
+| Number | Date       | Legend                                                                                                                                                             | Compass                    | Comment                                                                                                                           |
+| ------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident. |
 
 If the case is about a collision, say, an elderly pensioner living in a rural area was knocked down by a bus, your client may need a lot of help to be able to give his evidence coherently and persuasively. In such a case I would suggest the following process for a set of helpful photographs:
 

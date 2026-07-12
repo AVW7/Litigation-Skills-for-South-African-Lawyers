@@ -32,36 +32,36 @@ A book like this is based on experience and lessons learned and taught in the pa
 
 #### PRECEDENTS
 
-|  *Plading or other document* | *Chapter* | *Page*  |
-| --- | --- | --- |
-|  1 Claims: Examples of the citation of plaintiffs and defendants | 5 | 92  |
-|  2 Claims: Particulars of claim in a damages action | 6 | 100  |
-|  3 Claims: Declaration in a contractual claim | 6 | 105  |
-|  4 Claims: Counterclaim in a damages action | 6 | 109  |
-|  5 Claims: Third party particulars of claim for a contribution | 6 | 114  |
-|  6 Claims: Interpleader particulars of claim | 6 | 118  |
-|  7 Claims: Provisional sentence summons | 6 | 122  |
-|  8 Charge of theft | 6 | 124  |
-|  9 Plea: pleading an admission | 7 | 129  |
-|  10 Plea: pleading a denial | 7 | 130  |
-|  11 Plea: denying some allegations while admitting others | 7 | 130  |
-|  12 Plea: pleading a confession and avoidance | 7 | 131  |
-|  13 Plea: pleading that an allegation is not admitted | 7 | 131  |
-|  14 Plea: pleading the material facts of the defence | 7 | 132  |
-|  15 Plea: pleading an explanation or qualification | 7 | 133  |
-|  16 Plea: the prayer | 7 | 134  |
-|  17 Plea: an inelegant plea | 7 | 139  |
-|  18 Plea: a special plea | 7 | 139  |
-|  19 Plea explanation in a criminal case | 7 | 141  |
-|  20 Replication | 8 | 145  |
-|  21 Exception | 9 | 153  |
-|  22 Striking out order under Rule 23(2) | 9 | 156  |
-|  23 Objection to criminal charge | 9 | 158  |
-|  24 Applications: Notice of motion in spoliation application | 10 | 171  |
-|  25 Applications: Founding affidavit in spoliation application | 10 | 173  |
-|  26 Applications: Notice of opposition | 10 | 173  |
-|  27 Applications: Certificate of urgency | 10 | 177  |
-|  28 Applications: Notice of application in interlocutory proceedings | 10 | 179  |
+| *Plading or other document*                                         | *Chapter* | *Page* |
+| ------------------------------------------------------------------- | --------- | ------ |
+| 1 Claims: Examples of the citation of plaintiffs and defendants     | 5         | 92     |
+| 2 Claims: Particulars of claim in a damages action                  | 6         | 100    |
+| 3 Claims: Declaration in a contractual claim                        | 6         | 105    |
+| 4 Claims: Counterclaim in a damages action                          | 6         | 109    |
+| 5 Claims: Third party particulars of claim for a contribution       | 6         | 114    |
+| 6 Claims: Interpleader particulars of claim                         | 6         | 118    |
+| 7 Claims: Provisional sentence summons                              | 6         | 122    |
+| 8 Charge of theft                                                   | 6         | 124    |
+| 9 Plea: pleading an admission                                       | 7         | 129    |
+| 10 Plea: pleading a denial                                          | 7         | 130    |
+| 11 Plea: denying some allegations while admitting others            | 7         | 130    |
+| 12 Plea: pleading a confession and avoidance                        | 7         | 131    |
+| 13 Plea: pleading that an allegation is not admitted                | 7         | 131    |
+| 14 Plea: pleading the material facts of the defence                 | 7         | 132    |
+| 15 Plea: pleading an explanation or qualification                   | 7         | 133    |
+| 16 Plea: the prayer                                                 | 7         | 134    |
+| 17 Plea: an inelegant plea                                          | 7         | 139    |
+| 18 Plea: a special plea                                             | 7         | 139    |
+| 19 Plea explanation in a criminal case                              | 7         | 141    |
+| 20 Replication                                                      | 8         | 145    |
+| 21 Exception                                                        | 9         | 153    |
+| 22 Striking out order under Rule 23(2)                              | 9         | 156    |
+| 23 Objection to criminal charge                                     | 9         | 158    |
+| 24 Applications: Notice of motion in spoliation application         | 10        | 171    |
+| 25 Applications: Founding affidavit in spoliation application       | 10        | 173    |
+| 26 Applications: Notice of opposition                               | 10        | 173    |
+| 27 Applications: Certificate of urgency                             | 10        | 177    |
+| 28 Applications: Notice of application in interlocutory proceedings | 10        | 179    |
 
 ---
 

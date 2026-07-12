@@ -20,9 +20,9 @@ By following this process you can ensure that you get a clear view of the availa
 
 **Table 14.4** Material fact (legal requirement) and propositions of fact
 
-|  Material fact to be proved (Legal element identified at Stage 3) | Propositions of fact to support the material fact in issue (Evidential facts - Stage 4)  |
-| --- | --- |
-|  1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a [year] model Honda, from a dealer in motor cars. 1.2 The sale was for cash. 1.3 The purchase price was paid. 1.4 The car was delivered to her by the dealer with the intention of transferring ownership. 1.5 The car was received by her with the intention of acquiring ownership. 1.6 The plaintiff has been in undisturbed possession of the car ever since.  |
+| Material fact to be proved (Legal element identified at Stage 3)                                                   | Propositions of fact to support the material fact in issue (Evidential facts - Stage 4)                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 The Plaintiff was at all material times the owner of a [year] Honda motor car with registration number NPN 2001. | 1.1 The plaintiff bought the car, a [year] model Honda, from a dealer in motor cars. 1.2 The sale was for cash. 1.3 The purchase price was paid. 1.4 The car was delivered to her by the dealer with the intention of transferring ownership. 1.5 The car was received by her with the intention of acquiring ownership. 1.6 The plaintiff has been in undisturbed possession of the car ever since. |
 
 You can work out what facts the evidence can prove by reading and re-reading the statements and documents with the aim of determining how they can help to prove the material fact in issue. This can be demonstrated by using another example from Mrs Smith's case. She says the following in her statement (Appendix 1):
 
@@ -49,10 +49,10 @@ Each proposition of fact has to be proved by admissible and credible evidence. T
 
 The next step in the analysis of the facts is to list the individual items of evidence proving each proposition of fact. Take the first proposition of fact, namely that the plaintiff had bought the car from a dealer (proposition 1.1). On what evidence is that proposition based? You could arrange the evidence in support of proposition 1.1 as follows:
 
-|  Evidence Stage 5  |
-| --- |
-|  Oral: "I went to the Honda dealership. I bought the car, a (year) model Honda, from them . . ."  |
-|  Exhibits: Contract, receipt.  |
+| Evidence Stage 5                                                                                |
+| ----------------------------------------------------------------------------------------------- |
+| Oral: "I went to the Honda dealership. I bought the car, a (year) model Honda, from them . . ." |
+| Exhibits: Contract, receipt.                                                                    |
 
 ---
 

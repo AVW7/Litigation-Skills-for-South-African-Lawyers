@@ -30,10 +30,10 @@ aliases:
 - [ ] It is not enough to plead conclusions, for example, "The marriage has broken down irretrievably." The main facts upon which that conclusion is based have to be set out too (Rule 18(4)).
 - [ ] The device of "Particulars" can be used when a rule or a Practice Directive (issued by the Judge President concerned) or general practice requires that more detailed information be given to the other party. For example:
 
-|  PARTICULARS (of negligence) (of the plaintiff's damages) (of the breakdown of the marriage)  |
-| --- |
-|  (a) . . .  |
-|  (b) . . . etc.  |
+| PARTICULARS (of negligence) (of the plaintiff's damages) (of the breakdown of the marriage) |
+| ------------------------------------------------------------------------------------------- |
+| (a) . . .                                                                                   |
+| (b) . . . etc.                                                                              |
 
 - [ ] The paragraphs of the pleading should deal with the material logically. The sequence is usually determined by the approach followed by the plaintiff in the particulars of claim or declaration. The parties are introduced and the material facts are set out in chronological order. In the plea the defendant deals with the plaintiff's allegations in paragraph order and adds additional allegations at each appropriate stage until the prayer is set out.
 - [ ] Every pleading except further particulars must contain a prayer for relief. It is sometimes held that further particulars cannot be a pleading because it does not contain a prayer, but nothing seems to turn on this distinction. The prayer is usually commenced with the phrase, "Wherefore the plaintiff claims judgment . . ." or, "In the premises the defendant prays for judgment . . .", followed by the precise orders the court will be asked to grant.
@@ -44,16 +44,16 @@ aliases:
 
 This is done as follows:
 
-|  (Signature) | (Signature)  |
-| --- | --- |
-|  JJ Buthelezi | Plaintiff's Attorney  |
-|  Plaintiff's Counsel | H Soma and Co  |
-|  [address and details as per Rule 6(5)(b)]  |   |
-|  To: The Registrar  |   |
-|  [address]  |   |
-|  And to: Messrs X, Y and Z  |   |
-|  Defendant's Attorneys  |   |
-|  [address and details as per Rule 6(5)(d)]  |   |
+| (Signature)                               | (Signature)          |
+| ----------------------------------------- | -------------------- |
+| JJ Buthelezi                              | Plaintiff's Attorney |
+| Plaintiff's Counsel                       | H Soma and Co        |
+| [address and details as per Rule 6(5)(b)] |                      |
+| To: The Registrar                         |                      |
+| [address]                                 |                      |
+| And to: Messrs X, Y and Z                 |                      |
+| Defendant's Attorneys                     |                      |
+| [address and details as per Rule 6(5)(d)] |                      |
 
 - [ ] Pleadings can be amended but it is better to get them right the first time as an incorrect allegation in a pleading could affect the credibility of the party at fault. A pleading which does not comply with the rules of pleading may be set aside as an irregular proceeding (Rule 30).
 

@@ -41,8 +41,10 @@ Now that you have a better idea what the law on the subject is and what the cour
 A plaintiff + *locus standi*
 defendant + *locus standi*
 B the underlying cause of action
+
 + all its material facts and the amount of the claim
 + the reasons why we say the defendant has no answer to it, or an inadequate answer a submission that the plaintiff therefore has a *prima facie* claim as required
+
 C details of the defendant's assets
 their whereabouts (in the court's jurisdiction?)
 their value (the court won't freeze more than is required to meet all our claims)

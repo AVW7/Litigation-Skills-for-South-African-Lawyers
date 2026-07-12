@@ -16,14 +16,14 @@ aliases:
 
 ---
 
-|  Identifies the area of law involved, e.g., contract, delict, family, etc | Identifies the cause of action or defence within the relevant area of law | Identifies the legal elements or requirements of the cause of action or defence | Identifies the facts available to prove each legal element | items of evidence available to prove each fact to be relied upon  |
-| --- | --- | --- | --- | --- |
+| Identifies the area of law involved, e.g., contract, delict, family, etc | Identifies the cause of action or defence within the relevant area of law | Identifies the legal elements or requirements of the cause of action or defence | Identifies the facts available to prove each legal element | items of evidence available to prove each fact to be relied upon |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
 
 We have already identified the branches of law which could be relevant to Mrs Smith's claims. We have also in the broad sense identified the potential causes of action available to her. Thus:
 
-|  Stage 1 Branch or area of law | Stage 2 Cause of action or Defence | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence  |
-| --- | --- | --- | --- | --- |
-|  1 RAF Act 2 Delict 3 Insurance 4 Family | 1 Claim for loss of support and personal injuries 2 Claim for damage to car 3 Claim on policy 4 Claim for maintenance |  |  |   |
+| Stage 1 Branch or area of law           | Stage 2 Cause of action or Defence                                                                                    | Stage 3 Elements of the cause of action or defence | Stage 4 The facts | Stage 5 Evidence |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------- | ---------------- |
+| 1 RAF Act 2 Delict 3 Insurance 4 Family | 1 Claim for loss of support and personal injuries 2 Claim for damage to car 3 Claim on policy 4 Claim for maintenance |                                                    |                   |                  |
 
 It does not really matter that we are still uncertain about the merits of the potential claims we have tentatively identified. What is important is that we now have a good starting point. First we need to do an analysis of the facts. Once that has been done, we can formulate an initial theory of the case. We could use one of our client's potential claims, the claim for loss of support for herself, as an example. We know from our experience and a little research that it is a delictual claim now regulated by statute, the Road Accident Fund Act 56 of 1996. This Act is amended almost every other year and some of the amendments have been so drastic that their validity has had to be considered by the Constitutional Court. Where does that leave us as the lawyer at the first interview with the client? We have to undertake legal research which cannot be done immediately while the client is present. That will have to be put on hold. We then proceed as follows:
 
@@ -31,9 +31,9 @@ We first determine the legal elements (the so-called *facta probanda* or materia
 
 [[[Page-13|page 13]]]
 
-|  Stage 1 Area of law | Stage 2 Cause of action | Stage 3 Legal elements  |
-| --- | --- | --- |
-|  1 RAF Act | 1 Claim for loss of support | - [ ] The deceased owed our client a duty of support; - [ ] the death of the deceased has been caused by or arose out of the driving of a motor vehicle; - [ ] the insured driver has been negligent; (**Note for research:** Is negligence still an element?) - [ ] our client suffered damages in the form of loss of support; - [ ] the amount of the loss; and - [ ] there has been compliance with the Act relating to service of a claim and time periods.  |
+| Stage 1 Area of law | Stage 2 Cause of action     | Stage 3 Legal elements                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 RAF Act           | 1 Claim for loss of support | - [ ] The deceased owed our client a duty of support; - [ ] the death of the deceased has been caused by or arose out of the driving of a motor vehicle; - [ ] the insured driver has been negligent; (**Note for research:** Is negligence still an element?) - [ ] our client suffered damages in the form of loss of support; - [ ] the amount of the loss; and - [ ] there has been compliance with the Act relating to service of a claim and time periods. |
 
 After identifying the legal elements, we still have to determine the legal content or meaning of each legal requirement. What is meant by 'negligence', for example? Is it still required? And what sort of losses or damages can be recovered? These questions are answered by legal research. For the purposes of an initial interview with the client, a basic reference work like *Amler's Precedents of Pleadings* will probably be sufficient to identify the legal elements and their meaning. (Always use the latest edition.)
 

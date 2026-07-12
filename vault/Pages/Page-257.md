@@ -49,12 +49,12 @@ Here is a random collection of words and phrases often used by lawyers, together
 
 Table 23.1 List of bad habits
 
-|  Avoid | Use | Reason | Avoid | Use | Reason  |
-| --- | --- | --- | --- | --- | --- |
-|  aid and abet | assist | tautologous | at this point in time | now | padding  |
-|  each and every | each | tautologous | gave evidence that | said | padding  |
-|  give, make over and bequeath | bequeath | tautologous | prior to | before | keep it simple  |
-|  null, void and of no effect | void | tautologous | subsequently | later | keep it simple  |
+| Avoid                        | Use      | Reason      | Avoid                 | Use    | Reason         |
+| ---------------------------- | -------- | ----------- | --------------------- | ------ | -------------- |
+| aid and abet                 | assist   | tautologous | at this point in time | now    | padding        |
+| each and every               | each     | tautologous | gave evidence that    | said   | padding        |
+| give, make over and bequeath | bequeath | tautologous | prior to              | before | keep it simple |
+| null, void and of no effect  | void     | tautologous | subsequently          | later  | keep it simple |
 
 ---
 

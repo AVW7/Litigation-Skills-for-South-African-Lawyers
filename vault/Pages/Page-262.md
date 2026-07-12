@@ -45,8 +45,8 @@ What follows is supplementary to the discussion in chapter 21, where some advice
 
 Table 23.4 What works and what doesn't
 
-|  What doesn't work | What works | Comment  |
-| --- | --- | --- |
+| What doesn't work | What works | Comment |
+| ----------------- | ---------- | ------- |
 
 ---
 

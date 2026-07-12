@@ -51,9 +51,9 @@ The notice of motion prescribed by Rule 53(1), is similar to the so-called long 
 
 Table 24.2 Notice of Motion in terms of Rule 53(1)
 
-|  Text of Notice of Motion | Comment  |
-| --- | --- |
-|  [DESCRIPTION OF COURT as prescribed] Case no 901/[year] In the matter between: LOGAN NAIDOO and LOURENS BUYS NO THE DIRECTOR OF PUBLIC | 1 The case heading reflects that the proceedings are in the High Court. 2 The presiding officer and all affected parties have to be named in the notice of motion. 3 The magistrate in this example is cited in his capacity as magistrate; the abbreviation NO is for *nomine officio*. 4 The Attorney-General is cited as representative of the State; it was a party to the criminal proceedings taken on review.  |
+| Text of Notice of Motion                                                                                                               | Comment                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DESCRIPTION OF COURT as prescribed] Case no 901/[year] In the matter between: LOGAN NAIDOO and LOURENS BUYS NO THE DIRECTOR OF PUBLIC | 1 The case heading reflects that the proceedings are in the High Court. 2 The presiding officer and all affected parties have to be named in the notice of motion. 3 The magistrate in this example is cited in his capacity as magistrate; the abbreviation NO is for *nomine officio*. 4 The Attorney-General is cited as representative of the State; it was a party to the criminal proceedings taken on review. |
 
 ---
 

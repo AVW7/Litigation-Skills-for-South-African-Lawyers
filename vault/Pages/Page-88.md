@@ -20,16 +20,16 @@ aliases:
 
 Table 7.10 Special plea
 
-|  Par | Text of pleading | Comment  |
-| --- | --- | --- |
-|   | DEFENDANT'S SPECIAL PLEA AND PLEA |   |
-|  1 | **Defendant's special plea** The cause of action ("the claim") sued upon arose on [date]. | 1 A separate heading for the special plea acts as a signpost to alert the plaintiff and the court to the fact that an extraordinary defence has to be dealt with first.  |
-|  1.1 | The plaintiff's claim constitutes a debt as defined by the Prescription Act 68 of 1969. | 2 The material facts for the special defence have to be pleaded.  |
-|  1.2 | The summons in this action was served on the defendant on [date], that is, more than three years after the claim arose. | 3 If a legal conclusion or a statutory provision is to be relied upon, that conclusion or provision has to be stated expressly.  |
-|  1.3 | In the premises and by virtue of section 11 of the Prescription Act 68 of 1969 the plaintiff's claim has become prescribed. |   |
-|  1.4 | WHEREFORE the defendant prays for judgment in the defendant's favour with costs. | The special plea has to have its own prayer.  |
-|  2 | The defendant pleads over as set out below. | 1 The defendant has to plead fully to the statement of claim. 2 The phrase "pleads over" is traditionally used to indicate that the pleader is moving on to the merits of the claim.  |
-|  3 | The defendant admits paragraphs 1 . . . | You then plead to each of the allegations in the statement of claim as if there has been no special plea.  |
+| Par   | Text of pleading                                                                                                            | Comment                                                                                                                                                                              |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|       | DEFENDANT'S SPECIAL PLEA AND PLEA                                                                                           |                                                                                                                                                                                      |
+| 1     | **Defendant's special plea** The cause of action ("the claim") sued upon arose on [date].                                   | 1 A separate heading for the special plea acts as a signpost to alert the plaintiff and the court to the fact that an extraordinary defence has to be dealt with first.              |
+| 1.1   | The plaintiff's claim constitutes a debt as defined by the Prescription Act 68 of 1969.                                     | 2 The material facts for the special defence have to be pleaded.                                                                                                                     |
+| 1.2   | The summons in this action was served on the defendant on [date], that is, more than three years after the claim arose.     | 3 If a legal conclusion or a statutory provision is to be relied upon, that conclusion or provision has to be stated expressly.                                                      |
+| 1.3   | In the premises and by virtue of section 11 of the Prescription Act 68 of 1969 the plaintiff's claim has become prescribed. |                                                                                                                                                                                      |
+| 1.4   | WHEREFORE the defendant prays for judgment in the defendant's favour with costs.                                            | The special plea has to have its own prayer.                                                                                                                                         |
+| 2     | The defendant pleads over as set out below.                                                                                 | 1 The defendant has to plead fully to the statement of claim. 2 The phrase "pleads over" is traditionally used to indicate that the pleader is moving on to the merits of the claim. |
+| 3     | The defendant admits paragraphs 1 . . .                                                                                     | You then plead to each of the allegations in the statement of claim as if there has been no special plea.                                                                            |
 
 [[[Page-88|page 140]]]
 
@@ -45,16 +45,16 @@ The explanation does not follow the format of a plea in a civil case but deals w
 
 Table 7.11 Plea explanation in a criminal case (See Appendix 2)
 
-|  IN THE MAGISTRATES' COURT FOR THE DISTRICT OF [name of district] | Case no 12345/[year]  |
-| --- | --- |
-|  In the matter between |   |
-|  THE STATE |   |
-|  and |   |
-|  JUSTIN GRAHAM |   |
-|  STATEMENT IN TERMS OF SECTION 115 of ACT 51 of 1977  |   |
-|  1. The accused pleads not guilty to the charge.  |   |
-|  2. The accused provides the following explanation for his plea:  |   |
-|  On 12 December (year) the accused went to Three Rings Sports to look at bags. His old backpack was torn. His interest was aroused when he saw some backpacks displayed on a stand. He put his own backpack down in order to examine one of the backpacks. He did not want to buy that backpack. He walked over to the rack where the bags were on display, inadvertently carrying the store's backpack instead of his  |   |
+| IN THE MAGISTRATES' COURT FOR THE DISTRICT OF [name of district]                                                                                                                                                                                                                                                                                                                                                      | Case no 12345/[year] |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| In the matter between                                                                                                                                                                                                                                                                                                                                                                                                 |                      |
+| THE STATE                                                                                                                                                                                                                                                                                                                                                                                                             |                      |
+| and                                                                                                                                                                                                                                                                                                                                                                                                                   |                      |
+| JUSTIN GRAHAM                                                                                                                                                                                                                                                                                                                                                                                                         |                      |
+| STATEMENT IN TERMS OF SECTION 115 of ACT 51 of 1977                                                                                                                                                                                                                                                                                                                                                                   |                      |
+| 1. The accused pleads not guilty to the charge.                                                                                                                                                                                                                                                                                                                                                                       |                      |
+| 2. The accused provides the following explanation for his plea:                                                                                                                                                                                                                                                                                                                                                       |                      |
+| On 12 December (year) the accused went to Three Rings Sports to look at bags. His old backpack was torn. His interest was aroused when he saw some backpacks displayed on a stand. He put his own backpack down in order to examine one of the backpacks. He did not want to buy that backpack. He walked over to the rack where the bags were on display, inadvertently carrying the store's backpack instead of his |                      |
 
 ---
 

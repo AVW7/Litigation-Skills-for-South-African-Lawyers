@@ -10,10 +10,10 @@ $$ \text{Spoliation Remedy} = \text{Peaceful and Undisturbed Possession} \land \
 
 ## Symbol-by-symbol
 
-| symbol | meaning | role |
-|--------|---------|------|
-| $\text{Possession}$ | The applicant was in peaceful and undisturbed possession of the property (factual possession, not necessarily legal right). | Requirement 1 |
-| $\text{Deprivation}$ | The respondent deprived the applicant of possession unlawfully (without consent or legal process). | Requirement 2 |
+| symbol               | meaning                                                                                                                     | role          |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| $\text{Possession}$  | The applicant was in peaceful and undisturbed possession of the property (factual possession, not necessarily legal right). | Requirement 1 |
+| $\text{Deprivation}$ | The respondent deprived the applicant of possession unlawfully (without consent or legal process).                          | Requirement 2 |
 
 ## What it computes
 
@@ -23,11 +23,13 @@ Entitlement to a mandament van spolie (restoration order), which is a possessory
 
 > [!tip] Legal Rationale
 > The mandament van spolie is a robust remedy designed to prevent self-help. The court does not look at the merits of who has the legal right to possess, only whether factual possession was unlawfully disrupted.
-
+<!-- -->
 > [!example] Worked Legal Application
 > **Facts:** Landlord locks Tenant out of a flat without a court order because rent is in arrears.
+>
 > 1. **Possession:** Tenant lived in the flat and had keys (factual possession).
 > 2. **Deprivation:** Landlord changed the locks without consent or court order.
+>
 > **Conclusion:** Tenant is entitled to a mandament van spolie restoring possession immediately.
 
 ## Used by

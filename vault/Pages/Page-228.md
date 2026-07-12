@@ -54,8 +54,8 @@ A sound working knowledge of these basic rules of evidence allows you to respond
 
 Table 20.10 Examples of responses to objections
 
-|  Facts | Objection | Response | Comment  |
-| --- | --- | --- | --- |
+| Facts | Objection | Response | Comment |
+| ----- | --------- | -------- | ------- |
 
 ---
 

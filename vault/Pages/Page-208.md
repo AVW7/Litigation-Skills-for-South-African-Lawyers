@@ -81,7 +81,7 @@ Q. In fact, you were living in [town] at the time the deceased was killed here i
 A. No.
 
 > [!warning] **18.9 Protocol and ethics**
-
+<!-- -->
 > [!warning] Attacking the character of a witness is not to be undertaken unless you have firm instructions and good grounds for such a course. There are limits to the extent to which the character of witnesses can be attacked. They are set out in the Bar's Rules of Ethics and the Law Society's Rules and Rulings. If you attack the character of an opposing witness, your own client's character may be attacked.
 > It is unethical for counsel to attribute fraud, dishonesty or other improper behaviour to third parties in open court when they are not witnesses or parties at the trial and don't have a chance to respond to the allegations. When such allegations have to be made the names of the persons against whom they are to be made should be written on a note and given to the judge instead.
 

@@ -160,6 +160,8 @@ Prev: [[L2 - ...]] · Next: [[L4 - ...]]
 
 - `Indexes/All Terms.md` — every `[[term]]` grouped under its lecture heading.
 - `Indexes/All Formulas.md` — THE big formula note: per lecture, each formula's
+
   `### [[f- X]]` then `![[f- X]]` (so the full symbol table renders inline).
+
 - `Indexes/All Lectures.md` — ordered list of every lecture/recitation note.
 - `Home.md` — top MOC: links to the 3 indexes + every lecture + a "how to use".

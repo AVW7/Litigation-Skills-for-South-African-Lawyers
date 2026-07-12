@@ -26,14 +26,14 @@ The prayer in the notice of motion has to specify the material to be struck out 
 
 Table 9.2 Striking out order in the notice of motion
 
-|  Order prayed  |
-| --- |
-|  . . . for orders that -  |
-|  (a) The following parts of the plaintiff's particulars of claim be struck out on the grounds that they contain matter which is scandalous or vexatious or irrelevant:  |
-|  (i) the first sentence of paragraph 7;  |
-|  (ii) the whole of paragraph 8;  |
-|  (iii) the words from "and" up to and including the words "convicted of fraud" in paragraph 9;  |
-|  (b) The respondent be ordered to pay the costs of this application.  |
+| Order prayed                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| . . . for orders that -                                                                                                                                               |
+| (a) The following parts of the plaintiff's particulars of claim be struck out on the grounds that they contain matter which is scandalous or vexatious or irrelevant: |
+| (i) the first sentence of paragraph 7;                                                                                                                                |
+| (ii) the whole of paragraph 8;                                                                                                                                        |
+| (iii) the words from "and" up to and including the words "convicted of fraud" in paragraph 9;                                                                         |
+| (b) The respondent be ordered to pay the costs of this application.                                                                                                   |
 
 It is not necessary to respond to the offending pleading while the application is pending. (Rule 23(4)) It would generally be unwise to plead to the offending allegations. An application to strike out scandalous, vexatious or irrelevant matter from an affidavit is made under Rule 6(15), which expressly requires prejudice to be proved.
 

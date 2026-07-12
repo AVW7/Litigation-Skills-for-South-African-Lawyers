@@ -18,13 +18,13 @@ aliases:
 
 What then, you might ask, are the tools or devices we use to persuade? I sat pondering this question while listening to a class of sixteen students making speeches. Each student wrote a topic for a two-minute speech down on a piece of paper. These were then placed in a hat and each student drew one from it. They then had five minutes to prepare a short speech on their randomly allocated topics. As they were speaking, one after the other, the realisation gradually dawned upon me that they were using different devices and tricks to make their arguments persuasive and, more importantly, that they were doing so instinctively. They had not been taught these tricks; they just knew them! Here are some of the devices they employed:
 
-|  Intrigue | Ridicule | Emotion  |
-| --- | --- | --- |
-|  Anecdotes | Gestures | Animation  |
-|  Humour | Flattery | Acting  |
-|  Surprise | Logic | Personality  |
-|  Demonstration | A diagram | Tragedy  |
-|  Explanation | Experience | Passion  |
+| Intrigue      | Ridicule   | Emotion     |
+| ------------- | ---------- | ----------- |
+| Anecdotes     | Gestures   | Animation   |
+| Humour        | Flattery   | Acting      |
+| Surprise      | Logic      | Personality |
+| Demonstration | A diagram  | Tragedy     |
+| Explanation   | Experience | Passion     |
 
 At the same time, I could not help noticing how unconvincing they were in their posture and general demeanour, how clumsy they were in making these devices work efficiently for them. Some were hopping about, with their weight now on the one leg and then on the other. Others made no effort to make eye contact with their audience. Some swallowed the words at the end of their sentences. All of them were nervous in the beginning; surprisingly their nerves improved after only a few seconds of speaking. None had been given a reasonable amount of time to prepare, so their speeches were lacking in [[[Page-254|page 419]]] clear structure and the content was rather superficial. Each of them lost something in the way they presented the message.
 

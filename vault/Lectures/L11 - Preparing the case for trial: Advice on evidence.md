@@ -19,7 +19,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **evidence advice** — planning what each witness will prove. Key topics: Rule 36(9) notices, expert summaries, further particulars, and witness preparation.
-
+<!-- -->
 > [!important] Rule 36(9) Notice
 > Must give notice of intention to call an expert witness. Opponent can demand a summary of expert evidence. Failure may result in exclusion.
 
@@ -55,7 +55,7 @@ graph TB
 
 > [!tip] Professional Tip
 > An "advice on evidence" reduces trial stress. Know what each witness will prove before you walk into court.
-
+<!-- -->
 > [!tip] Connection
 > Follows [[L08 - Drafting replications and further pleadings|close of pleadings]]. Proceeds to [[L12 - Preparing the case for trial: Assembling the evidence|evidence assembly]] and [[L14 - Preparation for trial: Fact analysis and strategy|strategy]].
 
@@ -184,6 +184,7 @@ The easiest way to identify the issues is to compare the plaintiff's pleadings w
 The issues are then listed, one by one, in numbered paragraphs. Matters which are not in issue can be listed separately. It is a matter of personal preference. If that style were to be adopted, it can be done as follows:
 
 - "The following facts and circumstances are common cause on the pleadings:
+
 (a) The names and [[Page-41|locus standi]] of the parties . . .
 
 ---
@@ -193,6 +194,7 @@ The issues are then listed, one by one, in numbered paragraphs. Matters which ar
 You can then list and paraphrase the issues as follows:
 
 - "The following issues are apparent from the pleadings:
+
 (a) Whether there was a collision . . .
 (b) Whether the collision was caused by negligence . . . etc."
 
@@ -307,16 +309,17 @@ In the following example the plaintiff had sued a garage for the value of his ca
 
 **Table 11.1** Request for further particulars for trial
 
-| Par | Text of request for particulars | Comment |
-| --- | --- | --- |
-| | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT | |
-| | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL | |
-| Par | Text of request for particulars | Comment |
-| --- | --- | --- |
-| 1 | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen? | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination! |
-| | Dated at [place] this .. day of .., [year]. | |
-| | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] | |
-| | To: The Registrar [address] | |
+| Par   | Text of request for particulars                                                                                                          | Comment |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+|       | [COURT DESCRIPTION as prescribed] Case no 3986/[year] In the matter between: OJ Trading Company PLAINTIFF and MC Group Limited DEFENDANT |         |
+|       | REQUEST FOR FURTHER PARTICULARS TO THE DEFENDANT'S PLEA FOR THE PURPOSE OF TRIAL                                                         |         |
+
+| Par   | Text of request for particulars                                                                                                                                  | Comment                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | AD PARAGRAPH 4(b) OF THE PLEA: What steps is it alleged the plaintiff should have taken to ensure that the vehicle was not stolen?                               | 1 The question concentrates on the issue. The purpose of the question is to ensure that the plaintiff is not caught by surprise at the trial. 2 The answer was to the effect that the plaintiff had lent his spare keys to a third party, who then used them to steal the car. 3 Imagine if the plaintiff were to have been confronted with this allegation for the first time when under cross-examination! |
+|       | Dated at [place] this .. day of .., [year].                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                              |
+|       | Signature Counsel's name (printed) Plaintiff's counsel Signature Attorney's name (printed) L & L Defendant's Attorneys [address and details as per Rule 6(5)(b)] |                                                                                                                                                                                                                                                                                                                                                                                                              |
+|       | To: The Registrar [address]                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ---
 
@@ -328,7 +331,7 @@ The response was short and to the point:
 **Table 11.2** Further particulars
 
 | 1. AD PARAGRAPH 4(b) OF THE PLEA The plaintiff - (i) failed to look after the spare keys to the car; (ii) allowed the spare keys to the car to fall into the hands of the person who unlawfully removed it from the defendant's premises. |
-| --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 The further particulars were signed by counsel and an attorney and addressed to the registrar and the plaintiff's attorneys. So everyone knew what to expect on this issue.
 
@@ -349,28 +352,29 @@ The purpose of the summary is also to prevent surprise. It goes further in that 
 The following example of an expert summary relates to an expropriation action involving a dispute about the development potential of the expropriated property. The plaintiff contends that the land had the potential to be developed into a golf course estate. The defendant contends that the plaintiff would not have been given town-planning approval because of environmental concerns. The notice under Rule 36(9)(a) and the summary under Rule 36(9)(b) are combined. Care has to be taken that the time limits of both rules are complied with and that the annexure to the summary provides both the opinions to be expressed by the expert and his reasons for holding those opinions.
 **Table 11.3** Expert summary in terms of Rule 36(9)(b)
 
-| Par | Text of summary | Comment |
-| --- | --- | --- |
+| Par   | Text of summary | Comment |
+| ----- | --------------- | ------- |
 
 ---
 
-| | [COURT DESCRIPTION as prescribed] Case no 669/[year] In the matter between: Sydney Hart PLAINTIFF and The Municipality of West Suburbia DEFENDANT | |
-| --- | --- | --- |
-| | SUMMARY IN TERMS OF RULE 36(9)(b) | |
-| 1 | The plaintiff intends to call Mr. JOHN FULLERTON as an [[Page-100\|expert witness]] at the trial. | |
-| 2 | The qualifications and experience of the witness are as follows: He has a BSc degree in biological sciences from the University of Cape Town. The degree was awarded to him in [year] with distinction and with a special merit for outstanding work in environmental biology. | |
-| 2.1 | He has a BSc Honours degree (year) in ecology and an MSc [year] in urban and regional planning from the same university. | |
-| 2.2 | The Honours Degree was pursued through a scholarship awarded by the CSIR, and researched aspects of the ecology and management of small urban nature reserves. The Masters Degree was awarded on the basis of applied research done on the behalf of the Wildlife Society of Southern Africa and the Town and Regional Planning Commission. | 1 The qualifications and experience of the witness are not strictly required by the rule. |
-| 2.3 | His services have been called upon in environmental, planning and management issues by a wide range of central government, provincial and local government, quasi-government bodies, research institutes, non-government development agencies, private companies and individuals. (Full details are set out in his curriculum vitae, which is Appendix 1 of his report, Annexure "A" to this summary.) | 2 However, the expert is most likely going to be required to give evidence of his expertise and it may be good advocacy to set his qualifications and experience out in a document which the judge will have reference to repeatedly during the trial and also while writing a judgment. |
-| 2.4 | | 3 If the witness has a written CV, it may as well be attached as a separate annexure. |
-| Par | Text of summary | Comment |
-| --- | --- | --- |
-| 3 | Mr FULLERTON will express the opinion that the potential for development of Rem of Lot 1606 of West Suburbia could be realised by a golf course estate type of development as proposed by Mr. JOHANNES VLOK. The development potential can be realised in such a way that the reasonable requirements of the owner, the environment, environmental protection agencies, local, regional and central government organisations and the site itself could be met. | 1 Notwithstanding that the written report which contains the full opinion is to be attached, the main conclusions of the expert should be emphasised in the summary itself. |
-| 4 | Mr FULLERTON will further express the opinion that the necessary permission for the development to proceed would in all likelihood have been granted. | 2 The crucial principle is that the opinions and reasons should be adequately set out in the annexure. It is of no use to attach a report that does not comply with the rule. |
-| 5 | His opinions and reasons are fully set out in Annexure "B". | 3 If for some reason you do not want to give the other side a copy of the expert's report, you will have to set out the reasons and opinions in the body of the summary. |
-| 6 | His opinions and reasons are fully set out in Annexure "B". | 4 In that case you will have to ensure that the expert agrees with the way you have paraphrased his or her opinions and reasons. |
-| | DATED AT [place] this .. day of .., [year]. signature Attorney's name (printed) WAREINGS INC. Plaintiff's attorneys [address and details as per Rule 6(5)(b)] | |
-| | To: The Registrar High Court Masonic Grove DURBAN And to: P X & Company Defendant's Attorneys [address and details as per Rule 6(5)(d)] Ref. 60/006/afs | |
+|       | [COURT DESCRIPTION as prescribed] Case no 669/[year] In the matter between: Sydney Hart PLAINTIFF and The Municipality of West Suburbia DEFENDANT                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | SUMMARY IN TERMS OF RULE 36(9)(b)                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                          |
+| 1     | The plaintiff intends to call Mr. JOHN FULLERTON as an [[Page-100\|expert witness]] at the trial.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                          |
+| 2     | The qualifications and experience of the witness are as follows: He has a BSc degree in biological sciences from the University of Cape Town. The degree was awarded to him in [year] with distinction and with a special merit for outstanding work in environmental biology.                                                                                                                         |                                                                                                                                                                                                                                                                                          |
+| 2.1   | He has a BSc Honours degree (year) in ecology and an MSc [year] in urban and regional planning from the same university.                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                          |
+| 2.2   | The Honours Degree was pursued through a scholarship awarded by the CSIR, and researched aspects of the ecology and management of small urban nature reserves. The Masters Degree was awarded on the basis of applied research done on the behalf of the Wildlife Society of Southern Africa and the Town and Regional Planning Commission.                                                            | 1 The qualifications and experience of the witness are not strictly required by the rule.                                                                                                                                                                                                |
+| 2.3   | His services have been called upon in environmental, planning and management issues by a wide range of central government, provincial and local government, quasi-government bodies, research institutes, non-government development agencies, private companies and individuals. (Full details are set out in his curriculum vitae, which is Appendix 1 of his report, Annexure "A" to this summary.) | 2 However, the expert is most likely going to be required to give evidence of his expertise and it may be good advocacy to set his qualifications and experience out in a document which the judge will have reference to repeatedly during the trial and also while writing a judgment. |
+| 2.4   |                                                                                                                                                                                                                                                                                                                                                                                                        | 3 If the witness has a written CV, it may as well be attached as a separate annexure.                                                                                                                                                                                                    |
+
+| Par   | Text of summary                                                                                                                                                                                                                                                                                                                                                                                                                                                | Comment                                                                                                                                                                       |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3     | Mr FULLERTON will express the opinion that the potential for development of Rem of Lot 1606 of West Suburbia could be realised by a golf course estate type of development as proposed by Mr. JOHANNES VLOK. The development potential can be realised in such a way that the reasonable requirements of the owner, the environment, environmental protection agencies, local, regional and central government organisations and the site itself could be met. | 1 Notwithstanding that the written report which contains the full opinion is to be attached, the main conclusions of the expert should be emphasised in the summary itself.   |
+| 4     | Mr FULLERTON will further express the opinion that the necessary permission for the development to proceed would in all likelihood have been granted.                                                                                                                                                                                                                                                                                                          | 2 The crucial principle is that the opinions and reasons should be adequately set out in the annexure. It is of no use to attach a report that does not comply with the rule. |
+| 5     | His opinions and reasons are fully set out in Annexure "B".                                                                                                                                                                                                                                                                                                                                                                                                    | 3 If for some reason you do not want to give the other side a copy of the expert's report, you will have to set out the reasons and opinions in the body of the summary.      |
+| 6     | His opinions and reasons are fully set out in Annexure "B".                                                                                                                                                                                                                                                                                                                                                                                                    | 4 In that case you will have to ensure that the expert agrees with the way you have paraphrased his or her opinions and reasons.                                              |
+|       | DATED AT [place] this .. day of .., [year]. signature Attorney's name (printed) WAREINGS INC. Plaintiff's attorneys [address and details as per Rule 6(5)(b)]                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                               |
+|       | To: The Registrar High Court Masonic Grove DURBAN And to: P X & Company Defendant's Attorneys [address and details as per Rule 6(5)(d)] Ref. 60/006/afs                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                               |
 
 The opinions and reasons could be given in the summary itself rather than in a report attached to the notice. In such a case care has to be taken that the salient facts upon which the expert based his or her opinion are also
 
@@ -380,22 +384,22 @@ provided in the summary. If the facts are not given in summary form, it will be 
 
 **Table 11.4** Expert summary in damages action
 
-| The witness will express the following opinions for the reasons which are indicated: |
-| --- |
-| (a) *Opinion:* The reasonable and necessary cost of repair of the plaintiff's car is R250 000.00, being R150 000.00 for labour and R100 000.00 for parts. |
-| *Reasons:* |
+| The witness will express the following opinions for the reasons which are indicated:                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (a) *Opinion:* The reasonable and necessary cost of repair of the plaintiff's car is R250 000.00, being R150 000.00 for labour and R100 000.00 for parts.                                                                                                                    |
+| *Reasons:*                                                                                                                                                                                                                                                                   |
 | (i) The repair work would take a qualified and competent panelbeater at least 75 hours. This is an estimate based on the nature and number of the parts to be removed, the time it would take to do so, and the time it would take to fit and repaint the replacement parts. |
-| (ii) The market rate of remuneration for a qualified panelbeater, which accords with the rate prescribed by the Department of Manpower, is R400.00 per hour. |
-| (iii) The parts which needed to be replaced because they could not be repaired would have cost at least R100 000.00, being the manufacturer's price for the replacement parts. See the attached price list from the manufacturer. |
-| **Note:** Details of each item and its price ought to be given. |
-| (b) *Opinion:* The market value of the plaintiff's car before the collision was at least R750 000.00. |
-| *Reasons:* |
-| (i) Cars of the same make and model sold on the second-hand market for R750 000.00 or more at the time of the collision, if they were in reasonably good condition. |
-| (ii) The plaintiff's car, on a visual inspection after the collision, appeared to have been in a reasonably good condition prior to the collision. This is supported by the car's service records and by what the plaintiff has informed the witness. |
-| (c) *Opinion:* The market value of the plaintiff's car after the collision was no more than R50 000.00. |
-| *Reasons:* |
-| (i) The estimated repair cost of R250 000.00 would have had to be spent before the car could be roadworthy. |
-| (ii) A buyer would have taken that into account when negotiating a price for the car in its damaged condition. |
+| (ii) The market rate of remuneration for a qualified panelbeater, which accords with the rate prescribed by the Department of Manpower, is R400.00 per hour.                                                                                                                 |
+| (iii) The parts which needed to be replaced because they could not be repaired would have cost at least R100 000.00, being the manufacturer's price for the replacement parts. See the attached price list from the manufacturer.                                            |
+| **Note:** Details of each item and its price ought to be given.                                                                                                                                                                                                              |
+| (b) *Opinion:* The market value of the plaintiff's car before the collision was at least R750 000.00.                                                                                                                                                                        |
+| *Reasons:*                                                                                                                                                                                                                                                                   |
+| (i) Cars of the same make and model sold on the second-hand market for R750 000.00 or more at the time of the collision, if they were in reasonably good condition.                                                                                                          |
+| (ii) The plaintiff's car, on a visual inspection after the collision, appeared to have been in a reasonably good condition prior to the collision. This is supported by the car's service records and by what the plaintiff has informed the witness.                        |
+| (c) *Opinion:* The market value of the plaintiff's car after the collision was no more than R50 000.00.                                                                                                                                                                      |
+| *Reasons:*                                                                                                                                                                                                                                                                   |
+| (i) The estimated repair cost of R250 000.00 would have had to be spent before the car could be roadworthy.                                                                                                                                                                  |
+| (ii) A buyer would have taken that into account when negotiating a price for the car in its damaged condition.                                                                                                                                                               |
 
 The summary should always give the expert's reasons separately.
 

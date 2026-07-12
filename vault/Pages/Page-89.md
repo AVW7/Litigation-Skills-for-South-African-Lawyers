@@ -17,7 +17,9 @@ aliases:
 ---
 
 own. After looking at some bags, he left the store. He thought he was carrying his own backpack. He had no intention to steal the backpack.
+
 3. The accused makes the following admissions, which may be recorded as such in terms of section 220 of Act 51 of 1977:
+
 One: the backpack referred to in the charge sheet is the property of Three Rings Sports.
 Two: its value is R150.00.
 Three: the accused had no right to remove it from the store.

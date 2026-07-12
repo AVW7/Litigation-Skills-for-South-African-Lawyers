@@ -48,14 +48,14 @@ In criminal cases a summons serves exactly the same function as in civil cases. 
 
 **Table 5.2** Legal Elements and Material Facts
 
-|  Stage 3 | Stage 4  |
-| --- | --- |
-|  Legal elements | (Material) Facts  |
-|  1. Ownership of car | 1. Plaintiff owned car X  |
-|  2. *Actus reus* | 2. Defendant performed an act which damaged the car  |
-|  3. Negligence (including unlawfulness) | 3. Defendant was negligent  |
-|  4. Causation | 4. The negligence caused the damage . . .  |
-|  5. Loss | 5. and the loss  |
+| Stage 3                                | Stage 4                                             |
+| -------------------------------------- | --------------------------------------------------- |
+| Legal elements                         | (Material) Facts                                    |
+| 1. Ownership of car                    | 1. Plaintiff owned car X                            |
+| 2. *Actus reus*                        | 2. Defendant performed an act which damaged the car |
+| 3. Negligence (including unlawfulness) | 3. Defendant was negligent                          |
+| 4. Causation                           | 4. The negligence caused the damage . . .           |
+| 5. Loss                                | 5. and the loss                                     |
 
 ---
 

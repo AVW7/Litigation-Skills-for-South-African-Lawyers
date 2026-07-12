@@ -42,18 +42,18 @@ Preparing the case for trial: Assembling the evidence
 
 CONTENTS
 
-|  12.1 | Introduction  |
-| --- | --- |
-|  12.1.1 | Types of evidence  |
-|  12.1.2 | The sources of evidence  |
-|  12.1.3 | The need to preserve the evidence  |
-|  12.2 | Consultations  |
-|  12.3 | Inspecting documents and examining exhibits  |
-|  12.4 | Inspections in loco  |
-|  12.5 | Creating demonstrative exhibits: Plans, photographs and models  |
-|  12.5.1 | Plans  |
-|  12.5.2 | Photographs  |
-|  12.5.3 | Models  |
+| 12.1   | Introduction                                                   |
+| ------ | -------------------------------------------------------------- |
+| 12.1.1 | Types of evidence                                              |
+| 12.1.2 | The sources of evidence                                        |
+| 12.1.3 | The need to preserve the evidence                              |
+| 12.2   | Consultations                                                  |
+| 12.3   | Inspecting documents and examining exhibits                    |
+| 12.4   | Inspections in loco                                            |
+| 12.5   | Creating demonstrative exhibits: Plans, photographs and models |
+| 12.5.1 | Plans                                                          |
+| 12.5.2 | Photographs                                                    |
+| 12.5.3 | Models                                                         |
 
 ---
 

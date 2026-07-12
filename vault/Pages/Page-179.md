@@ -39,21 +39,21 @@ NYC = Not yet competent (meaning that the performer has not yet reached the desi
 
 Table 16.4 Checklist for opening statement for plaintiff's counsel
 
-|   | Skill involved | Competent/ Not yet competent  |
-| --- | --- | --- |
-|  1 | Stating the cause of action/charge. |   |
-|  2 | Stating the issues (the legal elements of the cause of action/charge that are disputed). |   |
-|  3 | Referring to any pre-trial agreement affecting the issues (R37 minute etc). |   |
-|  4 | Dealing with the onus of proof, and if necessary, the duty to begin. |   |
-|  5 | Stating the facts briefly, without overstating. |   |
-|  6 | Avoiding argument or inadmissible material. |   |
-|  7 | Identifying the defence, without flattering it. |   |
-|  8 | Advising the court of the witnesses to be called by the plaintiff/ prosecutor. |   |
-|  9 | Briefly summarising the evidence to be given by each witness. |   |
-|  10 | Advising the court of any formal admissions made by either party. |   |
-|  11 | Introducing any exhibits to be admitted by consent, including bundles of documents. |   |
-|  12 | Avoiding reading, and speaking at audible level and pace. |   |
-|  13 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the judge. - [ ] Speaking at appropriate volume and pace. |   |
+|       | Skill involved                                                                                                                                                                                                                               | Competent/ Not yet competent |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1     | Stating the cause of action/charge.                                                                                                                                                                                                          |                              |
+| 2     | Stating the issues (the legal elements of the cause of action/charge that are disputed).                                                                                                                                                     |                              |
+| 3     | Referring to any pre-trial agreement affecting the issues (R37 minute etc).                                                                                                                                                                  |                              |
+| 4     | Dealing with the onus of proof, and if necessary, the duty to begin.                                                                                                                                                                         |                              |
+| 5     | Stating the facts briefly, without overstating.                                                                                                                                                                                              |                              |
+| 6     | Avoiding argument or inadmissible material.                                                                                                                                                                                                  |                              |
+| 7     | Identifying the defence, without flattering it.                                                                                                                                                                                              |                              |
+| 8     | Advising the court of the witnesses to be called by the plaintiff/ prosecutor.                                                                                                                                                               |                              |
+| 9     | Briefly summarising the evidence to be given by each witness.                                                                                                                                                                                |                              |
+| 10    | Advising the court of any formal admissions made by either party.                                                                                                                                                                            |                              |
+| 11    | Introducing any exhibits to be admitted by consent, including bundles of documents.                                                                                                                                                          |                              |
+| 12    | Avoiding reading, and speaking at audible level and pace.                                                                                                                                                                                    |                              |
+| 13    | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the judge. - [ ] Speaking at appropriate volume and pace. |                              |
 
 ---
 

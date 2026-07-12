@@ -41,9 +41,9 @@ If a defendant accepts an allegation in the statement of claim as being true, yo
 
 Table 7.1 Pleading an admission
 
-|  Particulars of claim | Plea | Comment  |
-| --- | --- | --- |
-|  3 The plaintiff was at all material times the registered owner of an immovable property described as [give full description], in extent 43.321 hectares ("the property"). 4 The defendant is in occupation of the property. | 3 The defendant admits paragraphs 3 and 4 of the particulars of claim. | 1 Do not start the plea with "Save as is hereinafter expressly admitted, every allegation in the particulars of claim is denied." This is a general denial. It does nothing to identify the true issues. 2 The admission may be combined with an explanation if the defence is in the nature of a confession and avoidance. (See Table 7.6.) 3 Try not to use the passive case, such as "Paragraphs 3 and 4 of the particulars of claim are admitted." 4 It is unnecessary to introduce a heading such as, "Ad paragraphs 3 and 4 of the particulars of claim".  |
+| Particulars of claim                                                                                                                                                                                                        | Plea                                                                   | Comment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 The plaintiff was at all material times the registered owner of an immovable property described as [give full description], in extent 43.321 hectares ("the property"). 4 The defendant is in occupation of the property. | 3 The defendant admits paragraphs 3 and 4 of the particulars of claim. | 1 Do not start the plea with "Save as is hereinafter expressly admitted, every allegation in the particulars of claim is denied." This is a general denial. It does nothing to identify the true issues. 2 The admission may be combined with an explanation if the defence is in the nature of a confession and avoidance. (See Table 7.6.) 3 Try not to use the passive case, such as "Paragraphs 3 and 4 of the particulars of claim are admitted." 4 It is unnecessary to introduce a heading such as, "Ad paragraphs 3 and 4 of the particulars of claim". |
 
 [[[Page-82|page 130]]]
 
@@ -55,8 +55,8 @@ The style for a denial is slightly different from that for an admission because 
 
 Table 7.2 Pleading a denial
 
-|  Particulars of claim | Plea | Comment  |
-| --- | --- | --- |
+| Particulars of claim | Plea  | Comment |
+| -------------------- | ----- | ------- |
 
 ---
 

@@ -27,10 +27,10 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-89\|Page 89]] | 143 | Chapter 8 |
-| [[Page-90\|Page 90]] | 145 | Content |
+| Page (PDF)           | Page (Printed) | Title / Key Content |
+| -------------------- | -------------- | ------------------- |
+| [[Page-89\|Page 89]] | 143            | Chapter 8           |
+| [[Page-90\|Page 90]] | 145            | Content             |
 
 ---
 

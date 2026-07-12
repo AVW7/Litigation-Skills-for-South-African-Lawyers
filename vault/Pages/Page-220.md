@@ -16,9 +16,9 @@ aliases:
 
 ---
 
-|  **Step 6:** Let the witness identify the note or statement. | *document. Is this the statement you were referring to?* A. Yes.  |
-| --- | --- |
-|  **Step 7:** Give the witness a chance to find the relevant part. Then ask the witness about the relevant fact. | Q. *Please find the passage where the car's registration number is reflected and tell us what the number was.* A. *The number was ...*  |
+| **Step 6:** Let the witness identify the note or statement.                                                    | *document. Is this the statement you were referring to?* A. Yes.                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 7:** Give the witness a chance to find the relevant part. Then ask the witness about the relevant fact. | Q. *Please find the passage where the car's registration number is reflected and tell us what the number was.* A. *The number was ...* |
 
 If a witness has refreshed his or her memory from a privileged document or statement, the whole of that document becomes available to the other side for cross-examination; in other words, the privilege is lost. The document itself does not become evidence. If the document is handed in as an exhibit, it becomes evidence not of the truth of its contents but for the purpose of confirming or undermining the credibility of the witness. It appears that a witness may refer only to part of a document and, if necessary, cover up the rest of it, in which event the privilege attaching to the rest of the document may be protected. (This question has not been finally resolved.)
 

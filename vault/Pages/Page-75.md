@@ -16,10 +16,10 @@ aliases:
 
 ---
 
-|  DATED AT [place] this [date]. *Signature* Counsel's name (printed) DEFENDANT'S COUNSEL | The third-party claim is a pleading and has to be signed by counsel, or an attorney with the right of audience in the High Court, or the individual issuing the notice.  |
-| --- | --- |
-|  *Signature* Attorney's name (printed) Messrs Joe Bloggs & Co Defendant's Attorneys [address and details as per Rule 6(5)(d)] |   |
-|  To: The Registrar of the High Court Masonic Grove Durban. And to: Messrs Alexanders Inc Plaintiff's Attorneys [address and details as per Rule 6(5)(b)]. |   |
+| DATED AT [place] this [date]. *Signature* Counsel's name (printed) DEFENDANT'S COUNSEL                                                                   | The third-party claim is a pleading and has to be signed by counsel, or an attorney with the right of audience in the High Court, or the individual issuing the notice. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Signature* Attorney's name (printed) Messrs Joe Bloggs & Co Defendant's Attorneys [address and details as per Rule 6(5)(d)]                             |                                                                                                                                                                         |
+| To: The Registrar of the High Court Masonic Grove Durban. And to: Messrs Alexanders Inc Plaintiff's Attorneys [address and details as per Rule 6(5)(b)]. |                                                                                                                                                                         |
 
 [[[Page-75|page 117]]]
 
@@ -43,9 +43,9 @@ Assume you have found a valuable ring on the beach. You are a good citizen and y
 
 Table 6.5 Interpleader claim
 
-|  Par | Text of pleading | Comment  |
-| --- | --- | --- |
-|   | [COURT DESCRIPTION as prescribed] Case no 132/[year] Between: Jason Appleby Applicant Andrew Gates First claimant Susan Greer Second claimant |   |
+| Par   | Text of pleading                                                                                                                              | Comment |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+|       | [COURT DESCRIPTION as prescribed] Case no 132/[year] Between: Jason Appleby Applicant Andrew Gates First claimant Susan Greer Second claimant |         |
 
 ---
 

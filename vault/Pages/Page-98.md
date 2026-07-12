@@ -50,14 +50,14 @@ Applications differ from actions mainly in the way the evidence is presented to 
 
 Table 10.1 Action procedure compared to application procedure
 
-|  Proceeding by action | Proceeding by application  |
-| --- | --- |
-|  Action commenced by summons. | Application commenced by notice of motion.  |
-|  Pleadings contain only material facts and any specific supplementary particulars required by the rules, not evidence. | Affidavits contain the evidence to prove the material facts.  |
-|  Issues defined by the pleadings. | Issues defined by the affidavits.  |
-|  Relevant documents and expert summaries exchanged after the close of pleadings - extensive discovery provisions. | Documents are attached to affidavits as evidence and experts have to give their evidence in affidavits - limited discovery under Rule 35(12).  |
-|  Witnesses give *viva voce* evidence and may be cross-examined. | Evidence is received on affidavit. Oral evidence and cross-examination is allowed only in exceptional cases.  |
-|  Credibility issues are decided by the judge on the evidence and the demeanour of the witnesses. | Credibility issues can usually not be resolved without referring the application to trial or for the hearing of oral evidence.  |
+| Proceeding by action                                                                                                  | Proceeding by application                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Action commenced by summons.                                                                                          | Application commenced by notice of motion.                                                                                                    |
+| Pleadings contain only material facts and any specific supplementary particulars required by the rules, not evidence. | Affidavits contain the evidence to prove the material facts.                                                                                  |
+| Issues defined by the pleadings.                                                                                      | Issues defined by the affidavits.                                                                                                             |
+| Relevant documents and expert summaries exchanged after the close of pleadings - extensive discovery provisions.      | Documents are attached to affidavits as evidence and experts have to give their evidence in affidavits - limited discovery under Rule 35(12). |
+| Witnesses give *viva voce* evidence and may be cross-examined.                                                        | Evidence is received on affidavit. Oral evidence and cross-examination is allowed only in exceptional cases.                                  |
+| Credibility issues are decided by the judge on the evidence and the demeanour of the witnesses.                       | Credibility issues can usually not be resolved without referring the application to trial or for the hearing of oral evidence.                |
 
 There are two main forms of application. Substantive applications are applications with the purpose of obtaining final relief on affidavit evidence. A substantive application stands on its own. Interlocutory applications, on the other hand, are used for interim or procedural relief and are parasitic in the sense that they cannot have an independent existence; they are always made in the course or in anticipation of an action or substantive application.
 

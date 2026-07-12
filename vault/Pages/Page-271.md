@@ -16,10 +16,10 @@ aliases:
 
 ---
 
-|  An order setting aside a subpoena *duces tecum* issued against a non-party. | An order granting or refusing a postponement.  |
-| --- | --- |
-|   | An order that the matter be heard as a matter of urgency.  |
-|   | Leave to execute pending an appeal.  |
+| An order setting aside a subpoena *duces tecum* issued against a non-party. | An order granting or refusing a postponement.             |
+| --------------------------------------------------------------------------- | --------------------------------------------------------- |
+|                                                                             | An order that the matter be heard as a matter of urgency. |
+|                                                                             | Leave to execute pending an appeal.                       |
 
 **Note:** Neither of these lists should be regarded as a *numerus clausus*. Every case should be considered carefully on its own merits. The decisions upon which Harms' selection is based, should be studied carefully; even if the case cited is not directly in point, it may still provide a key to the question whether the decision you propose to appeal against is a judgment or merely a ruling.
 

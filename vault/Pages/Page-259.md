@@ -26,26 +26,26 @@ I mentioned that we have to organise the materials so that we can communicate mo
 
 **Table 23.2** General structures for persuasive communication
 
-|  Interviewing a new client Chapter 1 | Written opinion Chapter 2 | Statements of Claim Chapter 6 | Opening Statement Chapter 16 | Examination in Chief Chapter 17 | Closing Address Chapter 21  |
-| --- | --- | --- | --- | --- | --- |
-|  Initial meeting and exchanging pleasantries. | Introduction. | Introducing the parties. | State the cause of action. | Introduce the witness. | Isolate the issues or questions of law involved.  |
-|  Problem and goal identification. | Discussion of the facts. | Their *locus standi*. | State the material facts of the claim. | Qualify the witness. | Mention where the onus of proof lies.  |
-|  Dealing with preliminary matters. | Analysis of the legal principles involved. | Jurisdiction. | Identify the issues as they are on the pleadings. | Deal with pre-arranged topics. | State briefly the evidence that supports your theory of the case. Elaborate.  |
-|  Establishing the facts in chronological order. | Conclusion or opinion. | Reciting the material facts and conclusions to be drawn from them. | Indicate how the issues were reduced by subsequent agreement. | Lead the evidence on each topic in chronological order. | Expose weaknesses in the opposition's case. Elaborate.  |
-|  Developing a preliminary theory of the case. | The way forward - practical advice. | Compliance with special procedural requirements. | Indicate where the onus of proof lies on each issue. | Complete the main evidence the witness can give. | Apply the law to the facts.  |
-|  Giving preliminary advice. |  | The prayer. | Summarise the facts (as contended for by your client). | Deal with the other side's version, if necessary. | Discuss the relief claimed.  |
-|  Concluding the interview. |  |  | Identify the witnesses you intend to call and summarise the evidence each will give. |  |   |
-|   |  |  | Explain the relevance of any documentary evidence. |  |   |
+| Interviewing a new client Chapter 1            | Written opinion Chapter 2                  | Statements of Claim Chapter 6                                      | Opening Statement Chapter 16                                                         | Examination in Chief Chapter 17                         | Closing Address Chapter 21                                                   |
+| ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Initial meeting and exchanging pleasantries.   | Introduction.                              | Introducing the parties.                                           | State the cause of action.                                                           | Introduce the witness.                                  | Isolate the issues or questions of law involved.                             |
+| Problem and goal identification.               | Discussion of the facts.                   | Their *locus standi*.                                              | State the material facts of the claim.                                               | Qualify the witness.                                    | Mention where the onus of proof lies.                                        |
+| Dealing with preliminary matters.              | Analysis of the legal principles involved. | Jurisdiction.                                                      | Identify the issues as they are on the pleadings.                                    | Deal with pre-arranged topics.                          | State briefly the evidence that supports your theory of the case. Elaborate. |
+| Establishing the facts in chronological order. | Conclusion or opinion.                     | Reciting the material facts and conclusions to be drawn from them. | Indicate how the issues were reduced by subsequent agreement.                        | Lead the evidence on each topic in chronological order. | Expose weaknesses in the opposition's case. Elaborate.                       |
+| Developing a preliminary theory of the case.   | The way forward - practical advice.        | Compliance with special procedural requirements.                   | Indicate where the onus of proof lies on each issue.                                 | Complete the main evidence the witness can give.        | Apply the law to the facts.                                                  |
+| Giving preliminary advice.                     |                                            | The prayer.                                                        | Summarise the facts (as contended for by your client).                               | Deal with the other side's version, if necessary.       | Discuss the relief claimed.                                                  |
+| Concluding the interview.                      |                                            |                                                                    | Identify the witnesses you intend to call and summarise the evidence each will give. |                                                         |                                                                              |
+|                                                |                                            |                                                                    | Explain the relevance of any documentary evidence.                                   |                                                         |                                                                              |
 
 [[[Page-259|page 429]]]
 
 **Table 23.3** Special structures for special tasks
 
-|  Refreshing memory Chapter 20 | Handling a real exhibit Chapter 20 | Objections Chapter 20 | Submissions of fact Chapter 21 | Submissions of law Chapter 22 | Submissions on appeal Chapter 25  |
-| --- | --- | --- | --- | --- | --- |
-|  Exhaust the witness's memory. | Ask the witness to describe the item. | Stand up. | State the fact to be proved. | State the main submission. | Specify the finding to be challenged.  |
-|  Establish that there is a note of the now forgotten fact. | Deal with the 'chain of custody'. | Say that you have an objection. | Tell the court what you are going to submit. | Refer to the authority supporting it. | Indicate, in the form of a submission, the basis for the challenge.  |
-|   |  |  |  |  | Law: Formulate the propositions  |
+| Refreshing memory Chapter 20                              | Handling a real exhibit Chapter 20    | Objections Chapter 20           | Submissions of fact Chapter 21               | Submissions of law Chapter 22         | Submissions on appeal Chapter 25                                    |
+| --------------------------------------------------------- | ------------------------------------- | ------------------------------- | -------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------- |
+| Exhaust the witness's memory.                             | Ask the witness to describe the item. | Stand up.                       | State the fact to be proved.                 | State the main submission.            | Specify the finding to be challenged.                               |
+| Establish that there is a note of the now forgotten fact. | Deal with the 'chain of custody'.     | Say that you have an objection. | Tell the court what you are going to submit. | Refer to the authority supporting it. | Indicate, in the form of a submission, the basis for the challenge. |
+|                                                           |                                       |                                 |                                              |                                       | Law: Formulate the propositions                                     |
 
 ---
 

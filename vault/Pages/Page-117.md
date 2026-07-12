@@ -21,6 +21,7 @@ aliases:
 You can then list and paraphrase the issues as follows:
 
 - [ ] "The following issues are apparent from the pleadings:
+
 (a) Whether there was a collision . . .
 (b) Whether the collision was caused by negligence . . . etc."
 

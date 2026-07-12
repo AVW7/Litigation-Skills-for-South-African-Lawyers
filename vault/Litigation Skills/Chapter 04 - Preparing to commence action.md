@@ -44,16 +44,16 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-46\|Page 46]] | 66 | Chapter 4 |
-| [[Page-47\|Page 47]] | 68 | 4.2 Letter of demand or repudiation |
-| [[Page-48\|Page 48]] | 70 | 4.3 Preserving the evidence |
-| [[Page-49\|Page 49]] | 71 | 4.3.2 Exhibits |
-| [[Page-50\|Page 50]] | 73 | **4.4 Fact analysis and developing a preliminary theory of the case** |
-| [[Page-51\|Page 51]] | 74 | 4.4.2 Taking further statements |
-| [[Page-52\|Page 52]] | 76 | 4.4.4 Finding and retaining experts |
-| [[Page-53\|Page 53]] | 77 | Content |
+| Page (PDF)           | Page (Printed) | Title / Key Content                                                   |
+| -------------------- | -------------- | --------------------------------------------------------------------- |
+| [[Page-46\|Page 46]] | 66             | Chapter 4                                                             |
+| [[Page-47\|Page 47]] | 68             | 4.2 Letter of demand or repudiation                                   |
+| [[Page-48\|Page 48]] | 70             | 4.3 Preserving the evidence                                           |
+| [[Page-49\|Page 49]] | 71             | 4.3.2 Exhibits                                                        |
+| [[Page-50\|Page 50]] | 73             | **4.4 Fact analysis and developing a preliminary theory of the case** |
+| [[Page-51\|Page 51]] | 74             | 4.4.2 Taking further statements                                       |
+| [[Page-52\|Page 52]] | 76             | 4.4.4 Finding and retaining experts                                   |
+| [[Page-53\|Page 53]] | 77             | Content                                                               |
 
 ---
 

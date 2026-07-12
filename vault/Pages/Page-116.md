@@ -54,6 +54,7 @@ The easiest way to identify the issues is to compare the plaintiff's pleadings w
 The issues are then listed, one by one, in numbered paragraphs. Matters which are not in issue can be listed separately. It is a matter of personal preference. If that style were to be adopted, it can be done as follows:
 
 - [ ] "The following facts and circumstances are common cause on the pleadings:
+
 (a) The names and locus standi of the parties . . .
 
 ---

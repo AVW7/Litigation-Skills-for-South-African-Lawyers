@@ -46,11 +46,11 @@ Strictly speaking, only the first five stages involve fact analysis; the last tw
 
 **Table 14.2** General scheme for trial preparation based on the Proof-making Model
 
-|  Stage | What counsel has to do | Skill involved  |
-| --- | --- | --- |
-|  1 | *Determine the area of law involved* | Legal research. Fact analysis.  |
-|  2 | *Determine the cause of action (criminal charge) or defence* | Legal research. Analysis of legal documents.  |
-|  3 | *Determine the material facts (the legal elements) in issue.* 1 In a civil case, compare the Particulars of Claim (the 'Claim') and the Plea. The issues are the allegations in the Claim which are denied (or not admitted) in the Plea. 2 In a criminal case the issues are all the material facts alleged in the Charge Sheet or Indictment put in issue by a plea of | Legal research. Analysis of legal documents.  |
+| Stage | What counsel has to do                                                                                                                                                                                                                                                                                                                                                   | Skill involved                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| 1     | *Determine the area of law involved*                                                                                                                                                                                                                                                                                                                                     | Legal research. Fact analysis.               |
+| 2     | *Determine the cause of action (criminal charge) or defence*                                                                                                                                                                                                                                                                                                             | Legal research. Analysis of legal documents. |
+| 3     | *Determine the material facts (the legal elements) in issue.* 1 In a civil case, compare the Particulars of Claim (the 'Claim') and the Plea. The issues are the allegations in the Claim which are denied (or not admitted) in the Plea. 2 In a criminal case the issues are all the material facts alleged in the Charge Sheet or Indictment put in issue by a plea of | Legal research. Analysis of legal documents. |
 
 ---
 

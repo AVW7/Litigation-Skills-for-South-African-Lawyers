@@ -42,9 +42,9 @@ A key should be prepared for each photograph. This should initially be done at t
 
 **Table 12.2** Providing captions for photographs
 
-|  Number | Date | Legend | Compass | Comment  |
-| --- | --- | --- | --- | --- |
-|  1 | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident.  |
+| Number | Date       | Legend                                                                                                                                                             | Compass                    | Comment                                                                                                                           |
+| ------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 2/3/[year] | The photograph depicts the plaintiff's position when he first saw the bus approaching. The plaintiff's house is the one with the green roof opposite the bus stop. | Photographer facing south. | The photograph was taken a year after the incident. The new houses on the eastern side of the road were built after the incident. |
 
 If the case is about a collision, say, an elderly pensioner living in a rural area was knocked down by a bus, your client may need a lot of help to be able to give his evidence coherently and persuasively. In such a case I would suggest the following process for a set of helpful photographs:
 

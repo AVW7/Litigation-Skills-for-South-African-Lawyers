@@ -54,10 +54,10 @@ Let's put this in a table using the proof-making model of fact analysis:
 
 **Table 5.3:** Using the proof-making model to identify the material facts
 
-|  Stage 1 | Stage 2 | Stage 3 | Stage 4  |
-| --- | --- | --- | --- |
-|  Area of law | Cause of action | Legal elements | (Material) Facts  |
-|  Contract | Claim for damages | 1. Party A with contractual capacity 2. Party B with contractual capacity 3. Conclusion of contract Offer Acceptance *Animus contrahendi* 4. Terms | 1. The plaintiff is A + capacity (adult, etc) 2. The defendant is B + capacity (company, etc) 3. A and B concluded a contract on [date] at [place] in terms of which A sold [thing] to B for [price]. 4. Terms:  |
+| Stage 1     | Stage 2           | Stage 3                                                                                                                                            | Stage 4                                                                                                                                                                                                         |
+| ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Area of law | Cause of action   | Legal elements                                                                                                                                     | (Material) Facts                                                                                                                                                                                                |
+| Contract    | Claim for damages | 1. Party A with contractual capacity 2. Party B with contractual capacity 3. Conclusion of contract Offer Acceptance *Animus contrahendi* 4. Terms | 1. The plaintiff is A + capacity (adult, etc) 2. The defendant is B + capacity (company, etc) 3. A and B concluded a contract on [date] at [place] in terms of which A sold [thing] to B for [price]. 4. Terms: |
 
 ---
 

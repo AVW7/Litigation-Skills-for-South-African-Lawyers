@@ -49,11 +49,11 @@ This case does not fall under Rule 37(1).
 
 **Table 10.8** Notice of application in interlocutory proceedings
 
-|  Par | Text of notice of application | Comment  |
-| --- | --- | --- |
-|   | [*COURT DESCRIPTION as prescribed*] Case no 422/[year] Between: Anne Smith and Joe Soap PLAINTIFF DEFENDANT | 1 I keep the descriptions of the parties as in the pleadings. If you feel strongly about form, you may refer to them as applicant and respondent respectively. 2 The notice is not a notice of motion. That term is reserved for substantive applications or motions.  |
-|   | NOTICE OF APPLICATION IN TERMS OF RULE 35(7) | The rule under which the application is made, is given in the title bar. This is called "signposting" and is a technique used to direct the reader's attention to something specific.  |
-|   | To: The Registrar of the High Court [address] |   |
+| Par   | Text of notice of application                                                                               | Comment                                                                                                                                                                                                                                                               |
+| ----- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | [*COURT DESCRIPTION as prescribed*] Case no 422/[year] Between: Anne Smith and Joe Soap PLAINTIFF DEFENDANT | 1 I keep the descriptions of the parties as in the pleadings. If you feel strongly about form, you may refer to them as applicant and respondent respectively. 2 The notice is not a notice of motion. That term is reserved for substantive applications or motions. |
+|       | NOTICE OF APPLICATION IN TERMS OF RULE 35(7)                                                                | The rule under which the application is made, is given in the title bar. This is called "signposting" and is a technique used to direct the reader's attention to something specific.                                                                                 |
+|       | To: The Registrar of the High Court [address]                                                               |                                                                                                                                                                                                                                                                       |
 
 ---
 

@@ -1,7 +1,4 @@
 ---
-
----
-
 # Cross-Examination Workflow
 
 ```json

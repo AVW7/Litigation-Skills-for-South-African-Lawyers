@@ -19,8 +19,9 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **courtroom protocol and etiquette** — proper conduct, modes of address, and professional behaviour. Essential: know how to address the court, when to robe, and how to conduct yourself.
-
+<!-- -->
 > [!important] Modes of Address
+>
 > - **High Court Judge:** "My Lord" / "My Lady" or "Your Lordship" / "Your Ladyship"
 > - **Magistrate:** "Your Worship"
 > - **Registrar:** "Mr/Madam Registrar"
@@ -56,10 +57,11 @@ graph TB
 *Figure: Courtroom protocol essentials.*
 
 > [!warning] Common Errors
+>
 > - Addressing magistrate as "My Lord"
 > - Forgetting to bow on entry
 > - Moving around courtroom while speaking
-
+<!-- -->
 > [!tip] Connection
 > Protocol sets the stage for [[L16 - Opening statement|opening statement]]. Resume with courtesy after trial in [[L21 - Closing argument|closing argument]].
 

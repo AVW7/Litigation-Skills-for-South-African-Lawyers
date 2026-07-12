@@ -17,7 +17,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter provides **closing reflections** on the litigation practitioner's role, skills, and professional responsibilities.
-
+<!-- -->
 > [!quote] The Litigator's Calling
 > *"The advocate's duty is to the court, to justice, and to the client — in that order."*
 
@@ -52,7 +52,7 @@ graph LR
 
 > [!tip] Key Takeaways
 > Develop skills through persistent practice and candid self-assessment. Never stop learning.
-
+<!-- -->
 > [!tip] Connection
 > Builds on all preceding lectures. The foundation for lifelong professional development.
 
@@ -60,17 +60,17 @@ graph LR
 
 ## Chapter Content Walkthrough
 
-| 5 | Dealing with each issue in turn by- - [ ] stating the issue - [ ] stating the submission - [ ] stating the argument in support of the submission - [ ] stating the opposing argument - [ ] disposing of the opposing argument | |
-| --- | --- | --- |
-| 6 | Demonstrating a mastery of the materials | |
-| 7 | Demonstrating a mastery of the argument, including the strengths and weaknesses of the case | |
-| 8 | Demonstrating a complete understanding of the opposing argument | |
-| 9 | Being flexible and tactful | |
-| 10 | Providing concise references to the papers and to authorities in support of the argument | |
-| 11 | Stating the order or orders to be granted | |
-| 12 | Dealing appropriately with questions by the court | |
-| 13 | Dealing appropriately with the opponent's oral argument | |
-| 14 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the judges in turn - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom | |
+| 5     | Dealing with each issue in turn by- - [ ] stating the issue - [ ] stating the submission - [ ] stating the argument in support of the submission - [ ] stating the opposing argument - [ ] disposing of the opposing argument                                                                                                                                                                                                                         |       |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 6     | Demonstrating a mastery of the materials                                                                                                                                                                                                                                                                                                                                                                                                              |       |
+| 7     | Demonstrating a mastery of the argument, including the strengths and weaknesses of the case                                                                                                                                                                                                                                                                                                                                                           |       |
+| 8     | Demonstrating a complete understanding of the opposing argument                                                                                                                                                                                                                                                                                                                                                                                       |       |
+| 9     | Being flexible and tactful                                                                                                                                                                                                                                                                                                                                                                                                                            |       |
+| 10    | Providing concise references to the papers and to authorities in support of the argument                                                                                                                                                                                                                                                                                                                                                              |       |
+| 11    | Stating the order or orders to be granted                                                                                                                                                                                                                                                                                                                                                                                                             |       |
+| 12    | Dealing appropriately with questions by the court                                                                                                                                                                                                                                                                                                                                                                                                     |       |
+| 13    | Dealing appropriately with the opponent's oral argument                                                                                                                                                                                                                                                                                                                                                                                               |       |
+| 14    | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture) - [ ] Maintaining eye contact with the judges in turn - [ ] Speaking at appropriate volume and pace - [ ] Addressing the court with proper deference - [ ] Ensuring that only one counsel is standing at any time - [ ] Addressing the court from the correct location, not moving about the courtroom |       |
 
 ## Epilogue
 

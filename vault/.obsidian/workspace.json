@@ -11,14 +11,12 @@
             "id": "6bfa7f46408a1eda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-file-view",
               "state": {
-                "file": "Lectures/00-MASTER-INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/interview-process-flow.html"
               },
               "icon": "lucide-file",
-              "title": "00-MASTER-INDEX"
+              "title": "interview-process-flow"
             }
           }
         ]
@@ -202,6 +200,29 @@
   },
   "active": "6bfa7f46408a1eda",
   "lastOpenFiles": [
+    "Assets/litigation-timeline.html",
+    "Assets/anim_facta_probanda.gif",
+    "Assets/anim_cross_examination.gif",
+    "Assets/anim_cause_of_action.jpg",
+    "Assets/anim_cause_of_action.gif",
+    "Assets/anim_burden_proof.gif",
+    "Assets/adr-comparison.html",
+    "Litigation Skills/Chapter 08 - Drafting replications and further pleadings.md",
+    "Litigation Skills/Chapter 07 - Drafting pleas and special pleas.md",
+    "Litigation Skills/Chapter 06 - Drafting statements of claim.md",
+    "Litigation Skills/Chapter 05 - Function, form and style of pleadings.md",
+    "Litigation Skills/Chapter 04 - Preparing to commence action.md",
+    "Litigation Skills/Chapter 03 - Alternatives to litigation.md",
+    "Litigation Skills/Chapter 02 - Advising and counselling clients.md",
+    "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
+    "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
+    "IMPROVEMENT_SUMMARY.md",
+    "Assets/appeals-workflow.html",
+    "Assets/rule-23-exceptions.html",
+    "Assets/proof-making-model.html",
+    "Assets/examination-techniques.html",
+    "Assets/interview-process-flow.html",
+    "Lectures/00-MASTER-INDEX.md",
     "Lectures/diagrams/theory-of-case.html",
     "Lectures/L11 - Preparing the case for trial: Advice on evidence.md",
     "Lectures/L12 - Preparing the case for trial: Assembling the evidence.md",
@@ -219,34 +240,11 @@
     "Lectures/diagrams/rule-23-exceptions.html",
     "Lectures/diagrams/appeals-workflow.html",
     "Lectures/L02 - Advising and counselling clients.md",
-    "Lectures/00-MASTER-INDEX.md",
-    "Lectures/IMPROVEMENT_SUMMARY.md",
-    "Lectures/diagrams/proof-making-model.html",
-    "Lectures/PRACTICE-QUESTIONS.md",
-    "Lectures/diagrams/cross-examination-techniques.html",
-    "Lectures/diagrams/litigation-timeline.html",
-    "Lectures/diagrams/examination-techniques.html",
-    "Lectures/diagrams/pleadings-structure.html",
-    "Lectures/diagrams/adr-comparison.html",
-    "Lectures/L03 - Alternatives to litigation.md",
-    "Lectures/diagrams/interview-process-flow.html",
-    "Litigation Skills/Chapter 00 - Introduction & Prefaces.md",
-    "Litigation Skills/Chapter 01 - Interviewing clients and witnesses.md",
-    "Dashboard.md",
     "Litigation-Skills-Overview.canvas",
-    "Home.md",
-    "Litigation Skills/Chapter 05 - Function, form and style of pleadings.md",
-    "Litigation Skills/Chapter 06 - Drafting statements of claim.md",
-    "Litigation Skills/Chapter 04 - Preparing to commence action.md",
     "Assets/motion_application_visual.svg",
     "Assets/pleadings_flow_visual.svg",
     "Assets/burden_of_proof_visual.svg",
     "Assets/urgent_small2.jpg",
-    "Assets/urgent_small.jpg",
-    "Assets/urgent_frame_30.jpg",
-    "Assets/urgent_frame_15.jpg",
-    "Assets/urgent_frame_0.jpg",
-    "Assets/anim_cause_of_action.jpg",
-    "Assets/anim_urgent_application.gif"
+    "Assets/urgent_small.jpg"
   ]
 }

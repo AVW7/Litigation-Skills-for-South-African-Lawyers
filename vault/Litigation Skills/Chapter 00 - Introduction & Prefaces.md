@@ -43,13 +43,13 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-1\|Page 1]] | - | Foreword to revised edition 2003 |
-| [[Page-2\|Page 2]] | - | Preface to second edition |
-| [[Page-3\|Page 3]] | 1 | Acknowledgements |
-| [[Page-4\|Page 4]] | 2 | Precedents, examples and strategies |
-| [[Page-5\|Page 5]] | 3 | EXAMPLES OF WHAT TO SAY IN COURT |
+| Page (PDF)         | Page (Printed) | Title / Key Content                 |
+| ------------------ | -------------- | ----------------------------------- |
+| [[Page-1\|Page 1]] | -              | Foreword to revised edition 2003    |
+| [[Page-2\|Page 2]] | -              | Preface to second edition           |
+| [[Page-3\|Page 3]] | 1              | Acknowledgements                    |
+| [[Page-4\|Page 4]] | 2              | Precedents, examples and strategies |
+| [[Page-5\|Page 5]] | 3              | EXAMPLES OF WHAT TO SAY IN COURT    |
 
 ---
 

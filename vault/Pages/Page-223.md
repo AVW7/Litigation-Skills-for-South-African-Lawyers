@@ -53,8 +53,8 @@ You should not use an objection as a tool to upset your opponent or a witness. S
 
 Table 20.9 Objections to questions and evidence, and phrasing the objection
 
-|  To the form of the question | To the subject-matter of the question | To inadmissible evidence | To evidence lacking foundation  |
-| --- | --- | --- | --- |
+| To the form of the question | To the subject-matter of the question | To inadmissible evidence | To evidence lacking foundation |
+| --------------------------- | ------------------------------------- | ------------------------ | ------------------------------ |
 
 ---
 

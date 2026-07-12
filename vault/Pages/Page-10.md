@@ -53,9 +53,9 @@ There are three basic types of question we can use in an interview:
 
 Table 1.1 Open, closed and leading questions
 
-|  Type of question | Examples  |
-| --- | --- |
-|  **The open question:** It is called an open question |   |
+| Type of question                                     | Examples |
+| ---------------------------------------------------- | -------- |
+| **The open question:** It is called an open question |          |
 
 ---
 

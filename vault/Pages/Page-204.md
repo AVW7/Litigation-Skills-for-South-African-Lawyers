@@ -20,35 +20,35 @@ evidence or the witness.
 
 **Table 18.4** Undermining the witness
 
-|  **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence opening statement.  |
-| --- |
-|  **The aim of the cross-examination:** To "parade" the prosecution case in order to undermine the defence case.  |
-|  Prosecutor. *So you put your own backpack on the floor?*  |
-|  A. Yes.  |
-|  Q. *And you then took a similar backpack from the rack?*  |
-|  A. Yes.  |
-|  Q. *One you were not going to buy because you actually wanted a different type of bag?*  |
-|  A. Yes.  |
-|  Q. *And then you slung the store's backpack over your shoulder?*  |
-|  A. Yes.  |
-|  Q. *And you left your own, tattered backpack on the floor?*  |
-|  A. Yes.  |
-|  Q. *The two bags are quite different, aren't they?*  |
-|  A. Yes, but I did not notice that at the time. I thought I was carrying my own.  |
-|  Q. *And you went to the rack where other types of bags were displayed?*  |
-|  A. Yes.  |
-|  Q. *But you did not select any of them?*  |
-|  A. Yes.  |
-|  Q. *You then walked out of the store without buying anything at all?*  |
-|  A. Yes.  |
-|  Q. *You did not have enough money on you to pay for the backpack, did you?*  |
-|  A. No.  |
-|  Q. *You've been embarrassed previously by your colour-blindness?*  |
-|  A. Often, and for a long time.  |
-|  Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?*  |
-|  A. I've tried.  |
-|  Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?*  |
-|  A. No.  |
+| **The facts:** The facts are given in the opening addresses of counsel for the prosecution and defence in chapter 15. The accused is alleged to have stolen a backpack. Consider his defence, as put by his counsel in the defence opening statement. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The aim of the cross-examination:** To "parade" the prosecution case in order to undermine the defence case.                                                                                                                                        |
+| Prosecutor. *So you put your own backpack on the floor?*                                                                                                                                                                                              |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *And you then took a similar backpack from the rack?*                                                                                                                                                                                              |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *One you were not going to buy because you actually wanted a different type of bag?*                                                                                                                                                               |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *And then you slung the store's backpack over your shoulder?*                                                                                                                                                                                      |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *And you left your own, tattered backpack on the floor?*                                                                                                                                                                                           |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *The two bags are quite different, aren't they?*                                                                                                                                                                                                   |
+| A. Yes, but I did not notice that at the time. I thought I was carrying my own.                                                                                                                                                                       |
+| Q. *And you went to the rack where other types of bags were displayed?*                                                                                                                                                                               |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *But you did not select any of them?*                                                                                                                                                                                                              |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *You then walked out of the store without buying anything at all?*                                                                                                                                                                                 |
+| A. Yes.                                                                                                                                                                                                                                               |
+| Q. *You did not have enough money on you to pay for the backpack, did you?*                                                                                                                                                                           |
+| A. No.                                                                                                                                                                                                                                                |
+| Q. *You've been embarrassed previously by your colour-blindness?*                                                                                                                                                                                     |
+| A. Often, and for a long time.                                                                                                                                                                                                                        |
+| Q. *You must have learnt, over the years, to be extra careful then in order to avoid such embarrassment?*                                                                                                                                             |
+| A. I've tried.                                                                                                                                                                                                                                        |
+| Q. *You didn't, on this occasion, take any particular care to ensure that you did not make a mistake?*                                                                                                                                                |
+| A. No.                                                                                                                                                                                                                                                |
 
 The prosecution's case is that the defendant's conduct is suspicious. The first part of the cross-examination is designed to undermine the defendant's version by parading the facts which make that version appear suspicious. The last three questions are designed to undermine it further by raising additional facts which reduce any sympathy the judge might feel towards the accused. The very last question may be the question that allows the witness to give a convincing explanation.
 

@@ -16,8 +16,8 @@ aliases:
 
 ---
 
-|  **Step 3:** Place the demonstration 'on the record' by putting it in words. | Q. *M' Lady, the witness has marked a point on the eastern side of [street], within the intersection.* By the Court: *Yes, carry on.*  |
-| --- | --- |
+| **Step 3:** Place the demonstration 'on the record' by putting it in words. | Q. *M' Lady, the witness has marked a point on the eastern side of [street], within the intersection.* By the Court: *Yes, carry on.* |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 20.3 Inspections in loco
 
@@ -35,11 +35,11 @@ Witnesses may be examined and cross-examined on the features of the scene and an
 
 **Table 20.5** Confirming a demonstration given at an inspection
 
-|  What to do | How to do it  |
-| --- | --- |
-|  **Step 1:** Ask the witness a closed but non-leading question to set the stage. | Q. *You were present at the scene this morning when the court inspected it?* A. *Yes.*  |
-|  **Step 2:** Refer the witness to the observation, demonstration or aspect pointed out. Make sure you state the facts correctly. | Q. *You were asked to indicate where you were when the two cars collided with each other?* A. *Yes.* Q. *And you pointed out a spot in front of the restaurant?* A. *Yes.*  |
-|  **Step 3:** Ask the questions you have for the witness on that score. | Q. *Could you tell the court what you noticed while you were at that spot?* A. *...*  |
+| What to do                                                                                                                      | How to do it                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 1:** Ask the witness a closed but non-leading question to set the stage.                                                 | Q. *You were present at the scene this morning when the court inspected it?* A. *Yes.*                                                                                     |
+| **Step 2:** Refer the witness to the observation, demonstration or aspect pointed out. Make sure you state the facts correctly. | Q. *You were asked to indicate where you were when the two cars collided with each other?* A. *Yes.* Q. *And you pointed out a spot in front of the restaurant?* A. *Yes.* |
+| **Step 3:** Ask the questions you have for the witness on that score.                                                           | Q. *Could you tell the court what you noticed while you were at that spot?* A. *...*                                                                                       |
 
 ### 20.4 Prior inconsistent statements
 

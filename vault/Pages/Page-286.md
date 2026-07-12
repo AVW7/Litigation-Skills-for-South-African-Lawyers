@@ -48,15 +48,15 @@ A prosecutor has to note the verdict and sentence (in the event of a conviction)
 
 #### Statement of Mrs Anne Smith
 
-|  Text of statement | Attorney's comments  |
-| --- | --- |
-|  1 My full name is Anne Smith. My maiden name was O'Brien. | 1-2 Take copies of ID document and birth certificate for the file. Arrange for safekeeping of originals.  |
-|  2 I was born on [date] in [place and province]. |   |
-|  3 My residential address is [street address]. |   |
-|  4 I was married to my late husband, John William Smith, in community of property at [place] on [date]. We were still married at the time of his death on [date]. | 4-6 Take copies of marriage certificate, deceased's ID document and children's birth certificates for the file. Take deceased's ID document for safekeeping. Arrange for keeping of original birth certificates.  |
-|  5 Two children were born of our marriage. They are Anne-Elise Smith, a girl born on [date] and James Andrew Smith, a boy born on [date]. |   |
-|  6 My late husband was born on [date] in [place and province]. |   |
-|  7 On [date] at about 09:30 I was driving my car, a [year] Honda, registration no. NPN 2001 along Y Street, [town or city]. I was going from the beach |   |
+| Text of statement                                                                                                                                                | Attorney's comments                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 My full name is Anne Smith. My maiden name was O'Brien.                                                                                                        | 1-2 Take copies of ID document and birth certificate for the file. Arrange for safekeeping of originals.                                                                                                         |
+| 2 I was born on [date] in [place and province].                                                                                                                  |                                                                                                                                                                                                                  |
+| 3 My residential address is [street address].                                                                                                                    |                                                                                                                                                                                                                  |
+| 4 I was married to my late husband, John William Smith, in community of property at [place] on [date]. We were still married at the time of his death on [date]. | 4-6 Take copies of marriage certificate, deceased's ID document and children's birth certificates for the file. Take deceased's ID document for safekeeping. Arrange for keeping of original birth certificates. |
+| 5 Two children were born of our marriage. They are Anne-Elise Smith, a girl born on [date] and James Andrew Smith, a boy born on [date].                         |                                                                                                                                                                                                                  |
+| 6 My late husband was born on [date] in [place and province].                                                                                                    |                                                                                                                                                                                                                  |
+| 7 On [date] at about 09:30 I was driving my car, a [year] Honda, registration no. NPN 2001 along Y Street, [town or city]. I was going from the beach            |                                                                                                                                                                                                                  |
 
 ---
 

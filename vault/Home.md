@@ -19,9 +19,9 @@ tags: [moc, home, landing]
 
 ## 📊 Quick Stats
 
-| | | | |
-|:-:|:-:|:-:|:-:|
-| **29** | **4** | **6+** | **∞** |
+|          |        |             |          |
+| :------: | :----: | :---------: | :------: |
+|  **29**  | **4**  |    **6+**   |  **∞**   |
 | Chapters | Phases | Legal Tests | Practice |
 
 ---
@@ -44,22 +44,22 @@ tags: [moc, home, landing]
 
 ## 📂 Quick Access
 
-| Index | Description |
-|-------|-------------|
+| Index            | Description                   |
+| ---------------- | ----------------------------- |
 | [[All Lectures]] | Complete chapter walkthroughs |
-| [[All Terms]] | Legal concepts & definitions |
-| [[All Formulas]] | Tests & requirements |
-| [[Dashboard]] | Visual study tools |
+| [[All Terms]]    | Legal concepts & definitions  |
+| [[All Formulas]] | Tests & requirements          |
+| [[Dashboard]]    | Visual study tools            |
 
 ---
 
 ## 📊 Visual Tools
 
-| Visual | Purpose |
-|--------|---------|
-| `burden_of_proof_visual.svg` | Civil vs Criminal standards |
-| `pleadings_flow_visual.svg` | Document exchange timeline |
-| `motion_application_visual.svg` | Affidavit sequence |
+| Visual                          | Purpose                     |
+| ------------------------------- | --------------------------- |
+| `burden_of_proof_visual.svg`    | Civil vs Criminal standards |
+| `pleadings_flow_visual.svg`     | Document exchange timeline  |
+| `motion_application_visual.svg` | Affidavit sequence          |
 
 > [!abstract] Open the full dashboard in your browser for the best interactive experience.
 

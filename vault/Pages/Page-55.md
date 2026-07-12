@@ -41,11 +41,13 @@ The general structure upon which the system of pleading in civil cases is founde
 
 - [ ] The plaintiff pleads the material facts relied upon in support of his or her claims in a statement of claim.
 - [ ] The defendant delivers a plea in which he or she may -
+
   (a) admit allegations pleaded by the plaintiff, which then become admitted facts;
   (b) deny allegations made by the plaintiff, which are then in issue;
   (c) decline to admit allegations made by the plaintiff, which then have to be proved by the plaintiff but are not truly in dispute;
   (d) confess (or admit) allegations pleaded by the plaintiff, (which then become admitted facts), and avoid their effect by making new or additional allegations which constitute an answer to the plaintiff's claim or facts;
   (e) add any necessary explanations and qualifications.
+
 - [ ] The plaintiff may deliver a replication to the defendant's plea in order to admit allegations in the plea, (which then become admitted facts), or to set up a confession and avoidance in respect of a defence raised in the plea.
 - [ ] If the plaintiff pleads a confession and avoidance in the replication, the defendant may deliver a rejoinder dealing with the new allegations in the same fashion as the replication deals with the plea.
 - [ ] This process proceeds by way of further pleadings called, in order of appearance, a surrejoinder, rebutter and surrebutter respectively. These are now very rare. Each pleading answers the one before and adds such new allegations as are required to answer fully.

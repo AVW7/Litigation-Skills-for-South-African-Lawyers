@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ADR Methods Comparison</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-secondary);
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    margin: 0 auto;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  
+  .c-purple > rect { fill: #EEEDFE; stroke: #534AB7; stroke-width: 0.5; }
+  .c-purple > .th { fill: #3C3489; }
+  .c-purple > .ts { fill: #534AB7; }
+  .c-teal > rect { fill: #E1F5EE; stroke: #0F6E56; stroke-width: 0.5; }
+  .c-teal > .th { fill: #085041; }
+  .c-teal > .ts { fill: #0F6E56; }
+  .c-coral > rect { fill: #FAECE7; stroke: #993C1D; stroke-width: 0.5; }
+  .c-coral > .th { fill: #712B13; }
+  .c-coral > .ts { fill: #993C1D; }
+  
+  @media (prefers-color-scheme: dark) {
+    .c-purple > rect { fill: #3C3489; stroke: #AFA9EC; }
+    .c-purple > .th { fill: #CECBF6; }
+    .c-purple > .ts { fill: #AFA9EC; }
+    .c-teal > rect { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th { fill: #9FE1CB; }
+    .c-teal > .ts { fill: #5DCAA5; }
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; }
+    .c-coral > .ts { fill: #F0997B; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Alternative Dispute Resolution Methods</h1>
+  <p class="subtitle">Comparing arbitration, mediation, and negotiation in South African practice</p>
+  
+  <svg width="100%" viewBox="0 0 680 600" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+    
+    <!-- Header: Three methods -->
+    <!-- Arbitration -->
+    <g class="c-purple">
+      <rect x="40" y="30" width="195" height="40" rx="8" stroke-width="0.5"/>
+      <text class="th" x="137" y="55" text-anchor="middle">Arbitration</text>
+    </g>
+    
+    <!-- Mediation -->
+    <g class="c-teal">
+      <rect x="242" y="30" width="195" height="40" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="55" text-anchor="middle">Mediation</text>
+    </g>
+    
+    <!-- Negotiation -->
+    <g class="c-coral">
+      <rect x="445" y="30" width="195" height="40" rx="8" stroke-width="0.5"/>
+      <text class="th" x="542" y="55" text-anchor="middle">Negotiation</text>
+    </g>
+    
+    <!-- Decision-maker row -->
+    <text class="ts" x="40" y="100" font-weight="500">Decision-maker</text>
+    
+    <g class="c-purple">
+      <rect x="40" y="110" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="137" y="135" text-anchor="middle">Third-party arbitrator</text>
+      <text class="ts" x="137" y="155" text-anchor="middle">(retired judge, expert)</text>
+    </g>
+    
+    <g class="c-teal">
+      <rect x="242" y="110" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="340" y="135" text-anchor="middle">Neutral mediator</text>
+      <text class="ts" x="340" y="155" text-anchor="middle">(facilitates, no decision)</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="445" y="110" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="542" y="135" text-anchor="middle">Parties themselves</text>
+      <text class="ts" x="542" y="155" text-anchor="middle">(direct communication)</text>
+    </g>
+    
+    <!-- Outcome row -->
+    <text class="ts" x="40" y="200" font-weight="500">Outcome</text>
+    
+    <g class="c-purple">
+      <rect x="40" y="210" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="137" y="235" text-anchor="middle">Binding award</text>
+      <text class="ts" x="137" y="255" text-anchor="middle">(enforceable like judgment)</text>
+    </g>
+    
+    <g class="c-teal">
+      <rect x="242" y="210" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="340" y="235" text-anchor="middle">Settlement agreement</text>
+      <text class="ts" x="340" y="255" text-anchor="middle">(parties choose terms)</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="445" y="210" width="195" height="60" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="542" y="235" text-anchor="middle">Consent agreement</text>
+      <text class="ts" x="542" y="255" text-anchor="middle">(or impasse)</text>
+    </g>
+    
+    <!-- Cost row -->
+    <text class="ts" x="40" y="300" font-weight="500">Cost</text>
+    
+    <g class="c-purple">
+      <rect x="40" y="310" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="137" y="340" text-anchor="middle">High (arbitrator fees)</text>
+    </g>
+    
+    <g class="c-teal">
+      <rect x="242" y="310" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="340" y="340" text-anchor="middle">Medium (mediator fees)</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="445" y="310" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="542" y="340" text-anchor="middle">Low (time only)</text>
+    </g>
+    
+    <!-- Privacy row -->
+    <text class="ts" x="40" y="390" font-weight="500">Privacy</text>
+    
+    <g class="c-purple">
+      <rect x="40" y="400" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="137" y="430" text-anchor="middle">Private proceedings</text>
+    </g>
+    
+    <g class="c-teal">
+      <rect x="242" y="400" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="340" y="430" text-anchor="middle">Confidential process</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="445" y="400" width="195" height="50" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="542" y="430" text-anchor="middle">Private negotiation</text>
+    </g>
+    
+    <!-- Best for row -->
+    <text class="ts" x="40" y="480" font-weight="500">Best for</text>
+    
+    <g class="c-purple">
+      <rect x="40" y="490" width="195" height="70" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="137" y="515" text-anchor="middle">Commercial disputes,</text>
+      <text class="ts" x="137" y="535" text-anchor="middle">complex contracts,</text>
+      <text class="ts" x="137" y="555" text-anchor="middle">expert determination</text>
+    </g>
+    
+    <g class="c-teal">
+      <rect x="242" y="490" width="195" height="70" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="340" y="515" text-anchor="middle">Relationship preservation,</text>
+      <text class="ts" x="340" y="535" text-anchor="middle">family matters,</text>
+      <text class="ts" x="340" y="555" text-anchor="middle">ongoing partnerships</text>
+    </g>
+    
+    <g class="c-coral">
+      <rect x="445" y="490" width="195" height="70" rx="8" stroke-width="0.5"/>
+      <text class="ts" x="542" y="515" text-anchor="middle">Simple disputes,</text>
+      <text class="ts" x="542" y="535" text-anchor="middle">early settlement,</text>
+      <text class="ts" x="542" y="555" text-anchor="middle">pre-litigation phase</text>
+    </g>
+    
+    <!-- Key insight -->
+    <text class="ts" x="340" y="585" text-anchor="middle">Often used sequentially: Negotiation → Mediation → Arbitration → Litigation</text>
+  </svg>
+</div>
+</body>
+</html>

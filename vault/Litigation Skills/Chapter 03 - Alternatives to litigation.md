@@ -47,21 +47,21 @@ topics:
 
 ## Chapter Contents
 
-| Page (PDF) | Page (Printed) | Title / Key Content |
-| --- | --- | --- |
-| [[Page-33\|Page 33]] | 45 | Chapter 3 |
-| [[Page-34\|Page 34]] | 47 | 3.2 Arbitration |
-| [[Page-35\|Page 35]] | 48 | 3.3 Determination by an independent third party or expert |
-| [[Page-36\|Page 36]] | 50 | 3.4 Mediation |
-| [[Page-37\|Page 37]] | 51 | Content |
-| [[Page-38\|Page 38]] | 53 | 3.5 Negotiation |
-| [[Page-39\|Page 39]] | 54 | 3.5.1 Adopting a basic negotiation strategy |
-| [[Page-40\|Page 40]] | 56 | 3.5.2 The analysis of the facts, the law and the client's objectives |
-| [[Page-41\|Page 41]] | 57 | 3.5.3 Anticipating the opposition's case |
-| [[Page-42\|Page 42]] | 59 | Content |
-| [[Page-43\|Page 43]] | 61 | 3.5.6 Completing the negotiation |
-| [[Page-44\|Page 44]] | 62 | 3.7 Comparative table |
-| [[Page-45\|Page 45]] | 65 | Content |
+| Page (PDF)           | Page (Printed) | Title / Key Content                                                  |
+| -------------------- | -------------- | -------------------------------------------------------------------- |
+| [[Page-33\|Page 33]] | 45             | Chapter 3                                                            |
+| [[Page-34\|Page 34]] | 47             | 3.2 Arbitration                                                      |
+| [[Page-35\|Page 35]] | 48             | 3.3 Determination by an independent third party or expert            |
+| [[Page-36\|Page 36]] | 50             | 3.4 Mediation                                                        |
+| [[Page-37\|Page 37]] | 51             | Content                                                              |
+| [[Page-38\|Page 38]] | 53             | 3.5 Negotiation                                                      |
+| [[Page-39\|Page 39]] | 54             | 3.5.1 Adopting a basic negotiation strategy                          |
+| [[Page-40\|Page 40]] | 56             | 3.5.2 The analysis of the facts, the law and the client's objectives |
+| [[Page-41\|Page 41]] | 57             | 3.5.3 Anticipating the opposition's case                             |
+| [[Page-42\|Page 42]] | 59             | Content                                                              |
+| [[Page-43\|Page 43]] | 61             | 3.5.6 Completing the negotiation                                     |
+| [[Page-44\|Page 44]] | 62             | 3.7 Comparative table                                                |
+| [[Page-45\|Page 45]] | 65             | Content                                                              |
 
 ---
 

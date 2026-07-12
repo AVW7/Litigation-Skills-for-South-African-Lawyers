@@ -16,31 +16,31 @@ aliases:
 
 ---
 
-|  right, title and interest | rights | tautologous | until such time as | until | padding  |
-| --- | --- | --- | --- | --- | --- |
-|  safe and sound | safe | tautologous | whatsoever | (omit) | unnecessary  |
-|  save and except | except | tautologous | chairman | chair, chairperson | gender bias  |
-|  terms and conditions | terms | tautologous | policeman | police officer | gender bias  |
-|  aforesaid, the said | (create a definition) | jargon | Anton Piller order | search and seizure order | legalese  |
-|  contained in | in | jargon | culpa | negligence | Latin  |
-|  give consideration to | consider | padding | Mareva Injunction | freezing order | (anti dissipation order is just as bad!)  |
-|  hereinafter | later | jargon | mens rea | intention, state of mind | Latin/legalese  |
-|  hereinbefore | earlier | jargon | res ipsa loquitur | it speaks for itself | legalese  |
-|  in the event of | if | jargon | with regard to | about | padding  |
-|  respectfully suggest/disagree etc | suggest, disagree etc | false modesty | shoes must be worn on the escalator | you must wear shoes | passive voice  |
+| right, title and interest         | rights                | tautologous   | until such time as                  | until                    | padding                                  |
+| --------------------------------- | --------------------- | ------------- | ----------------------------------- | ------------------------ | ---------------------------------------- |
+| safe and sound                    | safe                  | tautologous   | whatsoever                          | (omit)                   | unnecessary                              |
+| save and except                   | except                | tautologous   | chairman                            | chair, chairperson       | gender bias                              |
+| terms and conditions              | terms                 | tautologous   | policeman                           | police officer           | gender bias                              |
+| aforesaid, the said               | (create a definition) | jargon        | Anton Piller order                  | search and seizure order | legalese                                 |
+| contained in                      | in                    | jargon        | culpa                               | negligence               | Latin                                    |
+| give consideration to             | consider              | padding       | Mareva Injunction                   | freezing order           | (anti dissipation order is just as bad!) |
+| hereinafter                       | later                 | jargon        | mens rea                            | intention, state of mind | Latin/legalese                           |
+| hereinbefore                      | earlier               | jargon        | res ipsa loquitur                   | it speaks for itself     | legalese                                 |
+| in the event of                   | if                    | jargon        | with regard to                      | about                    | padding                                  |
+| respectfully suggest/disagree etc | suggest, disagree etc | false modesty | shoes must be worn on the escalator | you must wear shoes      | passive voice                            |
 
 [[[Page-258|page 426]]]
 
-|  Avoid | Use | Reason | Avoid | Use | Reason  |
-| --- | --- | --- | --- | --- | --- |
-|  facilitate | help, assist | big word | opening gambit | gambit | tautologous  |
-|  utilise | use | big word | temper tantrum | tantrum | tautologous  |
-|  bona fide | in good faith, genuine, honestly | Latin | an act of insolvency was committed | he committed an act of insolvency | passive voice  |
-|  brevitatis causa | for the sake of brevity (omit if you can) | Latin/usually no shorter anyway | propos | about | pretentious, legalese  |
-|  inter alia | amongst others | Latin | infra | below | Latin  |
-|  ipso facto | automatic | Latin | ultimo | last | pretentious, Latin  |
-|  mutatis mutandis | with the necessary changes | Latin | it is not uncommon, unusual | it is common, usually | turn negative into positive  |
-|  endeavour to | try to | big word | paragraph 2 is admitted (by whom, you might ask?) | the defendant admits paragraph 2 | passive voice  |
+| Avoid            | Use                                       | Reason                          | Avoid                                             | Use                               | Reason                      |
+| ---------------- | ----------------------------------------- | ------------------------------- | ------------------------------------------------- | --------------------------------- | --------------------------- |
+| facilitate       | help, assist                              | big word                        | opening gambit                                    | gambit                            | tautologous                 |
+| utilise          | use                                       | big word                        | temper tantrum                                    | tantrum                           | tautologous                 |
+| bona fide        | in good faith, genuine, honestly          | Latin                           | an act of insolvency was committed                | he committed an act of insolvency | passive voice               |
+| brevitatis causa | for the sake of brevity (omit if you can) | Latin/usually no shorter anyway | propos                                            | about                             | pretentious, legalese       |
+| inter alia       | amongst others                            | Latin                           | infra                                             | below                             | Latin                       |
+| ipso facto       | automatic                                 | Latin                           | ultimo                                            | last                              | pretentious, Latin          |
+| mutatis mutandis | with the necessary changes                | Latin                           | it is not uncommon, unusual                       | it is common, usually             | turn negative into positive |
+| endeavour to     | try to                                    | big word                        | paragraph 2 is admitted (by whom, you might ask?) | the defendant admits paragraph 2  | passive voice               |
 
 [[[Page-258|page 427]]]
 

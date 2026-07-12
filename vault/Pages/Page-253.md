@@ -22,22 +22,22 @@ George Crabbe, 1754-1832
 
 # CONTENTS
 
-|  23.1 | Introduction  |
-| --- | --- |
-|  23.1.1 | Substance  |
-|  23.1.2 | Style (or oratory)  |
-|  23.2 | Basic language and communication skills  |
-|  23.2.1 | Words  |
-|  23.2.2 | Sentences  |
-|  23.2.3 | Paragraphs  |
-|  23.2.4 | The document as a whole  |
-|  23.3 | Organisational skills: Creating a structure  |
-|  23.4 | Presentation skills  |
-|  23.4.1 | Basic principles  |
-|  23.4.2 | Speaking in court  |
-|  23.4.2.1 | Protocol  |
-|  23.4.2.2 | Voice, posture, speech  |
-|  23.4.2.3 | Making submissions  |
+| 23.1     | Introduction                                |
+| -------- | ------------------------------------------- |
+| 23.1.1   | Substance                                   |
+| 23.1.2   | Style (or oratory)                          |
+| 23.2     | Basic language and communication skills     |
+| 23.2.1   | Words                                       |
+| 23.2.2   | Sentences                                   |
+| 23.2.3   | Paragraphs                                  |
+| 23.2.4   | The document as a whole                     |
+| 23.3     | Organisational skills: Creating a structure |
+| 23.4     | Presentation skills                         |
+| 23.4.1   | Basic principles                            |
+| 23.4.2   | Speaking in court                           |
+| 23.4.2.1 | Protocol                                    |
+| 23.4.2.2 | Voice, posture, speech                      |
+| 23.4.2.3 | Making submissions                          |
 
 [[[Page-253|page 417]]]
 

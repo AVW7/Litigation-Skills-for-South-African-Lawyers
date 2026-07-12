@@ -16,12 +16,12 @@ aliases:
 
 ---
 
-|   |  | A's undertakings B's undertakings | A was to deliver by [date] B was to pay by [date]  |
-| --- | --- | --- | --- |
-|   |  | 5. A's performance | 5. A delivered on [date]  |
-|   |  | 6. B's breach | 6. B failed to pay by [date]  |
-|   |  | 7. Causation | 7. B's failure caused  |
-|   |  | 8. Loss | 8. Loss in amount of [R. . .]  |
+|       |       | A's undertakings B's undertakings | A was to deliver by [date] B was to pay by [date] |
+| ----- | ----- | --------------------------------- | ------------------------------------------------- |
+|       |       | 5. A's performance                | 5. A delivered on [date]                          |
+|       |       | 6. B's breach                     | 6. B failed to pay by [date]                      |
+|       |       | 7. Causation                      | 7. B's failure caused                             |
+|       |       | 8. Loss                           | 8. Loss in amount of [R. . .]                     |
 
 #### 5.4.3 Third example: The defence of estoppel
 
@@ -58,13 +58,13 @@ There are several formal requirements with which all pleadings must comply, apar
 
 - - [ ] Every pleading must have the title of the action and the case number allocated by the Registrar on its first page (Rule 18(2)). The title contains the name of the court, the names of the parties with their descriptions and the name of the pleading. For example:
 
-|  [COURT DESCRIPTION as prescribed]  |   |
-| --- | --- |
-|  Between | Case no 1/[year]  |
-|  ABC Limited | Plaintiff  |
-|  and |   |
-|  Joe Smith | Defendant  |
-|  PLAINTIFF'S DECLARATION  |   |
+| [COURT DESCRIPTION as prescribed] |                  |
+| --------------------------------- | ---------------- |
+| Between                           | Case no 1/[year] |
+| ABC Limited                       | Plaintiff        |
+| and                               |                  |
+| Joe Smith                         | Defendant        |
+| PLAINTIFF'S DECLARATION           |                  |
 
 - - [ ] The paragraphs of the pleading must be numbered. Each paragraph should deal with only one fact or allegation. If necessary, sub-paragraphs should be used to keep related facts or allegations together (Rule 18(3)).
 

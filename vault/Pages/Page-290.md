@@ -52,8 +52,11 @@ STATEMENT IN TERMS OF SECTION 115 of ACT 51 of 1977
 
 1. The accused pleads not guilty to the charge.
 2. The accused provides the following explanation for his plea:
+
 On 12 December [year] the accused went to Three Rings Sports to look at bags. His old backpack was torn. His interest was aroused when he saw some backpacks displayed on a stand. He put his own backpack down in order to examine one of the backpacks. He did not want to buy that backpack. He walked over to the rack where the bags were on display, inadvertently carrying the store's backpack instead of his own. After looking at some bags, he left the store. He thought he was carrying his own backpack. He had no intention to steal the backpack.
+
 3. The accused makes the following admissions, which may be recorded as such in terms of section 220 of Act 51 of 1977:
+
 One: the backpack referred to in the charge sheet is the property of Three Rings Sports.
 Two: its value is R150.00.
 Three: the accused had no right to remove it from the store.

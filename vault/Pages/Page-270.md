@@ -41,21 +41,21 @@ If the answer to any of these questions is in the negative, the judgment amounts
 
 Table 25.1 Judgments which are appealable and rulings which are not
 
-|  Appealable judgments (or orders) | Rulings which are not appealable  |
-| --- | --- |
-|  The dismissal of a special plea. | A ruling on a point of evidence.  |
-|  A finding that the defendant is not liable. | A ruling on a preliminary point of law or the method of calculation of damages.  |
-|  A declaratory order that the plaintiff's claim for damages is limited. | An order referring the matter to oral evidence.  |
+| Appealable judgments (or orders)                                       | Rulings which are not appealable                                                |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| The dismissal of a special plea.                                       | A ruling on a point of evidence.                                                |
+| A finding that the defendant is not liable.                            | A ruling on a preliminary point of law or the method of calculation of damages. |
+| A declaratory order that the plaintiff's claim for damages is limited. | An order referring the matter to oral evidence.                                 |
 
 [[[Page-270|page 449]]]
 
-|  Appealable judgments (or orders) | Rulings which are not appealable  |
-| --- | --- |
-|  A finding that the defendant is liable to the plaintiff even if the extent of the liability has not yet been fixed. | An order to deliver further particulars.  |
-|  An order upholding or dismissing an exception where the exception strikes at the legal validity of the claim or defence. | An order in terms of Rule 33.  |
-|  An order granting or refusing a review of an administrative decision. | An Anton Piller order.  |
-|  An order upholding an exception to the plaintiff's locus standi. | An order for security for costs (but not one refusing it).  |
-|  The refusal of a judge to recuse himself or herself. | A discovery order.  |
+| Appealable judgments (or orders)                                                                                         | Rulings which are not appealable                           |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| A finding that the defendant is liable to the plaintiff even if the extent of the liability has not yet been fixed.      | An order to deliver further particulars.                   |
+| An order upholding or dismissing an exception where the exception strikes at the legal validity of the claim or defence. | An order in terms of Rule 33.                              |
+| An order granting or refusing a review of an administrative decision.                                                    | An Anton Piller order.                                     |
+| An order upholding an exception to the plaintiff's locus standi.                                                         | An order for security for costs (but not one refusing it). |
+| The refusal of a judge to recuse himself or herself.                                                                     | A discovery order.                                         |
 
 ---
 

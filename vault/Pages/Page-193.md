@@ -16,8 +16,8 @@ aliases:
 
 ---
 
-|  I drove on towards [suburb]. About three hundred metres further towards [suburb] I came across a young man running on the left side of the road with his back to me. At the same time I heard a report on the police radio to the effect that a man had been robbed a few minutes earlier in [suburb] and that the attacker had last been seen running up [street] in the direction of [suburb], and it was a white man wearing blue jeans and a white T-shirt. | **drove on running man police report robbery [suburb] suspect in [street] white/blue jeans/T-shirt** | A. *I drove on towards [suburb].* Q. *What did you see as you were driving?* A. *A man running on the left side.* Q. *What else happened at that time?* A. *I heard a report on the police radio that there had been a robbery and that the suspect had run up [street] towards [suburb].* Q. *Was there any description of the suspect?* A. *Yes, they said it was a white man wearing blue jeans and a white T-shirt.*  |
-| --- | --- | --- |
+| I drove on towards [suburb]. About three hundred metres further towards [suburb] I came across a young man running on the left side of the road with his back to me. At the same time I heard a report on the police radio to the effect that a man had been robbed a few minutes earlier in [suburb] and that the attacker had last been seen running up [street] in the direction of [suburb], and it was a white man wearing blue jeans and a white T-shirt. | **drove on running man police report robbery [suburb] suspect in [street] white/blue jeans/T-shirt** | A. *I drove on towards [suburb].* Q. *What did you see as you were driving?* A. *A man running on the left side.* Q. *What else happened at that time?* A. *I heard a report on the police radio that there had been a robbery and that the suspect had run up [street] towards [suburb].* Q. *Was there any description of the suspect?* A. *Yes, they said it was a white man wearing blue jeans and a white T-shirt.* |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 [[[Page-193|page 323]]]
 
@@ -46,9 +46,9 @@ If the checklist were to be used as a marking guide, the best way to go about th
 
 Table 17.3 Checklist for examination-in-chief
 
-|   | Skill involved | Competent/ Not yet competent  |
-| --- | --- | --- |
-|  1 | Preparing a timeline for each witness |   |
+|       | Skill involved                        | Competent/ Not yet competent |
+| ----- | ------------------------------------- | ---------------------------- |
+| 1     | Preparing a timeline for each witness |                              |
 
 ---
 

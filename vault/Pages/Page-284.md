@@ -56,12 +56,12 @@ NYC = Not yet competent (meaning that the performer has not yet reached the desi
 
 Table 25.7 Checklist for presentation of an appeal
 
-|   | Skill involved | Competent/Not yet competent  |
-| --- | --- | --- |
-|  1 | Introducing the appeal by stating the setting and main issues to be decided |   |
-|  2 | Making appropriate use of heads of argument |   |
-|  3 | Speaking without reading |   |
-|  4 | Stating the issues clearly |   |
+|       | Skill involved                                                              | Competent/Not yet competent |
+| ----- | --------------------------------------------------------------------------- | --------------------------- |
+| 1     | Introducing the appeal by stating the setting and main issues to be decided |                             |
+| 2     | Making appropriate use of heads of argument                                 |                             |
+| 3     | Speaking without reading                                                    |                             |
+| 4     | Stating the issues clearly                                                  |                             |
 
 ---
 

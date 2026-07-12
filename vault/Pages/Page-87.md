@@ -16,18 +16,18 @@ aliases:
 
 ---
 
-|   | accident. (c) She failed to maintain her car in a roadworthy condition. 6.2 The PLAINTIFF'S aforesaid negligence contributed to her damages. 6.3 In the premises the PLAINTIFF'S damages should be reduced in terms of section 1 of Act 34 of 1956. | 3 There ought to have been a paragraph to the effect that, "In the event of the plaintiff proving the allegations in paragraphs 5 and 6 of the particulars of claim, the defendant pleads as set out below."  |
-| --- | --- | --- |
-|   | WHEREFORE the DEFENDANT prays that the PLAINTIFF'S claim be dismissed with costs. | 1 The plea should ask for judgment for the defendant, not merely that the claim be dismissed. 2 The plea should also ask for relief pursuant to the plea of contributory negligence, for example, "alternatively, that the plaintiff's damages be reduced in accordance with section 1 of Act 34 of 1956 with an appropriate order for costs".  |
-|   | Dated at [place] this [date] |   |
-|   | Signature DEFENDANT'S COUNSEL | Counsel's name should be printed, if the signature is illegible.  |
+|       | accident. (c) She failed to maintain her car in a roadworthy condition. 6.2 The PLAINTIFF'S aforesaid negligence contributed to her damages. 6.3 In the premises the PLAINTIFF'S damages should be reduced in terms of section 1 of Act 34 of 1956. | 3 There ought to have been a paragraph to the effect that, "In the event of the plaintiff proving the allegations in paragraphs 5 and 6 of the particulars of claim, the defendant pleads as set out below."                                                                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | WHEREFORE the DEFENDANT prays that the PLAINTIFF'S claim be dismissed with costs.                                                                                                                                                                   | 1 The plea should ask for judgment for the defendant, not merely that the claim be dismissed. 2 The plea should also ask for relief pursuant to the plea of contributory negligence, for example, "alternatively, that the plaintiff's damages be reduced in accordance with section 1 of Act 34 of 1956 with an appropriate order for costs". |
+|       | Dated at [place] this [date]                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                |
+|       | Signature DEFENDANT'S COUNSEL                                                                                                                                                                                                                       | Counsel's name should be printed, if the signature is illegible.                                                                                                                                                                                                                                                                               |
 
 [[[Page-87|page 137]]]
 
-|  Par | Text of pleading | Comment  |
-| --- | --- | --- |
-|   | A, B & C PARTNERSHIP Defendant's attorneys [address and details as per Rule 6(5)(d)] | The attorney should also sign the pleading and his or her name should also be printed.  |
-|   | To: The Registrar High Court [Address] And to: X, Y & Z PARTNERSHIP Plaintiff's attorneys [address and details as per Rule 6(5)(b)] Ref: S 101 |   |
+| Par   | Text of pleading                                                                                                                               | Comment                                                                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|       | A, B & C PARTNERSHIP Defendant's attorneys [address and details as per Rule 6(5)(d)]                                                           | The attorney should also sign the pleading and his or her name should also be printed. |
+|       | To: The Registrar High Court [Address] And to: X, Y & Z PARTNERSHIP Plaintiff's attorneys [address and details as per Rule 6(5)(b)] Ref: S 101 |                                                                                        |
 
 [[[Page-87|page 138]]]
 

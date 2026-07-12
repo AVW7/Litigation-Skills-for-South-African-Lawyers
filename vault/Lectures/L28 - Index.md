@@ -17,20 +17,20 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter provides a **comprehensive index** of topics covered in "Litigation Skills for South African Lawyers."
-
+<!-- -->
 > [!info] How to Use This Index
 > Look up topics alphabetically. Page references indicate where concepts are discussed in depth.
 
 ## Index Categories
 
-| Category | Key Topics |
-|----------|------------|
-| **Pleadings** | Statement of claim, plea, replication, exceptions, striking out |
-| **Applications** | Notice of motion, founding affidavit, opposed/unopposed motions |
-| **Trial** | Opening statement, examination-in-chief, cross-examination, re-examination, closing argument |
-| **Evidence** | Expert witnesses, hearsay, documentary evidence, admissions |
-| **Post-Trial** | Costs, appeals, reviews, enforcement |
-| **Advocacy** | Persuasion, courtroom protocol, professional conduct |
+| Category         | Key Topics                                                                                   |
+| ---------------- | -------------------------------------------------------------------------------------------- |
+| **Pleadings**    | Statement of claim, plea, replication, exceptions, striking out                              |
+| **Applications** | Notice of motion, founding affidavit, opposed/unopposed motions                              |
+| **Trial**        | Opening statement, examination-in-chief, cross-examination, re-examination, closing argument |
+| **Evidence**     | Expert witnesses, hearsay, documentary evidence, admissions                                  |
+| **Post-Trial**   | Costs, appeals, reviews, enforcement                                                         |
+| **Advocacy**     | Persuasion, courtroom protocol, professional conduct                                         |
 
 ## Quick Reference
 

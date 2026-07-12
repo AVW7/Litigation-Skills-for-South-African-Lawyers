@@ -16,11 +16,11 @@ aliases:
 
 ---
 
-|  (c) | costs of suit. | for example, "... on the scale as between attorney and client" or "including the costs of two counsel". 5 It is meaningless to ask for "further, alternative and/or other relief".  |
-| --- | --- | --- |
-|   | Dated at [place] this [date] | These details are given customarily.  |
-|   | Signature Counsel's name (printed) PLAINTIFF'S COUNSEL | Counsel, or an attorney with the right of audience in the High Court, or an individual party personally, must sign the pleading.  |
-|   | Signature Attorney's name (printed) X, Y & Z Partnership Plaintiff's Attorneys [address and details as per Rule 6(5)(b).] Ref: S.101 |   |
+| (c)   | costs of suit.                                                                                                                       | for example, "... on the scale as between attorney and client" or "including the costs of two counsel". 5 It is meaningless to ask for "further, alternative and/or other relief". |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | Dated at [place] this [date]                                                                                                         | These details are given customarily.                                                                                                                                               |
+|       | Signature Counsel's name (printed) PLAINTIFF'S COUNSEL                                                                               | Counsel, or an attorney with the right of audience in the High Court, or an individual party personally, must sign the pleading.                                                   |
+|       | Signature Attorney's name (printed) X, Y & Z Partnership Plaintiff's Attorneys [address and details as per Rule 6(5)(b).] Ref: S.101 |                                                                                                                                                                                    |
 
 [[[Page-68|page 103]]]
 

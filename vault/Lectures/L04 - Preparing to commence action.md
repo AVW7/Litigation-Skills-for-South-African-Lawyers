@@ -17,7 +17,7 @@ aliases:
 
 > [!abstract] Chapter Overview
 > This chapter covers **pre-action preparation** — steps before issuing summons. Key topics: letters of demand, prescription considerations, limitation periods, and pre-trial case assembly.
-
+<!-- -->
 > [!important] Critical Point
 > A letter of demand **interrupts prescription**. It gives the debtor 14 days to pay (or respond) before legal proceedings can commence.
 
@@ -50,7 +50,7 @@ graph TB
 
 > [!danger] Prescription Warning
 > Most delictual claims prescribe in 3 years. A letter of demand interrupts prescription but must be followed by summons within specified periods (varies by jurisdiction).
-
+<!-- -->
 > [!tip] Connection
 > Follows ADR attempts ([[L03 - Alternatives to litigation]]). Proceeds to pleadings ([[L05 - Function, form and style of pleadings]], [[L06 - Drafting statements of claim]]).
 
@@ -127,6 +127,7 @@ Where a statutory demand or claim is required, the particular requirements of th
 - particulars of the claim and the legal basis for it;
 - what the defendant is required to do and the time for performance; and
 - the consequences if the demand is not met.
+
 A letter of repudiation is a response to a demand and will follow a similar format. Instead of giving details of a claim, it will give details of a defence. It can even make a counter-demand. A letter of repudiation should answer every point of substance in the letter of demand; otherwise the conclusion may be drawn that there is no valid answer to any unanswered allegation and that it is true. It is especially important that all defences should be raised at the earliest opportunity since the value of an otherwise good defence may be reduced if it is raised late.
 
 ---
@@ -176,6 +177,7 @@ Documentary exhibits, on the other hand, have to be dealt with in accordance wit
 - Keep drafts of the same document together.
 - Keep privileged documents in a special folder (and out of the other folders).
 - Keep the documents in such an order that the preparation of a discovery affidavit is made easier.
+
 Documentary exhibits play a special role in litigation, perhaps because so many different documents have become part of our everyday lives. They could be in the nature of invoices, statements, accounts, receipts, delivery notes, faxes and e-mails, photostatic copies of documents, letters, agreements, notes, statements, cheques, credit card authorisations, tickets for journey by bus, train, aircraft and ship, waybills, bills of lading, charter-parties, letters of credit, wills and estate accounts, title deeds, log books, identity documents and passports, visas or policies. The list is endless. Documents make up a significant part of the evidence put before the courts every day, in all types of cases. Coping with this abundance of evidence is a skill every lawyer needs to acquire. The first lesson is to take control of the documentary evidence as soon as possible, for the following reasons:
 
 - Documents complete the facts. People often misunderstand the facts while the lawyer is able to get a more accurate view of the facts through the documents.

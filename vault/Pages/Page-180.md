@@ -16,30 +16,30 @@ aliases:
 
 ---
 
-|  - [ ] Addressing the court with proper deference. |   |
-| --- | --- |
-|  - [ ] Ensuring that only one counsel is standing at any time. |   |
-|  - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
+| - [ ] Addressing the court with proper deference.                                     |       |
+| ------------------------------------------------------------------------------------- | ----- |
+| - [ ] Ensuring that only one counsel is standing at any time.                         |       |
+| - [ ] Addressing the court from the correct location, not moving about the courtroom. |       |
 
 **Table 16.5** Checklist for opening statement for defendant's counsel
 
-|   | Skill involved | Competent/ Not yet Competent  |
-| --- | --- | --- |
-|  1 | Telling the court that the defendant/defence will be calling witnesses. |   |
-|  2 | Identifying the defence(s). |   |
-|  3 | Isolating the issues in respect of each defence. |   |
-|  4 | Reminding the court of the incidence and standard of proof, if necessary. |   |
-|  5 | Stating the facts of the defence case briefly, without overstating. |   |
+|       | Skill involved                                                            | Competent/ Not yet Competent |
+| ----- | ------------------------------------------------------------------------- | ---------------------------- |
+| 1     | Telling the court that the defendant/defence will be calling witnesses.   |                              |
+| 2     | Identifying the defence(s).                                               |                              |
+| 3     | Isolating the issues in respect of each defence.                          |                              |
+| 4     | Reminding the court of the incidence and standard of proof, if necessary. |                              |
+| 5     | Stating the facts of the defence case briefly, without overstating.       |                              |
 
 [[[Page-180|page 302]]]
 
-|   | Skill involved | Competent/ Not yet Competent  |
-| --- | --- | --- |
-|  6 | Avoiding argument or inadmissible material. |   |
-|  7 | Advising the court of the witnesses to be called by the defendant/defence. |   |
-|  8 | Briefly summarising the evidence to be given by each witness. |   |
-|  9 | Avoiding reading, and speaking at audible level and pace. |   |
-|  10 | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the witness. - [ ] Speaking at appropriate volume and pace. - [ ] Addressing the court with proper deference. - [ ] Ensuring that only one counsel is standing at any time. - [ ] Addressing the court from the correct location, not moving about the courtroom. |   |
+|       | Skill involved                                                                                                                                                                                                                                                                                                                                                                                                                                       | Competent/ Not yet Competent |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 6     | Avoiding argument or inadmissible material.                                                                                                                                                                                                                                                                                                                                                                                                          |                              |
+| 7     | Advising the court of the witnesses to be called by the defendant/defence.                                                                                                                                                                                                                                                                                                                                                                           |                              |
+| 8     | Briefly summarising the evidence to be given by each witness.                                                                                                                                                                                                                                                                                                                                                                                        |                              |
+| 9     | Avoiding reading, and speaking at audible level and pace.                                                                                                                                                                                                                                                                                                                                                                                            |                              |
+| 10    | **Protocol:** - [ ] Practising SOLER principles (Shoulders square, Open stance, Leaning slightly forward, making Eye contact, Relaxed posture). - [ ] Maintaining eye contact with the witness. - [ ] Speaking at appropriate volume and pace. - [ ] Addressing the court with proper deference. - [ ] Ensuring that only one counsel is standing at any time. - [ ] Addressing the court from the correct location, not moving about the courtroom. |                              |
 
 ## Chapter 17
 Examination-in-chief
